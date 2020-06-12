@@ -76,7 +76,7 @@ def page_scraper(url, book, book_number, chapter_number, lang_code):
             if child['class'] == ['content']:
                 #print(child.text)
                 current_working_verse += child.text
-            if child['class'] == ['wj']:
+            if child['class'] != ['content']:
                 for gchild in child:
                     if gchild['class'] == ['content']:
                         #print(gchild.text)
