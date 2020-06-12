@@ -44,8 +44,8 @@ def main():
     #print(all_tags)
     psuedo_file = []
     verse_count = 1
-    current_working_verse = ''
-    tokened_working_verse = ''
+    current_working_verse = ""
+    tokened_working_verse = ""
     #loop through all the verses
     for tag in all_tags:
 
@@ -57,26 +57,28 @@ def main():
             #this also writes to the specified text file
             if verse_count != temp_verse:
                 #tokenize all words and symbols before writing to file
-                token = word_tokenize(current_working_verse)
-                for i in range(len(token)):
-                    tokened_working_verse = tokened_working_verse + token[i] + " "
+                token = word_tokenize(current_working_verse.replace("’", "'"))
+                tokened_working_verse = ' '.join(token)
+                print(current_working_verse)
+                print(token)
+                print(tokened_working_verse)
                 #print(tokened_working_verse)
                 if len(str(verse_count)) == 1:
-                    file.write(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0    " + tokened_working_verse + "\n")
-                    psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0    " + tokened_working_verse)
-                    #print(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0    " + tokened_working_verse)
+                    file.write(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
+                    #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0\t" + tokened_working_verse)
+                    #print(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0\t" + tokened_working_verse)
                 if len(str(verse_count)) == 2:
-                    file.write(str(book_number) + ":" + str(chapter_number) + ":0" + str(verse_count) + ":0    " + tokened_working_verse + "\n")
-                    psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":0" + str(verse_count) + ":0    " + tokened_working_verse)
-                    #print(str(book_number) + ":" + str(chapter_number) + ":0" + str(verse_count) + ":0    " + tokened_working_verse)
+                    file.write(str(book_number) + ":" + str(chapter_number) + ":0" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
+                    #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":0" + str(verse_count) + ":0\t" + tokened_working_verse)
+                    #print(str(book_number) + ":" + str(chapter_number) + ":0" + str(verse_count) + ":0\t" + tokened_working_verse)
                 if len(str(verse_count)) == 3:
-                    file.write(str(book_number) + ":" + str(chapter_number) + ":" + str(verse_count) + ":0    " + tokened_working_verse + "\n")
-                    psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":" + str(verse_count) + ":0    " + tokened_working_verse)
-                    #print(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0    " + tokened_working_verse)
+                    file.write(str(book_number) + ":" + str(chapter_number) + ":" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
+                    #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":" + str(verse_count) + ":0\t " + tokened_working_verse)
+                    #print(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0\t" + tokened_working_verse)
                 #updating count and clearing string
                 verse_count = temp_verse
-                current_working_verse = ''
-                tokened_working_verse = ''
+                current_working_verse = ""
+                tokened_working_verse = ""
 
         #loop through all the tags children to get to the content of the verse
         #for some reason most of the verses are within a class called content,
@@ -94,23 +96,22 @@ def main():
                         current_working_verse += gchild.text
 
     #tokenize that last line
-    token = word_tokenize(current_working_verse)
-    for i in range(len(token)):
-        tokened_working_verse = tokened_working_verse + token[i] + " "
+    token = word_tokenize(current_working_verse.replace("’", "'"))
+    tokened_working_verse = ' '.join(token)
     #print(tokened_working_verse)
     #at the end here we need to add the last verse no matter what due to the way the for loop is set up
     if len(str(verse_count)) == 1:
-        file.write(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0    " + tokened_working_verse + "\n")
-        psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0    " + tokened_working_verse)
+        file.write(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
+        psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0\t" + tokened_working_verse)
         #print(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0    " + tokened_working_verse)
     if len(str(verse_count)) == 2:
-        file.write(str(book_number) + ":" + str(chapter_number) + ":0" + str(verse_count) + ":0    " + tokened_working_verse + "\n")
-        psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":0" + str(verse_count) + ":0    " + tokened_working_verse)
-        #print(str(book_number) + ":" + str(chapter_number) + ":0" + str(verse_count) + ":0    " + tokened_working_verse)
+        file.write(str(book_number) + ":" + str(chapter_number) + ":0" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
+        psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":0" + str(verse_count) + ":0\t" + tokened_working_verse)
+        #print(str(book_number) + ":" + str(chapter_number) + ":0" + str(verse_count) + ":0\t" + tokened_working_verse)
     if len(str(verse_count)) == 3:
-        file.write(str(book_number) + ":" + str(chapter_number) + ":" + str(verse_count) + ":0    " + tokened_working_verse + "\n")
-        psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":" + str(verse_count) + ":0    " + tokened_working_verse)
-        #print(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0    " + tokened_working_verse)
+        file.write(str(book_number) + ":" + str(chapter_number) + ":" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
+        psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":" + str(verse_count) + ":0\t" + tokened_working_verse)
+        #print(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0\t" + tokened_working_verse)
     #print(psuedo_file)
     file.close()
     return 0
