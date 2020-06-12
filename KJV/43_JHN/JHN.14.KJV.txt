@@ -1,0 +1,31 @@
+43:14:001:0	Let not your heart be troubled : ye believe in God , believe also in me .
+43:14:002:0	In my Father 's house are many mansions : if it were not so , I would have told you . I go to prepare a place for you .
+43:14:003:0	And if I go and prepare a place for you , I will come again , and receive you unto myself ; that where I am , there ye may be also .
+43:14:004:0	And whither I go ye know , and the way ye know .
+43:14:005:0	Thomas saith unto him , Lord , we know not whither thou goest ; and how can we know the way ?
+43:14:006:0	Jesus saith unto him , I am the way , the truth , and the life : no man cometh unto the Father , but by me .
+43:14:007:0	If ye had known me , ye should have known my Father also : and from henceforth ye know him , and have seen him .
+43:14:008:0	Philip saith unto him , Lord , shew us the Father , and it sufficeth us .
+43:14:009:0	Jesus saith unto him , Have I been so long time with you , and yet hast thou not known me , Philip ? he that hath seen me hath seen the Father ; and how sayest thou then , Shew us the Father ?
+43:14:010:0	Believest thou not that I am in the Father , and the Father in me ? the words that I speak unto you I speak not of myself : but the Father that dwelleth in me , he doeth the works .
+43:14:011:0	Believe me that I am in the Father , and the Father in me : or else believe me for the very works ' sake .
+43:14:012:0	Verily , verily , I say unto you , He that believeth on me , the works that I do shall he do also ; and greater works than these shall he do ; because I go unto my Father .
+43:14:013:0	And whatsoever ye shall ask in my name , that will I do , that the Father may be glorified in the Son .
+43:14:014:0	If ye shall ask any thing in my name , I will do it .
+43:14:015:0	If ye love me , keep my commandments .
+43:14:016:0	And I will pray the Father , and he shall give you another Comforter , that he may abide with you for ever ;
+43:14:017:0	Even the Spirit of truth ; whom the world can not receive , because it seeth him not , neither knoweth him : but ye know him ; for he dwelleth with you , and shall be in you .
+43:14:018:0	I will not leave you comfortless : I will come to you .
+43:14:019:0	Yet a little while , and the world seeth me no more ; but ye see me : because I live , ye shall live also .
+43:14:020:0	At that day ye shall know that I am in my Father , and ye in me , and I in you .
+43:14:021:0	He that hath my commandments , and keepeth them , he it is that loveth me : and he that loveth me shall be loved of my Father , and I will love him , and will manifest myself to him .
+43:14:022:0	Judas saith unto him , not Iscariot , Lord , how is it that thou wilt manifest thyself unto us , and not unto the world ?
+43:14:023:0	Jesus answered and said unto him , If a man love me , he will keep my words : and my Father will love him , and we will come unto him , and make our abode with him .
+43:14:024:0	He that loveth me not keepeth not my sayings : and the word which ye hear is not mine , but the Father 's which sent me .
+43:14:025:0	These things have I spoken unto you , being yet present with you .
+43:14:026:0	But the Comforter , which is the Holy Ghost , whom the Father will send in my name , he shall teach you all things , and bring all things to your remembrance , whatsoever I have said unto you .
+43:14:027:0	Peace I leave with you , my peace I give unto you : not as the world giveth , give I unto you . Let not your heart be troubled , neither let it be afraid .
+43:14:028:0	Ye have heard how I said unto you , I go away , and come again unto you . If ye loved me , ye would rejoice , because I said , I go unto the Father : for my Father is greater than I .
+43:14:029:0	And now I have told you before it come to pass , that , when it is come to pass , ye might believe .
+43:14:030:0	Hereafter I will not talk much with you : for the prince of this world cometh , and hath nothing in me .
+43:14:031:0	But that the world may know that I love the Father ; and as the Father gave me commandment , even so I do . Arise , let us go hence .

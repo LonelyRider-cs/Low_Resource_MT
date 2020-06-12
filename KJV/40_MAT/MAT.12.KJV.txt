@@ -1,0 +1,50 @@
+40:12:001:0	At that time Jesus went on the sabbath day through the corn ; and his disciples were an hungred , and began to pluck the ears of corn , and to eat .
+40:12:002:0	But when the Pharisees saw it , they said unto him , Behold , thy disciples do that which is not lawful to do upon the sabbath day .
+40:12:003:0	But he said unto them , Have ye not read what David did , when he was an hungred , and they that were with him ;
+40:12:004:0	How he entered into the house of God , and did eat the shewbread , which was not lawful for him to eat , neither for them which were with him , but only for the priests ?
+40:12:005:0	Or have ye not read in the law , how that on the sabbath days the priests in the temple profane the sabbath , and are blameless ?
+40:12:006:0	But I say unto you , That in this place is one greater than the temple .
+40:12:007:0	But if ye had known what this meaneth , I will have mercy , and not sacrifice , ye would not have condemned the guiltless .
+40:12:008:0	For the Son of man is Lord even of the sabbath day .
+40:12:009:0	And when he was departed thence , he went into their synagogue :
+40:12:010:0	And , behold , there was a man which had his hand withered . And they asked him , saying , Is it lawful to heal on the sabbath days ? that they might accuse him .
+40:12:011:0	And he said unto them , What man shall there be among you , that shall have one sheep , and if it fall into a pit on the sabbath day , will he not lay hold on it , and lift it out ?
+40:12:012:0	How much then is a man better than a sheep ? Wherefore it is lawful to do well on the sabbath days .
+40:12:013:0	Then saith he to the man , Stretch forth thine hand . And he stretched it forth ; and it was restored whole , like as the other .
+40:12:014:0	Then the Pharisees went out , and held a council against him , how they might destroy him .
+40:12:015:0	But when Jesus knew it , he withdrew himself from thence : and great multitudes followed him , and he healed them all ;
+40:12:016:0	And charged them that they should not make him known :
+40:12:017:0	That it might be fulfilled which was spoken by Esaias the prophet , saying ,
+40:12:018:0	Behold my servant , whom I have chosen ; my beloved , in whom my soul is well pleased : I will put my spirit upon him , and he shall shew judgment to the Gentiles .
+40:12:019:0	He shall not strive , nor cry ; neither shall any man hear his voice in the streets .
+40:12:020:0	A bruised reed shall he not break , and smoking flax shall he not quench , till he send forth judgment unto victory .
+40:12:021:0	And in his name shall the Gentiles trust .
+40:12:022:0	Then was brought unto him one possessed with a devil , blind , and dumb : and he healed him , insomuch that the blind and dumb both spake and saw .
+40:12:023:0	And all the people were amazed , and said , Is not this the son of David ?
+40:12:024:0	But when the Pharisees heard it , they said , This fellow doth not cast out devils , but by Beelzebub the prince of the devils .
+40:12:025:0	And Jesus knew their thoughts , and said unto them , Every kingdom divided against itself is brought to desolation ; and every city or house divided against itself shall not stand :
+40:12:026:0	And if Satan cast out Satan , he is divided against himself ; how shall then his kingdom stand ?
+40:12:027:0	And if I by Beelzebub cast out devils , by whom do your children cast them out ? therefore they shall be your judges .
+40:12:028:0	But if I cast out devils by the Spirit of God , then the kingdom of God is come unto you .
+40:12:029:0	Or else how can one enter into a strong man 's house , and spoil his goods , except he first bind the strong man ? and then he will spoil his house .
+40:12:030:0	He that is not with me is against me ; and he that gathereth not with me scattereth abroad .
+40:12:031:0	Wherefore I say unto you , All manner of sin and blasphemy shall be forgiven unto men : but the blasphemy against the Holy Ghost shall not be forgiven unto men .
+40:12:032:0	And whosoever speaketh a word against the Son of man , it shall be forgiven him : but whosoever speaketh against the Holy Ghost , it shall not be forgiven him , neither in this world , neither in the world to come .
+40:12:033:0	Either make the tree good , and his fruit good ; or else make the tree corrupt , and his fruit corrupt : for the tree is known by his fruit .
+40:12:034:0	O generation of vipers , how can ye , being evil , speak good things ? for out of the abundance of the heart the mouth speaketh .
+40:12:035:0	A good man out of the good treasure of the heart bringeth forth good things : and an evil man out of the evil treasure bringeth forth evil things .
+40:12:036:0	But I say unto you , That every idle word that men shall speak , they shall give account thereof in the day of judgment .
+40:12:037:0	For by thy words thou shalt be justified , and by thy words thou shalt be condemned .
+40:12:038:0	Then certain of the scribes and of the Pharisees answered , saying , Master , we would see a sign from thee .
+40:12:039:0	But he answered and said unto them , An evil and adulterous generation seeketh after a sign ; and there shall no sign be given to it , but the sign of the prophet Jonas :
+40:12:040:0	For as Jonas was three days and three nights in the whale 's belly ; so shall the Son of man be three days and three nights in the heart of the earth .
+40:12:041:0	The men of Nineveh shall rise in judgment with this generation , and shall condemn it : because they repented at the preaching of Jonas ; and , behold , a greater than Jonas is here .
+40:12:042:0	The queen of the south shall rise up in the judgment with this generation , and shall condemn it : for she came from the uttermost parts of the earth to hear the wisdom of Solomon ; and , behold , a greater than Solomon is here .
+40:12:043:0	When the unclean spirit is gone out of a man , he walketh through dry places , seeking rest , and findeth none .
+40:12:044:0	Then he saith , I will return into my house from whence I came out ; and when he is come , he findeth it empty , swept , and garnished .
+40:12:045:0	Then goeth he , and taketh with himself seven other spirits more wicked than himself , and they enter in and dwell there : and the last state of that man is worse than the first . Even so shall it be also unto this wicked generation .
+40:12:046:0	While he yet talked to the people , behold , his mother and his brethren stood without , desiring to speak with him .
+40:12:047:0	Then one said unto him , Behold , thy mother and thy brethren stand without , desiring to speak with thee .
+40:12:048:0	But he answered and said unto him that told him , Who is my mother ? and who are my brethren ?
+40:12:049:0	And he stretched forth his hand toward his disciples , and said , Behold my mother and my brethren !
+40:12:050:0	For whosoever shall do the will of my Father which is in heaven , the same is my brother , and sister , and mother .

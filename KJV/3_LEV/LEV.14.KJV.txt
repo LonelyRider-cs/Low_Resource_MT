@@ -1,0 +1,57 @@
+3:14:001:0	And the spake unto Moses , saying ,
+3:14:002:0	This shall be the law of the leper in the day of his cleansing : He shall be brought unto the priest :
+3:14:003:0	And the priest shall go forth out of the camp ; and the priest shall look , and , behold , if the plague of leprosy be healed in the leper ;
+3:14:004:0	Then shall the priest command to take for him that is to be cleansed two birds alive and clean , and cedar wood , and scarlet , and hyssop :
+3:14:005:0	And the priest shall command that one of the birds be killed in an earthen vessel over running water :
+3:14:006:0	As for the living bird , he shall take it , and the cedar wood , and the scarlet , and the hyssop , and shall dip them and the living bird in the blood of the bird that was killed over the running water :
+3:14:007:0	And he shall sprinkle upon him that is to be cleansed from the leprosy seven times , and shall pronounce him clean , and shall let the living bird loose into the open field .
+3:14:008:0	And he that is to be cleansed shall wash his clothes , and shave off all his hair , and wash himself in water , that he may be clean : and after that he shall come into the camp , and shall tarry abroad out of his tent seven days .
+3:14:009:0	But it shall be on the seventh day , that he shall shave all his hair off his head and his beard and his eyebrows , even all his hair he shall shave off : and he shall wash his clothes , also he shall wash his flesh in water , and he shall be clean .
+3:14:010:0	And on the eighth day he shall take two he lambs without blemish , and one ewe lamb of the first year without blemish , and three tenth deals of fine flour for a meat offering , mingled with oil , and one log of oil .
+3:14:011:0	And the priest that maketh him clean shall present the man that is to be made clean , and those things , before the , at the door of the tabernacle of the congregation :
+3:14:012:0	And the priest shall take one he lamb , and offer him for a trespass offering , and the log of oil , and wave them for a wave offering before the :
+3:14:013:0	And he shall slay the lamb in the place where he shall kill the sin offering and the burnt offering , in the holy place : for as the sin offering is the priest 's , so is the trespass offering : it is most holy :
+3:14:014:0	And the priest shall take some of the blood of the trespass offering , and the priest shall put it upon the tip of the right ear of him that is to be cleansed , and upon the thumb of his right hand , and upon the great toe of his right foot :
+3:14:015:0	And the priest shall take some of the log of oil , and pour it into the palm of his own left hand :
+3:14:016:0	And the priest shall dip his right finger in the oil that is in his left hand , and shall sprinkle of the oil with his finger seven times before the :
+3:14:017:0	And of the rest of the oil that is in his hand shall the priest put upon the tip of the right ear of him that is to be cleansed , and upon the thumb of his right hand , and upon the great toe of his right foot , upon the blood of the trespass offering :
+3:14:018:0	And the remnant of the oil that is in the priest 's hand he shall pour upon the head of him that is to be cleansed : and the priest shall make an atonement for him before the .
+3:14:019:0	And the priest shall offer the sin offering , and make an atonement for him that is to be cleansed from his uncleanness ; and afterward he shall kill the burnt offering :
+3:14:020:0	And the priest shall offer the burnt offering and the meat offering upon the altar : and the priest shall make an atonement for him , and he shall be clean .
+3:14:021:0	And if he be poor , and can not get so much ; then he shall take one lamb for a trespass offering to be waved , to make an atonement for him , and one tenth deal of fine flour mingled with oil for a meat offering , and a log of oil ;
+3:14:022:0	And two turtledoves , or two young pigeons , such as he is able to get ; and the one shall be a sin offering , and the other a burnt offering .
+3:14:023:0	And he shall bring them on the eighth day for his cleansing unto the priest , unto the door of the tabernacle of the congregation , before the .
+3:14:024:0	And the priest shall take the lamb of the trespass offering , and the log of oil , and the priest shall wave them for a wave offering before the :
+3:14:025:0	And he shall kill the lamb of the trespass offering , and the priest shall take some of the blood of the trespass offering , and put it upon the tip of the right ear of him that is to be cleansed , and upon the thumb of his right hand , and upon the great toe of his right foot :
+3:14:026:0	And the priest shall pour of the oil into the palm of his own left hand :
+3:14:027:0	And the priest shall sprinkle with his right finger some of the oil that is in his left hand seven times before the :
+3:14:028:0	And the priest shall put of the oil that is in his hand upon the tip of the right ear of him that is to be cleansed , and upon the thumb of his right hand , and upon the great toe of his right foot , upon the place of the blood of the trespass offering :
+3:14:029:0	And the rest of the oil that is in the priest 's hand he shall put upon the head of him that is to be cleansed , to make an atonement for him before the .
+3:14:030:0	And he shall offer the one of the turtledoves , or of the young pigeons , such as he can get ;
+3:14:031:0	Even such as he is able to get , the one for a sin offering , and the other for a burnt offering , with the meat offering : and the priest shall make an atonement for him that is to be cleansed before the .
+3:14:032:0	This is the law of him in whom is the plague of leprosy , whose hand is not able to get that which pertaineth to his cleansing .
+3:14:033:0	And the spake unto Moses and unto Aaron , saying ,
+3:14:034:0	When ye be come into the land of Canaan , which I give to you for a possession , and I put the plague of leprosy in a house of the land of your possession ;
+3:14:035:0	And he that owneth the house shall come and tell the priest , saying , It seemeth to me there is as it were a plague in the house :
+3:14:036:0	Then the priest shall command that they empty the house , before the priest go into it to see the plague , that all that is in the house be not made unclean : and afterward the priest shall go in to see the house :
+3:14:037:0	And he shall look on the plague , and , behold , if the plague be in the walls of the house with hollow strakes , greenish or reddish , which in sight are lower than the wall ;
+3:14:038:0	Then the priest shall go out of the house to the door of the house , and shut up the house seven days :
+3:14:039:0	And the priest shall come again the seventh day , and shall look : and , behold , if the plague be spread in the walls of the house ;
+3:14:040:0	Then the priest shall command that they take away the stones in which the plague is , and they shall cast them into an unclean place without the city :
+3:14:041:0	And he shall cause the house to be scraped within round about , and they shall pour out the dust that they scrape off without the city into an unclean place :
+3:14:042:0	And they shall take other stones , and put them in the place of those stones ; and he shall take other mortar , and shall plaster the house .
+3:14:043:0	And if the plague come again , and break out in the house , after that he hath taken away the stones , and after he hath scraped the house , and after it is plastered ;
+3:14:044:0	Then the priest shall come and look , and , behold , if the plague be spread in the house , it is a fretting leprosy in the house : it is unclean .
+3:14:045:0	And he shall break down the house , the stones of it , and the timber thereof , and all the mortar of the house ; and he shall carry them forth out of the city into an unclean place .
+3:14:046:0	Moreover he that goeth into the house all the while that it is shut up shall be unclean until the even .
+3:14:047:0	And he that lieth in the house shall wash his clothes ; and he that eateth in the house shall wash his clothes .
+3:14:048:0	And if the priest shall come in , and look upon it , and , behold , the plague hath not spread in the house , after the house was plastered : then the priest shall pronounce the house clean , because the plague is healed .
+3:14:049:0	And he shall take to cleanse the house two birds , and cedar wood , and scarlet , and hyssop :
+3:14:050:0	And he shall kill the one of the birds in an earthen vessel over running water :
+3:14:051:0	And he shall take the cedar wood , and the hyssop , and the scarlet , and the living bird , and dip them in the blood of the slain bird , and in the running water , and sprinkle the house seven times :
+3:14:052:0	And he shall cleanse the house with the blood of the bird , and with the running water , and with the living bird , and with the cedar wood , and with the hyssop , and with the scarlet :
+3:14:053:0	But he shall let go the living bird out of the city into the open fields , and make an atonement for the house : and it shall be clean .
+3:14:054:0	This is the law for all manner of plague of leprosy , and scall ,
+3:14:055:0	And for the leprosy of a garment , and of a house ,
+3:14:056:0	And for a rising , and for a scab , and for a bright spot :
+3:14:057:0	To teach when it is unclean , and when it is clean : this is the law of leprosy .

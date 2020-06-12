@@ -1,0 +1,33 @@
+20:1:001:0	The proverbs of Solomon the son of David , king of Israel ;
+20:1:002:0	To know wisdom and instruction ; to perceive the words of understanding ;
+20:1:003:0	To receive the instruction of wisdom , justice , and judgment , and equity ;
+20:1:004:0	To give subtilty to the simple , to the young man knowledge and discretion .
+20:1:005:0	A wise man will hear , and will increase learning ; and a man of understanding shall attain unto wise counsels :
+20:1:006:0	To understand a proverb , and the interpretation ; the words of the wise , and their dark sayings .
+20:1:007:0	The fear of the is the beginning of knowledge : but fools despise wisdom and instruction .
+20:1:008:0	My son , hear the instruction of thy father , and forsake not the law of thy mother :
+20:1:009:0	For they shall be an ornament of grace unto thy head , and chains about thy neck .
+20:1:010:0	My son , if sinners entice thee , consent thou not .
+20:1:011:0	If they say , Come with us , let us lay wait for blood , let us lurk privily for the innocent without cause :
+20:1:012:0	Let us swallow them up alive as the grave ; and whole , as those that go down into the pit :
+20:1:013:0	We shall find all precious substance , we shall fill our houses with spoil :
+20:1:014:0	Cast in thy lot among us ; let us all have one purse :
+20:1:015:0	My son , walk not thou in the way with them ; refrain thy foot from their path :
+20:1:016:0	For their feet run to evil , and make haste to shed blood .
+20:1:017:0	Surely in vain the net is spread in the sight of any bird .
+20:1:018:0	And they lay wait for their own blood ; they lurk privily for their own lives .
+20:1:019:0	So are the ways of every one that is greedy of gain ; which taketh away the life of the owners thereof .
+20:1:020:0	Wisdom crieth without ; she uttereth her voice in the streets :
+20:1:021:0	She crieth in the chief place of concourse , in the openings of the gates : in the city she uttereth her words , saying ,
+20:1:022:0	How long , ye simple ones , will ye love simplicity ? and the scorners delight in their scorning , and fools hate knowledge ?
+20:1:023:0	Turn you at my reproof : behold , I will pour out my spirit unto you , I will make known my words unto you .
+20:1:024:0	Because I have called , and ye refused ; I have stretched out my hand , and no man regarded ;
+20:1:025:0	But ye have set at nought all my counsel , and would none of my reproof :
+20:1:026:0	I also will laugh at your calamity ; I will mock when your fear cometh ;
+20:1:027:0	When your fear cometh as desolation , and your destruction cometh as a whirlwind ; when distress and anguish cometh upon you .
+20:1:028:0	Then shall they call upon me , but I will not answer ; they shall seek me early , but they shall not find me :
+20:1:029:0	For that they hated knowledge , and did not choose the fear of the :
+20:1:030:0	They would none of my counsel : they despised all my reproof .
+20:1:031:0	Therefore shall they eat of the fruit of their own way , and be filled with their own devices .
+20:1:032:0	For the turning away of the simple shall slay them , and the prosperity of fools shall destroy them .
+20:1:033:0	But whoso hearkeneth unto me shall dwell safely , and shall be quiet from fear of evil .
