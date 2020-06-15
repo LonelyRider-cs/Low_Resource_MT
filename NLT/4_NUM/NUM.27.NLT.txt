@@ -1,5 +1,5 @@
 4:27:001:1	The Daughters of Zelophehad
-4:27:001:0	One day a petition was presented by the daughters of Zelophehad—Mahlah , Noah , Hoglah , Milcah , and Tirzah . Their father , Zelophehad , was a descendant of Hepher son of Gilead , son of Makir , son of Manasseh , son of Joseph .
+4:27:001:0	One day a petition was presented by the daughters of Zelophehad — Mahlah , Noah , Hoglah , Milcah , and Tirzah . Their father , Zelophehad , was a descendant of Hepher son of Gilead , son of Makir , son of Manasseh , son of Joseph .
 4:27:002:0	These women stood before Moses , Eleazar the priest , the tribal leaders , and the entire community at the entrance of the Tabernacle .
 4:27:003:0	“ Our father died in the wilderness , ” they said . “ He was not among Korah 's followers , who rebelled against the Lord ; he died because of his own sin . But he had no sons .
 4:27:004:0	Why should the name of our father disappear from his clan just because he had no sons ? Give us property along with the rest of our relatives . ”
@@ -20,6 +20,6 @@
 4:27:018:0	The Lord replied , “ Take Joshua son of Nun , who has the Spirit in him , and lay your hands on him .
 4:27:019:0	Present him to Eleazar the priest before the whole community , and publicly commission him to lead the people .
 4:27:020:0	Transfer some of your authority to him so the whole community of Israel will obey him .
-4:27:021:0	When direction from the Lord is needed , Joshua will stand before Eleazar the priest , who will use the Urim—one of the sacred lots cast before the Lord—to determine his will . This is how Joshua and the rest of the community of Israel will determine everything they should do . ”
+4:27:021:0	When direction from the Lord is needed , Joshua will stand before Eleazar the priest , who will use the Urim — one of the sacred lots cast before the Lord — to determine his will . This is how Joshua and the rest of the community of Israel will determine everything they should do . ”
 4:27:022:0	So Moses did as the Lord commanded . He presented Joshua to Eleazar the priest and the whole community .
 4:27:023:0	Moses laid his hands on him and commissioned him to lead the people , just as the Lord had commanded through Moses .

@@ -1,12 +1,12 @@
 9:20:001:1	Jonathan Helps David
 9:20:001:0	David now fled from Naioth in Ramah and found Jonathan . “ What have I done ? ” he exclaimed . “ What is my crime ? How have I offended your father that he is so determined to kill me ? ”
 9:20:002:0	“ That 's not true ! ” Jonathan protested . “ You 're not going to die . He always tells me everything he 's going to do , even the little things . I know my father would n't hide something like this from me . It just is n't so ! ”
-9:20:003:0	Then David took an oath before Jonathan and said , “ Your father knows perfectly well about our friendship , so he has said to himself , ‘ I wo n't tell Jonathan—why should I hurt him ? ' But I swear to you that I am only a step away from death ! I swear it by the Lord and by your own soul ! ”
+9:20:003:0	Then David took an oath before Jonathan and said , “ Your father knows perfectly well about our friendship , so he has said to himself , ‘ I wo n't tell Jonathan — why should I hurt him ? ' But I swear to you that I am only a step away from death ! I swear it by the Lord and by your own soul ! ”
 9:20:004:0	“ Tell me what I can do to help you , ” Jonathan exclaimed .
 9:20:005:0	David replied , “ Tomorrow we celebrate the new moon festival . I 've always eaten with the king on this occasion , but tomorrow I 'll hide in the field and stay there until the evening of the third day .
 9:20:006:0	If your father asks where I am , tell him I asked permission to go home to Bethlehem for an annual family sacrifice .
 9:20:007:0	If he says , ‘ Fine ! ' you will know all is well . But if he is angry and loses his temper , you will know he is determined to kill me .
-9:20:008:0	Show me this loyalty as my sworn friend—for we made a solemn pact before the Lord—or kill me yourself if I have sinned against your father . But please do n't betray me to him ! ”
+9:20:008:0	Show me this loyalty as my sworn friend — for we made a solemn pact before the Lord — or kill me yourself if I have sinned against your father . But please do n't betray me to him ! ”
 9:20:009:0	“ Never ! ” Jonathan exclaimed . “ You know that if I had the slightest notion my father was planning to kill you , I would tell you at once . ”
 9:20:010:0	Then David asked , “ How will I know whether or not your father is angry ? ”
 9:20:011:0	“ Come out to the field with me , ” Jonathan replied . And they went out there together .
@@ -20,7 +20,7 @@
 9:20:019:0	The day after tomorrow , toward evening , go to the place where you hid before , and wait there by the stone pile .
 9:20:020:0	I will come out and shoot three arrows to the side of the stone pile as though I were shooting at a target .
 9:20:021:0	Then I will send a boy to bring the arrows back . If you hear me tell him , ‘ They 're on this side , ' then you will know , as surely as the Lord lives , that all is well , and there is no trouble .
-9:20:022:0	But if I tell him , ‘ Go farther—the arrows are still ahead of you , ' then it will mean that you must leave immediately , for the Lord is sending you away .
+9:20:022:0	But if I tell him , ‘ Go farther — the arrows are still ahead of you , ' then it will mean that you must leave immediately , for the Lord is sending you away .
 9:20:023:0	And may the Lord make us keep our promises to each other , for he has witnessed them . ”
 9:20:024:0	So David hid himself in the field , and when the new moon festival began , the king sat down to eat .
 9:20:025:0	He sat at his usual place against the wall , with Jonathan sitting opposite him and Abner beside him . But David 's place was empty .

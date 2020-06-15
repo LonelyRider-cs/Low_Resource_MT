@@ -3,7 +3,7 @@
 4:35:002:0	“ Command the people of Israel to give to the Levites from their property certain towns to live in , along with the surrounding pasturelands .
 4:35:003:0	These towns will be for the Levites to live in , and the surrounding lands will provide pasture for their cattle , flocks , and other livestock .
 4:35:004:0	The pastureland assigned to the Levites around these towns will extend 1,500 feet from the town walls in every direction .
-4:35:005:0	Measure off 3,000 feet outside the town walls in every direction—east , south , west , north—with the town at the center . This area will serve as the larger pastureland for the towns .
+4:35:005:0	Measure off 3,000 feet outside the town walls in every direction — east , south , west , north — with the town at the center . This area will serve as the larger pastureland for the towns .
 4:35:006:0	“ Six of the towns you give the Levites will be cities of refuge , where a person who has accidentally killed someone can flee for safety . In addition , give them forty-two other towns .
 4:35:007:0	In all , forty-eight towns with the surrounding pastureland will be given to the Levites .
 4:35:002:1	Cities of Refuge

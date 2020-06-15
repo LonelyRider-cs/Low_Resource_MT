@@ -1,7 +1,7 @@
 10:18:001:1	Absalom 's Defeat and Death
 10:18:001:0	David now mustered the men who were with him and appointed generals and captains to lead them .
 10:18:002:0	He sent the troops out in three groups , placing one group under Joab , one under Joab 's brother Abishai son of Zeruiah , and one under Ittai , the man from Gath . The king told his troops , “ I am going out with you . ”
-10:18:003:0	But his men objected strongly . “ You must not go , ” they urged . “ If we have to turn and run—and even if half of us die—it will make no difference to Absalom 's troops ; they will be looking only for you . You are worth 10,000 of us , and it is better that you stay here in the town and send help if we need it . ”
+10:18:003:0	But his men objected strongly . “ You must not go , ” they urged . “ If we have to turn and run — and even if half of us die — it will make no difference to Absalom 's troops ; they will be looking only for you . You are worth 10,000 of us , and it is better that you stay here in the town and send help if we need it . ”
 10:18:004:0	“ If you think that 's the best plan , I 'll do it , ” the king answered . So he stood alongside the gate of the town as all the troops marched out in groups of hundreds and of thousands .
 10:18:005:0	And the king gave this command to Joab , Abishai , and Ittai : “ For my sake , deal gently with young Absalom. ” And all the troops heard the king give this order to his commanders .
 10:18:006:0	So the battle began in the forest of Ephraim ,
@@ -11,7 +11,7 @@
 10:18:010:0	One of David 's men saw what had happened and told Joab , “ I saw Absalom dangling from a great tree . ”
 10:18:011:0	“ What ? ” Joab demanded . “ You saw him there and did n't kill him ? I would have rewarded you with ten pieces of silver and a hero 's belt ! ”
 10:18:012:0	“ I would not kill the king 's son for even a thousand pieces of silver , ” the man replied to Joab . “ We all heard the king say to you and Abishai and Ittai , ‘ For my sake , please spare young Absalom . '
-10:18:013:0	And if I had betrayed the king by killing his son—and the king would certainly find out who did it—you yourself would be the first to abandon me . ”
+10:18:013:0	And if I had betrayed the king by killing his son — and the king would certainly find out who did it — you yourself would be the first to abandon me . ”
 10:18:014:0	“ Enough of this nonsense , ” Joab said . Then he took three daggers and plunged them into Absalom 's heart as he dangled , still alive , in the great tree .
 10:18:015:0	Ten of Joab 's young armor bearers then surrounded Absalom and killed him .
 10:18:016:0	Then Joab blew the ram 's horn , and his men returned from chasing the army of Israel .

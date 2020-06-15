@@ -10,9 +10,9 @@
 42:2:008:0	That night there were shepherds staying in the fields nearby , guarding their flocks of sheep .
 42:2:009:0	Suddenly , an angel of the Lord appeared among them , and the radiance of the Lord 's glory surrounded them . They were terrified ,
 42:2:010:0	but the angel reassured them . “ Do n't be afraid ! ” he said . “ I bring you good news that will bring great joy to all people .
-42:2:011:0	The Savior—yes , the Messiah , the Lord—has been born today in Bethlehem , the city of David !
+42:2:011:0	The Savior — yes , the Messiah , the Lord — has been born today in Bethlehem , the city of David !
 42:2:012:0	And you will recognize him by this sign : You will find a baby wrapped snugly in strips of cloth , lying in a manger . ”
-42:2:013:0	Suddenly , the angel was joined by a vast host of others—the armies of heaven—praising God and saying ,
+42:2:013:0	Suddenly , the angel was joined by a vast host of others — the armies of heaven — praising God and saying ,
 42:2:014:0	“ Glory to God in highest heaven , and peace on earth to those with whom God is pleased . ”
 42:2:015:0	When the angels had returned to heaven , the shepherds said to each other , “ Let 's go to Bethlehem ! Let 's see this thing that has happened , which the Lord has told us about . ”
 42:2:016:0	They hurried to the village and found Mary and Joseph . And there was the baby , lying in the manger .
@@ -25,7 +25,7 @@
 42:2:022:0	Then it was time for their purification offering , as required by the law of Moses after the birth of a child ; so his parents took him to Jerusalem to present him to the Lord .
 42:2:023:0	The law of the Lord says , “ If a woman 's first child is a boy , he must be dedicated to the Lord . ”
 42:2:004:1	The Prophecy of Simeon
-42:2:024:0	So they offered the sacrifice required in the law of the Lord— “ either a pair of turtledoves or two young pigeons . ”
+42:2:024:0	So they offered the sacrifice required in the law of the Lord — “ either a pair of turtledoves or two young pigeons . ”
 42:2:025:0	At that time there was a man in Jerusalem named Simeon . He was righteous and devout and was eagerly waiting for the Messiah to come and rescue Israel . The Holy Spirit was upon him
 42:2:026:0	and had revealed to him that he would not die until he had seen the Lord 's Messiah .
 42:2:027:0	That day the Spirit led him to the Temple . So when Mary and Joseph came to present the baby Jesus to the Lord as the law required ,

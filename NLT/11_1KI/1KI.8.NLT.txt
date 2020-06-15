@@ -1,10 +1,10 @@
 11:8:001:1	The Ark Brought to the Temple
-11:8:001:0	Solomon then summoned to Jerusalem the elders of Israel and all the heads of the tribes—the leaders of the ancestral families of the Israelites . They were to bring the Ark of the Lord 's Covenant to the Temple from its location in the City of David , also known as Zion .
+11:8:001:0	Solomon then summoned to Jerusalem the elders of Israel and all the heads of the tribes — the leaders of the ancestral families of the Israelites . They were to bring the Ark of the Lord 's Covenant to the Temple from its location in the City of David , also known as Zion .
 11:8:002:0	So all the men of Israel assembled before King Solomon at the annual Festival of Shelters , which is held in early autumn in the month of Ethanim .
 11:8:003:0	When all the elders of Israel arrived , the priests picked up the Ark .
 11:8:004:0	The priests and Levites brought up the Ark of the Lord along with the special tent and all the sacred items that had been in it .
 11:8:005:0	There , before the Ark , King Solomon and the entire community of Israel sacrificed so many sheep , goats , and cattle that no one could keep count !
-11:8:006:0	Then the priests carried the Ark of the Lord 's Covenant into the inner sanctuary of the Temple—the Most Holy Place—and placed it beneath the wings of the cherubim .
+11:8:006:0	Then the priests carried the Ark of the Lord 's Covenant into the inner sanctuary of the Temple — the Most Holy Place — and placed it beneath the wings of the cherubim .
 11:8:007:0	The cherubim spread their wings over the Ark , forming a canopy over the Ark and its carrying poles .
 11:8:008:0	These poles were so long that their ends could be seen from the Holy Place , which is in front of the Most Holy Place , but not from the outside . They are still there to this day .
 11:8:009:0	Nothing was in the Ark except the two stone tablets that Moses had placed in it at Mount Sinai , where the Lord made a covenant with the people of Israel when they left the land of Egypt .
@@ -33,12 +33,12 @@
 11:8:029:0	May you watch over this Temple night and day , this place where you have said , ‘ My name will be there . ' May you always hear the prayers I make toward this place .
 11:8:030:0	May you hear the humble and earnest requests from me and your people Israel when we pray toward this place . Yes , hear us from heaven where you live , and when you hear , forgive .
 11:8:031:0	“ If someone wrongs another person and is required to take an oath of innocence in front of your altar in this Temple ,
-11:8:032:0	then hear from heaven and judge between your servants—the accuser and the accused . Punish the guilty as they deserve . Acquit the innocent because of their innocence .
+11:8:032:0	then hear from heaven and judge between your servants — the accuser and the accused . Punish the guilty as they deserve . Acquit the innocent because of their innocence .
 11:8:033:0	“ If your people Israel are defeated by their enemies because they have sinned against you , and if they turn to you and acknowledge your name and pray to you here in this Temple ,
 11:8:034:0	then hear from heaven and forgive the sin of your people Israel and return them to this land you gave their ancestors .
 11:8:035:0	“ If the skies are shut up and there is no rain because your people have sinned against you , and if they pray toward this Temple and acknowledge your name and turn from their sins because you have punished them ,
 11:8:036:0	then hear from heaven and forgive the sins of your servants , your people Israel . Teach them to follow the right path , and send rain on your land that you have given to your people as their special possession .
-11:8:037:0	“ If there is a famine in the land or a plague or crop disease or attacks of locusts or caterpillars , or if your people 's enemies are in the land besieging their towns—whatever disaster or disease there is—
+11:8:037:0	“ If there is a famine in the land or a plague or crop disease or attacks of locusts or caterpillars , or if your people 's enemies are in the land besieging their towns — whatever disaster or disease there is —
 11:8:038:0	and if your people Israel pray about their troubles , raising their hands toward this Temple ,
 11:8:039:0	then hear from heaven where you live , and forgive . Give your people what their actions deserve , for you alone know each human heart .
 11:8:040:0	Then they will fear you as long as they live in the land you gave to our ancestors .
@@ -47,12 +47,12 @@
 11:8:043:0	then hear from heaven where you live , and grant what they ask of you . In this way , all the people of the earth will come to know and fear you , just as your own people Israel do . They , too , will know that this Temple I have built honors your name .
 11:8:044:0	“ If your people go out where you send them to fight their enemies , and if they pray to the Lord by turning toward this city you have chosen and toward this Temple I have built to honor your name ,
 11:8:045:0	then hear their prayers from heaven and uphold their cause .
-11:8:046:0	“ If they sin against you—and who has never sinned ? —you might become angry with them and let their enemies conquer them and take them captive to their land far away or near .
+11:8:046:0	“ If they sin against you — and who has never sinned ? — you might become angry with them and let their enemies conquer them and take them captive to their land far away or near .
 11:8:047:0	But in that land of exile , they might turn to you in repentance and pray , ‘ We have sinned , done evil , and acted wickedly . '
-11:8:048:0	If they turn to you with their whole heart and soul in the land of their enemies and pray toward the land you gave to their ancestors—toward this city you have chosen , and toward this Temple I have built to honor your name—
+11:8:048:0	If they turn to you with their whole heart and soul in the land of their enemies and pray toward the land you gave to their ancestors — toward this city you have chosen , and toward this Temple I have built to honor your name —
 11:8:049:0	then hear their prayers and their petition from heaven where you live , and uphold their cause .
 11:8:050:0	Forgive your people who have sinned against you . Forgive all the offenses they have committed against you . Make their captors merciful to them ,
-11:8:051:0	for they are your people—your special possession—whom you brought out of the iron-smelting furnace of Egypt .
+11:8:051:0	for they are your people — your special possession — whom you brought out of the iron-smelting furnace of Egypt .
 11:8:052:0	“ May your eyes be open to my requests and to the requests of your people Israel . May you hear and answer them whenever they cry out to you .
 11:8:005:1	The Dedication of the Temple
 11:8:053:0	For when you brought our ancestors out of Egypt , O Sovereign Lord , you told your servant Moses that you had set Israel apart from all the nations of the earth to be your own special possession . ”
@@ -67,5 +67,5 @@
 11:8:062:0	Then the king and all Israel with him offered sacrifices to the Lord .
 11:8:063:0	Solomon offered to the Lord a peace offering of 22,000 cattle and 120,000 sheep and goats . And so the king and all the people of Israel dedicated the Temple of the Lord .
 11:8:064:0	That same day the king consecrated the central area of the courtyard in front of the Lord 's Temple . He offered burnt offerings , grain offerings , and the fat of peace offerings there , because the bronze altar in the Lord 's presence was too small to hold all the burnt offerings , grain offerings , and the fat of the peace offerings .
-11:8:065:0	Then Solomon and all Israel celebrated the Festival of Shelters in the presence of the Lord our God . A large congregation had gathered from as far away as Lebo-hamath in the north and the Brook of Egypt in the south . The celebration went on for fourteen days in all—seven days for the dedication of the altar and seven days for the Festival of Shelters .
+11:8:065:0	Then Solomon and all Israel celebrated the Festival of Shelters in the presence of the Lord our God . A large congregation had gathered from as far away as Lebo-hamath in the north and the Brook of Egypt in the south . The celebration went on for fourteen days in all — seven days for the dedication of the altar and seven days for the Festival of Shelters .
 11:8:066:0	After the festival was over , Solomon sent the people home . They blessed the king and went to their homes joyful and glad because the Lord had been good to his servant David and to his people Israel .

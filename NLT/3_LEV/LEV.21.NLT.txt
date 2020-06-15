@@ -1,6 +1,6 @@
 3:21:001:1	Instructions for the Priests
 3:21:001:0	The Lord said to Moses , “ Give the following instructions to the priests , the descendants of Aaron. “ A priest must not make himself ceremonially unclean by touching the dead body of a relative .
-3:21:002:0	The only exceptions are his closest relatives—his mother or father , son or daughter , brother ,
+3:21:002:0	The only exceptions are his closest relatives — his mother or father , son or daughter , brother ,
 3:21:003:0	or his virgin sister who depends on him because she has no husband .
 3:21:004:0	But a priest must not defile himself and make himself unclean for someone who is related to him only by marriage .
 3:21:005:0	“ The priests must not shave their heads or trim their beards or cut their bodies .

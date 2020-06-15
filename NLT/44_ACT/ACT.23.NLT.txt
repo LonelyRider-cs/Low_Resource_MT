@@ -4,7 +4,7 @@
 44:23:004:0	Those standing near Paul said to him , “ Do you dare to insult God 's high priest ? ”
 44:23:005:0	“ I 'm sorry , brothers . I did n't realize he was the high priest , ” Paul replied , “ for the Scriptures say , ‘ You must not speak evil of any of your rulers . ' ”
 44:23:006:0	Paul realized that some members of the high council were Sadducees and some were Pharisees , so he shouted , “ Brothers , I am a Pharisee , as were my ancestors ! And I am on trial because my hope is in the resurrection of the dead ! ”
-44:23:007:0	This divided the council—the Pharisees against the Sadducees—
+44:23:007:0	This divided the council — the Pharisees against the Sadducees —
 44:23:008:0	for the Sadducees say there is no resurrection or angels or spirits , but the Pharisees believe in all of these .
 44:23:009:0	So there was a great uproar . Some of the teachers of religious law who were Pharisees jumped up and began to argue forcefully . “ We see nothing wrong with him , ” they shouted . “ Perhaps a spirit or an angel spoke to him . ”
 44:23:010:0	As the conflict grew more violent , the commander was afraid they would tear Paul apart . So he ordered his soldiers to go and rescue him by force and take him back to the fortress .
@@ -14,7 +14,7 @@
 44:23:013:0	There were more than forty of them in the conspiracy .
 44:23:014:0	They went to the leading priests and elders and told them , “ We have bound ourselves with an oath to eat nothing until we have killed Paul .
 44:23:015:0	So you and the high council should ask the commander to bring Paul back to the council again . Pretend you want to examine his case more fully . We will kill him on the way . ”
-44:23:016:0	But Paul 's nephew—his sister 's son—heard of their plan and went to the fortress and told Paul .
+44:23:016:0	But Paul 's nephew — his sister 's son — heard of their plan and went to the fortress and told Paul .
 44:23:017:0	Paul called for one of the Roman officers and said , “ Take this young man to the commander . He has something important to tell him . ”
 44:23:018:0	So the officer did , explaining , “ Paul , the prisoner , called me over and asked me to bring this young man to you because he has something to tell you . ”
 44:23:019:0	The commander took his hand , led him aside , and asked , “ What is it you want to tell me ? ”
@@ -28,7 +28,7 @@
 44:23:026:0	“ From Claudius Lysias , to his Excellency , Governor Felix : Greetings !
 44:23:027:0	“ This man was seized by some Jews , and they were about to kill him when I arrived with the troops . When I learned that he was a Roman citizen , I removed him to safety .
 44:23:028:0	Then I took him to their high council to try to learn the basis of the accusations against him .
-44:23:029:0	I soon discovered the charge was something regarding their religious law—certainly nothing worthy of imprisonment or death .
+44:23:029:0	I soon discovered the charge was something regarding their religious law — certainly nothing worthy of imprisonment or death .
 44:23:030:0	But when I was informed of a plot to kill him , I immediately sent him on to you . I have told his accusers to bring their charges before you . ”
 44:23:031:0	So that night , as ordered , the soldiers took Paul as far as Antipatris .
 44:23:032:0	They returned to the fortress the next morning , while the mounted troops took him on to Caesarea .

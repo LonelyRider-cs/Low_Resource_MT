@@ -7,7 +7,7 @@
 17:9:006:0	In the fortress of Susa itself , the Jews killed 500 men .
 17:9:007:0	They also killed Parshandatha , Dalphon , Aspatha ,
 17:9:008:0	Poratha , Adalia , Aridatha ,
-17:9:009:0	Parmashta , Arisai , Aridai , and Vaizatha—
+17:9:009:0	Parmashta , Arisai , Aridai , and Vaizatha —
 17:9:010:0	the ten sons of Haman son of Hammedatha , the enemy of the Jews . But they did not take any plunder .
 17:9:011:0	That very day , when the king was informed of the number of people killed in the fortress of Susa ,
 17:9:012:0	he called for Queen Esther . He said , “ The Jews have killed 500 men in the fortress of Susa alone , as well as Haman 's ten sons . If they have done that here , what has happened in the rest of the provinces ? But now , what more do you want ? It will be granted to you ; tell me and I will do it . ”
@@ -30,5 +30,5 @@
 17:9:028:0	These days would be remembered and kept from generation to generation and celebrated by every family throughout the provinces and cities of the empire . This Festival of Purim would never cease to be celebrated among the Jews , nor would the memory of what happened ever die out among their descendants .
 17:9:029:0	Then Queen Esther , the daughter of Abihail , along with Mordecai the Jew , wrote another letter putting the queen 's full authority behind Mordecai 's letter to establish the Festival of Purim .
 17:9:030:0	Letters wishing peace and security were sent to the Jews throughout the 127 provinces of the empire of Xerxes .
-17:9:031:0	These letters established the Festival of Purim—an annual celebration of these days at the appointed time , decreed by both Mordecai the Jew and Queen Esther . ( The people decided to observe this festival , just as they had decided for themselves and their descendants to establish the times of fasting and mourning . )
+17:9:031:0	These letters established the Festival of Purim — an annual celebration of these days at the appointed time , decreed by both Mordecai the Jew and Queen Esther . ( The people decided to observe this festival , just as they had decided for themselves and their descendants to establish the times of fasting and mourning . )
 17:9:032:0	So the command of Esther confirmed the practices of Purim , and it was all written down in the records .

@@ -1,6 +1,6 @@
 59:1:001:1	Greetings from James
 59:1:002:1	Faith and Endurance
-59:1:001:0	This letter is from James , a slave of God and of the Lord Jesus Christ.I am writing to the “ twelve tribes ” —Jewish believers scattered abroad.Greetings !
+59:1:001:0	This letter is from James , a slave of God and of the Lord Jesus Christ.I am writing to the “ twelve tribes ” — Jewish believers scattered abroad.Greetings !
 59:1:002:0	Dear brothers and sisters , when troubles of any kind come your way , consider it an opportunity for great joy .
 59:1:003:0	For you know that when your faith is tested , your endurance has a chance to grow .
 59:1:004:0	So let it grow , for when your endurance is fully developed , you will be perfect and complete , needing nothing .

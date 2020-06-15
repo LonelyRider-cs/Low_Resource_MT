@@ -35,7 +35,7 @@
 4:1:040:0	Asher41,500
 4:1:042:0	Naphtali53,400
 4:1:044:0	These were the men registered by Moses and Aaron and the twelve leaders of Israel , all listed according to their ancestral descent .
-4:1:045:0	They were registered by families—all the men of Israel who were twenty years old or older and able to go to war .
+4:1:045:0	They were registered by families — all the men of Israel who were twenty years old or older and able to go to war .
 4:1:046:0	The total number was 603,550 .
 4:1:047:0	But this total did not include the Levites .
 4:1:048:0	For the Lord had said to Moses ,

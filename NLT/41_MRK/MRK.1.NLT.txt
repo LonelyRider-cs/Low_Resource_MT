@@ -5,7 +5,7 @@
 41:1:004:0	This messenger was John the Baptist . He was in the wilderness and preached that people should be baptized to show that they had repented of their sins and turned to God to be forgiven .
 41:1:005:0	All of Judea , including all the people of Jerusalem , went out to see and hear John . And when they confessed their sins , he baptized them in the Jordan River .
 41:1:006:0	His clothes were woven from coarse camel hair , and he wore a leather belt around his waist . For food he ate locusts and wild honey .
-41:1:007:0	John announced : “ Someone is coming soon who is greater than I am—so much greater that I 'm not even worthy to stoop down like a slave and untie the straps of his sandals .
+41:1:007:0	John announced : “ Someone is coming soon who is greater than I am — so much greater that I 'm not even worthy to stoop down like a slave and untie the straps of his sandals .
 41:1:002:1	The Baptism and Temptation of Jesus
 41:1:008:0	I baptize you with water , but he will baptize you with the Holy Spirit ! ”
 41:1:009:0	One day Jesus came from Nazareth in Galilee , and John baptized him in the Jordan River .
@@ -23,9 +23,9 @@
 41:1:004:1	Jesus Casts Out an Evil Spirit
 41:1:020:0	He called them at once , and they also followed him , leaving their father , Zebedee , in the boat with the hired men .
 41:1:021:0	Jesus and his companions went to the town of Capernaum . When the Sabbath day came , he went into the synagogue and began to teach .
-41:1:022:0	The people were amazed at his teaching , for he taught with real authority—quite unlike the teachers of religious law .
+41:1:022:0	The people were amazed at his teaching , for he taught with real authority — quite unlike the teachers of religious law .
 41:1:023:0	Suddenly , a man in the synagogue who was possessed by an evil spirit cried out ,
-41:1:024:0	“ Why are you interfering with us , Jesus of Nazareth ? Have you come to destroy us ? I know who you are—the Holy One of God ! ”
+41:1:024:0	“ Why are you interfering with us , Jesus of Nazareth ? Have you come to destroy us ? I know who you are — the Holy One of God ! ”
 41:1:025:0	But Jesus reprimanded him . “ Be quiet ! Come out of the man , ” he ordered .
 41:1:026:0	At that , the evil spirit screamed , threw the man into a convulsion , and then came out of him .
 41:1:027:0	Amazement gripped the audience , and they began to discuss what had happened . “ What sort of new teaching is this ? ” they asked excitedly . “ It has such authority ! Even evil spirits obey his orders ! ”

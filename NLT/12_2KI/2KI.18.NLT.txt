@@ -11,7 +11,7 @@
 12:18:010:0	Three years later , during the sixth year of King Hezekiah 's reign and the ninth year of King Hoshea 's reign in Israel , Samaria fell .
 12:18:011:0	At that time the king of Assyria exiled the Israelites to Assyria and placed them in colonies in Halah , along the banks of the Habor River in Gozan , and in the cities of the Medes .
 12:18:002:1	Assyria Invades Judah
-12:18:012:0	For they refused to listen to the Lord their God and obey him . Instead , they violated his covenant—all the laws that Moses the Lord 's servant had commanded them to obey .
+12:18:012:0	For they refused to listen to the Lord their God and obey him . Instead , they violated his covenant — all the laws that Moses the Lord 's servant had commanded them to obey .
 12:18:013:0	In the fourteenth year of King Hezekiah 's reign , King Sennacherib of Assyria came to attack the fortified towns of Judah and conquered them .
 12:18:014:0	King Hezekiah sent this message to the king of Assyria at Lachish : “ I have done wrong . I will pay whatever tribute money you demand if you will only withdraw. ” The king of Assyria then demanded a settlement of more than eleven tons of silver and one ton of gold .
 12:18:015:0	To gather this amount , King Hezekiah used all the silver stored in the Temple of the Lord and in the palace treasury .
@@ -31,8 +31,8 @@
 12:18:028:0	Then the chief of staff stood and shouted in Hebrew to the people on the wall , “ Listen to this message from the great king of Assyria !
 12:18:029:0	This is what the king says : Do n't let Hezekiah deceive you . He will never be able to rescue you from my power .
 12:18:030:0	Do n't let him fool you into trusting in the Lord by saying , ‘ The Lord will surely rescue us . This city will never fall into the hands of the Assyrian king ! '
-12:18:031:0	“ Do n't listen to Hezekiah ! These are the terms the king of Assyria is offering : Make peace with me—open the gates and come out . Then each of you can continue eating from your own grapevine and fig tree and drinking from your own well .
-12:18:032:0	Then I will arrange to take you to another land like this one—a land of grain and new wine , bread and vineyards , olive groves and honey . Choose life instead of death ! “ Do n't listen to Hezekiah when he tries to mislead you by saying , ‘ The Lord will rescue us ! '
+12:18:031:0	“ Do n't listen to Hezekiah ! These are the terms the king of Assyria is offering : Make peace with me — open the gates and come out . Then each of you can continue eating from your own grapevine and fig tree and drinking from your own well .
+12:18:032:0	Then I will arrange to take you to another land like this one — a land of grain and new wine , bread and vineyards , olive groves and honey . Choose life instead of death ! “ Do n't listen to Hezekiah when he tries to mislead you by saying , ‘ The Lord will rescue us ! '
 12:18:033:0	Have the gods of any other nations ever saved their people from the king of Assyria ?
 12:18:034:0	What happened to the gods of Hamath and Arpad ? And what about the gods of Sepharvaim , Hena , and Ivvah ? Did any god rescue Samaria from my power ?
 12:18:035:0	What god of any nation has ever been able to save its people from my power ? So what makes you think that the Lord can rescue Jerusalem from me ? ”

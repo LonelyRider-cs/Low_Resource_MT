@@ -4,9 +4,9 @@
 1:46:003:0	“ I am God , the God of your father , ” the voice said . “ Do not be afraid to go down to Egypt , for there I will make your family into a great nation .
 1:46:004:0	I will go with you down to Egypt , and I will bring you back again . You will die in Egypt , but Joseph will be with you to close your eyes . ”
 1:46:005:0	So Jacob left Beersheba , and his sons took him to Egypt . They carried him and their little ones and their wives in the wagons Pharaoh had provided for them .
-1:46:006:0	They also took all their livestock and all the personal belongings they had acquired in the land of Canaan . So Jacob and his entire family went to Egypt—
-1:46:007:0	sons and grandsons , daughters and granddaughters—all his descendants .
-1:46:008:0	These are the names of the descendants of Israel—the sons of Jacob—who went to Egypt : Reuben was Jacob 's oldest son .
+1:46:006:0	They also took all their livestock and all the personal belongings they had acquired in the land of Canaan . So Jacob and his entire family went to Egypt —
+1:46:007:0	sons and grandsons , daughters and granddaughters — all his descendants .
+1:46:008:0	These are the names of the descendants of Israel — the sons of Jacob — who went to Egypt : Reuben was Jacob 's oldest son .
 1:46:009:0	The sons of Reuben were Hanoch , Pallu , Hezron , and Carmi .
 1:46:010:0	The sons of Simeon were Jemuel , Jamin , Ohad , Jakin , Zohar , and Shaul . ( Shaul 's mother was a Canaanite woman . )
 1:46:011:0	The sons of Levi were Gershon , Kohath , and Merari .

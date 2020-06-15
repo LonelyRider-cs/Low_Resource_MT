@@ -1,6 +1,6 @@
 24:6:001:1	Jerusalem 's Last Warning
 24:6:001:0	“ Run for your lives , you people of Benjamin ! Get out of Jerusalem ! Sound the alarm in Tekoa ! Send up a signal at Beth-hakkerem ! A powerful army is coming from the north , coming with disaster and destruction .
-24:6:002:0	O Jerusalem , you are my beautiful and delicate daughter—but I will destroy you !
+24:6:002:0	O Jerusalem , you are my beautiful and delicate daughter — but I will destroy you !
 24:6:003:0	Enemies will surround you , like shepherds camped around the city.Each chooses a place for his troops to devour .
 24:6:004:0	They shout , ‘ Prepare for battle ! Attack at noon ! ' ‘ No , it 's too late ; the day is fading , and the evening shadows are falling . '
 24:6:005:0	‘ Well then , let 's attack at nightand destroy her palaces ! ' ”
@@ -17,7 +17,7 @@
 24:6:003:1	Judah Rejects the
 24:6:004:1	Lord
 24:6:005:1	's Way
-24:6:015:0	Are they ashamed of their disgusting actions ? Not at all—they do n't even know how to blush ! Therefore , they will lie among the slaughtered.They will be brought down when I punish them , ” says the Lord .
+24:6:015:0	Are they ashamed of their disgusting actions ? Not at all — they do n't even know how to blush ! Therefore , they will lie among the slaughtered.They will be brought down when I punish them , ” says the Lord .
 24:6:016:0	This is what the Lord says : “ Stop at the crossroads and look around.Ask for the old , godly way , and walk in it.Travel its path , and you will find rest for your souls.But you reply , ‘ No , that 's not the road we want ! '
 24:6:017:0	I posted watchmen over you who said , ‘ Listen for the sound of the alarm . 'But you replied , ‘ No ! We wo n't pay attention ! '
 24:6:018:0	“ Therefore , listen to this , all you nations.Take note of my people 's situation .

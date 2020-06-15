@@ -7,7 +7,7 @@
 41:6:002:1	Jesus Sends Out the Twelve Disciples
 41:6:006:0	And he was amazed at their unbelief.Then Jesus went from village to village , teaching the people .
 41:6:007:0	And he called his twelve disciples together and began sending them out two by two , giving them authority to cast out evil spirits .
-41:6:008:0	He told them to take nothing for their journey except a walking stick—no food , no traveler 's bag , no money .
+41:6:008:0	He told them to take nothing for their journey except a walking stick — no food , no traveler 's bag , no money .
 41:6:009:0	He allowed them to wear sandals but not to take a change of clothes .
 41:6:010:0	“ Wherever you go , ” he said , “ stay in the same house until you leave town .
 41:6:011:0	But if any place refuses to welcome you or listen to you , shake its dust from your feet as you leave to show that you have abandoned those people to their fate . ”
@@ -58,4 +58,4 @@
 41:6:053:0	After they had crossed the lake , they landed at Gennesaret . They brought the boat to shore
 41:6:054:0	and climbed out . The people recognized Jesus at once ,
 41:6:055:0	and they ran throughout the whole area , carrying sick people on mats to wherever they heard he was .
-41:6:056:0	Wherever he went—in villages , cities , or the countryside—they brought the sick out to the marketplaces . They begged him to let the sick touch at least the fringe of his robe , and all who touched him were healed .
+41:6:056:0	Wherever he went — in villages , cities , or the countryside — they brought the sick out to the marketplaces . They begged him to let the sick touch at least the fringe of his robe , and all who touched him were healed .

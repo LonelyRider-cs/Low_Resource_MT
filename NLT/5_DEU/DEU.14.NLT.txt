@@ -21,11 +21,11 @@
 5:14:020:0	But you may eat any winged bird or insect that is ceremonially clean .
 5:14:002:1	The Giving of Tithes
 5:14:021:0	“ You must not eat anything that has died a natural death . You may give it to a foreigner living in your town , or you may sell it to a stranger . But do not eat it yourselves , for you are set apart as holy to the Lord your God. “ You must not cook a young goat in its mother 's milk .
-5:14:022:0	“ You must set aside a tithe of your crops—one-tenth of all the crops you harvest each year .
-5:14:023:0	Bring this tithe to the designated place of worship—the place the Lord your God chooses for his name to be honored—and eat it there in his presence . This applies to your tithes of grain , new wine , olive oil , and the firstborn males of your flocks and herds . Doing this will teach you always to fear the Lord your God .
+5:14:022:0	“ You must set aside a tithe of your crops — one-tenth of all the crops you harvest each year .
+5:14:023:0	Bring this tithe to the designated place of worship — the place the Lord your God chooses for his name to be honored — and eat it there in his presence . This applies to your tithes of grain , new wine , olive oil , and the firstborn males of your flocks and herds . Doing this will teach you always to fear the Lord your God .
 5:14:024:0	“ Now when the Lord your God blesses you with a good harvest , the place of worship he chooses for his name to be honored might be too far for you to bring the tithe .
 5:14:025:0	If so , you may sell the tithe portion of your crops and herds , put the money in a pouch , and go to the place the Lord your God has chosen .
-5:14:026:0	When you arrive , you may use the money to buy any kind of food you want—cattle , sheep , goats , wine , or other alcoholic drink . Then feast there in the presence of the Lord your God and celebrate with your household .
+5:14:026:0	When you arrive , you may use the money to buy any kind of food you want — cattle , sheep , goats , wine , or other alcoholic drink . Then feast there in the presence of the Lord your God and celebrate with your household .
 5:14:027:0	And do not neglect the Levites in your town , for they will receive no allotment of land among you .
 5:14:028:0	“ At the end of every third year , bring the entire tithe of that year 's harvest and store it in the nearest town .
 5:14:029:0	Give it to the Levites , who will receive no allotment of land among you , as well as to the foreigners living among you , the orphans , and the widows in your towns , so they can eat and be satisfied . Then the Lord your God will bless you in all your work .

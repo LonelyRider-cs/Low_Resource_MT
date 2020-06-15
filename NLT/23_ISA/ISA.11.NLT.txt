@@ -1,6 +1,6 @@
 23:11:001:1	A Branch from David 's Line
-23:11:001:0	Out of the stump of David 's family will grow a shoot—yes , a new Branch bearing fruit from the old root .
-23:11:002:0	And the Spirit of the Lord will rest on him—the Spirit of wisdom and understanding , the Spirit of counsel and might , the Spirit of knowledge and the fear of the Lord .
+23:11:001:0	Out of the stump of David 's family will grow a shoot — yes , a new Branch bearing fruit from the old root .
+23:11:002:0	And the Spirit of the Lord will rest on him — the Spirit of wisdom and understanding , the Spirit of counsel and might , the Spirit of knowledge and the fear of the Lord .
 23:11:003:0	He will delight in obeying the Lord.He will not judge by appearancenor make a decision based on hearsay .
 23:11:004:0	He will give justice to the poorand make fair decisions for the exploited.The earth will shake at the force of his word , and one breath from his mouth will destroy the wicked .
 23:11:005:0	He will wear righteousness like a beltand truth like an undergarment .
@@ -9,7 +9,7 @@
 23:11:008:0	The baby will play safely near the hole of a cobra.Yes , a little child will put its hand in a nest of deadly snakes without harm .
 23:11:009:0	Nothing will hurt or destroy in all my holy mountain , for as the waters fill the sea , so the earth will be filled with people who know the Lord .
 23:11:010:0	In that day the heir to David 's thronewill be a banner of salvation to all the world.The nations will rally to him , and the land where he lives will be a glorious place .
-23:11:011:0	In that day the Lord will reach out his hand a second timeto bring back the remnant of his people—those who remain in Assyria and northern Egypt ; in southern Egypt , Ethiopia , and Elam ; in Babylonia , Hamath , and all the distant coastlands .
+23:11:011:0	In that day the Lord will reach out his hand a second timeto bring back the remnant of his people — those who remain in Assyria and northern Egypt ; in southern Egypt , Ethiopia , and Elam ; in Babylonia , Hamath , and all the distant coastlands .
 23:11:012:0	He will raise a flag among the nationsand assemble the exiles of Israel.He will gather the scattered people of Judahfrom the ends of the earth .
 23:11:013:0	Then at last the jealousy between Israel and Judah will end.They will not be rivals anymore .
 23:11:014:0	They will join forces to swoop down on Philistia to the west.Together they will attack and plunder the nations to the east.They will occupy the lands of Edom and Moab , and Ammon will obey them .

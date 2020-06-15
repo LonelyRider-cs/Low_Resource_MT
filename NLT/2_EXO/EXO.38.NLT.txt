@@ -1,7 +1,7 @@
 2:38:001:1	Building the Altar of Burnt Offering
 2:38:001:0	Next Bezalel used acacia wood to construct the square altar of burnt offering . It was 71/2 feet wide , 71/2 feet long , and 41/2 feet high .
 2:38:002:0	He made horns for each of its four corners so that the horns and altar were all one piece . He overlaid the altar with bronze .
-2:38:003:0	Then he made all the altar utensils of bronze—the ash buckets , shovels , basins , meat forks , and firepans .
+2:38:003:0	Then he made all the altar utensils of bronze — the ash buckets , shovels , basins , meat forks , and firepans .
 2:38:004:0	Next he made a bronze grating and installed it halfway down the side of the altar , under the ledge .
 2:38:005:0	He cast four rings and attached them to the corners of the bronze grating to hold the carrying poles .
 2:38:006:0	He made the poles from acacia wood and overlaid them with bronze .
@@ -11,7 +11,7 @@
 2:38:008:0	Bezalel made the bronze washbasin and its bronze stand from bronze mirrors donated by the women who served at the entrance of the Tabernacle .
 2:38:009:0	Then Bezalel made the courtyard , which was enclosed with curtains made of finely woven linen . On the south side the curtains were 150 feet long .
 2:38:010:0	They were held up by twenty posts set securely in twenty bronze bases . He hung the curtains with silver hooks and rings .
-2:38:011:0	He made a similar set of curtains for the north side—150 feet of curtains held up by twenty posts set securely in bronze bases . He hung the curtains with silver hooks and rings .
+2:38:011:0	He made a similar set of curtains for the north side — 150 feet of curtains held up by twenty posts set securely in bronze bases . He hung the curtains with silver hooks and rings .
 2:38:012:0	The curtains on the west end of the courtyard were 75 feet long , hung with silver hooks and rings and supported by ten posts set into ten bases .
 2:38:013:0	The east end , the front , was also 75 feet long .
 2:38:014:0	The courtyard entrance was on the east end , flanked by two curtains . The curtain on the right side was 221/2 feet long and was supported by three posts set into three bases .

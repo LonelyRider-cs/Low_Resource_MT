@@ -1,14 +1,14 @@
 19:78:001:0	O my people , listen to my instructions.Open your ears to what I am saying ,
-19:78:002:0	for I will speak to you in a parable.I will teach you hidden lessons from our past—
+19:78:002:0	for I will speak to you in a parable.I will teach you hidden lessons from our past —
 19:78:003:0	stories we have heard and known , stories our ancestors handed down to us .
 19:78:004:0	We will not hide these truths from our children ; we will tell the next generationabout the glorious deeds of the Lord , about his power and his mighty wonders .
 19:78:005:0	For he issued his laws to Jacob ; he gave his instructions to Israel.He commanded our ancestorsto teach them to their children ,
-19:78:006:0	so the next generation might know them—even the children not yet born—and they in turn will teach their own children .
+19:78:006:0	so the next generation might know them — even the children not yet born — and they in turn will teach their own children .
 19:78:007:0	So each generation should set its hope anew on God , not forgetting his glorious miraclesand obeying his commands .
-19:78:008:0	Then they will not be like their ancestors—stubborn , rebellious , and unfaithful , refusing to give their hearts to God .
+19:78:008:0	Then they will not be like their ancestors — stubborn , rebellious , and unfaithful , refusing to give their hearts to God .
 19:78:009:0	The warriors of Ephraim , though armed with bows , turned their backs and fled on the day of battle .
 19:78:010:0	They did not keep God 's covenantand refused to live by his instructions .
-19:78:011:0	They forgot what he had done—the great wonders he had shown them ,
+19:78:011:0	They forgot what he had done — the great wonders he had shown them ,
 19:78:012:0	the miracles he did for their ancestorson the plain of Zoan in the land of Egypt .
 19:78:013:0	For he divided the sea and led them through , making the water stand up like walls !
 19:78:014:0	In the daytime he led them by a cloud , and all night by a pillar of fire .
@@ -24,7 +24,7 @@
 19:78:024:0	He rained down manna for them to eat ; he gave them bread from heaven .
 19:78:025:0	They ate the food of angels ! God gave them all they could hold .
 19:78:026:0	He released the east wind in the heavensand guided the south wind by his mighty power .
-19:78:027:0	He rained down meat as thick as dust—birds as plentiful as the sand on the seashore !
+19:78:027:0	He rained down meat as thick as dust — birds as plentiful as the sand on the seashore !
 19:78:028:0	He caused the birds to fall within their campand all around their tents .
 19:78:029:0	The people ate their fill.He gave them what they craved .
 19:78:030:0	But before they satisfied their craving , while the meat was yet in their mouths ,
@@ -46,7 +46,7 @@
 19:78:046:0	He gave their crops to caterpillars ; their harvest was consumed by locusts .
 19:78:047:0	He destroyed their grapevines with hailand shattered their sycamore-figs with sleet .
 19:78:048:0	He abandoned their cattle to the hail , their livestock to bolts of lightning .
-19:78:049:0	He loosed on them his fierce anger—all his fury , rage , and hostility.He dispatched against thema band of destroying angels .
+19:78:049:0	He loosed on them his fierce anger — all his fury , rage , and hostility.He dispatched against thema band of destroying angels .
 19:78:050:0	He turned his anger against them ; he did not spare the Egyptians ' livesbut ravaged them with the plague .
 19:78:051:0	He killed the oldest son in each Egyptian family , the flower of youth throughout the land of Egypt .
 19:78:052:0	But he led his own people like a flock of sheep , guiding them safely through the wilderness .
@@ -59,7 +59,7 @@
 19:78:059:0	When God heard them , he was very angry , and he completely rejected Israel .
 19:78:060:0	Then he abandoned his dwelling at Shiloh , the Tabernacle where he had lived among the people .
 19:78:061:0	He allowed the Ark of his might to be captured ; he surrendered his glory into enemy hands .
-19:78:062:0	He gave his people over to be butchered by the sword , because he was so angry with his own people—his special possession .
+19:78:062:0	He gave his people over to be butchered by the sword , because he was so angry with his own people — his special possession .
 19:78:063:0	Their young men were killed by fire ; their young women died before singing their wedding songs .
 19:78:064:0	Their priests were slaughtered , and their widows could not mourn their deaths .
 19:78:065:0	Then the Lord rose up as though waking from sleep , like a warrior aroused from a drunken stupor .
@@ -68,5 +68,5 @@
 19:78:068:0	He chose instead the tribe of Judah , and Mount Zion , which he loved .
 19:78:069:0	There he built his sanctuary as high as the heavens , as solid and enduring as the earth .
 19:78:070:0	He chose his servant David , calling him from the sheep pens .
-19:78:071:0	He took David from tending the ewes and lambsand made him the shepherd of Jacob 's descendants—God 's own people , Israel .
+19:78:071:0	He took David from tending the ewes and lambsand made him the shepherd of Jacob 's descendants — God 's own people , Israel .
 19:78:072:0	He cared for them with a true heartand led them with skillful hands .

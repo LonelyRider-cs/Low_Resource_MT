@@ -31,7 +31,7 @@
 41:14:027:0	On the way , Jesus told them , “ All of you will desert me . For the Scriptures say , ‘ God will strike the Shepherd , and the sheep will be scattered . '
 41:14:028:0	But after I am raised from the dead , I will go ahead of you to Galilee and meet you there . ”
 41:14:029:0	Peter said to him , “ Even if everyone else deserts you , I never will . ”
-41:14:030:0	Jesus replied , “ I tell you the truth , Peter—this very night , before the rooster crows twice , you will deny three times that you even know me . ”
+41:14:030:0	Jesus replied , “ I tell you the truth , Peter — this very night , before the rooster crows twice , you will deny three times that you even know me . ”
 41:14:005:1	Jesus Prays in Gethsemane
 41:14:031:0	“ No ! ” Peter declared emphatically . “ Even if I have to die with you , I will never deny you ! ” And all the others vowed the same .
 41:14:032:0	They went to the olive grove called Gethsemane , and Jesus said , “ Sit here while I go and pray . ”
@@ -43,7 +43,7 @@
 41:14:038:0	Keep watch and pray , so that you will not give in to temptation . For the spirit is willing , but the body is weak . ”
 41:14:039:0	Then Jesus left them again and prayed the same prayer as before .
 41:14:040:0	When he returned to them again , he found them sleeping , for they could n't keep their eyes open . And they did n't know what to say .
-41:14:041:0	When he returned to them the third time , he said , “ Go ahead and sleep . Have your rest . But no—the time has come . The Son of Man is betrayed into the hands of sinners .
+41:14:041:0	When he returned to them the third time , he said , “ Go ahead and sleep . Have your rest . But no — the time has come . The Son of Man is betrayed into the hands of sinners .
 41:14:006:1	Jesus Is Betrayed and Arrested
 41:14:042:0	Up , let 's be going . Look , my betrayer is here ! ”
 41:14:043:0	And immediately , even as Jesus said this , Judas , one of the twelve disciples , arrived with a crowd of men armed with swords and clubs . They had been sent by the leading priests , the teachers of religious law , and the elders .
@@ -76,5 +76,5 @@
 41:14:068:0	But Peter denied it . “ I do n't know what you 're talking about , ” he said , and he went out into the entryway . Just then , a rooster crowed .
 41:14:069:0	When the servant girl saw him standing there , she began telling the others , “ This man is definitely one of them ! ”
 41:14:070:0	But Peter denied it again.A little later some of the other bystanders confronted Peter and said , “ You must be one of them , because you are a Galilean . ”
-41:14:071:0	Peter swore , “ A curse on me if I 'm lying—I do n't know this man you 're talking about ! ”
+41:14:071:0	Peter swore , “ A curse on me if I 'm lying — I do n't know this man you 're talking about ! ”
 41:14:072:0	And immediately the rooster crowed the second time.Suddenly , Jesus ' words flashed through Peter 's mind : “ Before the rooster crows twice , you will deny three times that you even know me. ” And he broke down and wept .

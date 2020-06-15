@@ -14,7 +14,7 @@
 40:25:002:1	Parable of the Three Servants
 40:25:013:0	“ So you , too , must keep watch ! For you do not know the day or hour of my return .
 40:25:014:0	“ Again , the Kingdom of Heaven can be illustrated by the story of a man going on a long trip . He called together his servants and entrusted his money to them while he was gone .
-40:25:015:0	He gave five bags of silver to one , two bags of silver to another , and one bag of silver to the last—dividing it in proportion to their abilities . He then left on his trip .
+40:25:015:0	He gave five bags of silver to one , two bags of silver to another , and one bag of silver to the last — dividing it in proportion to their abilities . He then left on his trip .
 40:25:016:0	“ The servant who received the five bags of silver began to invest the money and earned five more .
 40:25:017:0	The servant with two bags of silver also went to work and earned two more .
 40:25:018:0	But the servant who received the one bag of silver dug a hole in the ground and hid the master 's money .

@@ -4,7 +4,7 @@
 4:5:003:0	This command applies to men and women alike . Remove them so they will not defile the camp in which I live among them . ”
 4:5:004:0	So the Israelites did as the Lord had commanded Moses and removed such people from the camp .
 4:5:005:0	Then the Lord said to Moses ,
-4:5:006:0	“ Give the following instructions to the people of Israel : If any of the people—men or women—betray the Lord by doing wrong to another person , they are guilty .
+4:5:006:0	“ Give the following instructions to the people of Israel : If any of the people — men or women — betray the Lord by doing wrong to another person , they are guilty .
 4:5:007:0	They must confess their sin and make full restitution for what they have done , adding an additional 20 percent and returning it to the person who was wronged .
 4:5:008:0	But if the person who was wronged is dead , and there are no near relatives to whom restitution can be made , the payment belongs to the Lord and must be given to the priest . Those who are guilty must also bring a ram as a sacrifice , and they will be purified and made right with the Lord .
 4:5:009:0	All the sacred offerings that the Israelites bring to a priest will belong to him .
@@ -14,12 +14,12 @@
 4:5:012:0	“ Give the following instructions to the people of Israel. “ Suppose a man 's wife goes astray , and she is unfaithful to her husband
 4:5:013:0	and has sex with another man , but neither her husband nor anyone else knows about it . She has defiled herself , even though there was no witness and she was not caught in the act .
 4:5:014:0	If her husband becomes jealous and is suspicious of his wife and needs to know whether or not she has defiled herself ,
-4:5:015:0	the husband must bring his wife to the priest . He must also bring an offering of two quarts of barley flour to be presented on her behalf . Do not mix it with olive oil or frankincense , for it is a jealousy offering—an offering to prove whether or not she is guilty .
+4:5:015:0	the husband must bring his wife to the priest . He must also bring an offering of two quarts of barley flour to be presented on her behalf . Do not mix it with olive oil or frankincense , for it is a jealousy offering — an offering to prove whether or not she is guilty .
 4:5:016:0	“ The priest will then present her to stand trial before the Lord .
 4:5:017:0	He must take some holy water in a clay jar and pour into it dust he has taken from the Tabernacle floor .
-4:5:018:0	When the priest has presented the woman before the Lord , he must unbind her hair and place in her hands the offering of proof—the jealousy offering to determine whether her husband 's suspicions are justified . The priest will stand before her , holding the jar of bitter water that brings a curse to those who are guilty .
+4:5:018:0	When the priest has presented the woman before the Lord , he must unbind her hair and place in her hands the offering of proof — the jealousy offering to determine whether her husband 's suspicions are justified . The priest will stand before her , holding the jar of bitter water that brings a curse to those who are guilty .
 4:5:019:0	The priest will then put the woman under oath and say to her , ‘ If no other man has had sex with you , and you have not gone astray and defiled yourself while under your husband 's authority , may you be immune from the effects of this bitter water that brings on the curse .
-4:5:020:0	But if you have gone astray by being unfaithful to your husband , and have defiled yourself by having sex with another man— '
+4:5:020:0	But if you have gone astray by being unfaithful to your husband , and have defiled yourself by having sex with another man — '
 4:5:021:0	“ At this point the priest must put the woman under oath by saying , ‘ May the people know that the Lord 's curse is upon you when he makes you infertile , causing your womb to shrivel and your abdomen to swell .
 4:5:022:0	Now may this water that brings the curse enter your body and cause your abdomen to swell and your womb to shrivel . ' And the woman will be required to say , ‘ Yes , let it be so . '
 4:5:023:0	And the priest will write these curses on a piece of leather and wash them off into the bitter water .

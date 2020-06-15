@@ -1,5 +1,5 @@
 23:21:001:1	A Message about Babylon
-23:21:001:0	This message came to me concerning Babylon—the desert by the sea : Disaster is roaring down on you from the desert , like a whirlwind sweeping in from the Negev .
+23:21:001:0	This message came to me concerning Babylon — the desert by the sea : Disaster is roaring down on you from the desert , like a whirlwind sweeping in from the Negev .
 23:21:002:0	I see a terrifying vision : I see the betrayer betraying , the destroyer destroying.Go ahead , you Elamites and Medes , attack and lay siege.I will make an endto all the groaning Babylon caused .
 23:21:003:0	My stomach aches and burns with pain.Sharp pangs of anguish are upon me , like those of a woman in labor.I grow faint when I hear what God is planning ; I am too afraid to look .
 23:21:004:0	My mind reels and my heart races.I longed for evening to come , but now I am terrified of the dark .
@@ -7,7 +7,7 @@
 23:21:006:0	Meanwhile , the Lord said to me , “ Put a watchman on the city wall.Let him shout out what he sees .
 23:21:007:0	He should look for chariotsdrawn by pairs of horses , and for riders on donkeys and camels.Let the watchman be fully alert . ”
 23:21:008:0	Then the watchman called out , “ Day after day I have stood on the watchtower , my lord.Night after night I have remained at my post .
-23:21:009:0	Now at last—look ! Here comes a man in a chariotwith a pair of horses ! ” Then the watchman said , “ Babylon is fallen , fallen ! All the idols of Babylonlie broken on the ground ! ”
+23:21:009:0	Now at last — look ! Here comes a man in a chariotwith a pair of horses ! ” Then the watchman said , “ Babylon is fallen , fallen ! All the idols of Babylonlie broken on the ground ! ”
 23:21:002:1	A Message about Edom
 23:21:010:0	O my people , threshed and winnowed , I have told you everything the Lord of Heaven 's Armies has said , everything the God of Israel has told me .
 23:21:011:0	This message came to me concerning Edom : Someone from Edom keeps calling to me , “ Watchman , how much longer until morning ? When will the night be over ? ”

@@ -30,13 +30,13 @@
 40:26:026:0	As they were eating , Jesus took some bread and blessed it . Then he broke it in pieces and gave it to the disciples , saying , “ Take this and eat it , for this is my body . ”
 40:26:027:0	And he took a cup of wine and gave thanks to God for it . He gave it to them and said , “ Each of you drink from it ,
 40:26:028:0	for this is my blood , which confirms the covenant between God and his people . It is poured out as a sacrifice to forgive the sins of many .
-40:26:029:0	Mark my words—I will not drink wine again until the day I drink it new with you in my Father 's Kingdom . ”
+40:26:029:0	Mark my words — I will not drink wine again until the day I drink it new with you in my Father 's Kingdom . ”
 40:26:005:1	Jesus Predicts Peter 's Denial
 40:26:030:0	Then they sang a hymn and went out to the Mount of Olives .
 40:26:031:0	On the way , Jesus told them , “ Tonight all of you will desert me . For the Scriptures say , ‘ God will strike the Shepherd , and the sheep of the flock will be scattered . '
 40:26:032:0	But after I have been raised from the dead , I will go ahead of you to Galilee and meet you there . ”
 40:26:033:0	Peter declared , “ Even if everyone else deserts you , I will never desert you . ”
-40:26:034:0	Jesus replied , “ I tell you the truth , Peter—this very night , before the rooster crows , you will deny three times that you even know me . ”
+40:26:034:0	Jesus replied , “ I tell you the truth , Peter — this very night , before the rooster crows , you will deny three times that you even know me . ”
 40:26:006:1	Jesus Prays in Gethsemane
 40:26:035:0	“ No ! ” Peter insisted . “ Even if I have to die with you , I will never deny you ! ” And all the other disciples vowed the same .
 40:26:036:0	Then Jesus went with them to the olive grove called Gethsemane , and he said , “ Sit here while I go over there to pray . ”
@@ -48,7 +48,7 @@
 40:26:042:0	Then Jesus left them a second time and prayed , “ My Father ! If this cup can not be taken away unless I drink it , your will be done . ”
 40:26:043:0	When he returned to them again , he found them sleeping , for they could n't keep their eyes open .
 40:26:044:0	So he went to pray a third time , saying the same things again .
-40:26:045:0	Then he came to the disciples and said , “ Go ahead and sleep . Have your rest . But look—the time has come . The Son of Man is betrayed into the hands of sinners .
+40:26:045:0	Then he came to the disciples and said , “ Go ahead and sleep . Have your rest . But look — the time has come . The Son of Man is betrayed into the hands of sinners .
 40:26:007:1	Jesus Is Betrayed and Arrested
 40:26:046:0	Up , let 's be going . Look , my betrayer is here ! ”
 40:26:047:0	And even as Jesus said this , Judas , one of the twelve disciples , arrived with a crowd of men armed with swords and clubs . They had been sent by the leading priests and elders of the people .
@@ -68,7 +68,7 @@
 40:26:060:0	But even though they found many who agreed to give false witness , they could not use anyone 's testimony . Finally , two men came forward
 40:26:061:0	who declared , “ This man said , ‘ I am able to destroy the Temple of God and rebuild it in three days . ' ”
 40:26:062:0	Then the high priest stood up and said to Jesus , “ Well , are n't you going to answer these charges ? What do you have to say for yourself ? ”
-40:26:063:0	But Jesus remained silent . Then the high priest said to him , “ I demand in the name of the living God—tell us if you are the Messiah , the Son of God . ”
+40:26:063:0	But Jesus remained silent . Then the high priest said to him , “ I demand in the name of the living God — tell us if you are the Messiah , the Son of God . ”
 40:26:064:0	Jesus replied , “ You have said it . And in the future you will see the Son of Man seated in the place of power at God 's right hand and coming on the clouds of heaven . ”
 40:26:065:0	Then the high priest tore his clothing to show his horror and said , “ Blasphemy ! Why do we need other witnesses ? You have all heard his blasphemy .
 40:26:066:0	What is your verdict ? ” “ Guilty ! ” they shouted . “ He deserves to die ! ”
@@ -80,5 +80,5 @@
 40:26:071:0	Later , out by the gate , another servant girl noticed him and said to those standing around , “ This man was with Jesus of Nazareth . ”
 40:26:072:0	Again Peter denied it , this time with an oath . “ I do n't even know the man , ” he said .
 40:26:073:0	A little later some of the other bystanders came over to Peter and said , “ You must be one of them ; we can tell by your Galilean accent . ”
-40:26:074:0	Peter swore , “ A curse on me if I 'm lying—I do n't know the man ! ” And immediately the rooster crowed .
+40:26:074:0	Peter swore , “ A curse on me if I 'm lying — I do n't know the man ! ” And immediately the rooster crowed .
 40:26:075:0	Suddenly , Jesus ' words flashed through Peter 's mind : “ Before the rooster crows , you will deny three times that you even know me. ” And he went away , weeping bitterly .

@@ -10,7 +10,7 @@
 55:3:002:1	Paul 's Charge to Timothy
 55:3:009:0	But they wo n't get away with this for long . Someday everyone will recognize what fools they are , just as with Jannes and Jambres .
 55:3:010:0	But you , Timothy , certainly know what I teach , and how I live , and what my purpose in life is . You know my faith , my patience , my love , and my endurance .
-55:3:011:0	You know how much persecution and suffering I have endured . You know all about how I was persecuted in Antioch , Iconium , and Lystra—but the Lord rescued me from all of it .
+55:3:011:0	You know how much persecution and suffering I have endured . You know all about how I was persecuted in Antioch , Iconium , and Lystra — but the Lord rescued me from all of it .
 55:3:012:0	Yes , and everyone who wants to live a godly life in Christ Jesus will suffer persecution .
 55:3:013:0	But evil people and impostors will flourish . They will deceive others and will themselves be deceived .
 55:3:014:0	But you must remain faithful to the things you have been taught . You know they are true , for you know you can trust those who taught you .

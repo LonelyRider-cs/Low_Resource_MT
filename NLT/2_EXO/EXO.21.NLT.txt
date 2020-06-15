@@ -35,4 +35,4 @@
 2:21:033:0	“ Suppose someone digs or uncovers a pit and fails to cover it , and then an ox or a donkey falls into it .
 2:21:034:0	The owner of the pit must pay full compensation to the owner of the animal , but then he gets to keep the dead animal .
 2:21:035:0	“ If someone 's ox injures a neighbor 's ox and the injured ox dies , then the two owners must sell the live ox and divide the price equally between them . They must also divide the dead animal .
-2:21:036:0	But if the ox had a reputation for goring , yet its owner failed to keep it under control , he must pay full compensation—a live ox for the dead one—but he may keep the dead ox .
+2:21:036:0	But if the ox had a reputation for goring , yet its owner failed to keep it under control , he must pay full compensation — a live ox for the dead one — but he may keep the dead ox .

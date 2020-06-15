@@ -1,10 +1,10 @@
 5:16:001:1	Passover and the Festival of Unleavened Bread
 5:16:001:0	“ In honor of the Lord your God , celebrate the Passover each year in the early spring , in the month of Abib , for that was the month in which the Lord your God brought you out of Egypt by night .
-5:16:002:0	Your Passover sacrifice may be from either the flock or the herd , and it must be sacrificed to the Lord your God at the designated place of worship—the place he chooses for his name to be honored .
-5:16:003:0	Eat it with bread made without yeast . For seven days the bread you eat must be made without yeast , as when you escaped from Egypt in such a hurry . Eat this bread—the bread of suffering—so that as long as you live you will remember the day you departed from Egypt .
+5:16:002:0	Your Passover sacrifice may be from either the flock or the herd , and it must be sacrificed to the Lord your God at the designated place of worship — the place he chooses for his name to be honored .
+5:16:003:0	Eat it with bread made without yeast . For seven days the bread you eat must be made without yeast , as when you escaped from Egypt in such a hurry . Eat this bread — the bread of suffering — so that as long as you live you will remember the day you departed from Egypt .
 5:16:004:0	Let no yeast be found in any house throughout your land for those seven days . And when you sacrifice the Passover lamb on the evening of the first day , do not let any of the meat remain until the next morning .
 5:16:005:0	“ You may not sacrifice the Passover in just any of the towns that the Lord your God is giving you .
-5:16:006:0	You must offer it only at the designated place of worship—the place the Lord your God chooses for his name to be honored . Sacrifice it there in the evening as the sun goes down on the anniversary of your exodus from Egypt .
+5:16:006:0	You must offer it only at the designated place of worship — the place the Lord your God chooses for his name to be honored . Sacrifice it there in the evening as the sun goes down on the anniversary of your exodus from Egypt .
 5:16:007:0	Roast the lamb and eat it in the place the Lord your God chooses . Then you may go back to your tents the next morning .
 5:16:002:1	The Festival of Harvest
 5:16:008:0	For the next six days you may not eat any bread made with yeast . On the seventh day proclaim another holy day in honor of the Lord your God , and no work may be done on that day .

@@ -5,12 +5,12 @@
 1:29:004:0	Jacob went over to the shepherds and asked , “ Where are you from , my friends ? ” “ We are from Haran , ” they answered .
 1:29:005:0	“ Do you know a man there named Laban , the grandson of Nahor ? ” he asked. “ Yes , we do , ” they replied .
 1:29:006:0	“ Is he doing well ? ” Jacob asked. “ Yes , he 's well , ” they answered . “ Look , here comes his daughter Rachel with the flock now . ”
-1:29:007:0	Jacob said , “ Look , it 's still broad daylight—too early to round up the animals . Why do n't you water the sheep and goats so they can get back out to pasture ? ”
+1:29:007:0	Jacob said , “ Look , it 's still broad daylight — too early to round up the animals . Why do n't you water the sheep and goats so they can get back out to pasture ? ”
 1:29:008:0	“ We ca n't water the animals until all the flocks have arrived , ” they replied . “ Then the shepherds move the stone from the mouth of the well , and we water all the sheep and goats . ”
 1:29:009:0	Jacob was still talking with them when Rachel arrived with her father 's flock , for she was a shepherd .
-1:29:010:0	And because Rachel was his cousin—the daughter of Laban , his mother 's brother—and because the sheep and goats belonged to his uncle Laban , Jacob went over to the well and moved the stone from its mouth and watered his uncle 's flock .
+1:29:010:0	And because Rachel was his cousin — the daughter of Laban , his mother 's brother — and because the sheep and goats belonged to his uncle Laban , Jacob went over to the well and moved the stone from its mouth and watered his uncle 's flock .
 1:29:011:0	Then Jacob kissed Rachel , and he wept aloud .
-1:29:012:0	He explained to Rachel that he was her cousin on her father 's side—the son of her aunt Rebekah . So Rachel quickly ran and told her father , Laban .
+1:29:012:0	He explained to Rachel that he was her cousin on her father 's side — the son of her aunt Rebekah . So Rachel quickly ran and told her father , Laban .
 1:29:013:0	As soon as Laban heard that his nephew Jacob had arrived , he ran out to meet him . He embraced and kissed him and brought him home . When Jacob had told him his story ,
 1:29:002:1	Jacob Marries Leah and Rachel
 1:29:014:0	Laban exclaimed , “ You really are my own flesh and blood ! ” After Jacob had stayed with Laban for about a month ,
@@ -24,9 +24,9 @@
 1:29:022:0	So Laban invited everyone in the neighborhood and prepared a wedding feast .
 1:29:023:0	But that night , when it was dark , Laban took Leah to Jacob , and he slept with her .
 1:29:024:0	( Laban had given Leah a servant , Zilpah , to be her maid . )
-1:29:025:0	But when Jacob woke up in the morning—it was Leah ! “ What have you done to me ? ” Jacob raged at Laban . “ I worked seven years for Rachel ! Why have you tricked me ? ”
+1:29:025:0	But when Jacob woke up in the morning — it was Leah ! “ What have you done to me ? ” Jacob raged at Laban . “ I worked seven years for Rachel ! Why have you tricked me ? ”
 1:29:026:0	“ It 's not our custom here to marry off a younger daughter ahead of the firstborn , ” Laban replied .
-1:29:027:0	“ But wait until the bridal week is over ; then we 'll give you Rachel , too—provided you promise to work another seven years for me . ”
+1:29:027:0	“ But wait until the bridal week is over ; then we 'll give you Rachel , too — provided you promise to work another seven years for me . ”
 1:29:028:0	So Jacob agreed to work seven more years . A week after Jacob had married Leah , Laban gave him Rachel , too .
 1:29:029:0	( Laban gave Rachel a servant , Bilhah , to be her maid . )
 1:29:003:1	Jacob 's Many Children

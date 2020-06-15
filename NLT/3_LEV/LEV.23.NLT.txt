@@ -16,7 +16,7 @@
 3:23:013:0	With it you must present a grain offering consisting of four quarts of choice flour moistened with olive oil . It will be a special gift , a pleasing aroma to the Lord . You must also offer one quart of wine as a liquid offering .
 3:23:004:1	The Festival of Harvest
 3:23:014:0	Do not eat any bread or roasted grain or fresh kernels on that day until you bring this offering to your God . This is a permanent law for you , and it must be observed from generation to generation wherever you live .
-3:23:015:0	“ From the day after the Sabbath—the day you bring the bundle of grain to be lifted up as a special offering—count off seven full weeks .
+3:23:015:0	“ From the day after the Sabbath — the day you bring the bundle of grain to be lifted up as a special offering — count off seven full weeks .
 3:23:016:0	Keep counting until the day after the seventh Sabbath , fifty days later . Then present an offering of new grain to the Lord .
 3:23:017:0	From wherever you live , bring two loaves of bread to be lifted up before the Lord as a special offering . Make these loaves from four quarts of choice flour , and bake them with yeast . They will be an offering to the Lord from the first of your crops .
 3:23:018:0	Along with the bread , present seven one-year-old male lambs with no defects , one young bull , and two rams as burnt offerings to the Lord . These burnt offerings , together with the grain offerings and liquid offerings , will be a special gift , a pleasing aroma to the Lord .
@@ -30,7 +30,7 @@
 3:23:006:1	The Day of Atonement
 3:23:025:0	You must do no ordinary work on that day . Instead , you are to present special gifts to the Lord . ”
 3:23:026:0	Then the Lord said to Moses ,
-3:23:027:0	“ Be careful to celebrate the Day of Atonement on the tenth day of that same month—nine days after the Festival of Trumpets . You must observe it as an official day for holy assembly , a day to deny yourselves and present special gifts to the Lord .
+3:23:027:0	“ Be careful to celebrate the Day of Atonement on the tenth day of that same month — nine days after the Festival of Trumpets . You must observe it as an official day for holy assembly , a day to deny yourselves and present special gifts to the Lord .
 3:23:028:0	Do no work during that entire day because it is the Day of Atonement , when offerings of purification are made for you , making you right with the Lord your God .
 3:23:029:0	All who do not deny themselves that day will be cut off from God 's people .
 3:23:030:0	And I will destroy anyone among you who does any work on that day .
@@ -38,13 +38,13 @@
 3:23:007:1	The Festival of Shelters
 3:23:032:0	This will be a Sabbath day of complete rest for you , and on that day you must deny yourselves . This day of rest will begin at sundown on the ninth day of the month and extend until sundown on the tenth day . ”
 3:23:033:0	And the Lord said to Moses ,
-3:23:034:0	“ Give the following instructions to the people of Israel . Begin celebrating the Festival of Shelters on the fifteenth day of the appointed month—five days after the Day of Atonement . This festival to the Lord will last for seven days .
+3:23:034:0	“ Give the following instructions to the people of Israel . Begin celebrating the Festival of Shelters on the fifteenth day of the appointed month — five days after the Day of Atonement . This festival to the Lord will last for seven days .
 3:23:035:0	On the first day of the festival you must proclaim an official day for holy assembly , when you do no ordinary work .
 3:23:036:0	For seven days you must present special gifts to the Lord . The eighth day is another holy day on which you present your special gifts to the Lord . This will be a solemn occasion , and no ordinary work may be done that day .
-3:23:037:0	( “ These are the Lord 's appointed festivals . Celebrate them each year as official days for holy assembly by presenting special gifts to the Lord—burnt offerings , grain offerings , sacrifices , and liquid offerings—each on its proper day .
+3:23:037:0	( “ These are the Lord 's appointed festivals . Celebrate them each year as official days for holy assembly by presenting special gifts to the Lord — burnt offerings , grain offerings , sacrifices , and liquid offerings — each on its proper day .
 3:23:038:0	These festivals must be observed in addition to the Lord 's regular Sabbath days , and the offerings are in addition to your personal gifts , the offerings you give to fulfill your vows , and the voluntary offerings you present to the Lord . )
-3:23:039:0	“ Remember that this seven-day festival to the Lord—the Festival of Shelters—begins on the fifteenth day of the appointed month , after you have harvested all the produce of the land . The first day and the eighth day of the festival will be days of complete rest .
-3:23:040:0	On the first day gather branches from magnificent trees—palm fronds , boughs from leafy trees , and willows that grow by the streams . Then celebrate with joy before the Lord your God for seven days .
+3:23:039:0	“ Remember that this seven-day festival to the Lord — the Festival of Shelters — begins on the fifteenth day of the appointed month , after you have harvested all the produce of the land . The first day and the eighth day of the festival will be days of complete rest .
+3:23:040:0	On the first day gather branches from magnificent trees — palm fronds , boughs from leafy trees , and willows that grow by the streams . Then celebrate with joy before the Lord your God for seven days .
 3:23:041:0	You must observe this festival to the Lord for seven days every year . This is a permanent law for you , and it must be observed in the appointed month from generation to generation .
 3:23:042:0	For seven days you must live outside in little shelters . All native-born Israelites must live in shelters .
 3:23:043:0	This will remind each new generation of Israelites that I made their ancestors live in shelters when I rescued them from the land of Egypt . I am the Lord your God . ”

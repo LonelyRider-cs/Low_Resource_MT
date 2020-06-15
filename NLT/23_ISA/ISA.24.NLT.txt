@@ -1,6 +1,6 @@
 23:24:001:1	Destruction of the Earth
 23:24:001:0	Look ! The Lord is about to destroy the earthand make it a vast wasteland.He devastates the surface of the earthand scatters the people .
-23:24:002:0	Priests and laypeople , servants and masters , maids and mistresses , buyers and sellers , lenders and borrowers , bankers and debtors—none will be spared .
+23:24:002:0	Priests and laypeople , servants and masters , maids and mistresses , buyers and sellers , lenders and borrowers , bankers and debtors — none will be spared .
 23:24:003:0	The earth will be completely emptied and looted.The Lord has spoken !
 23:24:004:0	The earth mourns and dries up , and the land wastes away and withers.Even the greatest people on earth waste away .
 23:24:005:0	The earth suffers for the sins of its people , for they have twisted God 's instructions , violated his laws , and broken his everlasting covenant .
@@ -11,7 +11,7 @@
 23:24:010:0	The city writhes in chaos ; every home is locked to keep out intruders .
 23:24:011:0	Mobs gather in the streets , crying out for wine.Joy has turned to gloom.Gladness has been banished from the land .
 23:24:012:0	The city is left in ruins , its gates battered down .
-23:24:013:0	Throughout the earth the story is the same—only a remnant is left , like the stray olives left on the treeor the few grapes left on the vine after harvest .
+23:24:013:0	Throughout the earth the story is the same — only a remnant is left , like the stray olives left on the treeor the few grapes left on the vine after harvest .
 23:24:014:0	But all who are left shout and sing for joy.Those in the west praise the Lord 's majesty .
 23:24:015:0	In eastern lands , give glory to the Lord.In the lands beyond the sea , praise the name of the Lord , the God of Israel .
 23:24:016:0	We hear songs of praise from the ends of the earth , songs that give glory to the Righteous One ! But my heart is heavy with grief.Weep for me , for I wither away.Deceit still prevails , and treachery is everywhere .

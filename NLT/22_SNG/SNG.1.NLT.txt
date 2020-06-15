@@ -7,8 +7,8 @@
 22:1:004:1	Young Women of Jerusalem
 22:1:005:1	Young Woman
 22:1:004:0	Take me with you ; come , let 's run ! The king has brought me into his bedroom.How happy we are for you , O king.We praise your love even more than wine.How right they are to adore you .
-22:1:005:0	I am dark but beautiful , O women of Jerusalem—dark as the tents of Kedar , dark as the curtains of Solomon 's tents .
-22:1:006:0	Do n't stare at me because I am dark—the sun has darkened my skin.My brothers were angry with me ; they forced me to care for their vineyards , so I could n't care for myself—my own vineyard .
+22:1:005:0	I am dark but beautiful , O women of Jerusalem — dark as the tents of Kedar , dark as the curtains of Solomon 's tents .
+22:1:006:0	Do n't stare at me because I am dark — the sun has darkened my skin.My brothers were angry with me ; they forced me to care for their vineyards , so I could n't care for myself — my own vineyard .
 22:1:006:1	Young Man
 22:1:007:0	Tell me , my love , where are you leading your flock today ? Where will you rest your sheep at noon ? For why should I wander like a prostituteamong your friends and their flocks ?
 22:1:008:0	If you do n't know , O most beautiful woman , follow the trail of my flock , and graze your young goats by the shepherds ' tents .

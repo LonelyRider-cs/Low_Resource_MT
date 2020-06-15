@@ -1,6 +1,6 @@
 5:29:001:1	Moses Reviews the Covenant
 5:29:001:0	These are the terms of the covenant the Lord commanded Moses to make with the Israelites while they were in the land of Moab , in addition to the covenant he had made with them at Mount Sinai .
-5:29:002:0	Moses summoned all the Israelites and said to them , “ You have seen with your own eyes everything the Lord did in the land of Egypt to Pharaoh and to all his servants and to his whole country—
+5:29:002:0	Moses summoned all the Israelites and said to them , “ You have seen with your own eyes everything the Lord did in the land of Egypt to Pharaoh and to all his servants and to his whole country —
 5:29:003:0	all the great tests of strength , the miraculous signs , and the amazing wonders .
 5:29:004:0	But to this day the Lord has not given you minds that understand , nor eyes that see , nor ears that hear !
 5:29:005:0	For forty years I led you through the wilderness , yet your clothes and sandals did not wear out .
@@ -8,7 +8,7 @@
 5:29:007:0	“ When we came here , King Sihon of Heshbon and King Og of Bashan came out to fight against us , but we defeated them .
 5:29:008:0	We took their land and gave it to the tribes of Reuben and Gad and to the half-tribe of Manasseh as their grant of land .
 5:29:009:0	“ Therefore , obey the terms of this covenant so that you will prosper in everything you do .
-5:29:010:0	All of you—tribal leaders , elders , officers , all the men of Israel—are standing today in the presence of the Lord your God .
+5:29:010:0	All of you — tribal leaders , elders , officers , all the men of Israel — are standing today in the presence of the Lord your God .
 5:29:011:0	Your little ones and your wives are with you , as well as the foreigners living among you who chop your wood and carry your water .
 5:29:012:0	You are standing here today to enter into the covenant of the Lord your God . The Lord is making this covenant , including the curses .
 5:29:013:0	By entering into the covenant today , he will establish you as his people and confirm that he is your God , just as he promised you and as he swore to your ancestors Abraham , Isaac , and Jacob .
@@ -16,7 +16,7 @@
 5:29:015:0	I am making this covenant both with you who stand here today in the presence of the Lord our God , and also with the future generations who are not standing here today .
 5:29:016:0	“ You remember how we lived in the land of Egypt and how we traveled through the lands of enemy nations as we left .
 5:29:017:0	You have seen their detestable practices and their idols made of wood , stone , silver , and gold .
-5:29:018:0	I am making this covenant with you so that no one among you—no man , woman , clan , or tribe—will turn away from the Lord our God to worship these gods of other nations , and so that no root among you bears bitter and poisonous fruit .
+5:29:018:0	I am making this covenant with you so that no one among you — no man , woman , clan , or tribe — will turn away from the Lord our God to worship these gods of other nations , and so that no root among you bears bitter and poisonous fruit .
 5:29:019:0	“ Those who hear the warnings of this curse should not congratulate themselves , thinking , ‘ I am safe , even though I am following the desires of my own stubborn heart . ' This would lead to utter ruin !
 5:29:020:0	The Lord will never pardon such people . Instead his anger and jealousy will burn against them . All the curses written in this book will come down on them , and the Lord will erase their names from under heaven .
 5:29:021:0	The Lord will separate them from all the tribes of Israel , to pour out on them all the curses of the covenant recorded in this Book of Instruction .

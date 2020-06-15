@@ -38,6 +38,6 @@
 43:9:036:0	The man answered , “ Who is he , sir ? I want to believe in him . ”
 43:9:037:0	“ You have seen him , ” Jesus said , “ and he is speaking to you ! ”
 43:9:038:0	“ Yes , Lord , I believe ! ” the man said . And he worshiped Jesus .
-43:9:039:0	Then Jesus told him , “ I entered this world to render judgment—to give sight to the blind and to show those who think they see that they are blind . ”
+43:9:039:0	Then Jesus told him , “ I entered this world to render judgment — to give sight to the blind and to show those who think they see that they are blind . ”
 43:9:040:0	Some Pharisees who were standing nearby heard him and asked , “ Are you saying we 're blind ? ”
 43:9:041:0	“ If you were blind , you would n't be guilty , ” Jesus replied . “ But you remain guilty because you claim you can see .

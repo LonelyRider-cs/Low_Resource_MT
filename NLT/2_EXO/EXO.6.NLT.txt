@@ -1,7 +1,7 @@
 2:6:001:1	Promises of Deliverance
 2:6:001:0	Then the Lord told Moses , “ Now you will see what I will do to Pharaoh . When he feels the force of my strong hand , he will let the people go . In fact , he will force them to leave his land ! ”
-2:6:002:0	And God said to Moses , “ I am Yahweh— ‘ the Lord . '
-2:6:003:0	I appeared to Abraham , to Isaac , and to Jacob as El-Shaddai— ‘ God Almighty'—but I did not reveal my name , Yahweh , to them .
+2:6:002:0	And God said to Moses , “ I am Yahweh — ‘ the Lord . '
+2:6:003:0	I appeared to Abraham , to Isaac , and to Jacob as El-Shaddai — ‘ God Almighty ' — but I did not reveal my name , Yahweh , to them .
 2:6:004:0	And I reaffirmed my covenant with them . Under its terms , I promised to give them the land of Canaan , where they were living as foreigners .
 2:6:005:0	You can be sure that I have heard the groans of the people of Israel , who are now slaves to the Egyptians . And I am well aware of my covenant with them .
 2:6:006:0	“ Therefore , say to the people of Israel : ‘ I am the Lord . I will free you from your oppression and will rescue you from your slavery in Egypt . I will redeem you with a powerful arm and great acts of judgment .

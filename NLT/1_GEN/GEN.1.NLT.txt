@@ -9,24 +9,24 @@
 1:1:008:0	God called the space “ sky. ” And evening passed and morning came , marking the second day .
 1:1:009:0	Then God said , “ Let the waters beneath the sky flow together into one place , so dry ground may appear. ” And that is what happened .
 1:1:010:0	God called the dry ground “ land ” and the waters “ seas. ” And God saw that it was good .
-1:1:011:0	Then God said , “ Let the land sprout with vegetation—every sort of seed-bearing plant , and trees that grow seed-bearing fruit . These seeds will then produce the kinds of plants and trees from which they came. ” And that is what happened .
-1:1:012:0	The land produced vegetation—all sorts of seed-bearing plants , and trees with seed-bearing fruit . Their seeds produced plants and trees of the same kind . And God saw that it was good .
+1:1:011:0	Then God said , “ Let the land sprout with vegetation — every sort of seed-bearing plant , and trees that grow seed-bearing fruit . These seeds will then produce the kinds of plants and trees from which they came. ” And that is what happened .
+1:1:012:0	The land produced vegetation — all sorts of seed-bearing plants , and trees with seed-bearing fruit . Their seeds produced plants and trees of the same kind . And God saw that it was good .
 1:1:013:0	And evening passed and morning came , marking the third day .
 1:1:014:0	Then God said , “ Let lights appear in the sky to separate the day from the night . Let them be signs to mark the seasons , days , and years .
 1:1:015:0	Let these lights in the sky shine down on the earth. ” And that is what happened .
-1:1:016:0	God made two great lights—the larger one to govern the day , and the smaller one to govern the night . He also made the stars .
+1:1:016:0	God made two great lights — the larger one to govern the day , and the smaller one to govern the night . He also made the stars .
 1:1:017:0	God set these lights in the sky to light the earth ,
 1:1:018:0	to govern the day and night , and to separate the light from the darkness . And God saw that it was good .
 1:1:019:0	And evening passed and morning came , marking the fourth day .
 1:1:020:0	Then God said , “ Let the waters swarm with fish and other life . Let the skies be filled with birds of every kind . ”
-1:1:021:0	So God created great sea creatures and every living thing that scurries and swarms in the water , and every sort of bird—each producing offspring of the same kind . And God saw that it was good .
+1:1:021:0	So God created great sea creatures and every living thing that scurries and swarms in the water , and every sort of bird — each producing offspring of the same kind . And God saw that it was good .
 1:1:022:0	Then God blessed them , saying , “ Be fruitful and multiply . Let the fish fill the seas , and let the birds multiply on the earth . ”
 1:1:023:0	And evening passed and morning came , marking the fifth day .
-1:1:024:0	Then God said , “ Let the earth produce every sort of animal , each producing offspring of the same kind—livestock , small animals that scurry along the ground , and wild animals. ” And that is what happened .
+1:1:024:0	Then God said , “ Let the earth produce every sort of animal , each producing offspring of the same kind — livestock , small animals that scurry along the ground , and wild animals. ” And that is what happened .
 1:1:025:0	God made all sorts of wild animals , livestock , and small animals , each able to produce offspring of the same kind . And God saw that it was good .
 1:1:026:0	Then God said , “ Let us make human beings in our image , to be like us . They will reign over the fish in the sea , the birds in the sky , the livestock , all the wild animals on the earth , and the small animals that scurry along the ground . ”
 1:1:027:0	So God created human beings in his own image.In the image of God he created them ; male and female he created them .
 1:1:028:0	Then God blessed them and said , “ Be fruitful and multiply . Fill the earth and govern it . Reign over the fish in the sea , the birds in the sky , and all the animals that scurry along the ground . ”
 1:1:029:0	Then God said , “ Look ! I have given you every seed-bearing plant throughout the earth and all the fruit trees for your food .
-1:1:030:0	And I have given every green plant as food for all the wild animals , the birds in the sky , and the small animals that scurry along the ground—everything that has life. ” And that is what happened .
+1:1:030:0	And I have given every green plant as food for all the wild animals , the birds in the sky , and the small animals that scurry along the ground — everything that has life. ” And that is what happened .
 1:1:031:0	Then God looked over all he had made , and he saw that it was very good ! And evening passed and morning came , marking the sixth day .

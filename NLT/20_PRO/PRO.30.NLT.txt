@@ -2,7 +2,7 @@
 20:30:001:0	The sayings of Agur son of Jakeh contain this message.I am weary , O God ; I am weary and worn out , O God .
 20:30:002:0	I am too stupid to be human , and I lack common sense .
 20:30:003:0	I have not mastered human wisdom , nor do I know the Holy One .
-20:30:004:0	Who but God goes up to heaven and comes back down ? Who holds the wind in his fists ? Who wraps up the oceans in his cloak ? Who has created the whole wide world ? What is his name—and his son 's name ? Tell me if you know !
+20:30:004:0	Who but God goes up to heaven and comes back down ? Who holds the wind in his fists ? Who wraps up the oceans in his cloak ? Who has created the whole wide world ? What is his name — and his son 's name ? Tell me if you know !
 20:30:005:0	Every word of God proves true.He is a shield to all who come to him for protection .
 20:30:006:0	Do not add to his words , or he may rebuke you and expose you as a liar .
 20:30:007:0	O God , I beg two favors from you ; let me have them before I die .
@@ -13,21 +13,21 @@
 20:30:012:0	They are pure in their own eyes , but they are filthy and unwashed .
 20:30:013:0	They look proudly around , casting disdainful glances .
 20:30:014:0	They have teeth like swordsand fangs like knives.They devour the poor from the earthand the needy from among humanity .
-20:30:015:0	The leech has two suckersthat cry out , “ More , more ! ” There are three things that are never satisfied—no , four that never say , “ Enough ! ” :
+20:30:015:0	The leech has two suckersthat cry out , “ More , more ! ” There are three things that are never satisfied — no , four that never say , “ Enough ! ” :
 20:30:016:0	the grave , the barren womb , the thirsty desert , the blazing fire .
 20:30:017:0	The eye that mocks a fatherand despises a mother 's instructionswill be plucked out by ravens of the valleyand eaten by vultures .
-20:30:018:0	There are three things that amaze me—no , four things that I do n't understand :
+20:30:018:0	There are three things that amaze me — no , four things that I do n't understand :
 20:30:019:0	how an eagle glides through the sky , how a snake slithers on a rock , how a ship navigates the ocean , how a man loves a woman .
 20:30:020:0	An adulterous woman consumes a man , then wipes her mouth and says , “ What 's wrong with that ? ”
-20:30:021:0	There are three things that make the earth tremble—no , four it can not endure :
+20:30:021:0	There are three things that make the earth tremble — no , four it can not endure :
 20:30:022:0	a slave who becomes a king , an overbearing fool who prospers ,
 20:30:023:0	a bitter woman who finally gets a husband , a servant girl who supplants her mistress .
 20:30:024:0	There are four things on earth that are small but unusually wise :
-20:30:025:0	Ants—they are n't strong , but they store up food all summer .
-20:30:026:0	Hyraxes—they are n't powerful , but they make their homes among the rocks .
-20:30:027:0	Locusts—they have no king , but they march in formation .
-20:30:028:0	Lizards—they are easy to catch , but they are found even in kings ' palaces .
-20:30:029:0	There are three things that walk with stately stride—no , four that strut about :
+20:30:025:0	Ants — they are n't strong , but they store up food all summer .
+20:30:026:0	Hyraxes — they are n't powerful , but they make their homes among the rocks .
+20:30:027:0	Locusts — they have no king , but they march in formation .
+20:30:028:0	Lizards — they are easy to catch , but they are found even in kings ' palaces .
+20:30:029:0	There are three things that walk with stately stride — no , four that strut about :
 20:30:030:0	the lion , king of animals , who wo n't turn aside for anything ,
 20:30:031:0	the strutting rooster , the male goat , a king as he leads his army .
 20:30:032:0	If you have been a fool by being proud or plotting evil , cover your mouth in shame .

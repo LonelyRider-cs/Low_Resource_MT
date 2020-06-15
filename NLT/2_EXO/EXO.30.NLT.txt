@@ -4,7 +4,7 @@
 2:30:003:0	Overlay the top , sides , and horns of the altar with pure gold , and run a gold molding around the entire altar .
 2:30:004:0	Make two gold rings , and attach them on opposite sides of the altar below the gold molding to hold the carrying poles .
 2:30:005:0	Make the poles of acacia wood and overlay them with gold .
-2:30:006:0	Place the incense altar just outside the inner curtain that shields the Ark of the Covenant , in front of the Ark 's cover—the place of atonement—that covers the tablets inscribed with the terms of the covenant . I will meet with you there .
+2:30:006:0	Place the incense altar just outside the inner curtain that shields the Ark of the Covenant , in front of the Ark 's cover — the place of atonement — that covers the tablets inscribed with the terms of the covenant . I will meet with you there .
 2:30:007:0	“ Every morning when Aaron maintains the lamps , he must burn fragrant incense on the altar .
 2:30:008:0	And each evening when he lights the lamps , he must again burn incense in the Lord 's presence . This must be done from generation to generation .
 2:30:009:0	Do not offer any unholy incense on this altar , or any burnt offerings , grain offerings , or liquid offerings .
@@ -20,12 +20,12 @@
 2:30:017:0	Then the Lord said to Moses ,
 2:30:018:0	“ Make a bronze washbasin with a bronze stand . Place it between the Tabernacle and the altar , and fill it with water .
 2:30:019:0	Aaron and his sons will wash their hands and feet there .
-2:30:020:0	They must wash with water whenever they go into the Tabernacle to appear before the Lord and when they approach the altar to burn up their special gifts to the Lord—or they will die !
+2:30:020:0	They must wash with water whenever they go into the Tabernacle to appear before the Lord and when they approach the altar to burn up their special gifts to the Lord — or they will die !
 2:30:004:1	The Anointing Oil
 2:30:021:0	They must always wash their hands and feet , or they will die . This is a permanent law for Aaron and his descendants , to be observed from generation to generation . ”
 2:30:022:0	Then the Lord said to Moses ,
-2:30:023:0	“ Collect choice spices—121/2 pounds of pure myrrh , 61/4 pounds of fragrant cinnamon , 61/4 pounds of fragrant calamus ,
-2:30:024:0	and 121/2 pounds of cassia—as measured by the weight of the sanctuary shekel . Also get one gallon of olive oil .
+2:30:023:0	“ Collect choice spices — 121/2 pounds of pure myrrh , 61/4 pounds of fragrant cinnamon , 61/4 pounds of fragrant calamus ,
+2:30:024:0	and 121/2 pounds of cassia — as measured by the weight of the sanctuary shekel . Also get one gallon of olive oil .
 2:30:025:0	Like a skilled incense maker , blend these ingredients to make a holy anointing oil .
 2:30:026:0	Use this sacred oil to anoint the Tabernacle , the Ark of the Covenant ,
 2:30:027:0	the table and all its utensils , the lampstand and all its accessories , the incense altar ,
@@ -36,7 +36,7 @@
 2:30:032:0	It must never be used to anoint anyone else , and you must never make any blend like it for yourselves . It is holy , and you must treat it as holy .
 2:30:005:1	The Incense
 2:30:033:0	Anyone who makes a blend like it or anoints someone other than a priest will be cut off from the community . ' ”
-2:30:034:0	Then the Lord said to Moses , “ Gather fragrant spices—resin droplets , mollusk shell , and galbanum—and mix these fragrant spices with pure frankincense , weighed out in equal amounts .
+2:30:034:0	Then the Lord said to Moses , “ Gather fragrant spices — resin droplets , mollusk shell , and galbanum — and mix these fragrant spices with pure frankincense , weighed out in equal amounts .
 2:30:035:0	Using the usual techniques of the incense maker , blend the spices together and sprinkle them with salt to produce a pure and holy incense .
 2:30:036:0	Grind some of the mixture into a very fine powder and put it in front of the Ark of the Covenant , where I will meet with you in the Tabernacle . You must treat this incense as most holy .
 2:30:037:0	Never use this formula to make this incense for yourselves . It is reserved for the Lord , and you must treat it as holy .

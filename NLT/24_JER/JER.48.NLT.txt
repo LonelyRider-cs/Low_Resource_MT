@@ -6,7 +6,7 @@
 24:48:005:0	Her refugees weep bitterly , climbing the slope to Luhith.They cry out in terror , descending the slope to Horonaim .
 24:48:006:0	Flee for your lives ! Hide in the wilderness !
 24:48:007:0	Because you have trusted in your wealth and skill , you will be taken captive.Your god Chemosh , with his priests and officials , will be hauled off to distant lands !
-24:48:008:0	“ All the towns will be destroyed , and no one will escape—either on the plateaus or in the valleys , for the Lord has spoken .
+24:48:008:0	“ All the towns will be destroyed , and no one will escape — either on the plateaus or in the valleys , for the Lord has spoken .
 24:48:009:0	Oh , that Moab had wingsso she could fly away , for her towns will be left empty , with no one living in them .
 24:48:010:0	Cursed are those who refuse to do the Lord 's work , who hold back their swords from shedding blood !
 24:48:011:0	“ From his earliest history , Moab has lived in peace , never going into exile.He is like wine that has been allowed to settle.He has not been poured from flask to flask , and he is now fragrant and smooth .
@@ -19,16 +19,16 @@
 24:48:018:0	“ Come down from your gloryand sit in the dust , you people of Dibon , for those who destroy Moab will shatter Dibon , too.They will tear down all your towers .
 24:48:019:0	You people of Aroer , stand beside the road and watch.Shout to those who flee from Moab , ‘ What has happened there ? '
 24:48:020:0	“ And the reply comes back , ‘ Moab lies in ruins , disgraced ; weep and wail ! Tell it by the banks of the Arnon River : Moab has been destroyed ! '
-24:48:021:0	Judgment has been poured out on the towns of the plateau—on Holon and Jahaz and Mephaath ,
+24:48:021:0	Judgment has been poured out on the towns of the plateau — on Holon and Jahaz and Mephaath ,
 24:48:022:0	on Dibon and Nebo and Beth-diblathaim ,
 24:48:023:0	on Kiriathaim and Beth-gamul and Beth-meon ,
-24:48:024:0	on Kerioth and Bozrah—all the towns of Moab , far and near .
+24:48:024:0	on Kerioth and Bozrah — all the towns of Moab , far and near .
 24:48:025:0	“ The strength of Moab has ended.His arm has been broken , ” says the Lord .
 24:48:026:0	“ Let him stagger and fall like a drunkard , for he has rebelled against the Lord.Moab will wallow in his own vomit , ridiculed by all .
 24:48:027:0	Did you not ridicule the people of Israel ? Were they caught in the company of thievesthat you should despise them as you do ?
 24:48:028:0	“ You people of Moab , flee from your towns and live in the caves.Hide like doves that nestin the clefts of the rocks .
 24:48:029:0	We have all heard of the pride of Moab , for his pride is very great.We know of his lofty pride , his arrogance , and his haughty heart .
-24:48:030:0	I know about his insolence , ” says the Lord , “ but his boasts are empty—as empty as his deeds .
+24:48:030:0	I know about his insolence , ” says the Lord , “ but his boasts are empty — as empty as his deeds .
 24:48:031:0	So now I wail for Moab ; yes , I will mourn for Moab.My heart is broken for the men of Kir-hareseth .
 24:48:032:0	“ You people of Sibmah , rich in vineyards , I will weep for you even more than I did for Jazer.Your spreading vines once reached as far as the Dead Sea , but the destroyer has stripped you bare ! He has harvested your grapes and summer fruits .
 24:48:033:0	Joy and gladness are gone from fruitful Moab.The presses yield no wine.No one treads the grapes with shouts of joy.There is shouting , yes , but not of joy .

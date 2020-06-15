@@ -1,5 +1,5 @@
 10:23:001:1	David 's Last Words
-10:23:001:0	These are the last words of David : “ David , the son of Jesse , speaks—David , the man who was raised up so high , David , the man anointed by the God of Jacob , David , the sweet psalmist of Israel .
+10:23:001:0	These are the last words of David : “ David , the son of Jesse , speaks — David , the man who was raised up so high , David , the man anointed by the God of Jacob , David , the sweet psalmist of Israel .
 10:23:002:0	“ The Spirit of the Lord speaks through me ; his words are upon my tongue .
 10:23:003:0	The God of Israel spoke.The Rock of Israel said to me : ‘ The one who rules righteously , who rules in the fear of God ,
 10:23:004:0	is like the light of morning at sunrise , like a morning without clouds , like the gleaming of the sunon new grass after rain . '
@@ -7,12 +7,12 @@
 10:23:006:0	But the godless are like thorns to be thrown away , for they tear the hand that touches them .
 10:23:002:1	David 's Mightiest Warriors
 10:23:007:0	One must use iron tools to chop them down ; they will be totally consumed by fire . ”
-10:23:008:0	These are the names of David 's mightiest warriors . The first was Jashobeam the Hacmonite , who was leader of the Three—the three mightiest warriors among David 's men . He once used his spear to kill 800 enemy warriors in a single battle .
+10:23:008:0	These are the names of David 's mightiest warriors . The first was Jashobeam the Hacmonite , who was leader of the Three — the three mightiest warriors among David 's men . He once used his spear to kill 800 enemy warriors in a single battle .
 10:23:009:0	Next in rank among the Three was Eleazar son of Dodai , a descendant of Ahoah . Once Eleazar and David stood together against the Philistines when the entire Israelite army had fled .
 10:23:010:0	He killed Philistines until his hand was too tired to lift his sword , and the Lord gave him a great victory that day . The rest of the army did not return until it was time to collect the plunder !
 10:23:011:0	Next in rank was Shammah son of Agee from Harar . One time the Philistines gathered at Lehi and attacked the Israelites in a field full of lentils . The Israelite army fled ,
 10:23:012:0	but Shammah held his ground in the middle of the field and beat back the Philistines . So the Lord brought about a great victory .
-10:23:013:0	Once during the harvest , when David was at the cave of Adullam , the Philistine army was camped in the valley of Rephaim . The Three ( who were among the Thirty—an elite group among David 's fighting men ) went down to meet him there .
+10:23:013:0	Once during the harvest , when David was at the cave of Adullam , the Philistine army was camped in the valley of Rephaim . The Three ( who were among the Thirty — an elite group among David 's fighting men ) went down to meet him there .
 10:23:014:0	David was staying in the stronghold at the time , and a Philistine detachment had occupied the town of Bethlehem .
 10:23:015:0	David remarked longingly to his men , “ Oh , how I would love some of that good water from the well by the gate in Bethlehem . ”
 10:23:016:0	So the Three broke through the Philistine lines , drew some water from the well by the gate in Bethlehem , and brought it back to David . But he refused to drink it . Instead , he poured it out as an offering to the Lord .

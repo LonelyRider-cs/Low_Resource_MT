@@ -25,7 +25,7 @@
 41:13:024:0	“ At that time , after the anguish of those days , the sun will be darkened , the moon will give no light ,
 41:13:025:0	the stars will fall from the sky , and the powers in the heavens will be shaken .
 41:13:026:0	Then everyone will see the Son of Man coming on the clouds with great power and glory .
-41:13:027:0	And he will send out his angels to gather his chosen ones from all over the world—from the farthest ends of the earth and heaven .
+41:13:027:0	And he will send out his angels to gather his chosen ones from all over the world — from the farthest ends of the earth and heaven .
 41:13:028:0	“ Now learn a lesson from the fig tree . When its branches bud and its leaves begin to sprout , you know that summer is near .
 41:13:029:0	In the same way , when you see all these things taking place , you can know that his return is very near , right at the door .
 41:13:030:0	I tell you the truth , this generation will not pass from the scene before all these things take place .
@@ -33,6 +33,6 @@
 41:13:032:0	“ However , no one knows the day or hour when these things will happen , not even the angels in heaven or the Son himself . Only the Father knows .
 41:13:033:0	And since you do n't know when that time will come , be on guard ! Stay alert !
 41:13:034:0	“ The coming of the Son of Man can be illustrated by the story of a man going on a long trip . When he left home , he gave each of his slaves instructions about the work they were to do , and he told the gatekeeper to watch for his return .
-41:13:035:0	You , too , must keep watch ! For you do n't know when the master of the household will return—in the evening , at midnight , before dawn , or at daybreak .
+41:13:035:0	You , too , must keep watch ! For you do n't know when the master of the household will return — in the evening , at midnight , before dawn , or at daybreak .
 41:13:036:0	Do n't let him find you sleeping when he arrives without warning .
 41:13:037:0	I say to you what I say to everyone : Watch for him ! ”

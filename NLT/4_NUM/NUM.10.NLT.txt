@@ -2,7 +2,7 @@
 4:10:001:0	Now the Lord said to Moses ,
 4:10:002:0	“ Make two trumpets of hammered silver for calling the community to assemble and for signaling the breaking of camp .
 4:10:003:0	When both trumpets are blown , everyone must gather before you at the entrance of the Tabernacle .
-4:10:004:0	But if only one trumpet is blown , then only the leaders—the heads of the clans of Israel—must present themselves to you .
+4:10:004:0	But if only one trumpet is blown , then only the leaders — the heads of the clans of Israel — must present themselves to you .
 4:10:005:0	“ When you sound the signal to move on , the tribes camped on the east side of the Tabernacle must break camp and move forward .
 4:10:006:0	When you sound the signal a second time , the tribes camped on the south will follow . You must sound short blasts as the signal for moving on .
 4:10:007:0	But when you call the people to an assembly , blow the trumpets with a different signal .
@@ -10,7 +10,7 @@
 4:10:009:0	“ When you arrive in your own land and go to war against your enemies who attack you , sound the alarm with the trumpets . Then the Lord your God will remember you and rescue you from your enemies .
 4:10:002:1	The Israelites Leave Sinai
 4:10:010:0	Blow the trumpets in times of gladness , too , sounding them at your annual festivals and at the beginning of each month . And blow the trumpets over your burnt offerings and peace offerings . The trumpets will remind your God of his covenant with you . I am the Lord your God . ”
-4:10:011:0	In the second year after Israel 's departure from Egypt—on the twentieth day of the second month—the cloud lifted from the Tabernacle of the Covenant .
+4:10:011:0	In the second year after Israel 's departure from Egypt — on the twentieth day of the second month — the cloud lifted from the Tabernacle of the Covenant .
 4:10:012:0	So the Israelites set out from the wilderness of Sinai and traveled on from place to place until the cloud stopped in the wilderness of Paran .
 4:10:013:0	When the people set out for the first time , following the instructions the Lord had given through Moses ,
 4:10:014:0	Judah 's troops led the way . They marched behind their banner , and their leader was Nahshon son of Amminadab .

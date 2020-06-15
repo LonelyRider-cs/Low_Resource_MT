@@ -1,7 +1,7 @@
 8:3:001:1	Ruth at the Threshing Floor
 8:3:001:0	One day Naomi said to Ruth , “ My daughter , it 's time that I found a permanent home for you , so that you will be provided for .
 8:3:002:0	Boaz is a close relative of ours , and he 's been very kind by letting you gather grain with his young women . Tonight he will be winnowing barley at the threshing floor .
-8:3:003:0	Now do as I tell you—take a bath and put on perfume and dress in your nicest clothes . Then go to the threshing floor , but do n't let Boaz see you until he has finished eating and drinking .
+8:3:003:0	Now do as I tell you — take a bath and put on perfume and dress in your nicest clothes . Then go to the threshing floor , but do n't let Boaz see you until he has finished eating and drinking .
 8:3:004:0	Be sure to notice where he lies down ; then go and uncover his feet and lie down there . He will tell you what to do . ”
 8:3:005:0	“ I will do everything you say , ” Ruth replied .
 8:3:006:0	So she went down to the threshing floor that night and followed the instructions of her mother-in-law .

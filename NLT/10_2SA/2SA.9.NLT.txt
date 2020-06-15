@@ -1,5 +1,5 @@
 10:9:001:1	David 's Kindness to Mephibosheth
-10:9:001:0	One day David asked , “ Is anyone in Saul 's family still alive—anyone to whom I can show kindness for Jonathan 's sake ? ”
+10:9:001:0	One day David asked , “ Is anyone in Saul 's family still alive — anyone to whom I can show kindness for Jonathan 's sake ? ”
 10:9:002:0	He summoned a man named Ziba , who had been one of Saul 's servants . “ Are you Ziba ? ” the king asked. “ Yes sir , I am , ” Ziba replied .
 10:9:003:0	The king then asked him , “ Is anyone still alive from Saul 's family ? If so , I want to show God 's kindness to them. ” Ziba replied , “ Yes , one of Jonathan 's sons is still alive . He is crippled in both feet . ”
 10:9:004:0	“ Where is he ? ” the king asked. “ In Lo-debar , ” Ziba told him , “ at the home of Makir son of Ammiel . ”

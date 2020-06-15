@@ -9,14 +9,14 @@
 2:25:008:0	“ Have the people of Israel build me a holy sanctuary so I can live among them .
 2:25:002:1	Plans for the Ark of the Covenant
 2:25:009:0	You must build this Tabernacle and its furnishings exactly according to the pattern I will show you .
-2:25:010:0	“ Have the people make an Ark of acacia wood—a sacred chest 45 inches long , 27 inches wide , and 27 inches high .
+2:25:010:0	“ Have the people make an Ark of acacia wood — a sacred chest 45 inches long , 27 inches wide , and 27 inches high .
 2:25:011:0	Overlay it inside and outside with pure gold , and run a molding of gold all around it .
 2:25:012:0	Cast four gold rings and attach them to its four feet , two rings on each side .
 2:25:013:0	Make poles from acacia wood , and overlay them with gold .
 2:25:014:0	Insert the poles into the rings at the sides of the Ark to carry it .
 2:25:015:0	These carrying poles must stay inside the rings ; never remove them .
 2:25:016:0	When the Ark is finished , place inside it the stone tablets inscribed with the terms of the covenant , which I will give to you .
-2:25:017:0	“ Then make the Ark 's cover—the place of atonement—from pure gold . It must be 45 inches long and 27 inches wide .
+2:25:017:0	“ Then make the Ark 's cover — the place of atonement — from pure gold . It must be 45 inches long and 27 inches wide .
 2:25:018:0	Then make two cherubim from hammered gold , and place them on the two ends of the atonement cover .
 2:25:019:0	Mold the cherubim on each end of the atonement cover , making it all of one piece of gold .
 2:25:020:0	The cherubim will face each other and look down on the atonement cover . With their wings spread above it , they will protect it .
@@ -29,10 +29,10 @@
 2:25:026:0	Make four gold rings for the table and attach them at the four corners next to the four legs .
 2:25:027:0	Attach the rings near the border to hold the poles that are used to carry the table .
 2:25:028:0	Make these poles from acacia wood , and overlay them with gold .
-2:25:029:0	Make special containers of pure gold for the table—bowls , ladles , pitchers , and jars—to be used in pouring out liquid offerings .
+2:25:029:0	Make special containers of pure gold for the table — bowls , ladles , pitchers , and jars — to be used in pouring out liquid offerings .
 2:25:004:1	Plans for the Lampstand
 2:25:030:0	Place the Bread of the Presence on the table to remain before me at all times .
-2:25:031:0	“ Make a lampstand of pure , hammered gold . Make the entire lampstand and its decorations of one piece—the base , center stem , lamp cups , buds , and petals .
+2:25:031:0	“ Make a lampstand of pure , hammered gold . Make the entire lampstand and its decorations of one piece — the base , center stem , lamp cups , buds , and petals .
 2:25:032:0	Make it with six branches going out from the center stem , three on each side .
 2:25:033:0	Each of the six branches will have three lamp cups shaped like almond blossoms , complete with buds and petals .
 2:25:034:0	Craft the center stem of the lampstand with four lamp cups shaped like almond blossoms , complete with buds and petals .

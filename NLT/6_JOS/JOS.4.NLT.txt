@@ -2,8 +2,8 @@
 6:4:001:0	When all the people had crossed the Jordan , the Lord said to Joshua ,
 6:4:002:0	“ Now choose twelve men , one from each tribe .
 6:4:003:0	Tell them , ‘ Take twelve stones from the very place where the priests are standing in the middle of the Jordan . Carry them out and pile them up at the place where you will camp tonight . ' ”
-6:4:004:0	So Joshua called together the twelve men he had chosen—one from each of the tribes of Israel .
-6:4:005:0	He told them , “ Go into the middle of the Jordan , in front of the Ark of the Lord your God . Each of you must pick up one stone and carry it out on your shoulder—twelve stones in all , one for each of the twelve tribes of Israel .
+6:4:004:0	So Joshua called together the twelve men he had chosen — one from each of the tribes of Israel .
+6:4:005:0	He told them , “ Go into the middle of the Jordan , in front of the Ark of the Lord your God . Each of you must pick up one stone and carry it out on your shoulder — twelve stones in all , one for each of the twelve tribes of Israel .
 6:4:006:0	We will use these stones to build a memorial . In the future your children will ask you , ‘ What do these stones mean ? '
 6:4:007:0	Then you can tell them , ‘ They remind us that the Jordan River stopped flowing when the Ark of the Lord 's Covenant went across . ' These stones will stand as a memorial among the people of Israel forever . ”
 6:4:008:0	So the men did as Joshua had commanded them . They took twelve stones from the middle of the Jordan River , one for each tribe , just as the Lord had told Joshua . They carried them to the place where they camped for the night and constructed the memorial there .
@@ -11,7 +11,7 @@
 6:4:010:0	The priests who were carrying the Ark stood in the middle of the river until all of the Lord 's commands that Moses had given to Joshua were carried out . Meanwhile , the people hurried across the riverbed .
 6:4:011:0	And when everyone was safely on the other side , the priests crossed over with the Ark of the Lord as the people watched .
 6:4:012:0	The armed warriors from the tribes of Reuben , Gad , and the half-tribe of Manasseh led the Israelites across the Jordan , just as Moses had directed .
-6:4:013:0	These armed men—about 40,000 strong—were ready for battle , and the Lord was with them as they crossed over to the plains of Jericho .
+6:4:013:0	These armed men — about 40,000 strong — were ready for battle , and the Lord was with them as they crossed over to the plains of Jericho .
 6:4:014:0	That day the Lord made Joshua a great leader in the eyes of all the Israelites , and for the rest of his life they revered him as much as they had revered Moses .
 6:4:015:0	The Lord had said to Joshua ,
 6:4:016:0	“ Command the priests carrying the Ark of the Covenant to come up out of the riverbed . ”

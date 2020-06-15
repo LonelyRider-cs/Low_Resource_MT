@@ -1,6 +1,6 @@
 9:9:001:1	Saul Meets Samuel
 9:9:001:0	There was a wealthy , influential man named Kish from the tribe of Benjamin . He was the son of Abiel , son of Zeror , son of Becorath , son of Aphiah , of the tribe of Benjamin .
-9:9:002:0	His son Saul was the most handsome man in Israel—head and shoulders taller than anyone else in the land .
+9:9:002:0	His son Saul was the most handsome man in Israel — head and shoulders taller than anyone else in the land .
 9:9:003:0	One day Kish 's donkeys strayed away , and he told Saul , “ Take a servant with you , and go look for the donkeys . ”
 9:9:004:0	So Saul took one of the servants and traveled through the hill country of Ephraim , the land of Shalishah , the Shaalim area , and the entire land of Benjamin , but they could n't find the donkeys anywhere .
 9:9:005:0	Finally , they entered the region of Zuph , and Saul said to his servant , “ Let 's go home . By now my father will be more worried about us than about the donkeys ! ”

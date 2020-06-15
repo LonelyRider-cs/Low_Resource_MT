@@ -1,8 +1,8 @@
 63:1:001:1	Greetings
-63:1:001:0	This letter is from John , the elder.I am writing to the chosen lady and to her children , whom I love in the truth—as does everyone else who knows the truth—
+63:1:001:0	This letter is from John , the elder.I am writing to the chosen lady and to her children , whom I love in the truth — as does everyone else who knows the truth —
 63:1:002:0	because the truth lives in us and will be with us forever .
 63:1:002:1	Live in the Truth
-63:1:003:0	Grace , mercy , and peace , which come from God the Father and from Jesus Christ—the Son of the Father—will continue to be with us who live in truth and love .
+63:1:003:0	Grace , mercy , and peace , which come from God the Father and from Jesus Christ — the Son of the Father — will continue to be with us who live in truth and love .
 63:1:004:0	How happy I was to meet some of your children and find them living according to the truth , just as the Father commanded .
 63:1:005:0	I am writing to remind you , dear friends , that we should love one another . This is not a new commandment , but one we have had from the beginning .
 63:1:006:0	Love means doing what God has commanded us , and he has commanded us to love one another , just as you heard from the beginning .

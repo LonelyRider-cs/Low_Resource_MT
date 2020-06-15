@@ -1,6 +1,6 @@
 4:7:001:1	Offerings of Dedication
 4:7:001:0	On the day Moses set up the Tabernacle , he anointed it and set it apart as holy . He also anointed and set apart all its furnishings and the altar with its utensils .
-4:7:002:0	Then the leaders of Israel—the tribal leaders who had registered the troops—came and brought their offerings .
+4:7:002:0	Then the leaders of Israel — the tribal leaders who had registered the troops — came and brought their offerings .
 4:7:003:0	Together they brought six large wagons and twelve oxen . There was a wagon for every two leaders and an ox for each leader . They presented these to the Lord in front of the Tabernacle .
 4:7:004:0	Then the Lord said to Moses ,
 4:7:005:0	“ Receive their gifts , and use these oxen and wagons for transporting the Tabernacle . Distribute them among the Levites according to the work they have to do . ”
@@ -87,4 +87,4 @@
 4:7:086:0	Each of the twelve gold containers that was filled with incense weighed four ounces ( as measured by the weight of the sanctuary shekel ) . The total weight of the gold was three pounds .
 4:7:087:0	Twelve young bulls , twelve rams , and twelve one-year-old male lambs were donated for the burnt offerings , along with their prescribed grain offerings . Twelve male goats were brought for the sin offerings .
 4:7:088:0	Twenty-four bulls , sixty rams , sixty male goats , and sixty one-year-old male lambs were donated for the peace offerings . This was the dedication offering for the altar after it was anointed .
-4:7:089:0	Whenever Moses went into the Tabernacle to speak with the Lord , he heard the voice speaking to him from between the two cherubim above the Ark 's cover—the place of atonement—that rests on the Ark of the Covenant . The Lord spoke to him from there .
+4:7:089:0	Whenever Moses went into the Tabernacle to speak with the Lord , he heard the voice speaking to him from between the two cherubim above the Ark 's cover — the place of atonement — that rests on the Ark of the Covenant . The Lord spoke to him from there .

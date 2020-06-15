@@ -9,7 +9,7 @@
 1:42:008:0	Although Joseph recognized his brothers , they did n't recognize him .
 1:42:009:0	And he remembered the dreams he 'd had about them many years before . He said to them , “ You are spies ! You have come to see how vulnerable our land has become . ”
 1:42:010:0	“ No , my lord ! ” they exclaimed . “ Your servants have simply come to buy food .
-1:42:011:0	We are all brothers—members of the same family . We are honest men , sir ! We are not spies ! ”
+1:42:011:0	We are all brothers — members of the same family . We are honest men , sir ! We are not spies ! ”
 1:42:012:0	“ Yes , you are ! ” Joseph insisted . “ You have come to see how vulnerable our land has become . ”
 1:42:013:0	“ Sir , ” they said , “ there are actually twelve of us . We , your servants , are all brothers , sons of a man living in the land of Canaan . Our youngest brother is back there with our father right now , and one of our brothers is no longer with us . ”
 1:42:014:0	But Joseph insisted , “ As I said , you are spies !

@@ -6,7 +6,7 @@
 23:14:005:0	For the Lord has crushed your wicked powerand broken your evil rule .
 23:14:006:0	You struck the people with endless blows of rageand held the nations in your angry gripwith unrelenting tyranny .
 23:14:007:0	But finally the earth is at rest and quiet.Now it can sing again !
-23:14:008:0	Even the trees of the forest—the cypress trees and the cedars of Lebanon—sing out this joyous song : ‘ Since you have been cut down , no one will come now to cut us down ! '
+23:14:008:0	Even the trees of the forest — the cypress trees and the cedars of Lebanon — sing out this joyous song : ‘ Since you have been cut down , no one will come now to cut us down ! '
 23:14:009:0	“ In the place of the dead there is excitementover your arrival.The spirits of world leaders and mighty kings long deadstand up to see you .
 23:14:010:0	With one voice they all cry out , ‘ Now you are as weak as we are !
 23:14:011:0	Your might and power were buried with you.The sound of the harp in your palace has ceased.Now maggots are your sheet , and worms your blanket . '
@@ -27,9 +27,9 @@
 23:14:025:0	I will break the Assyrians when they are in Israel ; I will trample them on my mountains.My people will no longer be their slavesnor bow down under their heavy loads .
 23:14:026:0	I have a plan for the whole earth , a hand of judgment upon all the nations .
 23:14:003:1	A Message about Philistia
-23:14:027:0	The Lord of Heaven 's Armies has spoken—who can change his plans ? When his hand is raised , who can stop him ? ”
+23:14:027:0	The Lord of Heaven 's Armies has spoken — who can change his plans ? When his hand is raised , who can stop him ? ”
 23:14:028:0	This message came to me the year King Ahaz died :
-23:14:029:0	Do not rejoice , you Philistines , that the rod that struck you is broken—that the king who attacked you is dead.For from that snake a more poisonous snake will be born , a fiery serpent to destroy you !
+23:14:029:0	Do not rejoice , you Philistines , that the rod that struck you is broken — that the king who attacked you is dead.For from that snake a more poisonous snake will be born , a fiery serpent to destroy you !
 23:14:030:0	I will feed the poor in my pasture ; the needy will lie down in peace.But as for you , I will wipe you out with famineand destroy the few who remain .
 23:14:031:0	Wail at the gates ! Weep in the cities ! Melt with fear , you Philistines ! A powerful army comes like smoke from the north.Each soldier rushes forward eager to fight .
 23:14:032:0	What should we tell the Philistine messengers ? Tell them , “ The Lord has built Jerusalem ; its walls will give refuge to his oppressed people . ”

@@ -1,6 +1,6 @@
 5:26:001:1	Harvest Offerings and Tithes
 5:26:001:0	“ When you enter the land the Lord your God is giving you as a special possession and you have conquered it and settled there ,
-5:26:002:0	put some of the first produce from each crop you harvest into a basket and bring it to the designated place of worship—the place the Lord your God chooses for his name to be honored .
+5:26:002:0	put some of the first produce from each crop you harvest into a basket and bring it to the designated place of worship — the place the Lord your God chooses for his name to be honored .
 5:26:003:0	Go to the priest in charge at that time and say to him , ‘ With this gift I acknowledge to the Lord your God that I have entered the land he swore to our ancestors he would give us . '
 5:26:004:0	The priest will then take the basket from your hand and set it before the altar of the Lord your God .
 5:26:005:0	“ You must then say in the presence of the Lord your God , ‘ My ancestor Jacob was a wandering Aramean who went to live as a foreigner in Egypt . His family arrived few in number , but in Egypt they became a large and mighty nation .
@@ -16,7 +16,7 @@
 5:26:002:1	A Call to Obey the
 5:26:003:1	Lord
 5:26:004:1	's Commands
-5:26:015:0	Now look down from your holy dwelling place in heaven and bless your people Israel and the land you swore to our ancestors to give us—a land flowing with milk and honey . '
+5:26:015:0	Now look down from your holy dwelling place in heaven and bless your people Israel and the land you swore to our ancestors to give us — a land flowing with milk and honey . '
 5:26:016:0	“ Today the Lord your God has commanded you to obey all these decrees and regulations . So be careful to obey them wholeheartedly .
 5:26:017:0	You have declared today that the Lord is your God . And you have promised to walk in his ways , and to obey his decrees , commands , and regulations , and to do everything he tells you .
 5:26:018:0	The Lord has declared today that you are his people , his own special treasure , just as he promised , and that you must obey all his commands .

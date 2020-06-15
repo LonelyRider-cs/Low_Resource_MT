@@ -1,7 +1,7 @@
 43:17:001:1	The Prayer of Jesus
 43:17:001:0	After saying all these things , Jesus looked up to heaven and said , “ Father , the hour has come . Glorify your Son so he can give glory back to you .
 43:17:002:0	For you have given him authority over everyone . He gives eternal life to each one you have given him .
-43:17:003:0	And this is the way to have eternal life—to know you , the only true God , and Jesus Christ , the one you sent to earth .
+43:17:003:0	And this is the way to have eternal life — to know you , the only true God , and Jesus Christ , the one you sent to earth .
 43:17:004:0	I brought glory to you here on earth by completing the work you gave me to do .
 43:17:005:0	Now , Father , bring me into the glory we shared before the world began .
 43:17:006:0	“ I have revealed you to the ones you gave me from this world . They were always yours . You gave them to me , and they have kept your word .
@@ -19,7 +19,7 @@
 43:17:018:0	Just as you sent me into the world , I am sending them into the world .
 43:17:019:0	And I give myself as a holy sacrifice for them so they can be made holy by your truth .
 43:17:020:0	“ I am praying not only for these disciples but also for all who will ever believe in me through their message .
-43:17:021:0	I pray that they will all be one , just as you and I are one—as you are in me , Father , and I am in you . And may they be in us so that the world will believe you sent me .
+43:17:021:0	I pray that they will all be one , just as you and I are one — as you are in me , Father , and I am in you . And may they be in us so that the world will believe you sent me .
 43:17:022:0	“ I have given them the glory you gave me , so they may be one as we are one .
 43:17:023:0	I am in them and you are in me . May they experience such perfect unity that the world will know that you sent me and that you love them as much as you love me .
 43:17:024:0	Father , I want these whom you have given me to be with me where I am . Then they can see all the glory you gave me because you loved me even before the world began !

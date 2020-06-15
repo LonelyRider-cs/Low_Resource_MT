@@ -1,7 +1,7 @@
 1:5:001:1	The Descendants of Adam
 1:5:001:0	This is the written account of the descendants of Adam . When God created human beings , he made them to be like himself .
 1:5:002:0	He created them male and female , and he blessed them and called them “ human . ”
-1:5:003:0	When Adam was 130 years old , he became the father of a son who was just like him—in his very image . He named his son Seth .
+1:5:003:0	When Adam was 130 years old , he became the father of a son who was just like him — in his very image . He named his son Seth .
 1:5:004:0	After the birth of Seth , Adam lived another 800 years , and he had other sons and daughters .
 1:5:005:0	Adam lived 930 years , and then he died .
 1:5:006:0	When Seth was 105 years old , he became the father of Enosh .

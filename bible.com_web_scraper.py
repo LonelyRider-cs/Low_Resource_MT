@@ -39,7 +39,7 @@ def page_scraper(url, book, book_number, chapter_number, lang_code):
     for tag in all_tags:
 
         if tag['class'][0] == 'heading':
-            token = word_tokenize(tag.text.replace("’", "'"))
+            token = word_tokenize(tag.text.replace("’", "'").replace("—", " — "))
             tokened_heading = ' '.join(token)
             if len(str(heading_count)) == 1:
                 file.write(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_heading + "\n")
@@ -63,7 +63,7 @@ def page_scraper(url, book, book_number, chapter_number, lang_code):
             #this also writes to the specified text file
             if verse_count != temp_verse:
                 #tokenize all words and symbols before writing to file
-                token = word_tokenize(current_working_verse.replace("’", "'"))
+                token = word_tokenize(current_working_verse.replace("’", "'").replace("—", " — "))
                 tokened_working_verse = ' '.join(token)
                 #print(current_working_verse)
                 #print(token)
@@ -104,7 +104,7 @@ def page_scraper(url, book, book_number, chapter_number, lang_code):
                             current_working_verse += gchild.text
 
     #tokenize that last line
-    token = word_tokenize(current_working_verse.replace("’", "'"))
+    token = word_tokenize(current_working_verse.replace("’", "'").replace("—", " — "))
     tokened_working_verse = ' '.join(token)
     #print(tokened_working_verse)
     #at the end here we need to add the last verse no matter what due to the way the for loop is set up

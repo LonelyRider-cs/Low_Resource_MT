@@ -1,6 +1,6 @@
 43:4:001:1	Jesus and the Samaritan Woman
 43:4:001:0	Jesus knew the Pharisees had heard that he was baptizing and making more disciples than John
-43:4:002:0	( though Jesus himself did n't baptize them—his disciples did ) .
+43:4:002:0	( though Jesus himself did n't baptize them — his disciples did ) .
 43:4:003:0	So he left Judea and returned to Galilee .
 43:4:004:0	He had to go through Samaria on the way .
 43:4:005:0	Eventually he came to the Samaritan village of Sychar , near the field that Jacob gave to his son Joseph .
@@ -15,15 +15,15 @@
 43:4:014:0	But those who drink the water I give will never be thirsty again . It becomes a fresh , bubbling spring within them , giving them eternal life . ”
 43:4:015:0	“ Please , sir , ” the woman said , “ give me this water ! Then I 'll never be thirsty again , and I wo n't have to come here to get water . ”
 43:4:016:0	“ Go and get your husband , ” Jesus told her .
-43:4:017:0	“ I do n't have a husband , ” the woman replied.Jesus said , “ You 're right ! You do n't have a husband—
+43:4:017:0	“ I do n't have a husband , ” the woman replied.Jesus said , “ You 're right ! You do n't have a husband —
 43:4:018:0	for you have had five husbands , and you are n't even married to the man you 're living with now . You certainly spoke the truth ! ”
 43:4:019:0	“ Sir , ” the woman said , “ you must be a prophet .
 43:4:020:0	So tell me , why is it that you Jews insist that Jerusalem is the only place of worship , while we Samaritans claim it is here at Mount Gerizim , where our ancestors worshiped ? ”
 43:4:021:0	Jesus replied , “ Believe me , dear woman , the time is coming when it will no longer matter whether you worship the Father on this mountain or in Jerusalem .
 43:4:022:0	You Samaritans know very little about the one you worship , while we Jews know all about him , for salvation comes through the Jews .
-43:4:023:0	But the time is coming—indeed it 's here now—when true worshipers will worship the Father in spirit and in truth . The Father is looking for those who will worship him that way .
+43:4:023:0	But the time is coming — indeed it 's here now — when true worshipers will worship the Father in spirit and in truth . The Father is looking for those who will worship him that way .
 43:4:024:0	For God is Spirit , so those who worship him must worship in spirit and in truth . ”
-43:4:025:0	The woman said , “ I know the Messiah is coming—the one who is called Christ . When he comes , he will explain everything to us . ”
+43:4:025:0	The woman said , “ I know the Messiah is coming — the one who is called Christ . When he comes , he will explain everything to us . ”
 43:4:026:0	Then Jesus told her , “ the Messiah ! ”
 43:4:027:0	Just then his disciples came back . They were shocked to find him talking to a woman , but none of them had the nerve to ask , “ What do you want with her ? ” or “ Why are you talking to her ? ”
 43:4:028:0	The woman left her water jar beside the well and ran back to the village , telling everyone ,

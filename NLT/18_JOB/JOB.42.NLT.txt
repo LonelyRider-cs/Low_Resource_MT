@@ -2,7 +2,7 @@
 18:42:002:1	Lord
 18:42:001:0	Then Job replied to the Lord :
 18:42:002:0	“ I know that you can do anything , and no one can stop you .
-18:42:003:0	You asked , ‘ Who is this that questions my wisdom with such ignorance ? 'It is I—and I was talking about things I knew nothing about , things far too wonderful for me .
+18:42:003:0	You asked , ‘ Who is this that questions my wisdom with such ignorance ? 'It is I — and I was talking about things I knew nothing about , things far too wonderful for me .
 18:42:004:0	You said , ‘ Listen and I will speak ! I have some questions for you , and you must answer them . '
 18:42:005:0	I had only heard about you before , but now I have seen you with my own eyes .
 18:42:003:1	Conclusion : The

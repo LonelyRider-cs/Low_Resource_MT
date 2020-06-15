@@ -14,17 +14,17 @@
 40:23:013:0	“ What sorrow awaits you teachers of religious law and you Pharisees . Hypocrites ! For you shut the door of the Kingdom of Heaven in people 's faces . You wo n't go in yourselves , and you do n't let others enter either .
 40:23:015:0	“ What sorrow awaits you teachers of religious law and you Pharisees . Hypocrites ! For you cross land and sea to make one convert , and then you turn that person into twice the child of hell you yourselves are !
 40:23:016:0	“ Blind guides ! What sorrow awaits you ! For you say that it means nothing to swear ‘ by God 's Temple , ' but that it is binding to swear ‘ by the gold in the Temple . '
-40:23:017:0	Blind fools ! Which is more important—the gold or the Temple that makes the gold sacred ?
+40:23:017:0	Blind fools ! Which is more important — the gold or the Temple that makes the gold sacred ?
 40:23:018:0	And you say that to swear ‘ by the altar ' is not binding , but to swear ‘ by the gifts on the altar ' is binding .
-40:23:019:0	How blind ! For which is more important—the gift on the altar or the altar that makes the gift sacred ?
+40:23:019:0	How blind ! For which is more important — the gift on the altar or the altar that makes the gift sacred ?
 40:23:020:0	When you swear ‘ by the altar , ' you are swearing by it and by everything on it .
 40:23:021:0	And when you swear ‘ by the Temple , ' you are swearing by it and by God , who lives in it .
 40:23:022:0	And when you swear ‘ by heaven , ' you are swearing by the throne of God and by God , who sits on the throne .
-40:23:023:0	“ What sorrow awaits you teachers of religious law and you Pharisees . Hypocrites ! For you are careful to tithe even the tiniest income from your herb gardens , but you ignore the more important aspects of the law—justice , mercy , and faith . You should tithe , yes , but do not neglect the more important things .
+40:23:023:0	“ What sorrow awaits you teachers of religious law and you Pharisees . Hypocrites ! For you are careful to tithe even the tiniest income from your herb gardens , but you ignore the more important aspects of the law — justice , mercy , and faith . You should tithe , yes , but do not neglect the more important things .
 40:23:024:0	Blind guides ! You strain your water so you wo n't accidentally swallow a gnat , but you swallow a camel !
-40:23:025:0	“ What sorrow awaits you teachers of religious law and you Pharisees . Hypocrites ! For you are so careful to clean the outside of the cup and the dish , but inside you are filthy—full of greed and self-indulgence !
+40:23:025:0	“ What sorrow awaits you teachers of religious law and you Pharisees . Hypocrites ! For you are so careful to clean the outside of the cup and the dish , but inside you are filthy — full of greed and self-indulgence !
 40:23:026:0	You blind Pharisee ! First wash the inside of the cup and the dish , and then the outside will become clean , too .
-40:23:027:0	“ What sorrow awaits you teachers of religious law and you Pharisees . Hypocrites ! For you are like whitewashed tombs—beautiful on the outside but filled on the inside with dead people 's bones and all sorts of impurity .
+40:23:027:0	“ What sorrow awaits you teachers of religious law and you Pharisees . Hypocrites ! For you are like whitewashed tombs — beautiful on the outside but filled on the inside with dead people 's bones and all sorts of impurity .
 40:23:028:0	Outwardly you look like righteous people , but inwardly your hearts are filled with hypocrisy and lawlessness .
 40:23:029:0	“ What sorrow awaits you teachers of religious law and you Pharisees . Hypocrites ! For you build tombs for the prophets your ancestors killed , and you decorate the monuments of the godly people your ancestors destroyed .
 40:23:030:0	Then you say , ‘ If we had lived in the days of our ancestors , we would never have joined them in killing the prophets . '
@@ -32,7 +32,7 @@
 40:23:032:0	Go ahead and finish what your ancestors started .
 40:23:033:0	Snakes ! Sons of vipers ! How will you escape the judgment of hell ?
 40:23:034:0	“ Therefore , I am sending you prophets and wise men and teachers of religious law . But you will kill some by crucifixion , and you will flog others with whips in your synagogues , chasing them from city to city .
-40:23:035:0	As a result , you will be held responsible for the murder of all godly people of all time—from the murder of righteous Abel to the murder of Zechariah son of Berekiah , whom you killed in the Temple between the sanctuary and the altar .
+40:23:035:0	As a result , you will be held responsible for the murder of all godly people of all time — from the murder of righteous Abel to the murder of Zechariah son of Berekiah , whom you killed in the Temple between the sanctuary and the altar .
 40:23:002:1	Jesus Grieves over Jerusalem
 40:23:036:0	I tell you the truth , this judgment will fall on this very generation .
 40:23:037:0	“ O Jerusalem , Jerusalem , the city that kills the prophets and stones God 's messengers ! How often I have wanted to gather your children together as a hen protects her chicks beneath her wings , but you would n't let me .

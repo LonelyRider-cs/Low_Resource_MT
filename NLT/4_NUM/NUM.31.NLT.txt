@@ -6,7 +6,7 @@
 4:31:005:0	So they chose 1,000 men from each tribe of Israel , a total of 12,000 men armed for battle .
 4:31:006:0	Then Moses sent them out , 1,000 men from each tribe , and Phinehas son of Eleazar the priest led them into battle . They carried along the holy objects of the sanctuary and the trumpets for sounding the charge .
 4:31:007:0	They attacked Midian as the Lord had commanded Moses , and they killed all the men .
-4:31:008:0	All five of the Midianite kings—Evi , Rekem , Zur , Hur , and Reba—died in the battle . They also killed Balaam son of Beor with the sword .
+4:31:008:0	All five of the Midianite kings — Evi , Rekem , Zur , Hur , and Reba — died in the battle . They also killed Balaam son of Beor with the sword .
 4:31:009:0	Then the Israelite army captured the Midianite women and children and seized their cattle and flocks and all their wealth as plunder .
 4:31:010:0	They burned all the towns and villages where the Midianites had lived .
 4:31:011:0	After they had gathered the plunder and captives , both people and animals ,
@@ -20,14 +20,14 @@
 4:31:019:0	And all of you who have killed anyone or touched a dead body must stay outside the camp for seven days . You must purify yourselves and your captives on the third and seventh days .
 4:31:020:0	Purify all your clothing , too , and everything made of leather , goat hair , or wood . ”
 4:31:021:0	Then Eleazar the priest said to the men who were in the battle , “ The Lord has given Moses this legal requirement :
-4:31:022:0	Anything made of gold , silver , bronze , iron , tin , or lead—
-4:31:023:0	that is , all metals that do not burn—must be passed through fire in order to be made ceremonially pure . These metal objects must then be further purified with the water of purification . But everything that burns must be purified by the water alone .
+4:31:022:0	Anything made of gold , silver , bronze , iron , tin , or lead —
+4:31:023:0	that is , all metals that do not burn — must be passed through fire in order to be made ceremonially pure . These metal objects must then be further purified with the water of purification . But everything that burns must be purified by the water alone .
 4:31:002:1	Division of the Plunder
 4:31:024:0	On the seventh day you must wash your clothes and be purified . Then you may return to the camp . ”
 4:31:025:0	And the Lord said to Moses ,
 4:31:026:0	“ You and Eleazar the priest and the family leaders of each tribe are to make a list of all the plunder taken in the battle , including the people and animals .
 4:31:027:0	Then divide the plunder into two parts , and give half to the men who fought the battle and half to the rest of the people .
-4:31:028:0	From the army 's portion , first give the Lord his share of the plunder—one of every 500 of the prisoners and of the cattle , donkeys , sheep , and goats .
+4:31:028:0	From the army 's portion , first give the Lord his share of the plunder — one of every 500 of the prisoners and of the cattle , donkeys , sheep , and goats .
 4:31:029:0	Give this share of the army 's half to Eleazar the priest as an offering to the Lord .
 4:31:030:0	From the half that belongs to the people of Israel , take one of every fifty of the prisoners and of the cattle , donkeys , sheep , goats , and other animals . Give this share to the Levites , who are in charge of maintaining the Lord 's Tabernacle . ”
 4:31:031:0	So Moses and Eleazar the priest did as the Lord commanded Moses .
@@ -49,8 +49,8 @@
 4:31:047:0	From the half-share given to the people , Moses took one of every fifty prisoners and animals and gave them to the Levites , who maintained the Lord 's Tabernacle . All this was done as the Lord had commanded Moses .
 4:31:048:0	Then all the generals and captains came to Moses
 4:31:049:0	and said , “ We , your servants , have accounted for all the men who went out to battle under our command ; not one of us is missing !
-4:31:050:0	So we are presenting the items of gold we captured as an offering to the Lord from our share of the plunder—armbands , bracelets , rings , earrings , and necklaces . This will purify our lives before the Lord and make us right with him . ”
-4:31:051:0	So Moses and Eleazar the priest received the gold from all the military commanders—all kinds of jewelry and crafted objects .
+4:31:050:0	So we are presenting the items of gold we captured as an offering to the Lord from our share of the plunder — armbands , bracelets , rings , earrings , and necklaces . This will purify our lives before the Lord and make us right with him . ”
+4:31:051:0	So Moses and Eleazar the priest received the gold from all the military commanders — all kinds of jewelry and crafted objects .
 4:31:052:0	In all , the gold that the generals and captains presented as a gift to the Lord weighed about 420 pounds .
 4:31:053:0	All the fighting men had taken some of the plunder for themselves .
 4:31:054:0	So Moses and Eleazar the priest accepted the gifts from the generals and captains and brought the gold to the Tabernacle as a reminder to the Lord that the people of Israel belong to him .

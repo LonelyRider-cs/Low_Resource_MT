@@ -10,7 +10,7 @@
 5:22:010:0	“ You must not plow with an ox and a donkey harnessed together .
 5:22:011:0	“ You must not wear clothing made of wool and linen woven together .
 5:22:001:1	Regulations for Sexual Purity
-5:22:012:0	“ You must put four tassels on the hem of the cloak with which you cover yourself—on the front , back , and sides .
+5:22:012:0	“ You must put four tassels on the hem of the cloak with which you cover yourself — on the front , back , and sides .
 5:22:013:0	“ Suppose a man marries a woman , but after sleeping with her , he turns against her
 5:22:014:0	and publicly accuses her of shameful conduct , saying , ‘ When I married this woman , I discovered she was not a virgin . '
 5:22:015:0	Then the woman 's father and mother must bring the proof of her virginity to the elders as they hold court at the town gate .

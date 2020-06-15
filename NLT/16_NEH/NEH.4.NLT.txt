@@ -1,6 +1,6 @@
 16:4:001:1	Enemies Oppose the Rebuilding
 16:4:001:0	Sanballat was very angry when he learned that we were rebuilding the wall . He flew into a rage and mocked the Jews ,
-16:4:002:0	saying in front of his friends and the Samarian army officers , “ What does this bunch of poor , feeble Jews think they 're doing ? Do they think they can build the wall in a single day by just offering a few sacrifices ? Do they actually think they can make something of stones from a rubbish heap—and charred ones at that ? ”
+16:4:002:0	saying in front of his friends and the Samarian army officers , “ What does this bunch of poor , feeble Jews think they 're doing ? Do they think they can build the wall in a single day by just offering a few sacrifices ? Do they actually think they can make something of stones from a rubbish heap — and charred ones at that ? ”
 16:4:003:0	Tobiah the Ammonite , who was standing beside him , remarked , “ That stone wall would collapse if even a fox walked along the top of it ! ”
 16:4:004:0	Then I prayed , “ Hear us , our God , for we are being mocked . May their scoffing fall back on their own heads , and may they themselves become captives in a foreign land !
 16:4:005:0	Do not ignore their guilt . Do not blot out their sins , for they have provoked you to anger here in front of the builders . ”
@@ -21,4 +21,4 @@
 16:4:020:0	When you hear the blast of the trumpet , rush to wherever it is sounding . Then our God will fight for us ! ”
 16:4:021:0	We worked early and late , from sunrise to sunset . And half the men were always on guard .
 16:4:022:0	I also told everyone living outside the walls to stay in Jerusalem . That way they and their servants could help with guard duty at night and work during the day .
-16:4:023:0	During this time , none of us—not I , nor my relatives , nor my servants , nor the guards who were with me—ever took off our clothes . We carried our weapons with us at all times , even when we went for water .
+16:4:023:0	During this time , none of us — not I , nor my relatives , nor my servants , nor the guards who were with me — ever took off our clothes . We carried our weapons with us at all times , even when we went for water .

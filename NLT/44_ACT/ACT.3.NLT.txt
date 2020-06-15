@@ -12,12 +12,12 @@
 44:3:002:1	Peter Preaches in the Temple
 44:3:011:0	They all rushed out in amazement to Solomon 's Colonnade , where the man was holding tightly to Peter and John .
 44:3:012:0	Peter saw his opportunity and addressed the crowd . “ People of Israel , ” he said , “ what is so surprising about this ? And why stare at us as though we had made this man walk by our own power or godliness ?
-44:3:013:0	For it is the God of Abraham , Isaac , and Jacob—the God of all our ancestors—who has brought glory to his servant Jesus by doing this . This is the same Jesus whom you handed over and rejected before Pilate , despite Pilate 's decision to release him .
+44:3:013:0	For it is the God of Abraham , Isaac , and Jacob — the God of all our ancestors — who has brought glory to his servant Jesus by doing this . This is the same Jesus whom you handed over and rejected before Pilate , despite Pilate 's decision to release him .
 44:3:014:0	You rejected this holy , righteous one and instead demanded the release of a murderer .
 44:3:015:0	You killed the author of life , but God raised him from the dead . And we are witnesses of this fact !
-44:3:016:0	“ Through faith in the name of Jesus , this man was healed—and you know how crippled he was before . Faith in Jesus ' name has healed him before your very eyes .
+44:3:016:0	“ Through faith in the name of Jesus , this man was healed — and you know how crippled he was before . Faith in Jesus ' name has healed him before your very eyes .
 44:3:017:0	“ Friends , I realize that what you and your leaders did to Jesus was done in ignorance .
-44:3:018:0	But God was fulfilling what all the prophets had foretold about the Messiah—that he must suffer these things .
+44:3:018:0	But God was fulfilling what all the prophets had foretold about the Messiah — that he must suffer these things .
 44:3:019:0	Now repent of your sins and turn to God , so that your sins may be wiped away .
 44:3:020:0	Then times of refreshment will come from the presence of the Lord , and he will again send you Jesus , your appointed Messiah .
 44:3:021:0	For he must remain in heaven until the time for the final restoration of all things , as God promised long ago through his holy prophets .

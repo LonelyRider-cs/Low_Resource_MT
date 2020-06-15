@@ -6,7 +6,7 @@
 42:5:005:0	“ Master , ” Simon replied , “ we worked hard all last night and did n't catch a thing . But if you say so , I 'll let the nets down again . ”
 42:5:006:0	And this time their nets were so full of fish they began to tear !
 42:5:007:0	A shout for help brought their partners in the other boat , and soon both boats were filled with fish and on the verge of sinking .
-42:5:008:0	When Simon Peter realized what had happened , he fell to his knees before Jesus and said , “ Oh , Lord , please leave me—I 'm such a sinful man . ”
+42:5:008:0	When Simon Peter realized what had happened , he fell to his knees before Jesus and said , “ Oh , Lord , please leave me — I 'm such a sinful man . ”
 42:5:009:0	For he was awestruck by the number of fish they had caught , as were the others with him .
 42:5:010:0	His partners , James and John , the sons of Zebedee , were also amazed.Jesus replied to Simon , “ Do n't be afraid ! From now on you 'll be fishing for people ! ”
 42:5:002:1	Jesus Heals a Man with Leprosy
@@ -32,7 +32,7 @@
 42:5:028:0	So Levi got up , left everything , and followed him .
 42:5:029:0	Later , Levi held a banquet in his home with Jesus as the guest of honor . Many of Levi 's fellow tax collectors and other guests also ate with them .
 42:5:030:0	But the Pharisees and their teachers of religious law complained bitterly to Jesus ' disciples , “ Why do you eat and drink with such scum ? ”
-42:5:031:0	Jesus answered them , “ Healthy people do n't need a doctor—sick people do .
+42:5:031:0	Jesus answered them , “ Healthy people do n't need a doctor — sick people do .
 42:5:005:1	A Discussion about Fasting
 42:5:032:0	I have come to call not those who think they are righteous , but those who know they are sinners and need to repent . ”
 42:5:033:0	One day some people said to Jesus , “ John the Baptist 's disciples fast and pray regularly , and so do the disciples of the Pharisees . Why are your disciples always eating and drinking ? ”

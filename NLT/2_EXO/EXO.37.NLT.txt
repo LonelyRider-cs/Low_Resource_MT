@@ -1,10 +1,10 @@
 2:37:001:1	Building the Ark of the Covenant
-2:37:001:0	Next Bezalel made the Ark of acacia wood—a sacred chest 45 inches long , 27 inches wide , and 27 inches high .
+2:37:001:0	Next Bezalel made the Ark of acacia wood — a sacred chest 45 inches long , 27 inches wide , and 27 inches high .
 2:37:002:0	He overlaid it inside and outside with pure gold , and he ran a molding of gold all around it .
 2:37:003:0	He cast four gold rings and attached them to its four feet , two rings on each side .
 2:37:004:0	Then he made poles from acacia wood and overlaid them with gold .
 2:37:005:0	He inserted the poles into the rings at the sides of the Ark to carry it .
-2:37:006:0	Then he made the Ark 's cover—the place of atonement—from pure gold . It was 45 inches long and 27 inches wide .
+2:37:006:0	Then he made the Ark 's cover — the place of atonement — from pure gold . It was 45 inches long and 27 inches wide .
 2:37:007:0	He made two cherubim from hammered gold and placed them on the two ends of the atonement cover .
 2:37:008:0	He molded the cherubim on each end of the atonement cover , making it all of one piece of gold .
 2:37:002:1	Building the Table
@@ -16,8 +16,8 @@
 2:37:014:0	The rings were attached near the border to hold the poles that were used to carry the table .
 2:37:015:0	He made these poles from acacia wood and overlaid them with gold .
 2:37:003:1	Building the Lampstand
-2:37:016:0	Then he made special containers of pure gold for the table—bowls , ladles , jars , and pitchers—to be used in pouring out liquid offerings .
-2:37:017:0	Then Bezalel made the lampstand of pure , hammered gold . He made the entire lampstand and its decorations of one piece—the base , center stem , lamp cups , buds , and petals .
+2:37:016:0	Then he made special containers of pure gold for the table — bowls , ladles , jars , and pitchers — to be used in pouring out liquid offerings .
+2:37:017:0	Then Bezalel made the lampstand of pure , hammered gold . He made the entire lampstand and its decorations of one piece — the base , center stem , lamp cups , buds , and petals .
 2:37:018:0	The lampstand had six branches going out from the center stem , three on each side .
 2:37:019:0	Each of the six branches had three lamp cups shaped like almond blossoms , complete with buds and petals .
 2:37:020:0	The center stem of the lampstand was crafted with four lamp cups shaped like almond blossoms , complete with buds and petals .

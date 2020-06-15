@@ -21,7 +21,7 @@
 20:16:021:0	The wise are known for their understanding , and pleasant words are persuasive .
 20:16:022:0	Discretion is a life-giving fountain to those who possess it , but discipline is wasted on fools .
 20:16:023:0	From a wise mind comes wise speech ; the words of the wise are persuasive .
-20:16:024:0	Kind words are like honey—sweet to the soul and healthy for the body .
+20:16:024:0	Kind words are like honey — sweet to the soul and healthy for the body .
 20:16:025:0	There is a path before each person that seems right , but it ends in death .
 20:16:026:0	It is good for workers to have an appetite ; an empty stomach drives them on .
 20:16:027:0	Scoundrels create trouble ; their words are a destructive blaze .

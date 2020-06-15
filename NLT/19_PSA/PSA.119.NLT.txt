@@ -9,7 +9,7 @@
 19:119:002:1	Beth
 19:119:008:0	I will obey your decrees.Please do n't give up on me !
 19:119:009:0	How can a young person stay pure ? By obeying your word .
-19:119:010:0	I have tried hard to find you—do n't let me wander from your commands .
+19:119:010:0	I have tried hard to find you — do n't let me wander from your commands .
 19:119:011:0	I have hidden your word in my heart , that I might not sin against you .
 19:119:012:0	I praise you , O Lord ; teach me your decrees .
 19:119:013:0	I have recited aloudall the regulations you have given us .
@@ -68,7 +68,7 @@
 19:119:060:0	I will hurry , without delay , to obey your commands .
 19:119:061:0	Evil people try to drag me into sin , but I am firmly anchored to your instructions .
 19:119:062:0	I rise at midnight to thank youfor your just regulations .
-19:119:063:0	I am a friend to anyone who fears you—anyone who obeys your commandments .
+19:119:063:0	I am a friend to anyone who fears you — anyone who obeys your commandments .
 19:119:009:1	Teth
 19:119:064:0	O Lord , your unfailing love fills the earth ; teach me your decrees .
 19:119:065:0	You have done many good things for me , Lord , just as you promised .

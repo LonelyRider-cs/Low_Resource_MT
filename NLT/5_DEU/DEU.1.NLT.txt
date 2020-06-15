@@ -6,7 +6,7 @@
 5:1:002:1	The Command to Leave Sinai
 5:1:005:0	While the Israelites were in the land of Moab east of the Jordan River , Moses carefully explained the Lord 's instructions as follows .
 5:1:006:0	“ When we were at Mount Sinai , the Lord our God said to us , ‘ You have stayed at this mountain long enough .
-5:1:007:0	It is time to break camp and move on . Go to the hill country of the Amorites and to all the neighboring regions—the Jordan Valley , the hill country , the western foothills , the Negev , and the coastal plain . Go to the land of the Canaanites and to Lebanon , and all the way to the great Euphrates River .
+5:1:007:0	It is time to break camp and move on . Go to the hill country of the Amorites and to all the neighboring regions — the Jordan Valley , the hill country , the western foothills , the Negev , and the coastal plain . Go to the land of the Canaanites and to Lebanon , and all the way to the great Euphrates River .
 5:1:003:1	Moses Appoints Leaders from Each Tribe
 5:1:008:0	Look , I am giving all this land to you ! Go in and occupy it , for it is the land the Lord swore to give to your ancestors Abraham , Isaac , and Jacob , and to all their descendants . ' ”
 5:1:009:0	Moses continued , “ At that time I told you , ‘ You are too great a burden for me to carry all by myself .
@@ -30,8 +30,8 @@
 5:1:006:1	Lord
 5:1:025:0	They picked some of its fruit and brought it back to us . And they reported , ‘ The land the Lord our God has given us is indeed a good land . '
 5:1:026:0	“ But you rebelled against the command of the Lord your God and refused to go in .
-5:1:027:0	You complained in your tents and said , ‘ The Lord must hate us . That 's why he has brought us here from Egypt—to hand us over to the Amorites to be slaughtered .
-5:1:028:0	Where can we go ? Our brothers have demoralized us with their report . They tell us , “ The people of the land are taller and more powerful than we are , and their towns are large , with walls rising high into the sky ! We even saw giants there—the descendants of Anak ! ” '
+5:1:027:0	You complained in your tents and said , ‘ The Lord must hate us . That 's why he has brought us here from Egypt — to hand us over to the Amorites to be slaughtered .
+5:1:028:0	Where can we go ? Our brothers have demoralized us with their report . They tell us , “ The people of the land are taller and more powerful than we are , and their towns are large , with walls rising high into the sky ! We even saw giants there — the descendants of Anak ! ” '
 5:1:029:0	“ But I said to you , ‘ Do n't be shocked or afraid of them !
 5:1:030:0	The Lord your God is going ahead of you . He will fight for you , just as you saw him do in Egypt .
 5:1:031:0	And you saw how the Lord your God cared for you all along the way as you traveled through the wilderness , just as a father cares for his child . Now he has brought you to this place . '
@@ -42,7 +42,7 @@
 5:1:036:0	except Caleb son of Jephunneh . He will see this land because he has followed the Lord completely . I will give to him and his descendants some of the very land he explored during his scouting mission . '
 5:1:037:0	“ And the Lord was also angry with me because of you . He said to me , ‘ Moses , not even you will enter the Promised Land !
 5:1:038:0	Instead , your assistant , Joshua son of Nun , will lead the people into the land . Encourage him , for he will lead Israel as they take possession of it .
-5:1:039:0	I will give the land to your little ones—your innocent children . You were afraid they would be captured , but they will be the ones who occupy it .
+5:1:039:0	I will give the land to your little ones — your innocent children . You were afraid they would be captured , but they will be the ones who occupy it .
 5:1:040:0	As for you , turn around now and go on back through the wilderness toward the Red Sea . '
 5:1:041:0	“ Then you confessed , ‘ We have sinned against the Lord ! We will go into the land and fight for it , as the Lord our God has commanded us . ' So your men strapped on their weapons , thinking it would be easy to attack the hill country .
 5:1:042:0	“ But the Lord told me to tell you , ‘ Do not attack , for I am not with you . If you go ahead on your own , you will be crushed by your enemies . '

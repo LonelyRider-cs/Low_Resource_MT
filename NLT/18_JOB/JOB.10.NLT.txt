@@ -1,17 +1,17 @@
 18:10:001:1	Job Frames His Plea to God
 18:10:001:0	“ I am disgusted with my life.Let me complain freely.My bitter soul must complain .
-18:10:002:0	I will say to God , ‘ Do n't simply condemn me—tell me the charge you are bringing against me .
+18:10:002:0	I will say to God , ‘ Do n't simply condemn me — tell me the charge you are bringing against me .
 18:10:003:0	What do you gain by oppressing me ? Why do you reject me , the work of your own hands , while smiling on the schemes of the wicked ?
 18:10:004:0	Are your eyes like those of a human ? Do you see things only as people see them ?
 18:10:005:0	Is your lifetime only as long as ours ? Is your life so short
 18:10:006:0	that you must quickly probe for my guiltand search for my sin ?
 18:10:007:0	Although you know I am not guilty , no one can rescue me from your hands .
 18:10:008:0	“ ‘ You formed me with your hands ; you made me , yet now you completely destroy me .
-18:10:009:0	Remember that you made me from dust—will you turn me back to dust so soon ?
+18:10:009:0	Remember that you made me from dust — will you turn me back to dust so soon ?
 18:10:010:0	You guided my conceptionand formed me in the womb .
 18:10:011:0	You clothed me with skin and flesh , and you knit my bones and sinews together .
 18:10:012:0	You gave me life and showed me your unfailing love.My life was preserved by your care .
-18:10:013:0	“ ‘ Yet your real motive—your true intent—
+18:10:013:0	“ ‘ Yet your real motive — your true intent —
 18:10:014:0	was to watch me , and if I sinned , you would not forgive my guilt .
 18:10:015:0	If I am guilty , too bad for me ; and even if I 'm innocent , I ca n't hold my head high , because I am filled with shame and misery .
 18:10:016:0	And if I hold my head high , you hunt me like a lionand display your awesome power against me .
@@ -19,5 +19,5 @@
 18:10:018:0	“ ‘ Why , then , did you deliver me from my mother 's womb ? Why did n't you let me die at birth ?
 18:10:019:0	It would be as though I had never existed , going directly from the womb to the grave .
 18:10:020:0	I have only a few days left , so leave me alone , that I may have a moment of comfort
-18:10:021:0	before I leave—never to return—for the land of darkness and utter gloom .
+18:10:021:0	before I leave — never to return — for the land of darkness and utter gloom .
 18:10:022:0	It is a land as dark as midnight , a land of gloom and confusion , where even the light is dark as midnight . ' ”

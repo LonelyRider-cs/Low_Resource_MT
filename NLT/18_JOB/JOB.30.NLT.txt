@@ -1,6 +1,6 @@
 18:30:001:1	Job Speaks of His Anguish
 18:30:001:0	“ But now I am mocked by people younger than I , by young men whose fathers are not worthy to run with my sheepdogs .
-18:30:002:0	A lot of good they are to me—those worn-out wretches !
+18:30:002:0	A lot of good they are to me — those worn-out wretches !
 18:30:003:0	They are gaunt from poverty and hunger.They claw the dry ground in desolate wastelands .
 18:30:004:0	They pluck wild greens from among the bushesand eat from the roots of broom trees .
 18:30:005:0	They are driven from human society , and people shout at them as if they were thieves .
@@ -21,7 +21,7 @@
 18:30:020:0	“ I cry to you , O God , but you do n't answer.I stand before you , but you do n't even look .
 18:30:021:0	You have become cruel toward me.You use your power to persecute me .
 18:30:022:0	You throw me into the whirlwindand destroy me in the storm .
-18:30:023:0	And I know you are sending me to my death—the destination of all who live .
+18:30:023:0	And I know you are sending me to my death — the destination of all who live .
 18:30:024:0	“ Surely no one would turn against the needywhen they cry for help in their trouble .
 18:30:025:0	Did I not weep for those in trouble ? Was I not deeply grieved for the needy ?
 18:30:026:0	So I looked for good , but evil came instead.I waited for the light , but darkness fell .

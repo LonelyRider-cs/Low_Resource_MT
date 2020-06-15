@@ -3,7 +3,7 @@
 29:2:002:0	It is a day of darkness and gloom , a day of thick clouds and deep blackness.Suddenly , like dawn spreading across the mountains , a great and mighty army appears.Nothing like it has been seen beforeor will ever be seen again .
 29:2:003:0	Fire burns in front of them , and flames follow after them.Ahead of them the land liesas beautiful as the Garden of Eden.Behind them is nothing but desolation ; not one thing escapes .
 29:2:004:0	They look like horses ; they charge forward like warhorses .
-29:2:005:0	Look at them as they leap along the mountaintops.Listen to the noise they make—like the rumbling of chariots , like the roar of fire sweeping across a field of stubble , or like a mighty army moving into battle .
+29:2:005:0	Look at them as they leap along the mountaintops.Listen to the noise they make — like the rumbling of chariots , like the roar of fire sweeping across a field of stubble , or like a mighty army moving into battle .
 29:2:006:0	Fear grips all the people ; every face grows pale with terror .
 29:2:007:0	The attackers march like warriorsand scale city walls like soldiers.Straight forward they march , never breaking rank .
 29:2:008:0	They never jostle each other ; each moves in exactly the right position.They break through defenseswithout missing a step .
@@ -15,7 +15,7 @@
 29:2:013:0	Do n't tear your clothing in your grief , but tear your hearts instead. ” Return to the Lord your God , for he is merciful and compassionate , slow to get angry and filled with unfailing love.He is eager to relent and not punish .
 29:2:014:0	Who knows ? Perhaps he will give you a reprieve , sending you a blessing instead of this curse.Perhaps you will be able to offer grain and wineto the Lord your God as before .
 29:2:015:0	Blow the ram 's horn in Jerusalem ! Announce a time of fasting ; call the people togetherfor a solemn meeting .
-29:2:016:0	Gather all the people—the elders , the children , and even the babies.Call the bridegroom from his quartersand the bride from her private room .
+29:2:016:0	Gather all the people — the elders , the children , and even the babies.Call the bridegroom from his quartersand the bride from her private room .
 29:2:003:1	The
 29:2:004:1	Lord
 29:2:005:1	's Promise of Restoration
@@ -34,7 +34,7 @@
 29:2:008:1	's Promise of His Spirit
 29:2:027:0	Then you will know that I am among my people Israel , that I am the Lord your God , and there is no other.Never again will my people be disgraced .
 29:2:028:0	“ Then , after doing all those things , I will pour out my Spirit upon all people.Your sons and daughters will prophesy.Your old men will dream dreams , and your young men will see visions .
-29:2:029:0	In those days I will pour out my Spiriteven on servants—men and women alike .
-29:2:030:0	And I will cause wonders in the heavens and on the earth—blood and fire and columns of smoke .
+29:2:029:0	In those days I will pour out my Spiriteven on servants — men and women alike .
+29:2:030:0	And I will cause wonders in the heavens and on the earth — blood and fire and columns of smoke .
 29:2:031:0	The sun will become dark , and the moon will turn blood redbefore that great and terrible day of the Lord arrives .
 29:2:032:0	But everyone who calls on the name of the Lordwill be saved , for some on Mount Zion in Jerusalem will escape , just as the Lord has said.These will be among the survivorswhom the Lord has called .

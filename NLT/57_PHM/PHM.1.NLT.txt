@@ -9,7 +9,7 @@
 57:1:003:1	Paul 's Appeal for Onesimus
 57:1:007:0	Your love has given me much joy and comfort , my brother , for your kindness has often refreshed the hearts of God 's people .
 57:1:008:0	That is why I am boldly asking a favor of you . I could demand it in the name of Christ because it is the right thing for you to do .
-57:1:009:0	But because of our love , I prefer simply to ask you . Consider this as a request from me—Paul , an old man and now also a prisoner for the sake of Christ Jesus .
+57:1:009:0	But because of our love , I prefer simply to ask you . Consider this as a request from me — Paul , an old man and now also a prisoner for the sake of Christ Jesus .
 57:1:010:0	I appeal to you to show kindness to my child , Onesimus . I became his father in the faith while here in prison .
 57:1:011:0	Onesimus has n't been of much use to you in the past , but now he is very useful to both of us .
 57:1:012:0	I am sending him back to you , and with him comes my own heart .
@@ -23,7 +23,7 @@
 57:1:020:0	Yes , my brother , please do me this favor for the Lord 's sake . Give me this encouragement in Christ .
 57:1:021:0	I am confident as I write this letter that you will do what I ask and even more !
 57:1:004:1	Paul 's Final Greetings
-57:1:022:0	One more thing—please prepare a guest room for me , for I am hoping that God will answer your prayers and let me return to you soon .
+57:1:022:0	One more thing — please prepare a guest room for me , for I am hoping that God will answer your prayers and let me return to you soon .
 57:1:023:0	Epaphras , my fellow prisoner in Christ Jesus , sends you his greetings .
 57:1:024:0	So do Mark , Aristarchus , Demas , and Luke , my co-workers .
 57:1:025:0	May the grace of the Lord Jesus Christ be with your spirit .

@@ -1,6 +1,6 @@
 9:12:001:1	Samuel 's Farewell Address
 9:12:001:0	Then Samuel addressed all Israel : “ I have done as you asked and given you a king .
-9:12:002:0	Your king is now your leader . I stand here before you—an old , gray-haired man—and my sons serve you . I have served as your leader from the time I was a boy to this very day .
+9:12:002:0	Your king is now your leader . I stand here before you — an old , gray-haired man — and my sons serve you . I have served as your leader from the time I was a boy to this very day .
 9:12:003:0	Now testify against me in the presence of the Lord and before his anointed one . Whose ox or donkey have I stolen ? Have I ever cheated any of you ? Have I ever oppressed you ? Have I ever taken a bribe and perverted justice ? Tell me and I will make right whatever I have done wrong . ”
 9:12:004:0	“ No , ” they replied , “ you have never cheated or oppressed us , and you have never taken even a single bribe . ”
 9:12:005:0	“ The Lord and his anointed one are my witnesses today , ” Samuel declared , “ that my hands are clean. ” “ Yes , he is a witness , ” they replied .
@@ -19,7 +19,7 @@
 9:12:018:0	So Samuel called to the Lord , and the Lord sent thunder and rain that day . And all the people were terrified of the Lord and of Samuel .
 9:12:019:0	“ Pray to the Lord your God for us , or we will die ! ” they all said to Samuel . “ For now we have added to our sins by asking for a king . ”
 9:12:020:0	“ Do n't be afraid , ” Samuel reassured them . “ You have certainly done wrong , but make sure now that you worship the Lord with all your heart , and do n't turn your back on him .
-9:12:021:0	Do n't go back to worshiping worthless idols that can not help or rescue you—they are totally useless !
+9:12:021:0	Do n't go back to worshiping worthless idols that can not help or rescue you — they are totally useless !
 9:12:022:0	The Lord will not abandon his people , because that would dishonor his great name . For it has pleased the Lord to make you his very own people .
 9:12:023:0	“ As for me , I will certainly not sin against the Lord by ending my prayers for you . And I will continue to teach you what is good and right .
 9:12:024:0	But be sure to fear the Lord and faithfully serve him . Think of all the wonderful things he has done for you .

@@ -27,7 +27,7 @@
 42:19:025:0	“ ‘ But , master , ' they said , ‘ he already has ten pounds ! '
 42:19:026:0	“ ‘ Yes , ' the king replied , ‘ and to those who use well what they are given , even more will be given . But from those who do nothing , even what little they have will be taken away .
 42:19:003:1	Jesus ' Triumphant Entry
-42:19:027:0	And as for these enemies of mine who did n't want me to be their king—bring them in and execute them right here in front of me . ' ”
+42:19:027:0	And as for these enemies of mine who did n't want me to be their king — bring them in and execute them right here in front of me . ' ”
 42:19:028:0	After telling this story , Jesus went on toward Jerusalem , walking ahead of his disciples .
 42:19:029:0	As he came to the towns of Bethphage and Bethany on the Mount of Olives , he sent two disciples ahead .
 42:19:030:0	“ Go into that village over there , ” he told them . “ As you enter it , you will see a young donkey tied there that no one has ever ridden . Untie it and bring it here .

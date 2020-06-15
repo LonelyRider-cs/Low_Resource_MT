@@ -2,7 +2,7 @@
 41:7:001:0	One day some Pharisees and teachers of religious law arrived from Jerusalem to see Jesus .
 41:7:002:0	They noticed that some of his disciples failed to follow the Jewish ritual of hand washing before eating .
 41:7:003:0	( The Jews , especially the Pharisees , do not eat until they have poured water over their cupped hands , as required by their ancient traditions .
-41:7:004:0	Similarly , they do n't eat anything from the market until they immerse their hands in water . This is but one of many traditions they have clung to—such as their ceremonial washing of cups , pitchers , and kettles . )
+41:7:004:0	Similarly , they do n't eat anything from the market until they immerse their hands in water . This is but one of many traditions they have clung to — such as their ceremonial washing of cups , pitchers , and kettles . )
 41:7:005:0	So the Pharisees and teachers of religious law asked him , “ Why do n't your disciples follow our age-old tradition ? They eat without first performing the hand-washing ceremony . ”
 41:7:006:0	Jesus replied , “ You hypocrites ! Isaiah was right when he prophesied about you , for he wrote , ‘ These people honor me with their lips , but their hearts are far from me .
 41:7:007:0	Their worship is a farce , for they teach man-made ideas as commands from God . '
@@ -25,7 +25,7 @@
 41:7:024:0	Then Jesus left Galilee and went north to the region of Tyre . He did n't want anyone to know which house he was staying in , but he could n't keep it a secret .
 41:7:025:0	Right away a woman who had heard about him came and fell at his feet . Her little girl was possessed by an evil spirit ,
 41:7:026:0	and she begged him to cast out the demon from her daughter.Since she was a Gentile , born in Syrian Phoenicia ,
-41:7:027:0	Jesus told her , “ First I should feed the children—my own family , the Jews . It is n't right to take food from the children and throw it to the dogs . ”
+41:7:027:0	Jesus told her , “ First I should feed the children — my own family , the Jews . It is n't right to take food from the children and throw it to the dogs . ”
 41:7:028:0	She replied , “ That 's true , Lord , but even the dogs under the table are allowed to eat the scraps from the children 's plates . ”
 41:7:029:0	“ Good answer ! ” he said . “ Now go home , for the demon has left your daughter . ”
 41:7:003:1	Jesus Heals a Deaf Man

@@ -5,10 +5,10 @@
 2:31:004:0	He is a master craftsman , expert in working with gold , silver , and bronze .
 2:31:005:0	He is skilled in engraving and mounting gemstones and in carving wood . He is a master at every craft !
 2:31:006:0	“ And I have personally appointed Oholiab son of Ahisamach , of the tribe of Dan , to be his assistant . Moreover , I have given special skill to all the gifted craftsmen so they can make all the things I have commanded you to make :
-2:31:007:0	the Tabernacle ; the Ark of the Covenant ; the Ark 's cover—the place of atonement ; all the furnishings of the Tabernacle ;
+2:31:007:0	the Tabernacle ; the Ark of the Covenant ; the Ark 's cover — the place of atonement ; all the furnishings of the Tabernacle ;
 2:31:008:0	the table and its utensils ; the pure gold lampstand with all its accessories ; the incense altar ;
 2:31:009:0	the altar of burnt offering with all its utensils ; the washbasin with its stand ;
-2:31:010:0	the beautifully stitched garments—the sacred garments for Aaron the priest , and the garments for his sons to wear as they minister as priests ;
+2:31:010:0	the beautifully stitched garments — the sacred garments for Aaron the priest , and the garments for his sons to wear as they minister as priests ;
 2:31:002:1	Instructions for the Sabbath
 2:31:011:0	the anointing oil ; the fragrant incense for the Holy Place.The craftsmen must make everything as I have commanded you . ”
 2:31:012:0	The Lord then gave these instructions to Moses :

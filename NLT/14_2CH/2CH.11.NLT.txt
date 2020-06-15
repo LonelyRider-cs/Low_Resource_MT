@@ -1,5 +1,5 @@
 14:11:001:1	Shemaiah 's Prophecy
-14:11:001:0	When Rehoboam arrived at Jerusalem , he mobilized the men of Judah and Benjamin—180,000 select troops—to fight against Israel and to restore the kingdom to himself .
+14:11:001:0	When Rehoboam arrived at Jerusalem , he mobilized the men of Judah and Benjamin — 180,000 select troops — to fight against Israel and to restore the kingdom to himself .
 14:11:002:0	But the Lord said to Shemaiah , the man of God ,
 14:11:003:0	“ Say to Rehoboam son of Solomon , king of Judah , and to all the Israelites in Judah and Benjamin :
 14:11:002:1	Rehoboam Fortifies Judah
@@ -19,7 +19,7 @@
 14:11:003:1	Rehoboam 's Family
 14:11:017:0	This strengthened the kingdom of Judah , and for three years they supported Rehoboam son of Solomon , for during those years they faithfully followed in the footsteps of David and Solomon .
 14:11:018:0	Rehoboam married his cousin Mahalath , the daughter of David 's son Jerimoth and of Abihail , the daughter of Eliab son of Jesse .
-14:11:019:0	Mahalath had three sons—Jeush , Shemariah , and Zaham .
+14:11:019:0	Mahalath had three sons — Jeush , Shemariah , and Zaham .
 14:11:020:0	Later Rehoboam married another cousin , Maacah , the granddaughter of Absalom . Maacah gave birth to Abijah , Attai , Ziza , and Shelomith .
 14:11:021:0	Rehoboam loved Maacah more than any of his other wives and concubines . In all , he had eighteen wives and sixty concubines , and they gave birth to twenty-eight sons and sixty daughters .
 14:11:022:0	Rehoboam appointed Maacah 's son Abijah as leader among the princes , making it clear that he would be the next king .

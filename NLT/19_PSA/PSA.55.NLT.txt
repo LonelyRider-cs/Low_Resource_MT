@@ -5,12 +5,12 @@
 19:55:005:0	Fear and trembling overwhelm me , and I ca n't stop shaking .
 19:55:006:0	Oh , that I had wings like a dove ; then I would fly away and rest !
 19:55:007:0	I would fly far awayto the quiet of the wilderness.Interlude
-19:55:008:0	How quickly I would escape—far from this wild storm of hatred .
+19:55:008:0	How quickly I would escape — far from this wild storm of hatred .
 19:55:009:0	Confuse them , Lord , and frustrate their plans , for I see violence and conflict in the city .
 19:55:010:0	Its walls are patrolled day and night against invaders , but the real danger is wickedness within the city .
 19:55:011:0	Everything is falling apart ; threats and cheating are rampant in the streets .
-19:55:012:0	It is not an enemy who taunts me—I could bear that.It is not my foes who so arrogantly insult me—I could have hidden from them .
-19:55:013:0	Instead , it is you—my equal , my companion and close friend .
+19:55:012:0	It is not an enemy who taunts me — I could bear that.It is not my foes who so arrogantly insult me — I could have hidden from them .
+19:55:013:0	Instead , it is you — my equal , my companion and close friend .
 19:55:014:0	What good fellowship we once enjoyedas we walked together to the house of God .
 19:55:015:0	Let death stalk my enemies ; let the grave swallow them alive , for evil makes its home within them .
 19:55:016:0	But I will call on God , and the Lord will rescue me .

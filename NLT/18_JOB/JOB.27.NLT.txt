@@ -1,6 +1,6 @@
 18:27:001:1	Job 's Final Speech
 18:27:001:0	Job continued speaking :
-18:27:002:0	“ I vow by the living God , who has taken away my rights , by the Almighty who has embittered my soul—
+18:27:002:0	“ I vow by the living God , who has taken away my rights , by the Almighty who has embittered my soul —
 18:27:003:0	As long as I live , while I have breath from God ,
 18:27:004:0	my lips will speak no evil , and my tongue will speak no lies .
 18:27:005:0	I will never concede that you are right ; I will defend my integrity until I die .

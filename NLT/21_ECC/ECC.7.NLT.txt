@@ -1,6 +1,6 @@
 21:7:001:1	Wisdom for Life
 21:7:001:0	A good reputation is more valuable than costly perfume.And the day you die is better than the day you are born .
-21:7:002:0	Better to spend your time at funerals than at parties.After all , everyone dies—so the living should take this to heart .
+21:7:002:0	Better to spend your time at funerals than at parties.After all , everyone dies — so the living should take this to heart .
 21:7:003:0	Sorrow is better than laughter , for sadness has a refining influence on us .
 21:7:004:0	A wise person thinks a lot about death , while a fool thinks only about having a good time .
 21:7:005:0	Better to be criticized by a wise personthan to be praised by a fool .
@@ -20,7 +20,7 @@
 21:7:018:0	Pay attention to these instructions , for anyone who fears God will avoid both extremes .
 21:7:019:0	One wise person is stronger than ten leading citizens of a town !
 21:7:020:0	Not a single person on earth is always good and never sins .
-21:7:021:0	Do n't eavesdrop on others—you may hear your servant curse you .
+21:7:021:0	Do n't eavesdrop on others — you may hear your servant curse you .
 21:7:022:0	For you know how often you yourself have cursed others .
 21:7:023:0	I have always tried my best to let wisdom guide my thoughts and actions . I said to myself , “ I am determined to be wise. ” But it did n't work .
 21:7:024:0	Wisdom is always distant and difficult to find .

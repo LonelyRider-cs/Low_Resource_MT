@@ -1,6 +1,6 @@
 2:15:001:1	A Song of Deliverance
 2:15:001:0	Then Moses and the people of Israel sang this song to the Lord : “ I will sing to the Lord , for he has triumphed gloriously ; he has hurled both horse and riderinto the sea .
-2:15:002:0	The Lord is my strength and my song ; he has given me victory.This is my God , and I will praise him—my father 's God , and I will exalt him !
+2:15:002:0	The Lord is my strength and my song ; he has given me victory.This is my God , and I will praise him — my father 's God , and I will exalt him !
 2:15:003:0	The Lord is a warrior ; Yahweh is his name !
 2:15:004:0	Pharaoh 's chariots and armyhe has hurled into the sea.The finest of Pharaoh 's officersare drowned in the Red Sea .
 2:15:005:0	The deep waters gushed over them ; they sank to the bottom like a stone .
@@ -9,13 +9,13 @@
 2:15:008:0	At the blast of your breath , the waters piled up ! The surging waters stood straight like a wall ; in the heart of the sea the deep waters became hard .
 2:15:009:0	“ The enemy boasted , ‘ I will chase themand catch up with them.I will plunder themand consume them.I will flash my sword ; my powerful hand will destroy them . '
 2:15:010:0	But you blew with your breath , and the sea covered them.They sank like leadin the mighty waters .
-2:15:011:0	“ Who is like you among the gods , O Lord—glorious in holiness , awesome in splendor , performing great wonders ?
+2:15:011:0	“ Who is like you among the gods , O Lord — glorious in holiness , awesome in splendor , performing great wonders ?
 2:15:012:0	You raised your right hand , and the earth swallowed our enemies .
 2:15:013:0	“ With your unfailing love you leadthe people you have redeemed.In your might , you guide themto your sacred home .
 2:15:014:0	The peoples hear and tremble ; anguish grips those who live in Philistia .
 2:15:015:0	The leaders of Edom are terrified ; the nobles of Moab tremble.All who live in Canaan melt away ;
 2:15:016:0	terror and dread fall upon them.The power of your armmakes them lifeless as stoneuntil your people pass by , O Lord , until the people you purchased pass by .
-2:15:017:0	You will bring them in and plant them on your own mountain—the place , O Lord , reserved for your own dwelling , the sanctuary , O Lord , that your hands have established .
+2:15:017:0	You will bring them in and plant them on your own mountain — the place , O Lord , reserved for your own dwelling , the sanctuary , O Lord , that your hands have established .
 2:15:018:0	The Lord will reign forever and ever ! ”
 2:15:019:0	When Pharaoh 's horses , chariots , and charioteers rushed into the sea , the Lord brought the water crashing down on them . But the people of Israel had walked through the middle of the sea on dry ground !
 2:15:020:0	Then Miriam the prophet , Aaron 's sister , took a tambourine and led all the women as they played their tambourines and danced .

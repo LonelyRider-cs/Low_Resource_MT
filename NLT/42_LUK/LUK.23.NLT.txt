@@ -3,7 +3,7 @@
 42:23:002:0	They began to state their case : “ This man has been leading our people astray by telling them not to pay their taxes to the Roman government and by claiming he is the Messiah , a king . ”
 42:23:003:0	So Pilate asked him , “ Are you the king of the Jews ? ” Jesus replied , “ You have said it . ”
 42:23:004:0	Pilate turned to the leading priests and to the crowd and said , “ I find nothing wrong with this man ! ”
-42:23:005:0	Then they became insistent . “ But he is causing riots by his teaching wherever he goes—all over Judea , from Galilee to Jerusalem ! ”
+42:23:005:0	Then they became insistent . “ But he is causing riots by his teaching wherever he goes — all over Judea , from Galilee to Jerusalem ! ”
 42:23:006:0	“ Oh , is he a Galilean ? ” Pilate asked .
 42:23:007:0	When they said that he was , Pilate sent him to Herod Antipas , because Galilee was under Herod 's jurisdiction , and Herod happened to be in Jerusalem at the time .
 42:23:008:0	Herod was delighted at the opportunity to see Jesus , because he had heard about him and had been hoping for a long time to see him perform a miracle .
@@ -31,13 +31,13 @@
 42:23:030:0	People will beg the mountains , ‘ Fall on us , ' and plead with the hills , ‘ Bury us . '
 42:23:031:0	For if these things are done when the tree is green , what will happen when it is dry ? ”
 42:23:032:0	Two others , both criminals , were led out to be executed with him .
-42:23:033:0	When they came to a place called The Skull , they nailed him to the cross . And the criminals were also crucified—one on his right and one on his left .
+42:23:033:0	When they came to a place called The Skull , they nailed him to the cross . And the criminals were also crucified — one on his right and one on his left .
 42:23:034:0	Jesus said , “ Father , forgive them , for they do n't know what they are doing. ” And the soldiers gambled for his clothes by throwing dice .
 42:23:035:0	The crowd watched and the leaders scoffed . “ He saved others , ” they said , “ let him save himself if he is really God 's Messiah , the Chosen One . ”
 42:23:036:0	The soldiers mocked him , too , by offering him a drink of sour wine .
 42:23:037:0	They called out to him , “ If you are the King of the Jews , save yourself ! ”
 42:23:038:0	A sign was fastened above him with these words : “ This is the King of the Jews . ”
-42:23:039:0	One of the criminals hanging beside him scoffed , “ So you 're the Messiah , are you ? Prove it by saving yourself—and us , too , while you 're at it ! ”
+42:23:039:0	One of the criminals hanging beside him scoffed , “ So you 're the Messiah , are you ? Prove it by saving yourself — and us , too , while you 're at it ! ”
 42:23:040:0	But the other criminal protested , “ Do n't you fear God even when you have been sentenced to die ?
 42:23:041:0	We deserve to die for our crimes , but this man has n't done anything wrong . ”
 42:23:042:0	Then he said , “ Jesus , remember me when you come into your Kingdom . ”

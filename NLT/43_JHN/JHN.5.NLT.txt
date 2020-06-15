@@ -1,7 +1,7 @@
 43:5:001:1	Jesus Heals a Lame Man
 43:5:001:0	Afterward Jesus returned to Jerusalem for one of the Jewish holy days .
 43:5:002:0	Inside the city , near the Sheep Gate , was the pool of Bethesda , with five covered porches .
-43:5:003:0	Crowds of sick people—blind , lame , or paralyzed—lay on the porches .
+43:5:003:0	Crowds of sick people — blind , lame , or paralyzed — lay on the porches .
 43:5:005:0	One of the men lying there had been sick for thirty-eight years .
 43:5:006:0	When Jesus saw him and knew he had been ill for a long time , he asked him , “ Would you like to get well ? ”
 43:5:007:0	“ I ca n't , sir , ” the sick man said , “ for I have no one to put me into the pool when the water bubbles up . Someone else always gets there ahead of me . ”
@@ -23,7 +23,7 @@
 43:5:022:0	In addition , the Father judges no one . Instead , he has given the Son absolute authority to judge ,
 43:5:023:0	so that everyone will honor the Son , just as they honor the Father . Anyone who does not honor the Son is certainly not honoring the Father who sent him .
 43:5:024:0	“ I tell you the truth , those who listen to my message and believe in God who sent me have eternal life . They will never be condemned for their sins , but they have already passed from death into life .
-43:5:025:0	“ And I assure you that the time is coming , indeed it 's here now , when the dead will hear my voice—the voice of the Son of God . And those who listen will live .
+43:5:025:0	“ And I assure you that the time is coming , indeed it 's here now , when the dead will hear my voice — the voice of the Son of God . And those who listen will live .
 43:5:026:0	The Father has life in himself , and he has granted that same life-giving power to his Son .
 43:5:027:0	And he has given him authority to judge everyone because he is the Son of Man .
 43:5:028:0	Do n't be so surprised ! Indeed , the time is coming when all the dead in their graves will hear the voice of God 's Son ,
@@ -35,9 +35,9 @@
 43:5:033:0	In fact , you sent investigators to listen to John the Baptist , and his testimony about me was true .
 43:5:034:0	Of course , I have no need of human witnesses , but I say these things so you might be saved .
 43:5:035:0	John was like a burning and shining lamp , and you were excited for a while about his message .
-43:5:036:0	But I have a greater witness than John—my teachings and my miracles . The Father gave me these works to accomplish , and they prove that he sent me .
+43:5:036:0	But I have a greater witness than John — my teachings and my miracles . The Father gave me these works to accomplish , and they prove that he sent me .
 43:5:037:0	And the Father who sent me has testified about me himself . You have never heard his voice or seen him face to face ,
-43:5:038:0	and you do not have his message in your hearts , because you do not believe me—the one he sent to you .
+43:5:038:0	and you do not have his message in your hearts , because you do not believe me — the one he sent to you .
 43:5:039:0	“ You search the Scriptures because you think they give you eternal life . But the Scriptures point to me !
 43:5:040:0	Yet you refuse to come to me to receive this life .
 43:5:041:0	“ Your approval means nothing to me ,

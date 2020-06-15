@@ -4,7 +4,7 @@
 46:1:002:1	Paul Gives Thanks to God
 46:1:003:0	May God our Father and the Lord Jesus Christ give you grace and peace .
 46:1:004:0	I always thank my God for you and for the gracious gifts he has given you , now that you belong to Christ Jesus .
-46:1:005:0	Through him , God has enriched your church in every way—with all of your eloquent words and all of your knowledge .
+46:1:005:0	Through him , God has enriched your church in every way — with all of your eloquent words and all of your knowledge .
 46:1:006:0	This confirms that what I told you about Christ is true .
 46:1:007:0	Now you have every spiritual gift you need as you eagerly wait for the return of our Lord Jesus Christ .
 46:1:008:0	He will keep you strong to the end so that you will be free from all blame on the day when our Lord Jesus Christ returns .
@@ -18,7 +18,7 @@
 46:1:015:0	for now no one can say they were baptized in my name .
 46:1:016:0	( Oh yes , I also baptized the household of Stephanas , but I do n't remember baptizing anyone else . )
 46:1:004:1	The Wisdom of God
-46:1:017:0	For Christ did n't send me to baptize , but to preach the Good News—and not with clever speech , for fear that the cross of Christ would lose its power .
+46:1:017:0	For Christ did n't send me to baptize , but to preach the Good News — and not with clever speech , for fear that the cross of Christ would lose its power .
 46:1:018:0	The message of the cross is foolish to those who are headed for destruction ! But we who are being saved know it is the very power of God .
 46:1:019:0	As the Scriptures say , “ I will destroy the wisdom of the wiseand discard the intelligence of the intelligent . ”
 46:1:020:0	So where does this leave the philosophers , the scholars , and the world 's brilliant debaters ? God has made the wisdom of this world look foolish .

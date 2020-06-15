@@ -1,6 +1,6 @@
 1:22:001:1	Abraham 's Faith Tested
 1:22:001:0	Some time later , God tested Abraham 's faith . “ Abraham ! ” God called. “ Yes , ” he replied . “ Here I am . ”
-1:22:002:0	“ Take your son , your only son—yes , Isaac , whom you love so much—and go to the land of Moriah . Go and sacrifice him as a burnt offering on one of the mountains , which I will show you . ”
+1:22:002:0	“ Take your son , your only son — yes , Isaac , whom you love so much — and go to the land of Moriah . Go and sacrifice him as a burnt offering on one of the mountains , which I will show you . ”
 1:22:003:0	The next morning Abraham got up early . He saddled his donkey and took two of his servants with him , along with his son , Isaac . Then he chopped wood for a fire for a burnt offering and set out for the place God had told him about .
 1:22:004:0	On the third day of their journey , Abraham looked up and saw the place in the distance .
 1:22:005:0	“ Stay here with the donkey , ” Abraham told the servants . “ The boy and I will travel a little farther . We will worship there , and then we will come right back . ”
@@ -16,7 +16,7 @@
 1:22:015:0	Then the angel of the Lord called again to Abraham from heaven .
 1:22:016:0	“ This is what the Lord says : Because you have obeyed me and have not withheld even your son , your only son , I swear by my own name that
 1:22:017:0	I will certainly bless you . I will multiply your descendants beyond number , like the stars in the sky and the sand on the seashore . Your descendants will conquer the cities of their enemies .
-1:22:018:0	And through your descendants all the nations of the earth will be blessed—all because you have obeyed me . ”
+1:22:018:0	And through your descendants all the nations of the earth will be blessed — all because you have obeyed me . ”
 1:22:019:0	Then they returned to the servants and traveled back to Beersheba , where Abraham continued to live .
 1:22:020:0	Soon after this , Abraham heard that Milcah , his brother Nahor 's wife , had borne Nahor eight sons .
 1:22:021:0	The oldest was named Uz , the next oldest was Buz , followed by Kemuel ( the ancestor of the Arameans ) ,

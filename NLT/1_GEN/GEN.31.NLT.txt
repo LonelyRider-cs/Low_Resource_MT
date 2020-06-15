@@ -23,7 +23,7 @@
 1:31:021:0	So Jacob took all his possessions with him and crossed the Euphrates River , heading for the hill country of Gilead .
 1:31:022:0	Three days later , Laban was told that Jacob had fled .
 1:31:023:0	So he gathered a group of his relatives and set out in hot pursuit . He caught up with Jacob seven days later in the hill country of Gilead .
-1:31:024:0	But the previous night God had appeared to Laban the Aramean in a dream and told him , “ I 'm warning you—leave Jacob alone ! ”
+1:31:024:0	But the previous night God had appeared to Laban the Aramean in a dream and told him , “ I 'm warning you — leave Jacob alone ! ”
 1:31:025:0	Laban caught up with Jacob as he was camped in the hill country of Gilead , and he set up his camp not far from Jacob 's .
 1:31:026:0	“ What do you mean by deceiving me like this ? ” Laban demanded . “ How dare you drag my daughters away like prisoners of war ?
 1:31:027:0	Why did you slip away secretly ? Why did you deceive me ? And why did n't you say you wanted to leave ? I would have given you a farewell feast , with singing and music , accompanied by tambourines and harps .
@@ -32,7 +32,7 @@
 1:31:030:0	I can understand your feeling that you must go , and your intense longing for your father 's home . But why have you stolen my gods ? ”
 1:31:031:0	“ I rushed away because I was afraid , ” Jacob answered . “ I thought you would take your daughters from me by force .
 1:31:032:0	But as for your gods , see if you can find them , and let the person who has taken them die ! And if you find anything else that belongs to you , identify it before all these relatives of ours , and I will give it back ! ” But Jacob did not know that Rachel had stolen the household idols .
-1:31:033:0	Laban went first into Jacob 's tent to search there , then into Leah 's , and then the tents of the two servant wives—but he found nothing . Finally , he went into Rachel 's tent .
+1:31:033:0	Laban went first into Jacob 's tent to search there , then into Leah 's , and then the tents of the two servant wives — but he found nothing . Finally , he went into Rachel 's tent .
 1:31:034:0	But Rachel had taken the household idols and hidden them in her camel saddle , and now she was sitting on them . When Laban had thoroughly searched her tent without finding them ,
 1:31:035:0	she said to her father , “ Please , sir , forgive me if I do n't get up for you . I 'm having my monthly period. ” So Laban continued his search , but he could not find the household idols .
 1:31:036:0	Then Jacob became very angry , and he challenged Laban . “ What 's my crime ? ” he demanded . “ What have I done wrong to make you chase after me as though I were a criminal ?
@@ -42,17 +42,17 @@
 1:31:040:0	“ I worked for you through the scorching heat of the day and through cold and sleepless nights .
 1:31:041:0	Yes , for twenty years I slaved in your house ! I worked for fourteen years earning your two daughters , and then six more years for your flock . And you changed my wages ten times !
 1:31:003:1	Jacob 's Treaty with Laban
-1:31:042:0	In fact , if the God of my father had not been on my side—the God of Abraham and the fearsome God of Isaac—you would have sent me away empty-handed . But God has seen your abuse and my hard work . That is why he appeared to you last night and rebuked you ! ”
-1:31:043:0	Then Laban replied to Jacob , “ These women are my daughters , these children are my grandchildren , and these flocks are my flocks—in fact , everything you see is mine . But what can I do now about my daughters and their children ?
+1:31:042:0	In fact , if the God of my father had not been on my side — the God of Abraham and the fearsome God of Isaac — you would have sent me away empty-handed . But God has seen your abuse and my hard work . That is why he appeared to you last night and rebuked you ! ”
+1:31:043:0	Then Laban replied to Jacob , “ These women are my daughters , these children are my grandchildren , and these flocks are my flocks — in fact , everything you see is mine . But what can I do now about my daughters and their children ?
 1:31:044:0	So come , let 's make a covenant , you and I , and it will be a witness to our commitment . ”
 1:31:045:0	So Jacob took a stone and set it up as a monument .
 1:31:046:0	Then he told his family members , “ Gather some stones. ” So they gathered stones and piled them in a heap . Then Jacob and Laban sat down beside the pile of stones to eat a covenant meal .
 1:31:047:0	To commemorate the event , Laban called the place Jegar-sahadutha ( which means “ witness pile ” in Aramaic ) , and Jacob called it Galeed ( which means “ witness pile ” in Hebrew ) .
-1:31:048:0	Then Laban declared , “ This pile of stones will stand as a witness to remind us of the covenant we have made today. ” This explains why it was called Galeed— “ Witness Pile . ”
+1:31:048:0	Then Laban declared , “ This pile of stones will stand as a witness to remind us of the covenant we have made today. ” This explains why it was called Galeed — “ Witness Pile . ”
 1:31:049:0	But it was also called Mizpah ( which means “ watchtower ” ) , for Laban said , “ May the Lord keep watch between us to make sure that we keep this covenant when we are out of each other 's sight .
 1:31:050:0	If you mistreat my daughters or if you marry other wives , God will see it even if no one else does . He is a witness to this covenant between us .
 1:31:051:0	“ See this pile of stones , ” Laban continued , “ and see this monument I have set between us .
 1:31:052:0	They stand between us as witnesses of our vows . I will never pass this pile of stones to harm you , and you must never pass these stones or this monument to harm me .
-1:31:053:0	I call on the God of our ancestors—the God of your grandfather Abraham and the God of my grandfather Nahor—to serve as a judge between us. ” So Jacob took an oath before the fearsome God of his father , Isaac , to respect the boundary line .
+1:31:053:0	I call on the God of our ancestors — the God of your grandfather Abraham and the God of my grandfather Nahor — to serve as a judge between us. ” So Jacob took an oath before the fearsome God of his father , Isaac , to respect the boundary line .
 1:31:054:0	Then Jacob offered a sacrifice to God there on the mountain and invited everyone to a covenant feast . After they had eaten , they spent the night on the mountain .
 1:31:055:0	Laban got up early the next morning , and he kissed his grandchildren and his daughters and blessed them . Then he left and returned home .

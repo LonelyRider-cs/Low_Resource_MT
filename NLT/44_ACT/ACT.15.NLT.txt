@@ -1,7 +1,7 @@
 44:15:001:1	The Council at Jerusalem
 44:15:001:0	While Paul and Barnabas were at Antioch of Syria , some men from Judea arrived and began to teach the believers : “ Unless you are circumcised as required by the law of Moses , you can not be saved . ”
 44:15:002:0	Paul and Barnabas disagreed with them , arguing vehemently . Finally , the church decided to send Paul and Barnabas to Jerusalem , accompanied by some local believers , to talk to the apostles and elders about this question .
-44:15:003:0	The church sent the delegates to Jerusalem , and they stopped along the way in Phoenicia and Samaria to visit the believers . They told them—much to everyone 's joy—that the Gentiles , too , were being converted .
+44:15:003:0	The church sent the delegates to Jerusalem , and they stopped along the way in Phoenicia and Samaria to visit the believers . They told them — much to everyone 's joy — that the Gentiles , too , were being converted .
 44:15:004:0	When they arrived in Jerusalem , Barnabas and Paul were welcomed by the whole church , including the apostles and elders . They reported everything God had done through them .
 44:15:005:0	But then some of the believers who belonged to the sect of the Pharisees stood up and insisted , “ The Gentile converts must be circumcised and required to follow the law of Moses . ”
 44:15:006:0	So the apostles and elders met together to resolve this issue .
@@ -15,13 +15,13 @@
 44:15:014:0	Peter has told you about the time God first visited the Gentiles to take from them a people for himself .
 44:15:015:0	And this conversion of Gentiles is exactly what the prophets predicted . As it is written :
 44:15:016:0	‘ Afterward I will returnand restore the fallen house of David.I will rebuild its ruinsand restore it ,
-44:15:017:0	so that the rest of humanity might seek the Lord , including the Gentiles—all those I have called to be mine.The Lord has spoken—
+44:15:017:0	so that the rest of humanity might seek the Lord , including the Gentiles — all those I have called to be mine.The Lord has spoken —
 44:15:018:0	he who made these things known so long ago . '
 44:15:019:0	“ And so my judgment is that we should not make it difficult for the Gentiles who are turning to God .
 44:15:020:0	Instead , we should write and tell them to abstain from eating food offered to idols , from sexual immorality , from eating the meat of strangled animals , and from consuming blood .
 44:15:002:1	The Letter for Gentile Believers
 44:15:021:0	For these laws of Moses have been preached in Jewish synagogues in every city on every Sabbath for many generations . ”
-44:15:022:0	Then the apostles and elders together with the whole church in Jerusalem chose delegates , and they sent them to Antioch of Syria with Paul and Barnabas to report on this decision . The men chosen were two of the church leaders—Judas ( also called Barsabbas ) and Silas .
+44:15:022:0	Then the apostles and elders together with the whole church in Jerusalem chose delegates , and they sent them to Antioch of Syria with Paul and Barnabas to report on this decision . The men chosen were two of the church leaders — Judas ( also called Barsabbas ) and Silas .
 44:15:023:0	This is the letter they took with them : “ This letter is from the apostles and elders , your brothers in Jerusalem . It is written to the Gentile believers in Antioch , Syria , and Cilicia . Greetings !
 44:15:024:0	“ We understand that some men from here have troubled you and upset you with their teaching , but we did not send them !
 44:15:025:0	So we decided , having come to complete agreement , to send you official representatives , along with our beloved Barnabas and Paul ,

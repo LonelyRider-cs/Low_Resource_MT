@@ -2,7 +2,7 @@
 19:35:002:0	Put on your armor , and take up your shield.Prepare for battle , and come to my aid .
 19:35:003:0	Lift up your spear and javelinagainst those who pursue me.Let me hear you say , “ I will give you victory ! ”
 19:35:004:0	Bring shame and disgrace on those trying to kill me ; turn them back and humiliate those who want to harm me .
-19:35:005:0	Blow them away like chaff in the wind—a wind sent by the angel of the Lord .
+19:35:005:0	Blow them away like chaff in the wind — a wind sent by the angel of the Lord .
 19:35:006:0	Make their path dark and slippery , with the angel of the Lord pursuing them .
 19:35:007:0	I did them no wrong , but they laid a trap for me.I did them no wrong , but they dug a pit to catch me .
 19:35:008:0	So let sudden ruin come upon them ! Let them be caught in the trap they set for me ! Let them be destroyed in the pit they dug for me .

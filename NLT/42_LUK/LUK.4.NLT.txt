@@ -22,10 +22,10 @@
 42:4:020:0	He rolled up the scroll , handed it back to the attendant , and sat down . All eyes in the synagogue looked at him intently .
 42:4:021:0	Then he began to speak to them . “ The Scripture you 've just heard has been fulfilled this very day ! ”
 42:4:022:0	Everyone spoke well of him and was amazed by the gracious words that came from his lips . “ How can this be ? ” they asked . “ Is n't this Joseph 's son ? ”
-42:4:023:0	Then he said , “ You will undoubtedly quote me this proverb : ‘ Physician , heal yourself'—meaning , ‘ Do miracles here in your hometown like those you did in Capernaum . '
+42:4:023:0	Then he said , “ You will undoubtedly quote me this proverb : ‘ Physician , heal yourself ' — meaning , ‘ Do miracles here in your hometown like those you did in Capernaum . '
 42:4:024:0	But I tell you the truth , no prophet is accepted in his own hometown .
 42:4:025:0	“ Certainly there were many needy widows in Israel in Elijah 's time , when the heavens were closed for three and a half years , and a severe famine devastated the land .
-42:4:026:0	Yet Elijah was not sent to any of them . He was sent instead to a foreigner—a widow of Zarephath in the land of Sidon .
+42:4:026:0	Yet Elijah was not sent to any of them . He was sent instead to a foreigner — a widow of Zarephath in the land of Sidon .
 42:4:027:0	And many in Israel had leprosy in the time of the prophet Elisha , but the only one healed was Naaman , a Syrian . ”
 42:4:028:0	When they heard this , the people in the synagogue were furious .
 42:4:029:0	Jumping up , they mobbed him and forced him to the edge of the hill on which the town was built . They intended to push him over the cliff ,
@@ -33,8 +33,8 @@
 42:4:030:0	but he passed right through the crowd and went on his way .
 42:4:031:0	Then Jesus went to Capernaum , a town in Galilee , and taught there in the synagogue every Sabbath day .
 42:4:032:0	There , too , the people were amazed at his teaching , for he spoke with authority .
-42:4:033:0	Once when he was in the synagogue , a man possessed by a demon—an evil spirit—cried out , shouting ,
-42:4:034:0	“ Go away ! Why are you interfering with us , Jesus of Nazareth ? Have you come to destroy us ? I know who you are—the Holy One of God ! ”
+42:4:033:0	Once when he was in the synagogue , a man possessed by a demon — an evil spirit — cried out , shouting ,
+42:4:034:0	“ Go away ! Why are you interfering with us , Jesus of Nazareth ? Have you come to destroy us ? I know who you are — the Holy One of God ! ”
 42:4:035:0	But Jesus reprimanded him . “ Be quiet ! Come out of the man , ” he ordered . At that , the demon threw the man to the floor as the crowd watched ; then it came out of him without hurting him further .
 42:4:036:0	Amazed , the people exclaimed , “ What authority and power this man 's words possess ! Even evil spirits obey him , and they flee at his command ! ”
 42:4:004:1	Jesus Heals Many People

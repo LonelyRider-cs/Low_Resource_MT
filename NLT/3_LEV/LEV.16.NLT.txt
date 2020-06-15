@@ -1,6 +1,6 @@
 3:16:001:1	The Day of Atonement
 3:16:001:0	The Lord spoke to Moses after the death of Aaron 's two sons , who died after they entered the Lord 's presence and burned the wrong kind of fire before him .
-3:16:002:0	The Lord said to Moses , “ Warn your brother , Aaron , not to enter the Most Holy Place behind the inner curtain whenever he chooses ; if he does , he will die . For the Ark 's cover—the place of atonement—is there , and I myself am present in the cloud above the atonement cover .
+3:16:002:0	The Lord said to Moses , “ Warn your brother , Aaron , not to enter the Most Holy Place behind the inner curtain whenever he chooses ; if he does , he will die . For the Ark 's cover — the place of atonement — is there , and I myself am present in the cloud above the atonement cover .
 3:16:003:0	“ When Aaron enters the sanctuary area , he must follow these instructions fully . He must bring a young bull for a sin offering and a ram for a burnt offering .
 3:16:004:0	He must put on his linen tunic and the linen undergarments worn next to his body . He must tie the linen sash around his waist and put the linen turban on his head . These are sacred garments , so he must bathe himself in water before he puts them on .
 3:16:005:0	Aaron must take from the community of Israel two male goats for a sin offering and a ram for a burnt offering .
@@ -11,7 +11,7 @@
 3:16:010:0	The other goat , the scapegoat chosen by lot to be sent away , will be kept alive , standing before the Lord . When it is sent away to Azazel in the wilderness , the people will be purified and made right with the Lord .
 3:16:011:0	“ Aaron will present his own bull as a sin offering to purify himself and his family , making them right with the Lord . After he has slaughtered the bull as a sin offering ,
 3:16:012:0	he will fill an incense burner with burning coals from the altar that stands before the Lord . Then he will take two handfuls of fragrant powdered incense and will carry the burner and the incense behind the inner curtain .
-3:16:013:0	There in the Lord 's presence he will put the incense on the burning coals so that a cloud of incense will rise over the Ark 's cover—the place of atonement—that rests on the Ark of the Covenant . If he follows these instructions , he will not die .
+3:16:013:0	There in the Lord 's presence he will put the incense on the burning coals so that a cloud of incense will rise over the Ark 's cover — the place of atonement — that rests on the Ark of the Covenant . If he follows these instructions , he will not die .
 3:16:014:0	Then he must take some of the blood of the bull , dip his finger in it , and sprinkle it on the east side of the atonement cover . He must sprinkle blood seven times with his finger in front of the atonement cover .
 3:16:015:0	“ Then Aaron must slaughter the first goat as a sin offering for the people and carry its blood behind the inner curtain . There he will sprinkle the goat 's blood over the atonement cover and in front of it , just as he did with the bull 's blood .
 3:16:016:0	Through this process , he will purify the Most Holy Place , and he will do the same for the entire Tabernacle , because of the defiling sin and rebellion of the Israelites .

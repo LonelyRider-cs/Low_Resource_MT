@@ -1,7 +1,7 @@
 6:12:001:1	Kings Defeated East of the Jordan
 6:12:001:0	These are the kings east of the Jordan River who had been killed by the Israelites and whose land was taken . Their territory extended from the Arnon Gorge to Mount Hermon and included all the land east of the Jordan Valley .
 6:12:002:0	King Sihon of the Amorites , who lived in Heshbon , was defeated . His kingdom included Aroer , on the edge of the Arnon Gorge , and extended from the middle of the Arnon Gorge to the Jabbok River , which serves as a border for the Ammonites . This territory included the southern half of the territory of Gilead .
-6:12:003:0	Sihon also controlled the Jordan Valley and regions to the east—from as far north as the Sea of Galilee to as far south as the Dead Sea , including the road to Beth-jeshimoth and southward to the slopes of Pisgah .
+6:12:003:0	Sihon also controlled the Jordan Valley and regions to the east — from as far north as the Sea of Galilee to as far south as the Dead Sea , including the road to Beth-jeshimoth and southward to the slopes of Pisgah .
 6:12:004:0	King Og of Bashan , the last of the Rephaites , lived at Ashtaroth and Edrei .
 6:12:005:0	He ruled a territory stretching from Mount Hermon to Salecah in the north and to all of Bashan in the east , and westward to the borders of the kingdoms of Geshur and Maacah . This territory included the northern half of Gilead , as far as the boundary of King Sihon of Heshbon .
 6:12:002:1	Kings Defeated West of the Jordan

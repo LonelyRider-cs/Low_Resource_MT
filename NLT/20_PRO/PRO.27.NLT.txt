@@ -1,5 +1,5 @@
 20:27:001:0	Do n't brag about tomorrow , since you do n't know what the day will bring .
-20:27:002:0	Let someone else praise you , not your own mouth—a stranger , not your own lips .
+20:27:002:0	Let someone else praise you , not your own mouth — a stranger , not your own lips .
 20:27:003:0	A stone is heavy and sand is weighty , but the resentment caused by a fool is even heavier .
 20:27:004:0	Anger is cruel , and wrath is like a flood , but jealousy is even more dangerous .
 20:27:005:0	An open rebukeis better than hidden love !
@@ -7,7 +7,7 @@
 20:27:007:0	A person who is full refuses honey , but even bitter food tastes sweet to the hungry .
 20:27:008:0	A person who strays from homeis like a bird that strays from its nest .
 20:27:009:0	The heartfelt counsel of a friendis as sweet as perfume and incense .
-20:27:010:0	Never abandon a friend—either yours or your father's.When disaster strikes , you wo n't have to ask your brother for assistance.It 's better to go to a neighbor than to a brother who lives far away .
+20:27:010:0	Never abandon a friend — either yours or your father's.When disaster strikes , you wo n't have to ask your brother for assistance.It 's better to go to a neighbor than to a brother who lives far away .
 20:27:011:0	Be wise , my child , and make my heart glad.Then I will be able to answer my critics .
 20:27:012:0	A prudent person foresees danger and takes precautions.The simpleton goes blindly on and suffers the consequences .
 20:27:013:0	Get security from someone who guarantees a stranger 's debt.Get a deposit if he does it for foreigners .

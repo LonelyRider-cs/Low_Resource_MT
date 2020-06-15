@@ -4,16 +4,16 @@
 23:44:004:0	They will thrive like watered grass , like willows on a riverbank .
 23:44:001:1	The Foolishness of Idols
 23:44:005:0	Some will proudly claim , ‘ I belong to the Lord . 'Others will say , ‘ I am a descendant of Jacob . 'Some will write the Lord 's name on their handsand will take the name of Israel as their own . ”
-23:44:006:0	This is what the Lord says—Israel 's King and Redeemer , the Lord of Heaven 's Armies : “ I am the First and the Last ; there is no other God .
+23:44:006:0	This is what the Lord says — Israel 's King and Redeemer , the Lord of Heaven 's Armies : “ I am the First and the Last ; there is no other God .
 23:44:007:0	Who is like me ? Let him step forward and prove to you his power.Let him do as I have done since ancient timeswhen I established a people and explained its future .
-23:44:008:0	Do not tremble ; do not be afraid.Did I not proclaim my purposes for you long ago ? You are my witnesses—is there any other God ? No ! There is no other Rock—not one ! ”
+23:44:008:0	Do not tremble ; do not be afraid.Did I not proclaim my purposes for you long ago ? You are my witnesses — is there any other God ? No ! There is no other Rock — not one ! ”
 23:44:009:0	How foolish are those who manufacture idols.These prized objects are really worthless.The people who worship idols do n't know this , so they are all put to shame .
-23:44:010:0	Who but a fool would make his own god—an idol that can not help him one bit ?
-23:44:011:0	All who worship idols will be disgracedalong with all these craftsmen—mere humans—who claim they can make a god.They may all stand together , but they will stand in terror and shame .
+23:44:010:0	Who but a fool would make his own god — an idol that can not help him one bit ?
+23:44:011:0	All who worship idols will be disgracedalong with all these craftsmen — mere humans — who claim they can make a god.They may all stand together , but they will stand in terror and shame .
 23:44:012:0	The blacksmith stands at his forge to make a sharp tool , pounding and shaping it with all his might.His work makes him hungry and weak.It makes him thirsty and faint .
 23:44:013:0	Then the wood-carver measures a block of woodand draws a pattern on it.He works with chisel and planeand carves it into a human figure.He gives it human beautyand puts it in a little shrine .
 23:44:014:0	He cuts down cedars ; he selects the cypress and the oak ; he plants the pine in the forestto be nourished by the rain .
-23:44:015:0	Then he uses part of the wood to make a fire.With it he warms himself and bakes his bread.Then—yes , it 's true—he takes the rest of itand makes himself a god to worship ! He makes an idoland bows down in front of it !
+23:44:015:0	Then he uses part of the wood to make a fire.With it he warms himself and bakes his bread.Then — yes , it 's true — he takes the rest of itand makes himself a god to worship ! He makes an idoland bows down in front of it !
 23:44:016:0	He burns part of the tree to roast his meatand to keep himself warm.He says , “ Ah , that fire feels good . ”
 23:44:017:0	Then he takes what 's leftand makes his god : a carved idol ! He falls down in front of it , worshiping and praying to it. “ Rescue me ! ” he says. “ You are my god ! ”
 23:44:018:0	Such stupidity and ignorance ! Their eyes are closed , and they can not see.Their minds are shut , and they can not think .
@@ -23,7 +23,7 @@
 23:44:021:0	“ Pay attention , O Jacob , for you are my servant , O Israel.I , the Lord , made you , and I will not forget you .
 23:44:022:0	I have swept away your sins like a cloud.I have scattered your offenses like the morning mist.Oh , return to me , for I have paid the price to set you free . ”
 23:44:023:0	Sing , O heavens , for the Lord has done this wondrous thing.Shout for joy , O depths of the earth ! Break into song , O mountains and forests and every tree ! For the Lord has redeemed Jacoband is glorified in Israel .
-23:44:024:0	This is what the Lord says—your Redeemer and Creator : “ I am the Lord , who made all things.I alone stretched out the heavens.Who was with mewhen I made the earth ?
+23:44:024:0	This is what the Lord says — your Redeemer and Creator : “ I am the Lord , who made all things.I alone stretched out the heavens.Who was with mewhen I made the earth ?
 23:44:025:0	I expose the false prophets as liarsand make fools of fortune-tellers.I cause the wise to give bad advice , thus proving them to be fools .
 23:44:026:0	But I carry out the predictions of my prophets ! By them I say to Jerusalem , ‘ People will live here again , 'and to the towns of Judah , ‘ You will be rebuilt ; I will restore all your ruins ! '
 23:44:027:0	When I speak to the rivers and say , ‘ Dry up ! 'they will be dry .

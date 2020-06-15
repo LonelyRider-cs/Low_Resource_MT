@@ -1,10 +1,10 @@
 42:12:001:1	A Warning against Hypocrisy
-42:12:001:0	Meanwhile , the crowds grew until thousands were milling about and stepping on each other . Jesus turned first to his disciples and warned them , “ Beware of the yeast of the Pharisees—their hypocrisy .
+42:12:001:0	Meanwhile , the crowds grew until thousands were milling about and stepping on each other . Jesus turned first to his disciples and warned them , “ Beware of the yeast of the Pharisees — their hypocrisy .
 42:12:002:0	The time is coming when everything that is covered up will be revealed , and all that is secret will be made known to all .
 42:12:003:0	Whatever you have said in the dark will be heard in the light , and what you have whispered behind closed doors will be shouted from the housetops for all to hear !
 42:12:004:0	“ Dear friends , do n't be afraid of those who want to kill your body ; they can not do any more to you after that .
 42:12:005:0	But I 'll tell you whom to fear . Fear God , who has the power to kill you and then throw you into hell . Yes , he 's the one to fear .
-42:12:006:0	“ What is the price of five sparrows—two copper coins ? Yet God does not forget a single one of them .
+42:12:006:0	“ What is the price of five sparrows — two copper coins ? Yet God does not forget a single one of them .
 42:12:007:0	And the very hairs on your head are all numbered . So do n't be afraid ; you are more valuable to God than a whole flock of sparrows .
 42:12:008:0	“ I tell you the truth , everyone who acknowledges me publicly here on earth , the Son of Man will also acknowledge in the presence of God 's angels .
 42:12:009:0	But anyone who denies me here on earth will be denied before God 's angels .
@@ -22,7 +22,7 @@
 42:12:020:0	“ But God said to him , ‘ You fool ! You will die this very night . Then who will get everything you worked for ? '
 42:12:003:1	Teaching about Money and Possessions
 42:12:021:0	“ Yes , a person is a fool to store up earthly wealth but not have a rich relationship with God . ”
-42:12:022:0	Then , turning to his disciples , Jesus said , “ That is why I tell you not to worry about everyday life—whether you have enough food to eat or enough clothes to wear .
+42:12:022:0	Then , turning to his disciples , Jesus said , “ That is why I tell you not to worry about everyday life — whether you have enough food to eat or enough clothes to wear .
 42:12:023:0	For life is more than food , and your body more than clothing .
 42:12:024:0	Look at the ravens . They do n't plant or harvest or store food in barns , for God feeds them . And you are far more valuable to him than any birds !
 42:12:025:0	Can all your worries add a single moment to your life ?
@@ -54,7 +54,7 @@
 42:12:049:0	“ I have come to set the world on fire , and I wish it were already burning !
 42:12:050:0	I have a terrible baptism of suffering ahead of me , and I am under a heavy burden until it is accomplished .
 42:12:051:0	Do you think I have come to bring peace to the earth ? No , I have come to divide people against each other !
-42:12:052:0	From now on families will be split apart , three in favor of me , and two against—or two in favor and three against .
+42:12:052:0	From now on families will be split apart , three in favor of me , and two against — or two in favor and three against .
 42:12:053:0	‘ Father will be divided against sonand son against father ; mother against daughterand daughter against mother ; and mother-in-law against daughter-in-lawand daughter-in-law against mother-in-law . ' ”
 42:12:054:0	Then Jesus turned to the crowd and said , “ When you see clouds beginning to form in the west , you say , ‘ Here comes a shower . ' And you are right .
 42:12:055:0	When the south wind blows , you say , ‘ Today will be a scorcher . ' And it is .

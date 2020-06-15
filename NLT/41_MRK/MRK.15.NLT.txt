@@ -1,10 +1,10 @@
 41:15:001:1	Jesus ' Trial before Pilate
-41:15:001:0	Very early in the morning the leading priests , the elders , and the teachers of religious law—the entire high council—met to discuss their next step . They bound Jesus , led him away , and took him to Pilate , the Roman governor .
+41:15:001:0	Very early in the morning the leading priests , the elders , and the teachers of religious law — the entire high council — met to discuss their next step . They bound Jesus , led him away , and took him to Pilate , the Roman governor .
 41:15:002:0	Pilate asked Jesus , “ Are you the king of the Jews ? ” Jesus replied , “ You have said it . ”
 41:15:003:0	Then the leading priests kept accusing him of many crimes ,
 41:15:004:0	and Pilate asked him , “ Are n't you going to answer them ? What about all these charges they are bringing against you ? ”
 41:15:005:0	But Jesus said nothing , much to Pilate 's surprise .
-41:15:006:0	Now it was the governor 's custom each year during the Passover celebration to release one prisoner—anyone the people requested .
+41:15:006:0	Now it was the governor 's custom each year during the Passover celebration to release one prisoner — anyone the people requested .
 41:15:007:0	One of the prisoners at that time was Barabbas , a revolutionary who had committed murder in an uprising .
 41:15:008:0	The crowd went to Pilate and asked him to release a prisoner as usual .
 41:15:009:0	“ Would you like me to release to you this ‘ King of the Jews ' ? ” Pilate asked .

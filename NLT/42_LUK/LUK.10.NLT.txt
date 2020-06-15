@@ -9,7 +9,7 @@
 42:10:008:0	“ If you enter a town and it welcomes you , eat whatever is set before you .
 42:10:009:0	Heal the sick , and tell them , ‘ The Kingdom of God is near you now . '
 42:10:010:0	But if a town refuses to welcome you , go out into its streets and say ,
-42:10:011:0	‘ We wipe even the dust of your town from our feet to show that we have abandoned you to your fate . And know this—the Kingdom of God is near ! '
+42:10:011:0	‘ We wipe even the dust of your town from our feet to show that we have abandoned you to your fate . And know this — the Kingdom of God is near ! '
 42:10:012:0	I assure you , even wicked Sodom will be better off than such a town on judgment day .
 42:10:013:0	“ What sorrow awaits you , Korazin and Bethsaida ! For if the miracles I did in you had been done in wicked Tyre and Sidon , their people would have repented of their sins long ago , clothing themselves in burlap and throwing ashes on their heads to show their remorse .
 42:10:014:0	Yes , Tyre and Sidon will be better off on judgment day than you .

@@ -9,7 +9,7 @@
 27:5:008:0	But when all the king 's wise men had come in , none of them could read the writing or tell him what it meant .
 27:5:009:0	So the king grew even more alarmed , and his face turned pale . His nobles , too , were shaken .
 27:5:010:0	But when the queen mother heard what was happening , she hurried to the banquet hall . She said to Belshazzar , “ Long live the king ! Do n't be so pale and frightened .
-27:5:011:0	There is a man in your kingdom who has within him the spirit of the holy gods . During Nebuchadnezzar 's reign , this man was found to have insight , understanding , and wisdom like that of the gods . Your predecessor , the king—your predecessor King Nebuchadnezzar—made him chief over all the magicians , enchanters , astrologers , and fortune-tellers of Babylon .
+27:5:011:0	There is a man in your kingdom who has within him the spirit of the holy gods . During Nebuchadnezzar 's reign , this man was found to have insight , understanding , and wisdom like that of the gods . Your predecessor , the king — your predecessor King Nebuchadnezzar — made him chief over all the magicians , enchanters , astrologers , and fortune-tellers of Babylon .
 27:5:002:1	Daniel Explains the Writing
 27:5:012:0	This man Daniel , whom the king named Belteshazzar , has exceptional ability and is filled with divine knowledge and understanding . He can interpret dreams , explain riddles , and solve difficult problems . Call for Daniel , and he will tell you what the writing means . ”
 27:5:013:0	So Daniel was brought in before the king . The king asked him , “ Are you Daniel , one of the exiles brought from Judah by my predecessor , King Nebuchadnezzar ?
@@ -22,12 +22,12 @@
 27:5:020:0	But when his heart and mind were puffed up with arrogance , he was brought down from his royal throne and stripped of his glory .
 27:5:021:0	He was driven from human society . He was given the mind of a wild animal , and he lived among the wild donkeys . He ate grass like a cow , and he was drenched with the dew of heaven , until he learned that the Most High God rules over the kingdoms of the world and appoints anyone he desires to rule over them .
 27:5:022:0	“ You are his successor , O Belshazzar , and you knew all this , yet you have not humbled yourself .
-27:5:023:0	For you have proudly defied the Lord of heaven and have had these cups from his Temple brought before you . You and your nobles and your wives and concubines have been drinking wine from them while praising gods of silver , gold , bronze , iron , wood , and stone—gods that neither see nor hear nor know anything at all . But you have not honored the God who gives you the breath of life and controls your destiny !
+27:5:023:0	For you have proudly defied the Lord of heaven and have had these cups from his Temple brought before you . You and your nobles and your wives and concubines have been drinking wine from them while praising gods of silver , gold , bronze , iron , wood , and stone — gods that neither see nor hear nor know anything at all . But you have not honored the God who gives you the breath of life and controls your destiny !
 27:5:024:0	So God has sent this hand to write this message .
 27:5:025:0	“ This is the message that was written : Mene , Mene , Tekel , and Parsin .
-27:5:026:0	This is what these words mean : Mene means ‘ numbered'—God has numbered the days of your reign and has brought it to an end .
-27:5:027:0	Tekel means ‘ weighed'—you have been weighed on the balances and have not measured up .
-27:5:028:0	Parsin means ‘ divided'—your kingdom has been divided and given to the Medes and Persians . ”
+27:5:026:0	This is what these words mean : Mene means ‘ numbered ' — God has numbered the days of your reign and has brought it to an end .
+27:5:027:0	Tekel means ‘ weighed ' — you have been weighed on the balances and have not measured up .
+27:5:028:0	Parsin means ‘ divided ' — your kingdom has been divided and given to the Medes and Persians . ”
 27:5:029:0	Then at Belshazzar 's command , Daniel was dressed in purple robes , a gold chain was hung around his neck , and he was proclaimed the third highest ruler in the kingdom .
 27:5:030:0	That very night Belshazzar , the Babylonian king , was killed .
 27:5:031:0	And Darius the Mede took over the kingdom at the age of sixty-two .

@@ -6,7 +6,7 @@
 1:45:005:0	But do n't be upset , and do n't be angry with yourselves for selling me to this place . It was God who sent me here ahead of you to preserve your lives .
 1:45:006:0	This famine that has ravaged the land for two years will last five more years , and there will be neither plowing nor harvesting .
 1:45:007:0	God has sent me ahead of you to keep you and your families alive and to preserve many survivors .
-1:45:008:0	So it was God who sent me here , not you ! And he is the one who made me an adviser to Pharaoh—the manager of his entire palace and the governor of all Egypt .
+1:45:008:0	So it was God who sent me here , not you ! And he is the one who made me an adviser to Pharaoh — the manager of his entire palace and the governor of all Egypt .
 1:45:009:0	“ Now hurry back to my father and tell him , ‘ This is what your son Joseph says : God has made me master over all the land of Egypt . So come down to me immediately !
 1:45:010:0	You can live in the region of Goshen , where you can be near me with all your children and grandchildren , your flocks and herds , and everything you own .
 1:45:011:0	I will take care of you there , for there are still five years of famine ahead of us . Otherwise you , your household , and all your animals will starve . ' ”
@@ -21,10 +21,10 @@
 1:45:019:0	Then Pharaoh said to Joseph , “ Tell your brothers , ‘ Take wagons from the land of Egypt to carry your little children and your wives , and bring your father here .
 1:45:020:0	Do n't worry about your personal belongings , for the best of all the land of Egypt is yours . ' ”
 1:45:021:0	So the sons of Jacob did as they were told . Joseph provided them with wagons , as Pharaoh had commanded , and he gave them supplies for the journey .
-1:45:022:0	And he gave each of them new clothes—but to Benjamin he gave five changes of clothes and 300 pieces of silver .
+1:45:022:0	And he gave each of them new clothes — but to Benjamin he gave five changes of clothes and 300 pieces of silver .
 1:45:023:0	He also sent his father ten male donkeys loaded with the finest products of Egypt , and ten female donkeys loaded with grain and bread and other supplies he would need on his journey .
 1:45:024:0	So Joseph sent his brothers off , and as they left , he called after them , “ Do n't quarrel about all this along the way ! ”
 1:45:025:0	And they left Egypt and returned to their father , Jacob , in the land of Canaan .
-1:45:026:0	“ Joseph is still alive ! ” they told him . “ And he is governor of all the land of Egypt ! ” Jacob was stunned at the news—he could n't believe it .
+1:45:026:0	“ Joseph is still alive ! ” they told him . “ And he is governor of all the land of Egypt ! ” Jacob was stunned at the news — he could n't believe it .
 1:45:027:0	But when they repeated to Jacob everything Joseph had told them , and when he saw the wagons Joseph had sent to carry him , their father 's spirits revived .
 1:45:028:0	Then Jacob exclaimed , “ It must be true ! My son Joseph is alive ! I must go and see him before I die . ”

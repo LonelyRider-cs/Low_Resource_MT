@@ -1,6 +1,6 @@
 42:15:001:1	Parable of the Lost Sheep
 42:15:001:0	Tax collectors and other notorious sinners often came to listen to Jesus teach .
-42:15:002:0	This made the Pharisees and teachers of religious law complain that he was associating with such sinful people—even eating with them !
+42:15:002:0	This made the Pharisees and teachers of religious law complain that he was associating with such sinful people — even eating with them !
 42:15:003:0	So Jesus told them this story :
 42:15:004:0	“ If a man has a hundred sheep and one of them gets lost , what will he do ? Wo n't he leave the ninety-nine others in the wilderness and go to search for the one that is lost until he finds it ?
 42:15:005:0	And when he has found it , he will joyfully carry it home on his shoulders .

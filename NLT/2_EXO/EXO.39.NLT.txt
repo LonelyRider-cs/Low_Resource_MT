@@ -1,6 +1,6 @@
 2:39:001:1	Clothing for the Priests
 2:39:002:1	Making the Ephod
-2:39:001:0	The craftsmen made beautiful sacred garments of blue , purple , and scarlet cloth—clothing for Aaron to wear while ministering in the Holy Place , just as the Lord had commanded Moses .
+2:39:001:0	The craftsmen made beautiful sacred garments of blue , purple , and scarlet cloth — clothing for Aaron to wear while ministering in the Holy Place , just as the Lord had commanded Moses .
 2:39:002:0	Bezalel made the ephod of finely woven linen and embroidered it with gold and with blue , purple , and scarlet thread .
 2:39:003:0	He made gold thread by hammering out thin sheets of gold and cutting it into fine strands . With great skill and care , he worked it into the fine linen with the blue , purple , and scarlet thread .
 2:39:004:0	The ephod consisted of two pieces , front and back , joined at the shoulders with two shoulder-pieces .
@@ -31,18 +31,18 @@
 2:39:027:0	They made tunics for Aaron and his sons from fine linen cloth .
 2:39:028:0	The turban and the special head coverings were made of fine linen , and the undergarments were also made of finely woven linen .
 2:39:029:0	The sashes were made of finely woven linen and embroidered with blue , purple , and scarlet thread , just as the Lord had commanded Moses .
-2:39:030:0	Finally , they made the sacred medallion—the badge of holiness—of pure gold . They engraved it like a seal with these words : Holy to the Lord .
+2:39:030:0	Finally , they made the sacred medallion — the badge of holiness — of pure gold . They engraved it like a seal with these words : Holy to the Lord .
 2:39:005:1	Moses Inspects the Work
 2:39:031:0	They attached the medallion with a blue cord to Aaron 's turban , just as the Lord had commanded Moses .
 2:39:032:0	And so at last the Tabernacle was finished . The Israelites had done everything just as the Lord had commanded Moses .
 2:39:033:0	And they brought the entire Tabernacle to Moses : the sacred tent with all its furnishings , clasps , frames , crossbars , posts , and bases ;
 2:39:034:0	the tent coverings of tanned ram skins and fine goatskin leather ; the inner curtain to shield the Ark ;
-2:39:035:0	the Ark of the Covenant and its carrying poles ; the Ark 's cover—the place of atonement ;
+2:39:035:0	the Ark of the Covenant and its carrying poles ; the Ark 's cover — the place of atonement ;
 2:39:036:0	the table and all its utensils ; the Bread of the Presence ;
 2:39:037:0	the pure gold lampstand with its symmetrical lamp cups , all its accessories , and the olive oil for lighting ;
 2:39:038:0	the gold altar ; the anointing oil and fragrant incense ; the curtain for the entrance of the sacred tent ;
 2:39:039:0	the bronze altar ; the bronze grating and its carrying poles and utensils ; the washbasin with its stand ;
 2:39:040:0	the curtains for the walls of the courtyard ; the posts and their bases ; the curtain for the entrance to the courtyard ; the ropes and tent pegs ; all the furnishings to be used in worship at the Tabernacle ;
-2:39:041:0	the beautifully stitched garments for the priests to wear while ministering in the Holy Place—the sacred garments for Aaron the priest , and the garments for his sons to wear as they minister as priests .
+2:39:041:0	the beautifully stitched garments for the priests to wear while ministering in the Holy Place — the sacred garments for Aaron the priest , and the garments for his sons to wear as they minister as priests .
 2:39:042:0	So the people of Israel followed all of the Lord 's instructions to Moses .
 2:39:043:0	Then Moses inspected all their work . When he found it had been done just as the Lord had commanded him , he blessed them .

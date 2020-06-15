@@ -1,6 +1,6 @@
 20:6:001:1	Lessons for Daily Life
-20:6:001:0	My child , if you have put up security for a friend 's debtor agreed to guarantee the debt of a stranger—
-20:6:002:0	if you have trapped yourself by your agreementand are caught by what you said—
+20:6:001:0	My child , if you have put up security for a friend 's debtor agreed to guarantee the debt of a stranger —
+20:6:002:0	if you have trapped yourself by your agreementand are caught by what you said —
 20:6:003:0	follow my advice and save yourself , for you have placed yourself at your friend 's mercy.Now swallow your pride ; go and beg to have your name erased .
 20:6:004:0	Do n't put it off ; do it now ! Do n't rest until you do .
 20:6:005:0	Save yourself like a gazelle escaping from a hunter , like a bird fleeing from a net .
@@ -8,13 +8,13 @@
 20:6:007:0	Though they have no princeor governor or ruler to make them work ,
 20:6:008:0	they labor hard all summer , gathering food for the winter .
 20:6:009:0	But you , lazybones , how long will you sleep ? When will you wake up ?
-20:6:010:0	A little extra sleep , a little more slumber , a little folding of the hands to rest—
+20:6:010:0	A little extra sleep , a little more slumber , a little folding of the hands to rest —
 20:6:011:0	then poverty will pounce on you like a bandit ; scarcity will attack you like an armed robber .
 20:6:012:0	What are worthless and wicked people like ? They are constant liars ,
 20:6:013:0	signaling their deceit with a wink of the eye , a nudge of the foot , or the wiggle of fingers .
 20:6:014:0	Their perverted hearts plot evil , and they constantly stir up trouble .
 20:6:015:0	But they will be destroyed suddenly , broken in an instant beyond all hope of healing .
-20:6:016:0	There are six things the Lord hates—no , seven things he detests :
+20:6:016:0	There are six things the Lord hates — no , seven things he detests :
 20:6:017:0	haughty eyes , a lying tongue , hands that kill the innocent ,
 20:6:018:0	a heart that plots evil , feet that race to do wrong ,
 20:6:019:0	a false witness who pours out lies , a person who sows discord in a family .

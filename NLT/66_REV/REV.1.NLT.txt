@@ -6,9 +6,9 @@
 66:1:004:0	This letter is from John to the seven churches in the province of Asia.Grace and peace to you from the one who is , who always was , and who is still to come ; from the sevenfold Spirit before his throne ;
 66:1:005:0	and from Jesus Christ . He is the faithful witness to these things , the first to rise from the dead , and the ruler of all the kings of the world.All glory to him who loves us and has freed us from our sins by shedding his blood for us .
 66:1:006:0	He has made us a Kingdom of priests for God his Father . All glory and power to him forever and ever ! Amen .
-66:1:007:0	Look ! He comes with the clouds of heaven.And everyone will see him—even those who pierced him.And all the nations of the worldwill mourn for him.Yes ! Amen !
+66:1:007:0	Look ! He comes with the clouds of heaven.And everyone will see him — even those who pierced him.And all the nations of the worldwill mourn for him.Yes ! Amen !
 66:1:003:1	Vision of the Son of Man
-66:1:008:0	“ I am the Alpha and the Omega—the beginning and the end , ” says the Lord God . “ I am the one who is , who always was , and who is still to come—the Almighty One . ”
+66:1:008:0	“ I am the Alpha and the Omega — the beginning and the end , ” says the Lord God . “ I am the one who is , who always was , and who is still to come — the Almighty One . ”
 66:1:009:0	I , John , am your brother and your partner in suffering and in God 's Kingdom and in the patient endurance to which Jesus calls us . I was exiled to the island of Patmos for preaching the word of God and for my testimony about Jesus .
 66:1:010:0	It was the Lord 's Day , and I was worshiping in the Spirit . Suddenly , I heard behind me a loud voice like a trumpet blast .
 66:1:011:0	It said , “ Write in a book everything you see , and send it to the seven churches in the cities of Ephesus , Smyrna , Pergamum , Thyatira , Sardis , Philadelphia , and Laodicea . ”
@@ -18,6 +18,6 @@
 66:1:015:0	His feet were like polished bronze refined in a furnace , and his voice thundered like mighty ocean waves .
 66:1:016:0	He held seven stars in his right hand , and a sharp two-edged sword came from his mouth . And his face was like the sun in all its brilliance .
 66:1:017:0	When I saw him , I fell at his feet as if I were dead . But he laid his right hand on me and said , “ Do n't be afraid ! I am the First and the Last .
-66:1:018:0	I am the living one . I died , but look—I am alive forever and ever ! And I hold the keys of death and the grave .
-66:1:019:0	“ Write down what you have seen—both the things that are now happening and the things that will happen .
+66:1:018:0	I am the living one . I died , but look — I am alive forever and ever ! And I hold the keys of death and the grave .
+66:1:019:0	“ Write down what you have seen — both the things that are now happening and the things that will happen .
 66:1:020:0	This is the meaning of the mystery of the seven stars you saw in my right hand and the seven gold lampstands : The seven stars are the angels of the seven churches , and the seven lampstands are the seven churches .

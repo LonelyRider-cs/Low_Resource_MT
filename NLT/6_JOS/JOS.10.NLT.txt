@@ -1,6 +1,6 @@
 6:10:001:1	Israel Defeats the Southern Armies
 6:10:001:0	Adoni-zedek , king of Jerusalem , heard that Joshua had captured and completely destroyed Ai and killed its king , just as he had destroyed the town of Jericho and killed its king . He also learned that the Gibeonites had made peace with Israel and were now their allies .
-6:10:002:0	He and his people became very afraid when they heard all this because Gibeon was a large town—as large as the royal cities and larger than Ai . And the Gibeonite men were strong warriors .
+6:10:002:0	He and his people became very afraid when they heard all this because Gibeon was a large town — as large as the royal cities and larger than Ai . And the Gibeonite men were strong warriors .
 6:10:003:0	So King Adoni-zedek of Jerusalem sent messengers to several other kings : Hoham of Hebron , Piram of Jarmuth , Japhia of Lachish , and Debir of Eglon .
 6:10:004:0	“ Come and help me destroy Gibeon , ” he urged them , “ for they have made peace with Joshua and the people of Israel . ”
 6:10:005:0	So these five Amorite kings combined their armies for a united attack . They moved all their troops into place and attacked Gibeon .
@@ -22,7 +22,7 @@
 6:10:020:0	So Joshua and the Israelite army continued the slaughter and completely crushed the enemy . They totally wiped out the five armies except for a tiny remnant that managed to reach their fortified towns .
 6:10:021:0	Then the Israelites returned safely to Joshua in the camp at Makkedah . After that , no one dared to speak even a word against Israel .
 6:10:022:0	Then Joshua said , “ Remove the rocks covering the opening of the cave , and bring the five kings to me . ”
-6:10:023:0	So they brought the five kings out of the cave—the kings of Jerusalem , Hebron , Jarmuth , Lachish , and Eglon .
+6:10:023:0	So they brought the five kings out of the cave — the kings of Jerusalem , Hebron , Jarmuth , Lachish , and Eglon .
 6:10:024:0	When they brought them out , Joshua told the commanders of his army , “ Come and put your feet on the kings ' necks. ” And they did as they were told .
 6:10:025:0	“ Do n't ever be afraid or discouraged , ” Joshua told his men . “ Be strong and courageous , for the Lord is going to do this to all of your enemies . ”
 6:10:026:0	Then Joshua killed each of the five kings and impaled them on five sharpened poles , where they hung until evening .
@@ -40,7 +40,7 @@
 6:10:037:0	They captured the town and killed everyone in it , including its king , leaving no survivors . They did the same thing to all of its surrounding villages . And just as he had done at Eglon , he completely destroyed the entire population .
 6:10:038:0	Then Joshua and the Israelites turned back and attacked Debir .
 6:10:039:0	He captured the town , its king , and all of its surrounding villages . He completely destroyed everyone in it , leaving no survivors . He did to Debir and its king just what he had done to Hebron and to Libnah and its king .
-6:10:040:0	So Joshua conquered the whole region—the kings and people of the hill country , the Negev , the western foothills , and the mountain slopes . He completely destroyed everyone in the land , leaving no survivors , just as the Lord , the God of Israel , had commanded .
+6:10:040:0	So Joshua conquered the whole region — the kings and people of the hill country , the Negev , the western foothills , and the mountain slopes . He completely destroyed everyone in the land , leaving no survivors , just as the Lord , the God of Israel , had commanded .
 6:10:041:0	Joshua slaughtered them from Kadesh-barnea to Gaza and from the region around the town of Goshen up to Gibeon .
 6:10:042:0	Joshua conquered all these kings and their land in a single campaign , for the Lord , the God of Israel , was fighting for his people .
 6:10:043:0	Then Joshua and the Israelite army returned to their camp at Gilgal .

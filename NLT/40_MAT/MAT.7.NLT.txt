@@ -8,7 +8,7 @@
 40:7:006:0	“ Do n't waste what is holy on people who are unholy . Do n't throw your pearls to pigs ! They will trample the pearls , then turn and attack you .
 40:7:007:0	“ Keep on asking , and you will receive what you ask for . Keep on seeking , and you will find . Keep on knocking , and the door will be opened to you .
 40:7:008:0	For everyone who asks , receives . Everyone who seeks , finds . And to everyone who knocks , the door will be opened .
-40:7:009:0	“ You parents—if your children ask for a loaf of bread , do you give them a stone instead ?
+40:7:009:0	“ You parents — if your children ask for a loaf of bread , do you give them a stone instead ?
 40:7:010:0	Or if they ask for a fish , do you give them a snake ? Of course not !
 40:7:003:1	The Golden Rule
 40:7:011:0	So if you sinful people know how to give good gifts to your children , how much more will your heavenly Father give good gifts to those who ask him .
@@ -33,4 +33,4 @@
 40:7:026:0	But anyone who hears my teaching and does n't obey it is foolish , like a person who builds a house on sand .
 40:7:027:0	When the rains and floods come and the winds beat against that house , it will collapse with a mighty crash . ”
 40:7:028:0	When Jesus had finished saying these things , the crowds were amazed at his teaching ,
-40:7:029:0	for he taught with real authority—quite unlike their teachers of religious law .
+40:7:029:0	for he taught with real authority — quite unlike their teachers of religious law .

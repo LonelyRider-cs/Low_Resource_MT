@@ -34,7 +34,7 @@
 10:19:005:1	David 's Kindness to Barzillai
 10:19:030:0	“ Give him all of it , ” Mephibosheth said . “ I am content just to have you safely back again , my lord the king ! ”
 10:19:031:0	Barzillai of Gilead had come down from Rogelim to escort the king across the Jordan .
-10:19:032:0	He was very old—eighty years of age—and very wealthy . He was the one who had provided food for the king during his stay in Mahanaim .
+10:19:032:0	He was very old — eighty years of age — and very wealthy . He was the one who had provided food for the king during his stay in Mahanaim .
 10:19:033:0	“ Come across with me and live in Jerusalem , ” the king said to Barzillai . “ I will take care of you there . ”
 10:19:034:0	“ No , ” he replied , “ I am far too old to go with the king to Jerusalem .
 10:19:035:0	I am eighty years old today , and I can no longer enjoy anything . Food and wine are no longer tasty , and I can not hear the singers as they sing . I would only be a burden to my lord the king .
