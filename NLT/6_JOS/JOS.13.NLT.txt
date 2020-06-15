@@ -1,0 +1,39 @@
+6:13:001:1	The Land Yet to Be Conquered
+6:13:001:0	When Joshua was an old man , the Lord said to him , “ You are growing old , and much land remains to be conquered .
+6:13:002:0	This is the territory that remains : all the regions of the Philistines and the Geshurites ,
+6:13:003:0	and the larger territory of the Canaanites , extending from the stream of Shihor on the border of Egypt , northward to the boundary of Ekron . It includes the territory of the five Philistine rulers of Gaza , Ashdod , Ashkelon , Gath , and Ekron . The land of the Avvites
+6:13:004:0	in the south also remains to be conquered . In the north , the following area has not yet been conquered : all the land of the Canaanites , including Mearah ( which belongs to the Sidonians ) , stretching northward to Aphek on the border of the Amorites ;
+6:13:005:0	the land of the Gebalites and all of the Lebanon mountain area to the east , from Baal-gad below Mount Hermon to Lebo-hamath ;
+6:13:006:0	and all the hill country from Lebanon to Misrephoth-maim , including all the land of the Sidonians. “ I myself will drive these people out of the land ahead of the Israelites . So be sure to give this land to Israel as a special possession , just as I have commanded you .
+6:13:002:1	The Land Divided East of the Jordan
+6:13:007:0	Include all this territory as Israel 's possession when you divide this land among the nine tribes and the half-tribe of Manasseh . ”
+6:13:008:0	Half the tribe of Manasseh and the tribes of Reuben and Gad had already received their grants of land on the east side of the Jordan , for Moses , the servant of the Lord , had previously assigned this land to them .
+6:13:009:0	Their territory extended from Aroer on the edge of the Arnon Gorge ( including the town in the middle of the gorge ) to the plain beyond Medeba , as far as Dibon .
+6:13:010:0	It also included all the towns of King Sihon of the Amorites , who had reigned in Heshbon , and extended as far as the borders of Ammon .
+6:13:011:0	It included Gilead , the territory of the kingdoms of Geshur and Maacah , all of Mount Hermon , all of Bashan as far as Salecah ,
+6:13:012:0	and all the territory of King Og of Bashan , who had reigned in Ashtaroth and Edrei . King Og was the last of the Rephaites , for Moses had attacked them and driven them out .
+6:13:003:1	An Allotment for the Tribe of Levi
+6:13:013:0	But the Israelites failed to drive out the people of Geshur and Maacah , so they continue to live among the Israelites to this day .
+6:13:004:1	The Land Given to the Tribe of Reuben
+6:13:014:0	Moses did not assign any allotment of land to the tribe of Levi . Instead , as the Lord had promised them , their allotment came from the offerings burned on the altar to the Lord , the God of Israel .
+6:13:015:0	Moses had assigned the following area to the clans of the tribe of Reuben .
+6:13:016:0	Their territory extended from Aroer on the edge of the Arnon Gorge ( including the town in the middle of the gorge ) to the plain beyond Medeba .
+6:13:017:0	It included Heshbon and the other towns on the plain—Dibon , Bamoth-baal , Beth-baal-meon ,
+6:13:018:0	Jahaz , Kedemoth , Mephaath ,
+6:13:019:0	Kiriathaim , Sibmah , Zereth-shahar on the hill above the valley ,
+6:13:020:0	Beth-peor , the slopes of Pisgah , and Beth-jeshimoth .
+6:13:021:0	The land of Reuben also included all the towns of the plain and the entire kingdom of Sihon . Sihon was the Amorite king who had reigned in Heshbon and was killed by Moses along with the leaders of Midian—Evi , Rekem , Zur , Hur , and Reba—princes living in the region who were allied with Sihon .
+6:13:022:0	The Israelites had also killed Balaam son of Beor , who used magic to tell the future .
+6:13:005:1	The Land Given to the Tribe of Gad
+6:13:023:0	The Jordan River marked the western boundary for the tribe of Reuben . The towns and their surrounding villages in this area were given as a homeland to the clans of the tribe of Reuben .
+6:13:024:0	Moses had assigned the following area to the clans of the tribe of Gad .
+6:13:025:0	Their territory included Jazer , all the towns of Gilead , and half of the land of Ammon , as far as the town of Aroer just west of Rabbah .
+6:13:026:0	It extended from Heshbon to Ramath-mizpeh and Betonim , and from Mahanaim to the territory of Lo-debar .
+6:13:027:0	In the valley were Beth-haram , Beth-nimrah , Succoth , Zaphon , and the rest of the kingdom of King Sihon of Heshbon . The western boundary ran along the Jordan River , extended as far north as the tip of the Sea of Galilee , and then turned eastward .
+6:13:006:1	The Land Given to the Half-Tribe of Manasseh
+6:13:028:0	The towns and their surrounding villages in this area were given as a homeland to the clans of the tribe of Gad .
+6:13:029:0	Moses had assigned the following area to the clans of the half-tribe of Manasseh .
+6:13:030:0	Their territory extended from Mahanaim , including all of Bashan , all the former kingdom of King Og , and the sixty towns of Jair in Bashan .
+6:13:031:0	It also included half of Gilead and King Og 's royal cities of Ashtaroth and Edrei . All this was given to the clans of the descendants of Makir , who was Manasseh 's son .
+6:13:032:0	These are the allotments Moses had made while he was on the plains of Moab , across the Jordan River , east of Jericho .
+6:13:033:0	But Moses gave no allotment of land to the tribe of Levi , for the Lord , the God of Israel , had promised that he himself would be their allotment .

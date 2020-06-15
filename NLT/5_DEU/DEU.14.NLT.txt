@@ -1,0 +1,31 @@
+5:14:001:1	Ceremonially Clean and Unclean Animals
+5:14:001:0	“ Since you are the people of the Lord your God , never cut yourselves or shave the hair above your foreheads in mourning for the dead .
+5:14:002:0	You have been set apart as holy to the Lord your God , and he has chosen you from all the nations of the earth to be his own special treasure .
+5:14:003:0	“ You must not eat any detestable animals that are ceremonially unclean .
+5:14:004:0	These are the animals you may eat : the ox , the sheep , the goat ,
+5:14:005:0	the deer , the gazelle , the roe deer , the wild goat , the addax , the antelope , and the mountain sheep .
+5:14:006:0	“ You may eat any animal that has completely split hooves and chews the cud ,
+5:14:007:0	but if the animal does n't have both , it may not be eaten . So you may not eat the camel , the hare , or the hyrax . They chew the cud but do not have split hooves , so they are ceremonially unclean for you .
+5:14:008:0	And you may not eat the pig . It has split hooves but does not chew the cud , so it is ceremonially unclean for you . You may not eat the meat of these animals or even touch their carcasses .
+5:14:009:0	“ Of all the marine animals , you may eat whatever has both fins and scales .
+5:14:010:0	You may not , however , eat marine animals that do not have both fins and scales . They are ceremonially unclean for you .
+5:14:011:0	“ You may eat any bird that is ceremonially clean .
+5:14:012:0	These are the birds you may not eat : the griffon vulture , the bearded vulture , the black vulture ,
+5:14:013:0	the kite , the falcon , buzzards of all kinds ,
+5:14:014:0	ravens of all kinds ,
+5:14:015:0	the eagle owl , the short-eared owl , the seagull , hawks of all kinds ,
+5:14:016:0	the little owl , the great owl , the barn owl ,
+5:14:017:0	the desert owl , the Egyptian vulture , the cormorant ,
+5:14:018:0	the stork , herons of all kinds , the hoopoe , and the bat .
+5:14:019:0	“ All winged insects that walk along the ground are ceremonially unclean for you and may not be eaten .
+5:14:020:0	But you may eat any winged bird or insect that is ceremonially clean .
+5:14:002:1	The Giving of Tithes
+5:14:021:0	“ You must not eat anything that has died a natural death . You may give it to a foreigner living in your town , or you may sell it to a stranger . But do not eat it yourselves , for you are set apart as holy to the Lord your God. “ You must not cook a young goat in its mother 's milk .
+5:14:022:0	“ You must set aside a tithe of your crops—one-tenth of all the crops you harvest each year .
+5:14:023:0	Bring this tithe to the designated place of worship—the place the Lord your God chooses for his name to be honored—and eat it there in his presence . This applies to your tithes of grain , new wine , olive oil , and the firstborn males of your flocks and herds . Doing this will teach you always to fear the Lord your God .
+5:14:024:0	“ Now when the Lord your God blesses you with a good harvest , the place of worship he chooses for his name to be honored might be too far for you to bring the tithe .
+5:14:025:0	If so , you may sell the tithe portion of your crops and herds , put the money in a pouch , and go to the place the Lord your God has chosen .
+5:14:026:0	When you arrive , you may use the money to buy any kind of food you want—cattle , sheep , goats , wine , or other alcoholic drink . Then feast there in the presence of the Lord your God and celebrate with your household .
+5:14:027:0	And do not neglect the Levites in your town , for they will receive no allotment of land among you .
+5:14:028:0	“ At the end of every third year , bring the entire tithe of that year 's harvest and store it in the nearest town .
+5:14:029:0	Give it to the Levites , who will receive no allotment of land among you , as well as to the foreigners living among you , the orphans , and the widows in your towns , so they can eat and be satisfied . Then the Lord your God will bless you in all your work .

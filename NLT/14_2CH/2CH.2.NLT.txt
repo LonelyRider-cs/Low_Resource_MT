@@ -1,0 +1,19 @@
+14:2:001:1	Preparations for Building the Temple
+14:2:001:0	Solomon decided to build a Temple to honor the name of the Lord , and also a royal palace for himself .
+14:2:002:0	He enlisted a force of 70,000 laborers , 80,000 men to quarry stone in the hill country , and 3,600 foremen .
+14:2:003:0	Solomon also sent this message to King Hiram at Tyre : “ Send me cedar logs as you did for my father , David , when he was building his palace .
+14:2:004:0	I am about to build a Temple to honor the name of the Lord my God . It will be a place set apart to burn fragrant incense before him , to display the special sacrificial bread , and to sacrifice burnt offerings each morning and evening , on the Sabbaths , at new moon celebrations , and at the other appointed festivals of the Lord our God . He has commanded Israel to do these things forever .
+14:2:005:0	“ This must be a magnificent Temple because our God is greater than all other gods .
+14:2:006:0	But who can really build him a worthy home ? Not even the highest heavens can contain him ! So who am I to consider building a Temple for him , except as a place to burn sacrifices to him ?
+14:2:007:0	“ So send me a master craftsman who can work with gold , silver , bronze , and iron , as well as with purple , scarlet , and blue cloth . He must be a skilled engraver who can work with the craftsmen of Judah and Jerusalem who were selected by my father , David .
+14:2:008:0	“ Also send me cedar , cypress , and red sandalwood logs from Lebanon , for I know that your men are without equal at cutting timber in Lebanon . I will send my men to help them .
+14:2:009:0	An immense amount of timber will be needed , for the Temple I am going to build will be very large and magnificent .
+14:2:010:0	In payment for your woodcutters , I will send 100,000 bushels of crushed wheat , 100,000 bushels of barley , 110,000 gallons of wine , and 110,000 gallons of olive oil . ”
+14:2:011:0	King Hiram sent this letter of reply to Solomon : “ It is because the Lord loves his people that he has made you their king !
+14:2:012:0	Praise the Lord , the God of Israel , who made the heavens and the earth ! He has given King David a wise son , gifted with skill and understanding , who will build a Temple for the Lord and a royal palace for himself .
+14:2:013:0	“ I am sending you a master craftsman named Huram-abi , who is extremely talented .
+14:2:014:0	His mother is from the tribe of Dan in Israel , and his father is from Tyre . He is skillful at making things from gold , silver , bronze , and iron , and he also works with stone and wood . He can work with purple , blue , and scarlet cloth and fine linen . He is also an engraver and can follow any design given to him . He will work with your craftsmen and those appointed by my lord David , your father .
+14:2:015:0	“ Send along the wheat , barley , olive oil , and wine that my lord has mentioned .
+14:2:016:0	We will cut whatever timber you need from the Lebanon mountains and will float the logs in rafts down the coast of the Mediterranean Sea to Joppa . From there you can transport the logs up to Jerusalem . ”
+14:2:017:0	Solomon took a census of all foreigners in the land of Israel , like the census his father had taken , and he counted 153,600 .
+14:2:018:0	He assigned 70,000 of them as common laborers , 80,000 as quarry workers in the hill country , and 3,600 as foremen .

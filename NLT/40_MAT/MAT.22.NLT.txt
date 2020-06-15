@@ -1,0 +1,51 @@
+40:22:001:1	Parable of the Great Feast
+40:22:001:0	Jesus also told them other parables . He said ,
+40:22:002:0	“ The Kingdom of Heaven can be illustrated by the story of a king who prepared a great wedding feast for his son .
+40:22:003:0	When the banquet was ready , he sent his servants to notify those who were invited . But they all refused to come !
+40:22:004:0	“ So he sent other servants to tell them , ‘ The feast has been prepared . The bulls and fattened cattle have been killed , and everything is ready . Come to the banquet ! '
+40:22:005:0	But the guests he had invited ignored them and went their own way , one to his farm , another to his business .
+40:22:006:0	Others seized his messengers and insulted them and killed them .
+40:22:007:0	“ The king was furious , and he sent out his army to destroy the murderers and burn their town .
+40:22:008:0	And he said to his servants , ‘ The wedding feast is ready , and the guests I invited are n't worthy of the honor .
+40:22:009:0	Now go out to the street corners and invite everyone you see . '
+40:22:010:0	So the servants brought in everyone they could find , good and bad alike , and the banquet hall was filled with guests .
+40:22:011:0	“ But when the king came in to meet the guests , he noticed a man who was n't wearing the proper clothes for a wedding .
+40:22:012:0	‘ Friend , ' he asked , ‘ how is it that you are here without wedding clothes ? ' But the man had no reply .
+40:22:013:0	Then the king said to his aides , ‘ Bind his hands and feet and throw him into the outer darkness , where there will be weeping and gnashing of teeth . '
+40:22:002:1	Taxes for Caesar
+40:22:014:0	“ For many are called , but few are chosen . ”
+40:22:015:0	Then the Pharisees met together to plot how to trap Jesus into saying something for which he could be arrested .
+40:22:016:0	They sent some of their disciples , along with the supporters of Herod , to meet with him . “ Teacher , ” they said , “ we know how honest you are . You teach the way of God truthfully . You are impartial and do n't play favorites .
+40:22:017:0	Now tell us what you think about this : Is it right to pay taxes to Caesar or not ? ”
+40:22:018:0	But Jesus knew their evil motives . “ You hypocrites ! ” he said . “ Why are you trying to trap me ?
+40:22:019:0	Here , show me the coin used for the tax. ” When they handed him a Roman coin ,
+40:22:020:0	he asked , “ Whose picture and title are stamped on it ? ”
+40:22:021:0	“ Caesar 's , ” they replied. “ Well , then , ” he said , “ give to Caesar what belongs to Caesar , and give to God what belongs to God . ”
+40:22:003:1	Discussion about Resurrection
+40:22:022:0	His reply amazed them , and they went away .
+40:22:023:0	That same day Jesus was approached by some Sadducees—religious leaders who say there is no resurrection from the dead . They posed this question :
+40:22:024:0	“ Teacher , Moses said , ‘ If a man dies without children , his brother should marry the widow and have a child who will carry on the brother 's name . '
+40:22:025:0	Well , suppose there were seven brothers . The oldest one married and then died without children , so his brother married the widow .
+40:22:026:0	But the second brother also died , and the third brother married her . This continued with all seven of them .
+40:22:027:0	Last of all , the woman also died .
+40:22:028:0	So tell us , whose wife will she be in the resurrection ? For all seven were married to her . ”
+40:22:029:0	Jesus replied , “ Your mistake is that you do n't know the Scriptures , and you do n't know the power of God .
+40:22:030:0	For when the dead rise , they will neither marry nor be given in marriage . In this respect they will be like the angels in heaven .
+40:22:031:0	“ But now , as to whether there will be a resurrection of the dead—have n't you ever read about this in the Scriptures ? Long after Abraham , Isaac , and Jacob had died , God said ,
+40:22:032:0	‘ I am the God of Abraham , the God of Isaac , and the God of Jacob . ' So he is the God of the living , not the dead . ”
+40:22:004:1	The Most Important Commandment
+40:22:033:0	When the crowds heard him , they were astounded at his teaching .
+40:22:034:0	But when the Pharisees heard that he had silenced the Sadducees with his reply , they met together to question him again .
+40:22:035:0	One of them , an expert in religious law , tried to trap him with this question :
+40:22:036:0	“ Teacher , which is the most important commandment in the law of Moses ? ”
+40:22:037:0	Jesus replied , “ ‘ You must love the your God with all your heart , all your soul , and all your mind . '
+40:22:038:0	This is the first and greatest commandment .
+40:22:039:0	A second is equally important : ‘ Love your neighbor as yourself . '
+40:22:005:1	Whose Son Is the Messiah ?
+40:22:040:0	The entire law and all the demands of the prophets are based on these two commandments . ”
+40:22:041:0	Then , surrounded by the Pharisees , Jesus asked them a question :
+40:22:042:0	“ What do you think about the Messiah ? Whose son is he ? ” They replied , “ He is the son of David . ”
+40:22:043:0	Jesus responded , “ Then why does David , speaking under the inspiration of the Spirit , call the Messiah ‘ my Lord ' ? For David said ,
+40:22:044:0	‘ The said to my Lord , Sit in the place of honor at my right handuntil I humble your enemies beneath your feet . '
+40:22:045:0	Since David called the Messiah ‘ my Lord , ' how can the Messiah be his son ? ”
+40:22:046:0	No one could answer him . And after that , no one dared to ask him any more questions .

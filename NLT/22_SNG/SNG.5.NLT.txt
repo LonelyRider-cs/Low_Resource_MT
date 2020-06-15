@@ -1,0 +1,21 @@
+22:5:001:1	Young Man
+22:5:002:1	Young Women of Jerusalem
+22:5:003:1	Young Woman
+22:5:001:0	I have entered my garden , my treasure , my bride ! I gather myrrh with my spicesand eat honeycomb with my honey.I drink wine with my milk.Oh , lover and beloved , eat and drink ! Yes , drink deeply of your love !
+22:5:002:0	I slept , but my heart was awake , when I heard my lover knocking and calling : “ Open to me , my treasure , my darling , my dove , my perfect one.My head is drenched with dew , my hair with the dampness of the night . ”
+22:5:003:0	But I responded , “ I have taken off my robe.Should I get dressed again ? I have washed my feet.Should I get them soiled ? ”
+22:5:004:0	My lover tried to unlatch the door , and my heart thrilled within me .
+22:5:005:0	I jumped up to open the door for my love , and my hands dripped with perfume.My fingers dripped with lovely myrrhas I pulled back the bolt .
+22:5:006:0	I opened to my lover , but he was gone ! My heart sank.I searched for himbut could not find him anywhere.I called to him , but there was no reply .
+22:5:007:0	The night watchmen found meas they made their rounds.They beat and bruised meand stripped off my veil , those watchmen on the walls .
+22:5:004:1	Young Women of Jerusalem
+22:5:008:0	Make this promise , O women of Jerusalem—If you find my lover , tell him I am weak with love .
+22:5:005:1	Young Woman
+22:5:009:0	Why is your lover better than all others , O woman of rare beauty ? What makes your lover so specialthat we must promise this ?
+22:5:010:0	My lover is dark and dazzling , better than ten thousand others !
+22:5:011:0	His head is finest gold , his wavy hair is black as a raven .
+22:5:012:0	His eyes sparkle like dovesbeside springs of water ; they are set like jewelswashed in milk .
+22:5:013:0	His cheeks are like gardens of spicesgiving off fragrance.His lips are like lilies , perfumed with myrrh .
+22:5:014:0	His arms are like rounded bars of gold , set with beryl.His body is like bright ivory , glowing with lapis lazuli .
+22:5:015:0	His legs are like marble pillarsset in sockets of finest gold.His posture is stately , like the noble cedars of Lebanon .
+22:5:016:0	His mouth is sweetness itself ; he is desirable in every way.Such , O women of Jerusalem , is my lover , my friend .

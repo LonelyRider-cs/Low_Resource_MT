@@ -1,0 +1,54 @@
+42:7:001:1	The Faith of a Roman Officer
+42:7:001:0	When Jesus had finished saying all this to the people , he returned to Capernaum .
+42:7:002:0	At that time the highly valued slave of a Roman officer was sick and near death .
+42:7:003:0	When the officer heard about Jesus , he sent some respected Jewish elders to ask him to come and heal his slave .
+42:7:004:0	So they earnestly begged Jesus to help the man . “ If anyone deserves your help , he does , ” they said ,
+42:7:005:0	“ for he loves the Jewish people and even built a synagogue for us . ”
+42:7:006:0	So Jesus went with them . But just before they arrived at the house , the officer sent some friends to say , “ Lord , do n't trouble yourself by coming to my home , for I am not worthy of such an honor .
+42:7:007:0	I am not even worthy to come and meet you . Just say the word from where you are , and my servant will be healed .
+42:7:008:0	I know this because I am under the authority of my superior officers , and I have authority over my soldiers . I only need to say , ‘ Go , ' and they go , or ‘ Come , ' and they come . And if I say to my slaves , ‘ Do this , ' they do it . ”
+42:7:009:0	When Jesus heard this , he was amazed . Turning to the crowd that was following him , he said , “ I tell you , I have n't seen faith like this in all Israel ! ”
+42:7:002:1	Jesus Raises a Widow 's Son
+42:7:010:0	And when the officer 's friends returned to his house , they found the slave completely healed .
+42:7:011:0	Soon afterward Jesus went with his disciples to the village of Nain , and a large crowd followed him .
+42:7:012:0	A funeral procession was coming out as he approached the village gate . The young man who had died was a widow 's only son , and a large crowd from the village was with her .
+42:7:013:0	When the Lord saw her , his heart overflowed with compassion . “ Do n't cry ! ” he said .
+42:7:014:0	Then he walked over to the coffin and touched it , and the bearers stopped . “ Young man , ” he said , “ I tell you , get up . ”
+42:7:015:0	Then the dead boy sat up and began to talk ! And Jesus gave him back to his mother .
+42:7:016:0	Great fear swept the crowd , and they praised God , saying , “ A mighty prophet has risen among us , ” and “ God has visited his people today . ”
+42:7:003:1	Jesus and John the Baptist
+42:7:017:0	And the news about Jesus spread throughout Judea and the surrounding countryside .
+42:7:018:0	The disciples of John the Baptist told John about everything Jesus was doing . So John called for two of his disciples ,
+42:7:019:0	and he sent them to the Lord to ask him , “ Are you the Messiah we 've been expecting , or should we keep looking for someone else ? ”
+42:7:020:0	John 's two disciples found Jesus and said to him , “ John the Baptist sent us to ask , ‘ Are you the Messiah we 've been expecting , or should we keep looking for someone else ? ' ”
+42:7:021:0	At that very time , Jesus cured many people of their diseases , illnesses , and evil spirits , and he restored sight to many who were blind .
+42:7:022:0	Then he told John 's disciples , “ Go back to John and tell him what you have seen and heard—the blind see , the lame walk , those with leprosy are cured , the deaf hear , the dead are raised to life , and the Good News is being preached to the poor . ”
+42:7:023:0	And he added , “ God blesses those who do not fall away because of me . ”
+42:7:024:0	After John 's disciples left , Jesus began talking about him to the crowds . “ What kind of man did you go into the wilderness to see ? Was he a weak reed , swayed by every breath of wind ?
+42:7:025:0	Or were you expecting to see a man dressed in expensive clothes ? No , people who wear beautiful clothes and live in luxury are found in palaces .
+42:7:026:0	Were you looking for a prophet ? Yes , and he is more than a prophet .
+42:7:027:0	John is the man to whom the Scriptures refer when they say , ‘ Look , I am sending my messenger ahead of you , and he will prepare your way before you . '
+42:7:028:0	I tell you , of all who have ever lived , none is greater than John . Yet even the least person in the Kingdom of God is greater than he is ! ”
+42:7:029:0	When they heard this , all the people—even the tax collectors—agreed that God 's way was right , for they had been baptized by John .
+42:7:030:0	But the Pharisees and experts in religious law rejected God 's plan for them , for they had refused John 's baptism .
+42:7:031:0	“ To what can I compare the people of this generation ? ” Jesus asked . “ How can I describe them ?
+42:7:032:0	They are like children playing a game in the public square . They complain to their friends , ‘ We played wedding songs , and you did n't dance , so we played funeral songs , and you did n't weep . '
+42:7:033:0	For John the Baptist did n't spend his time eating bread or drinking wine , and you say , ‘ He 's possessed by a demon . '
+42:7:034:0	The Son of Man , on the other hand , feasts and drinks , and you say , ‘ He 's a glutton and a drunkard , and a friend of tax collectors and other sinners ! '
+42:7:004:1	Jesus Anointed by a Sinful Woman
+42:7:035:0	But wisdom is shown to be right by the lives of those who follow it . ”
+42:7:036:0	One of the Pharisees asked Jesus to have dinner with him , so Jesus went to his home and sat down to eat .
+42:7:037:0	When a certain immoral woman from that city heard he was eating there , she brought a beautiful alabaster jar filled with expensive perfume .
+42:7:038:0	Then she knelt behind him at his feet , weeping . Her tears fell on his feet , and she wiped them off with her hair . Then she kept kissing his feet and putting perfume on them .
+42:7:039:0	When the Pharisee who had invited him saw this , he said to himself , “ If this man were a prophet , he would know what kind of woman is touching him . She 's a sinner ! ”
+42:7:040:0	Then Jesus answered his thoughts . “ Simon , ” he said to the Pharisee , “ I have something to say to you. ” “ Go ahead , Teacher , ” Simon replied .
+42:7:041:0	Then Jesus told him this story : “ A man loaned money to two people—500 pieces of silver to one and 50 pieces to the other .
+42:7:042:0	But neither of them could repay him , so he kindly forgave them both , canceling their debts . Who do you suppose loved him more after that ? ”
+42:7:043:0	Simon answered , “ I suppose the one for whom he canceled the larger debt. ” “ That 's right , ” Jesus said .
+42:7:044:0	Then he turned to the woman and said to Simon , “ Look at this woman kneeling here . When I entered your home , you did n't offer me water to wash the dust from my feet , but she has washed them with her tears and wiped them with her hair .
+42:7:045:0	You did n't greet me with a kiss , but from the time I first came in , she has not stopped kissing my feet .
+42:7:046:0	You neglected the courtesy of olive oil to anoint my head , but she has anointed my feet with rare perfume .
+42:7:047:0	“ I tell you , her sins—and they are many—have been forgiven , so she has shown me much love . But a person who is forgiven little shows only little love . ”
+42:7:048:0	Then Jesus said to the woman , “ Your sins are forgiven . ”
+42:7:049:0	The men at the table said among themselves , “ Who is this man , that he goes around forgiving sins ? ”
+42:7:050:0	And Jesus said to the woman , “ Your faith has saved you ; go in peace . ”

@@ -1,0 +1,49 @@
+42:18:001:1	Parable of the Persistent Widow
+42:18:001:0	One day Jesus told his disciples a story to show that they should always pray and never give up .
+42:18:002:0	“ There was a judge in a certain city , ” he said , “ who neither feared God nor cared about people .
+42:18:003:0	A widow of that city came to him repeatedly , saying , ‘ Give me justice in this dispute with my enemy . '
+42:18:004:0	The judge ignored her for a while , but finally he said to himself , ‘ I do n't fear God or care about people ,
+42:18:005:0	but this woman is driving me crazy . I 'm going to see that she gets justice , because she is wearing me out with her constant requests ! ' ”
+42:18:006:0	Then the Lord said , “ Learn a lesson from this unjust judge .
+42:18:007:0	Even he rendered a just decision in the end . So do n't you think God will surely give justice to his chosen people who cry out to him day and night ? Will he keep putting them off ?
+42:18:002:1	Parable of the Pharisee and Tax Collector
+42:18:008:0	I tell you , he will grant justice to them quickly ! But when the Son of Man returns , how many will he find on the earth who have faith ? ”
+42:18:009:0	Then Jesus told this story to some who had great confidence in their own righteousness and scorned everyone else :
+42:18:010:0	“ Two men went to the Temple to pray . One was a Pharisee , and the other was a despised tax collector .
+42:18:011:0	The Pharisee stood by himself and prayed this prayer : ‘ I thank you , God , that I am not like other people—cheaters , sinners , adulterers . I 'm certainly not like that tax collector !
+42:18:012:0	I fast twice a week , and I give you a tenth of my income . '
+42:18:013:0	“ But the tax collector stood at a distance and dared not even lift his eyes to heaven as he prayed . Instead , he beat his chest in sorrow , saying , ‘ O God , be merciful to me , for I am a sinner . '
+42:18:003:1	Jesus Blesses the Children
+42:18:014:0	I tell you , this sinner , not the Pharisee , returned home justified before God . For those who exalt themselves will be humbled , and those who humble themselves will be exalted . ”
+42:18:015:0	One day some parents brought their little children to Jesus so he could touch and bless them . But when the disciples saw this , they scolded the parents for bothering him .
+42:18:016:0	Then Jesus called for the children and said to the disciples , “ Let the children come to me . Do n't stop them ! For the Kingdom of God belongs to those who are like these children .
+42:18:004:1	The Rich Man
+42:18:017:0	I tell you the truth , anyone who does n't receive the Kingdom of God like a child will never enter it . ”
+42:18:018:0	Once a religious leader asked Jesus this question : “ Good Teacher , what should I do to inherit eternal life ? ”
+42:18:019:0	“ Why do you call me good ? ” Jesus asked him . “ Only God is truly good .
+42:18:020:0	But to answer your question , you know the commandments : ‘ You must not commit adultery . You must not murder . You must not steal . You must not testify falsely . Honor your father and mother . ' ”
+42:18:021:0	The man replied , “ I 've obeyed all these commandments since I was young . ”
+42:18:022:0	When Jesus heard his answer , he said , “ There is still one thing you have n't done . Sell all your possessions and give the money to the poor , and you will have treasure in heaven . Then come , follow me . ”
+42:18:023:0	But when the man heard this he became very sad , for he was very rich .
+42:18:024:0	When Jesus saw this , he said , “ How hard it is for the rich to enter the Kingdom of God !
+42:18:025:0	In fact , it is easier for a camel to go through the eye of a needle than for a rich person to enter the Kingdom of God ! ”
+42:18:026:0	Those who heard this said , “ Then who in the world can be saved ? ”
+42:18:027:0	He replied , “ What is impossible for people is possible with God . ”
+42:18:028:0	Peter said , “ We 've left our homes to follow you . ”
+42:18:029:0	“ Yes , ” Jesus replied , “ and I assure you that everyone who has given up house or wife or brothers or parents or children , for the sake of the Kingdom of God ,
+42:18:005:1	Jesus Again Predicts His Death
+42:18:030:0	will be repaid many times over in this life , and will have eternal life in the world to come . ”
+42:18:031:0	Taking the twelve disciples aside , Jesus said , “ Listen , we 're going up to Jerusalem , where all the predictions of the prophets concerning the Son of Man will come true .
+42:18:032:0	He will be handed over to the Romans , and he will be mocked , treated shamefully , and spit upon .
+42:18:033:0	They will flog him with a whip and kill him , but on the third day he will rise again . ”
+42:18:006:1	Jesus Heals a Blind Beggar
+42:18:034:0	But they did n't understand any of this . The significance of his words was hidden from them , and they failed to grasp what he was talking about .
+42:18:035:0	As Jesus approached Jericho , a blind beggar was sitting beside the road .
+42:18:036:0	When he heard the noise of a crowd going past , he asked what was happening .
+42:18:037:0	They told him that Jesus the Nazarene was going by .
+42:18:038:0	So he began shouting , “ Jesus , Son of David , have mercy on me ! ”
+42:18:039:0	“ Be quiet ! ” the people in front yelled at him.But he only shouted louder , “ Son of David , have mercy on me ! ”
+42:18:040:0	When Jesus heard him , he stopped and ordered that the man be brought to him . As the man came near , Jesus asked him ,
+42:18:041:0	“ What do you want me to do for you ? ” “ Lord , ” he said , “ I want to see ! ”
+42:18:042:0	And Jesus said , “ All right , receive your sight ! Your faith has healed you . ”
+42:18:043:0	Instantly the man could see , and he followed Jesus , praising God . And all who saw it praised God , too .

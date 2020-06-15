@@ -1,0 +1,11 @@
+32:2:001:1	Jonah 's Prayer
+32:2:001:0	Then Jonah prayed to the Lord his God from inside the fish .
+32:2:002:0	He said , “ I cried out to the Lord in my great trouble , and he answered me.I called to you from the land of the dead , and Lord , you heard me !
+32:2:003:0	You threw me into the ocean depths , and I sank down to the heart of the sea.The mighty waters engulfed me ; I was buried beneath your wild and stormy waves .
+32:2:004:0	Then I said , ‘ O Lord , you have driven me from your presence.Yet I will look once more toward your holy Temple . '
+32:2:005:0	“ I sank beneath the waves , and the waters closed over me.Seaweed wrapped itself around my head .
+32:2:006:0	I sank down to the very roots of the mountains.I was imprisoned in the earth , whose gates lock shut forever.But you , O Lord my God , snatched me from the jaws of death !
+32:2:007:0	As my life was slipping away , I remembered the Lord.And my earnest prayer went out to youin your holy Temple .
+32:2:008:0	Those who worship false godsturn their backs on all God 's mercies .
+32:2:009:0	But I will offer sacrifices to you with songs of praise , and I will fulfill all my vows.For my salvation comes from the Lord alone . ”
+32:2:010:0	Then the Lord ordered the fish to spit Jonah out onto the beach .

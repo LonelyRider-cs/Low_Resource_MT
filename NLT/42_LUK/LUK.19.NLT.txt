@@ -1,0 +1,53 @@
+42:19:001:1	Jesus and Zacchaeus
+42:19:001:0	Jesus entered Jericho and made his way through the town .
+42:19:002:0	There was a man there named Zacchaeus . He was the chief tax collector in the region , and he had become very rich .
+42:19:003:0	He tried to get a look at Jesus , but he was too short to see over the crowd .
+42:19:004:0	So he ran ahead and climbed a sycamore-fig tree beside the road , for Jesus was going to pass that way .
+42:19:005:0	When Jesus came by , he looked up at Zacchaeus and called him by name . “ Zacchaeus ! ” he said . “ Quick , come down ! I must be a guest in your home today . ”
+42:19:006:0	Zacchaeus quickly climbed down and took Jesus to his house in great excitement and joy .
+42:19:007:0	But the people were displeased . “ He has gone to be the guest of a notorious sinner , ” they grumbled .
+42:19:008:0	Meanwhile , Zacchaeus stood before the Lord and said , “ I will give half my wealth to the poor , Lord , and if I have cheated people on their taxes , I will give them back four times as much ! ”
+42:19:009:0	Jesus responded , “ Salvation has come to this home today , for this man has shown himself to be a true son of Abraham .
+42:19:002:1	Parable of the Ten Servants
+42:19:010:0	For the Son of Man came to seek and save those who are lost . ”
+42:19:011:0	The crowd was listening to everything Jesus said . And because he was nearing Jerusalem , he told them a story to correct the impression that the Kingdom of God would begin right away .
+42:19:012:0	He said , “ A nobleman was called away to a distant empire to be crowned king and then return .
+42:19:013:0	Before he left , he called together ten of his servants and divided among them ten pounds of silver , saying , ‘ Invest this for me while I am gone . '
+42:19:014:0	But his people hated him and sent a delegation after him to say , ‘ We do not want him to be our king . '
+42:19:015:0	“ After he was crowned king , he returned and called in the servants to whom he had given the money . He wanted to find out what their profits were .
+42:19:016:0	The first servant reported , ‘ Master , I invested your money and made ten times the original amount ! '
+42:19:017:0	“ ‘ Well done ! ' the king exclaimed . ‘ You are a good servant . You have been faithful with the little I entrusted to you , so you will be governor of ten cities as your reward . '
+42:19:018:0	“ The next servant reported , ‘ Master , I invested your money and made five times the original amount . '
+42:19:019:0	“ ‘ Well done ! ' the king said . ‘ You will be governor over five cities . '
+42:19:020:0	“ But the third servant brought back only the original amount of money and said , ‘ Master , I hid your money and kept it safe .
+42:19:021:0	I was afraid because you are a hard man to deal with , taking what is n't yours and harvesting crops you did n't plant . '
+42:19:022:0	“ ‘ You wicked servant ! ' the king roared . ‘ Your own words condemn you . If you knew that I 'm a hard man who takes what is n't mine and harvests crops I did n't plant ,
+42:19:023:0	why did n't you deposit my money in the bank ? At least I could have gotten some interest on it . '
+42:19:024:0	“ Then , turning to the others standing nearby , the king ordered , ‘ Take the money from this servant , and give it to the one who has ten pounds . '
+42:19:025:0	“ ‘ But , master , ' they said , ‘ he already has ten pounds ! '
+42:19:026:0	“ ‘ Yes , ' the king replied , ‘ and to those who use well what they are given , even more will be given . But from those who do nothing , even what little they have will be taken away .
+42:19:003:1	Jesus ' Triumphant Entry
+42:19:027:0	And as for these enemies of mine who did n't want me to be their king—bring them in and execute them right here in front of me . ' ”
+42:19:028:0	After telling this story , Jesus went on toward Jerusalem , walking ahead of his disciples .
+42:19:029:0	As he came to the towns of Bethphage and Bethany on the Mount of Olives , he sent two disciples ahead .
+42:19:030:0	“ Go into that village over there , ” he told them . “ As you enter it , you will see a young donkey tied there that no one has ever ridden . Untie it and bring it here .
+42:19:031:0	If anyone asks , ‘ Why are you untying that colt ? ' just say , ‘ The Lord needs it . ' ”
+42:19:032:0	So they went and found the colt , just as Jesus had said .
+42:19:033:0	And sure enough , as they were untying it , the owners asked them , “ Why are you untying that colt ? ”
+42:19:034:0	And the disciples simply replied , “ The Lord needs it . ”
+42:19:035:0	So they brought the colt to Jesus and threw their garments over it for him to ride on .
+42:19:036:0	As he rode along , the crowds spread out their garments on the road ahead of him .
+42:19:037:0	When he reached the place where the road started down the Mount of Olives , all of his followers began to shout and sing as they walked along , praising God for all the wonderful miracles they had seen .
+42:19:038:0	“ Blessings on the King who comes in the name of the Lord ! Peace in heaven , and glory in highest heaven ! ”
+42:19:039:0	But some of the Pharisees among the crowd said , “ Teacher , rebuke your followers for saying things like that ! ”
+42:19:004:1	Jesus Weeps over Jerusalem
+42:19:040:0	He replied , “ If they kept quiet , the stones along the road would burst into cheers ! ”
+42:19:041:0	But as he came closer to Jerusalem and saw the city ahead , he began to weep .
+42:19:042:0	“ How I wish today that you of all people would understand the way to peace . But now it is too late , and peace is hidden from your eyes .
+42:19:043:0	Before long your enemies will build ramparts against your walls and encircle you and close in on you from every side .
+42:19:005:1	Jesus Clears the Temple
+42:19:044:0	They will crush you into the ground , and your children with you . Your enemies will not leave a single stone in place , because you did not recognize it when God visited you . ”
+42:19:045:0	Then Jesus entered the Temple and began to drive out the people selling animals for sacrifices .
+42:19:046:0	He said to them , “ The Scriptures declare , ‘ My Temple will be a house of prayer , ' but you have turned it into a den of thieves . ”
+42:19:047:0	After that , he taught daily in the Temple , but the leading priests , the teachers of religious law , and the other leaders of the people began planning how to kill him .
+42:19:048:0	But they could think of nothing , because all the people hung on every word he said .

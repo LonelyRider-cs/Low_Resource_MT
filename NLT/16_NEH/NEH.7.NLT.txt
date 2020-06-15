@@ -1,0 +1,74 @@
+16:7:001:0	After the wall was finished and I had set up the doors in the gates , the gatekeepers , singers , and Levites were appointed .
+16:7:002:0	I gave the responsibility of governing Jerusalem to my brother Hanani , along with Hananiah , the commander of the fortress , for he was a faithful man who feared God more than most .
+16:7:001:1	Nehemiah Registers the People
+16:7:003:0	I said to them , “ Do not leave the gates open during the hottest part of the day . And even while the gatekeepers are on duty , have them shut and bar the doors . Appoint the residents of Jerusalem to act as guards , everyone on a regular watch . Some will serve at sentry posts and some in front of their own homes . ”
+16:7:004:0	At that time the city was large and spacious , but the population was small , and none of the houses had been rebuilt .
+16:7:005:0	So my God gave me the idea to call together all the nobles and leaders of the city , along with the ordinary citizens , for registration . I had found the genealogical record of those who had first returned to Judah . This is what was written there :
+16:7:006:0	Here is the list of the Jewish exiles of the provinces who returned from their captivity . King Nebuchadnezzar had deported them to Babylon , but now they returned to Jerusalem and the other towns in Judah where they originally lived .
+16:7:007:0	Their leaders were Zerubbabel , Jeshua , Nehemiah , Seraiah , Reelaiah , Nahamani , Mordecai , Bilshan , Mispar , Bigvai , Rehum , and Baanah.This is the number of the men of Israel who returned from exile :
+16:7:008:0	The family of Parosh2,172
+16:7:009:0	The family of Shephatiah372
+16:7:010:0	The family of Arah652
+16:7:011:0	The family of Pahath-moab ( descendants of Jeshua and Joab ) 2,818
+16:7:012:0	The family of Elam1,254
+16:7:013:0	The family of Zattu845
+16:7:014:0	The family of Zaccai760
+16:7:015:0	The family of Bani648
+16:7:016:0	The family of Bebai628
+16:7:017:0	The family of Azgad2,322
+16:7:018:0	The family of Adonikam667
+16:7:019:0	The family of Bigvai2,067
+16:7:020:0	The family of Adin655
+16:7:021:0	The family of Ater ( descendants of Hezekiah ) 98
+16:7:022:0	The family of Hashum328
+16:7:023:0	The family of Bezai324
+16:7:024:0	The family of Jorah112
+16:7:025:0	The family of Gibbar95
+16:7:026:0	The people of Bethlehem and Netophah188
+16:7:027:0	The people of Anathoth128
+16:7:028:0	The people of Beth-azmaveth42
+16:7:029:0	The people of Kiriath-jearim , Kephirah , and Beeroth743
+16:7:030:0	The people of Ramah and Geba621
+16:7:031:0	The people of Micmash122
+16:7:032:0	The people of Bethel and Ai123
+16:7:033:0	The people of West Nebo52
+16:7:034:0	The citizens of West Elam1,254
+16:7:035:0	The citizens of Harim320
+16:7:036:0	The citizens of Jericho345
+16:7:037:0	The citizens of Lod , Hadid , and Ono721
+16:7:038:0	The citizens of Senaah3,930
+16:7:039:0	These are the priests who returned from exile : The family of Jedaiah ( through the line of Jeshua ) 973
+16:7:040:0	The family of Immer1,052
+16:7:041:0	The family of Pashhur1,247
+16:7:042:0	The family of Harim1,017
+16:7:043:0	These are the Levites who returned from exile : The families of Jeshua and Kadmiel ( descendants of Hodaviah ) 74
+16:7:044:0	The singers of the family of Asaph148
+16:7:045:0	The gatekeepers of the families of Shallum , Ater , Talmon , Akkub , Hatita , and Shobai138
+16:7:046:0	The descendants of the following Temple servants returned from exile : Ziha , Hasupha , Tabbaoth ,
+16:7:047:0	Keros , Siaha , Padon ,
+16:7:048:0	Lebanah , Hagabah , Shalmai ,
+16:7:049:0	Hanan , Giddel , Gahar ,
+16:7:050:0	Reaiah , Rezin , Nekoda ,
+16:7:051:0	Gazzam , Uzza , Paseah ,
+16:7:052:0	Besai , Meunim , Nephusim ,
+16:7:053:0	Bakbuk , Hakupha , Harhur ,
+16:7:054:0	Bazluth , Mehida , Harsha ,
+16:7:055:0	Barkos , Sisera , Temah ,
+16:7:056:0	Neziah , and Hatipha .
+16:7:057:0	The descendants of these servants of King Solomon returned from exile : Sotai , Hassophereth , Peruda ,
+16:7:058:0	Jaalah , Darkon , Giddel ,
+16:7:059:0	Shephatiah , Hattil , Pokereth-hazzebaim , and Ami .
+16:7:060:0	In all , the Temple servants and the descendants of Solomon 's servants numbered 392 .
+16:7:061:0	Another group returned at this time from the towns of Tel-melah , Tel-harsha , Kerub , Addan , and Immer . However , they could not prove that they or their families were descendants of Israel .
+16:7:062:0	This group included the families of Delaiah , Tobiah , and Nekoda—a total of 642 people .
+16:7:063:0	Three families of priests—Hobaiah , Hakkoz , and Barzillai—also returned . ( This Barzillai had married a woman who was a descendant of Barzillai of Gilead , and he had taken her family name . )
+16:7:064:0	They searched for their names in the genealogical records , but they were not found , so they were disqualified from serving as priests .
+16:7:065:0	The governor told them not to eat the priests ' share of food from the sacrifices until a priest could consult the Lord about the matter by using the Urim and Thummim—the sacred lots .
+16:7:066:0	So a total of 42,360 people returned to Judah ,
+16:7:067:0	in addition to 7,337 servants and 245 singers , both men and women .
+16:7:068:0	They took with them 736 horses , 245 mules ,
+16:7:069:0	435 camels , and 6,720 donkeys .
+16:7:070:0	Some of the family leaders gave gifts for the work . The governor gave to the treasury 1,000 gold coins , 50 gold basins , and 530 robes for the priests .
+16:7:071:0	The other leaders gave to the treasury a total of 20,000 gold coins and some 2,750 pounds of silver for the work .
+16:7:072:0	The rest of the people gave 20,000 gold coins , about 2,500 pounds of silver , and 67 robes for the priests .
+16:7:073:0	So the priests , the Levites , the gatekeepers , the singers , the Temple servants , and some of the common people settled near Jerusalem . The rest of the people returned to their own towns throughout Israel .

@@ -1,0 +1,35 @@
+2:38:001:1	Building the Altar of Burnt Offering
+2:38:001:0	Next Bezalel used acacia wood to construct the square altar of burnt offering . It was 71/2 feet wide , 71/2 feet long , and 41/2 feet high .
+2:38:002:0	He made horns for each of its four corners so that the horns and altar were all one piece . He overlaid the altar with bronze .
+2:38:003:0	Then he made all the altar utensils of bronze—the ash buckets , shovels , basins , meat forks , and firepans .
+2:38:004:0	Next he made a bronze grating and installed it halfway down the side of the altar , under the ledge .
+2:38:005:0	He cast four rings and attached them to the corners of the bronze grating to hold the carrying poles .
+2:38:006:0	He made the poles from acacia wood and overlaid them with bronze .
+2:38:002:1	Building the Washbasin
+2:38:007:0	He inserted the poles through the rings on the sides of the altar . The altar was hollow and was made from planks .
+2:38:003:1	Building the Courtyard
+2:38:008:0	Bezalel made the bronze washbasin and its bronze stand from bronze mirrors donated by the women who served at the entrance of the Tabernacle .
+2:38:009:0	Then Bezalel made the courtyard , which was enclosed with curtains made of finely woven linen . On the south side the curtains were 150 feet long .
+2:38:010:0	They were held up by twenty posts set securely in twenty bronze bases . He hung the curtains with silver hooks and rings .
+2:38:011:0	He made a similar set of curtains for the north side—150 feet of curtains held up by twenty posts set securely in bronze bases . He hung the curtains with silver hooks and rings .
+2:38:012:0	The curtains on the west end of the courtyard were 75 feet long , hung with silver hooks and rings and supported by ten posts set into ten bases .
+2:38:013:0	The east end , the front , was also 75 feet long .
+2:38:014:0	The courtyard entrance was on the east end , flanked by two curtains . The curtain on the right side was 221/2 feet long and was supported by three posts set into three bases .
+2:38:015:0	The curtain on the left side was also 221/2 feet long and was supported by three posts set into three bases .
+2:38:016:0	All the curtains used in the courtyard were made of finely woven linen .
+2:38:017:0	Each post had a bronze base , and all the hooks and rings were silver . The tops of the posts of the courtyard were overlaid with silver , and the rings to hold up the curtains were made of silver .
+2:38:018:0	He made the curtain for the entrance to the courtyard of finely woven linen , and he decorated it with beautiful embroidery in blue , purple , and scarlet thread . It was 30 feet long , and its height was 71/2 feet , just like the curtains of the courtyard walls .
+2:38:019:0	It was supported by four posts , each set securely in its own bronze base . The tops of the posts were overlaid with silver , and the hooks and rings were also made of silver .
+2:38:004:1	Inventory of Materials
+2:38:020:0	All the tent pegs used in the Tabernacle and courtyard were made of bronze .
+2:38:021:0	This is an inventory of the materials used in building the Tabernacle of the Covenant . The Levites compiled the figures , as Moses directed , and Ithamar son of Aaron the priest served as recorder .
+2:38:022:0	Bezalel son of Uri , grandson of Hur , of the tribe of Judah , made everything just as the Lord had commanded Moses .
+2:38:023:0	He was assisted by Oholiab son of Ahisamach , of the tribe of Dan , a craftsman expert at engraving , designing , and embroidering with blue , purple , and scarlet thread on fine linen cloth .
+2:38:024:0	The people brought special offerings of gold totaling 2,193 pounds , as measured by the weight of the sanctuary shekel . This gold was used throughout the Tabernacle .
+2:38:025:0	The whole community of Israel gave 7,545 pounds of silver , as measured by the weight of the sanctuary shekel .
+2:38:026:0	This silver came from the tax collected from each man registered in the census . ( The tax is one beka , which is half a shekel , based on the sanctuary shekel . ) The tax was collected from 603,550 men who had reached their twentieth birthday .
+2:38:027:0	The hundred bases for the frames of the sanctuary walls and for the posts supporting the inner curtain required 7,500 pounds of silver , about 75 pounds for each base .
+2:38:028:0	The remaining 45 pounds of silver was used to make the hooks and rings and to overlay the tops of the posts .
+2:38:029:0	The people also brought as special offerings 5,310 pounds of bronze ,
+2:38:030:0	which was used for casting the bases for the posts at the entrance to the Tabernacle , and for the bronze altar with its bronze grating and all the altar utensils .
+2:38:031:0	Bronze was also used to make the bases for the posts that supported the curtains around the courtyard , the bases for the curtain at the entrance of the courtyard , and all the tent pegs for the Tabernacle and the courtyard .

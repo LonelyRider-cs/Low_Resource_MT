@@ -1,0 +1,54 @@
+2:12:001:1	The First Passover
+2:12:001:0	While the Israelites were still in the land of Egypt , the Lord gave the following instructions to Moses and Aaron :
+2:12:002:0	“ From now on , this month will be the first month of the year for you .
+2:12:003:0	Announce to the whole community of Israel that on the tenth day of this month each family must choose a lamb or a young goat for a sacrifice , one animal for each household .
+2:12:004:0	If a family is too small to eat a whole animal , let them share with another family in the neighborhood . Divide the animal according to the size of each family and how much they can eat .
+2:12:005:0	The animal you select must be a one-year-old male , either a sheep or a goat , with no defects .
+2:12:006:0	“ Take special care of this chosen animal until the evening of the fourteenth day of this first month . Then the whole assembly of the community of Israel must slaughter their lamb or young goat at twilight .
+2:12:007:0	They are to take some of the blood and smear it on the sides and top of the doorframes of the houses where they eat the animal .
+2:12:008:0	That same night they must roast the meat over a fire and eat it along with bitter salad greens and bread made without yeast .
+2:12:009:0	Do not eat any of the meat raw or boiled in water . The whole animal—including the head , legs , and internal organs—must be roasted over a fire .
+2:12:010:0	Do not leave any of it until the next morning . Burn whatever is not eaten before morning .
+2:12:011:0	“ These are your instructions for eating this meal : Be fully dressed , wear your sandals , and carry your walking stick in your hand . Eat the meal with urgency , for this is the Lord 's Passover .
+2:12:012:0	On that night I will pass through the land of Egypt and strike down every firstborn son and firstborn male animal in the land of Egypt . I will execute judgment against all the gods of Egypt , for I am the Lord !
+2:12:013:0	But the blood on your doorposts will serve as a sign , marking the houses where you are staying . When I see the blood , I will pass over you . This plague of death will not touch you when I strike the land of Egypt .
+2:12:014:0	“ This is a day to remember . Each year , from generation to generation , you must celebrate it as a special festival to the Lord . This is a law for all time .
+2:12:015:0	For seven days the bread you eat must be made without yeast . On the first day of the festival , remove every trace of yeast from your homes . Anyone who eats bread made with yeast during the seven days of the festival will be cut off from the community of Israel .
+2:12:016:0	On the first day of the festival and again on the seventh day , all the people must observe an official day for holy assembly . No work of any kind may be done on these days except in the preparation of food .
+2:12:017:0	“ Celebrate this Festival of Unleavened Bread , for it will remind you that I brought your forces out of the land of Egypt on this very day . This festival will be a permanent law for you ; celebrate this day from generation to generation .
+2:12:018:0	The bread you eat must be made without yeast from the evening of the fourteenth day of the first month until the evening of the twenty-first day of that month .
+2:12:019:0	During those seven days , there must be no trace of yeast in your homes . Anyone who eats anything made with yeast during this week will be cut off from the community of Israel . These regulations apply both to the foreigners living among you and to the native-born Israelites .
+2:12:020:0	During those days you must not eat anything made with yeast . Wherever you live , eat only bread made without yeast . ”
+2:12:021:0	Then Moses called all the elders of Israel together and said to them , “ Go , pick out a lamb or young goat for each of your families , and slaughter the Passover animal .
+2:12:022:0	Drain the blood into a basin . Then take a bundle of hyssop branches and dip it into the blood . Brush the hyssop across the top and sides of the doorframes of your houses . And no one may go out through the door until morning .
+2:12:023:0	For the Lord will pass through the land to strike down the Egyptians . But when he sees the blood on the top and sides of the doorframe , the Lord will pass over your home . He will not permit his death angel to enter your house and strike you down .
+2:12:024:0	“ Remember , these instructions are a permanent law that you and your descendants must observe forever .
+2:12:025:0	When you enter the land the Lord has promised to give you , you will continue to observe this ceremony .
+2:12:026:0	Then your children will ask , ‘ What does this ceremony mean ? '
+2:12:027:0	And you will reply , ‘ It is the Passover sacrifice to the Lord , for he passed over the houses of the Israelites in Egypt . And though he struck the Egyptians , he spared our families . ' ” When Moses had finished speaking , all the people bowed down to the ground and worshiped .
+2:12:028:0	So the people of Israel did just as the Lord had commanded through Moses and Aaron .
+2:12:029:0	And that night at midnight , the Lord struck down all the firstborn sons in the land of Egypt , from the firstborn son of Pharaoh , who sat on his throne , to the firstborn son of the prisoner in the dungeon . Even the firstborn of their livestock were killed .
+2:12:002:1	Israel 's Exodus from Egypt
+2:12:030:0	Pharaoh and all his officials and all the people of Egypt woke up during the night , and loud wailing was heard throughout the land of Egypt . There was not a single house where someone had not died .
+2:12:031:0	Pharaoh sent for Moses and Aaron during the night . “ Get out ! ” he ordered . “ Leave my people—and take the rest of the Israelites with you ! Go and worship the Lord as you have requested .
+2:12:032:0	Take your flocks and herds , as you said , and be gone . Go , but bless me as you leave . ”
+2:12:033:0	All the Egyptians urged the people of Israel to get out of the land as quickly as possible , for they thought , “ We will all die ! ”
+2:12:034:0	The Israelites took their bread dough before yeast was added . They wrapped their kneading boards in their cloaks and carried them on their shoulders .
+2:12:035:0	And the people of Israel did as Moses had instructed ; they asked the Egyptians for clothing and articles of silver and gold .
+2:12:036:0	The Lord caused the Egyptians to look favorably on the Israelites , and they gave the Israelites whatever they asked for . So they stripped the Egyptians of their wealth !
+2:12:037:0	That night the people of Israel left Rameses and started for Succoth . There were about 600,000 men , plus all the women and children .
+2:12:038:0	A rabble of non-Israelites went with them , along with great flocks and herds of livestock .
+2:12:039:0	For bread they baked flat cakes from the dough without yeast they had brought from Egypt . It was made without yeast because the people were driven out of Egypt in such a hurry that they had no time to prepare the bread or other food .
+2:12:040:0	The people of Israel had lived in Egypt for 430 years .
+2:12:041:0	In fact , it was on the last day of the 430th year that all the Lord 's forces left the land .
+2:12:003:1	Instructions for the Passover
+2:12:042:0	On this night the Lord kept his promise to bring his people out of the land of Egypt . So this night belongs to him , and it must be commemorated every year by all the Israelites , from generation to generation .
+2:12:043:0	Then the Lord said to Moses and Aaron , “ These are the instructions for the festival of Passover . No outsiders are allowed to eat the Passover meal .
+2:12:044:0	But any slave who has been purchased may eat it if he has been circumcised .
+2:12:045:0	Temporary residents and hired servants may not eat it .
+2:12:046:0	Each Passover lamb must be eaten in one house . Do not carry any of its meat outside , and do not break any of its bones .
+2:12:047:0	The whole community of Israel must celebrate this Passover festival .
+2:12:048:0	“ If there are foreigners living among you who want to celebrate the Lord 's Passover , let all their males be circumcised . Only then may they celebrate the Passover with you like any native-born Israelite . But no uncircumcised male may ever eat the Passover meal .
+2:12:049:0	This instruction applies to everyone , whether a native-born Israelite or a foreigner living among you . ”
+2:12:050:0	So all the people of Israel followed all the Lord 's commands to Moses and Aaron .
+2:12:051:0	On that very day the Lord brought the people of Israel out of the land of Egypt like an army .

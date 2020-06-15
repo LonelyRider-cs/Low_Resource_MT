@@ -1,0 +1,87 @@
+42:1:001:1	Introduction
+42:1:001:0	Many people have set out to write accounts about the events that have been fulfilled among us .
+42:1:002:0	They used the eyewitness reports circulating among us from the early disciples .
+42:1:003:0	Having carefully investigated everything from the beginning , I also have decided to write an accurate account for you , most honorable Theophilus ,
+42:1:002:1	The Birth of John the Baptist Foretold
+42:1:004:0	so you can be certain of the truth of everything you were taught .
+42:1:005:0	When Herod was king of Judea , there was a Jewish priest named Zechariah . He was a member of the priestly order of Abijah , and his wife , Elizabeth , was also from the priestly line of Aaron .
+42:1:006:0	Zechariah and Elizabeth were righteous in God 's eyes , careful to obey all of the Lord 's commandments and regulations .
+42:1:007:0	They had no children because Elizabeth was unable to conceive , and they were both very old .
+42:1:008:0	One day Zechariah was serving God in the Temple , for his order was on duty that week .
+42:1:009:0	As was the custom of the priests , he was chosen by lot to enter the sanctuary of the Lord and burn incense .
+42:1:010:0	While the incense was being burned , a great crowd stood outside , praying .
+42:1:011:0	While Zechariah was in the sanctuary , an angel of the Lord appeared to him , standing to the right of the incense altar .
+42:1:012:0	Zechariah was shaken and overwhelmed with fear when he saw him .
+42:1:013:0	But the angel said , “ Do n't be afraid , Zechariah ! God has heard your prayer . Your wife , Elizabeth , will give you a son , and you are to name him John .
+42:1:014:0	You will have great joy and gladness , and many will rejoice at his birth ,
+42:1:015:0	for he will be great in the eyes of the Lord . He must never touch wine or other alcoholic drinks . He will be filled with the Holy Spirit , even before his birth .
+42:1:016:0	And he will turn many Israelites to the Lord their God .
+42:1:017:0	He will be a man with the spirit and power of Elijah . He will prepare the people for the coming of the Lord . He will turn the hearts of the fathers to their children , and he will cause those who are rebellious to accept the wisdom of the godly . ”
+42:1:018:0	Zechariah said to the angel , “ How can I be sure this will happen ? I 'm an old man now , and my wife is also well along in years . ”
+42:1:019:0	Then the angel said , “ I am Gabriel ! I stand in the very presence of God . It was he who sent me to bring you this good news !
+42:1:020:0	But now , since you did n't believe what I said , you will be silent and unable to speak until the child is born . For my words will certainly be fulfilled at the proper time . ”
+42:1:021:0	Meanwhile , the people were waiting for Zechariah to come out of the sanctuary , wondering why he was taking so long .
+42:1:022:0	When he finally did come out , he could n't speak to them . Then they realized from his gestures and his silence that he must have seen a vision in the sanctuary .
+42:1:023:0	When Zechariah 's week of service in the Temple was over , he returned home .
+42:1:024:0	Soon afterward his wife , Elizabeth , became pregnant and went into seclusion for five months .
+42:1:003:1	The Birth of Jesus Foretold
+42:1:025:0	“ How kind the Lord is ! ” she exclaimed . “ He has taken away my disgrace of having no children . ”
+42:1:026:0	In the sixth month of Elizabeth 's pregnancy , God sent the angel Gabriel to Nazareth , a village in Galilee ,
+42:1:027:0	to a virgin named Mary . She was engaged to be married to a man named Joseph , a descendant of King David .
+42:1:028:0	Gabriel appeared to her and said , “ Greetings , favored woman ! The Lord is with you ! ”
+42:1:029:0	Confused and disturbed , Mary tried to think what the angel could mean .
+42:1:030:0	“ Do n't be afraid , Mary , ” the angel told her , “ for you have found favor with God !
+42:1:031:0	You will conceive and give birth to a son , and you will name him Jesus .
+42:1:032:0	He will be very great and will be called the Son of the Most High . The Lord God will give him the throne of his ancestor David .
+42:1:033:0	And he will reign over Israel forever ; his Kingdom will never end ! ”
+42:1:034:0	Mary asked the angel , “ But how can this happen ? I am a virgin . ”
+42:1:035:0	The angel replied , “ The Holy Spirit will come upon you , and the power of the Most High will overshadow you . So the baby to be born will be holy , and he will be called the Son of God .
+42:1:036:0	What 's more , your relative Elizabeth has become pregnant in her old age ! People used to say she was barren , but she has conceived a son and is now in her sixth month .
+42:1:037:0	For the word of God will never fail . ”
+42:1:004:1	Mary Visits Elizabeth
+42:1:038:0	Mary responded , “ I am the Lord 's servant . May everything you have said about me come true. ” And then the angel left her .
+42:1:039:0	A few days later Mary hurried to the hill country of Judea , to the town
+42:1:040:0	where Zechariah lived . She entered the house and greeted Elizabeth .
+42:1:041:0	At the sound of Mary 's greeting , Elizabeth 's child leaped within her , and Elizabeth was filled with the Holy Spirit .
+42:1:042:0	Elizabeth gave a glad cry and exclaimed to Mary , “ God has blessed you above all women , and your child is blessed .
+42:1:043:0	Why am I so honored , that the mother of my Lord should visit me ?
+42:1:044:0	When I heard your greeting , the baby in my womb jumped for joy .
+42:1:005:1	The Magnificat : Mary 's Song of Praise
+42:1:045:0	You are blessed because you believed that the Lord would do what he said . ”
+42:1:046:0	Mary responded , “ Oh , how my soul praises the Lord .
+42:1:047:0	How my spirit rejoices in God my Savior !
+42:1:048:0	For he took notice of his lowly servant girl , and from now on all generations will call me blessed .
+42:1:049:0	For the Mighty One is holy , and he has done great things for me .
+42:1:050:0	He shows mercy from generation to generationto all who fear him .
+42:1:051:0	His mighty arm has done tremendous things ! He has scattered the proud and haughty ones .
+42:1:052:0	He has brought down princes from their thronesand exalted the humble .
+42:1:053:0	He has filled the hungry with good thingsand sent the rich away with empty hands .
+42:1:054:0	He has helped his servant Israeland remembered to be merciful .
+42:1:055:0	For he made this promise to our ancestors , to Abraham and his children forever . ”
+42:1:006:1	The Birth of John the Baptist
+42:1:056:0	Mary stayed with Elizabeth about three months and then went back to her own home .
+42:1:057:0	When it was time for Elizabeth 's baby to be born , she gave birth to a son .
+42:1:058:0	And when her neighbors and relatives heard that the Lord had been very merciful to her , everyone rejoiced with her .
+42:1:059:0	When the baby was eight days old , they all came for the circumcision ceremony . They wanted to name him Zechariah , after his father .
+42:1:060:0	But Elizabeth said , “ No ! His name is John ! ”
+42:1:061:0	“ What ? ” they exclaimed . “ There is no one in all your family by that name . ”
+42:1:062:0	So they used gestures to ask the baby 's father what he wanted to name him .
+42:1:063:0	He motioned for a writing tablet , and to everyone 's surprise he wrote , “ His name is John . ”
+42:1:064:0	Instantly Zechariah could speak again , and he began praising God .
+42:1:065:0	Awe fell upon the whole neighborhood , and the news of what had happened spread throughout the Judean hills .
+42:1:007:1	Zechariah 's Prophecy
+42:1:066:0	Everyone who heard about it reflected on these events and asked , “ What will this child turn out to be ? ” For the hand of the Lord was surely upon him in a special way .
+42:1:067:0	Then his father , Zechariah , was filled with the Holy Spirit and gave this prophecy :
+42:1:068:0	“ Praise the Lord , the God of Israel , because he has visited and redeemed his people .
+42:1:069:0	He has sent us a mighty Saviorfrom the royal line of his servant David ,
+42:1:070:0	just as he promisedthrough his holy prophets long ago .
+42:1:071:0	Now we will be saved from our enemiesand from all who hate us .
+42:1:072:0	He has been merciful to our ancestorsby remembering his sacred covenant—
+42:1:073:0	the covenant he swore with an oathto our ancestor Abraham .
+42:1:074:0	We have been rescued from our enemiesso we can serve God without fear ,
+42:1:075:0	in holiness and righteousnessfor as long as we live .
+42:1:076:0	“ And you , my little son , will be called the prophet of the Most High , because you will prepare the way for the Lord .
+42:1:077:0	You will tell his people how to find salvationthrough forgiveness of their sins .
+42:1:078:0	Because of God 's tender mercy , the morning light from heaven is about to break upon us ,
+42:1:079:0	to give light to those who sit in darkness and in the shadow of death , and to guide us to the path of peace . ”
+42:1:080:0	John grew up and became strong in spirit . And he lived in the wilderness until he began his public ministry to Israel .

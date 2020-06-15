@@ -1,0 +1,12 @@
+6:16:001:1	The Land Given to Ephraim and West Manasseh
+6:16:001:0	The allotment for the descendants of Joseph extended from the Jordan River near Jericho , east of the springs of Jericho , through the wilderness and into the hill country of Bethel .
+6:16:002:0	From Bethel ( that is , Luz ) it ran over to Ataroth in the territory of the Arkites .
+6:16:003:0	Then it descended westward to the territory of the Japhletites as far as Lower Beth-horon , then to Gezer and over to the Mediterranean Sea .
+6:16:002:1	The Land Given to Ephraim
+6:16:004:0	This was the homeland allocated to the families of Joseph 's sons , Manasseh and Ephraim .
+6:16:005:0	The following territory was given to the clans of the tribe of Ephraim.The boundary of their homeland began at Ataroth-addar in the east . From there it ran to Upper Beth-horon ,
+6:16:006:0	then on to the Mediterranean Sea . From Micmethath on the north , the boundary curved eastward past Taanath-shiloh to the east of Janoah .
+6:16:007:0	From Janoah it turned southward to Ataroth and Naarah , touched Jericho , and ended at the Jordan River .
+6:16:008:0	From Tappuah the boundary extended westward , following the Kanah Ravine to the Mediterranean Sea . This is the homeland allocated to the clans of the tribe of Ephraim .
+6:16:009:0	In addition , some towns with their surrounding villages in the territory allocated to the half-tribe of Manasseh were set aside for the tribe of Ephraim .
+6:16:010:0	They did not drive the Canaanites out of Gezer , however , so the people of Gezer live as slaves among the people of Ephraim to this day .

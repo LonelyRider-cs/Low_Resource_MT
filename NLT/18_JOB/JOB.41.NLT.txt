@@ -1,0 +1,37 @@
+18:41:001:1	The
+18:41:002:1	Lord
+18:41:003:1	's Challenge Continues
+18:41:001:0	“ Can you catch Leviathan with a hookor put a noose around its jaw ?
+18:41:002:0	Can you tie it with a rope through the noseor pierce its jaw with a spike ?
+18:41:003:0	Will it beg you for mercyor implore you for pity ?
+18:41:004:0	Will it agree to work for you , to be your slave for life ?
+18:41:005:0	Can you make it a pet like a bird , or give it to your little girls to play with ?
+18:41:006:0	Will merchants try to buy itto sell it in their shops ?
+18:41:007:0	Will its hide be hurt by spearsor its head by a harpoon ?
+18:41:008:0	If you lay a hand on it , you will certainly remember the battle that follows.You wo n't try that again !
+18:41:009:0	No , it is useless to try to capture it.The hunter who attempts it will be knocked down .
+18:41:010:0	And since no one dares to disturb it , who then can stand up to me ?
+18:41:011:0	Who has given me anything that I need to pay back ? Everything under heaven is mine .
+18:41:012:0	“ I want to emphasize Leviathan 's limbsand its enormous strength and graceful form .
+18:41:013:0	Who can strip off its hide , and who can penetrate its double layer of armor ?
+18:41:014:0	Who could pry open its jaws ? For its teeth are terrible !
+18:41:015:0	The scales on its back are like rows of shieldstightly sealed together .
+18:41:016:0	They are so close togetherthat no air can get between them .
+18:41:017:0	Each scale sticks tight to the next.They interlock and can not be penetrated .
+18:41:018:0	“ When it sneezes , it flashes light ! Its eyes are like the red of dawn .
+18:41:019:0	Lightning leaps from its mouth ; flames of fire flash out .
+18:41:020:0	Smoke streams from its nostrilslike steam from a pot heated over burning rushes .
+18:41:021:0	Its breath would kindle coals , for flames shoot from its mouth .
+18:41:022:0	“ The tremendous strength in Leviathan 's neckstrikes terror wherever it goes .
+18:41:023:0	Its flesh is hard and firmand can not be penetrated .
+18:41:024:0	Its heart is hard as rock , hard as a millstone .
+18:41:025:0	When it rises , the mighty are afraid , gripped by terror .
+18:41:026:0	No sword can stop it , no spear , dart , or javelin .
+18:41:027:0	Iron is nothing but straw to that creature , and bronze is like rotten wood .
+18:41:028:0	Arrows can not make it flee.Stones shot from a sling are like bits of grass .
+18:41:029:0	Clubs are like a blade of grass , and it laughs at the swish of javelins .
+18:41:030:0	Its belly is covered with scales as sharp as glass.It plows up the ground as it drags through the mud .
+18:41:031:0	“ Leviathan makes the water boil with its commotion.It stirs the depths like a pot of ointment .
+18:41:032:0	The water glistens in its wake , making the sea look white .
+18:41:033:0	Nothing on earth is its equal , no other creature so fearless .
+18:41:034:0	Of all the creatures , it is the proudest.It is the king of beasts . ”

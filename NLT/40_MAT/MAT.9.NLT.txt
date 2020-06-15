@@ -1,0 +1,44 @@
+40:9:001:1	Jesus Heals a Paralyzed Man
+40:9:001:0	Jesus climbed into a boat and went back across the lake to his own town .
+40:9:002:0	Some people brought to him a paralyzed man on a mat . Seeing their faith , Jesus said to the paralyzed man , “ Be encouraged , my child ! Your sins are forgiven . ”
+40:9:003:0	But some of the teachers of religious law said to themselves , “ That 's blasphemy ! Does he think he 's God ? ”
+40:9:004:0	Jesus knew what they were thinking , so he asked them , “ Why do you have such evil thoughts in your hearts ?
+40:9:005:0	Is it easier to say ‘ Your sins are forgiven , ' or ‘ Stand up and walk ' ?
+40:9:006:0	So I will prove to you that the Son of Man has the authority on earth to forgive sins. ” Then Jesus turned to the paralyzed man and said , “ Stand up , pick up your mat , and go home ! ”
+40:9:007:0	And the man jumped up and went home !
+40:9:002:1	Jesus Calls Matthew
+40:9:008:0	Fear swept through the crowd as they saw this happen . And they praised God for giving humans such authority .
+40:9:009:0	As Jesus was walking along , he saw a man named Matthew sitting at his tax collector 's booth . “ Follow me and be my disciple , ” Jesus said to him . So Matthew got up and followed him .
+40:9:010:0	Later , Matthew invited Jesus and his disciples to his home as dinner guests , along with many tax collectors and other disreputable sinners .
+40:9:011:0	But when the Pharisees saw this , they asked his disciples , “ Why does your teacher eat with such scum ? ”
+40:9:012:0	When Jesus heard this , he said , “ Healthy people do n't need a doctor—sick people do . ”
+40:9:003:1	A Discussion about Fasting
+40:9:013:0	Then he added , “ Now go and learn the meaning of this Scripture : ‘ I want you to show mercy , not offer sacrifices . ' For I have come to call not those who think they are righteous , but those who know they are sinners . ”
+40:9:014:0	One day the disciples of John the Baptist came to Jesus and asked him , “ Why do n't your disciples fast like we do and the Pharisees do ? ”
+40:9:015:0	Jesus replied , “ Do wedding guests mourn while celebrating with the groom ? Of course not . But someday the groom will be taken away from them , and then they will fast .
+40:9:016:0	“ Besides , who would patch old clothing with new cloth ? For the new patch would shrink and rip away from the old cloth , leaving an even bigger tear than before .
+40:9:004:1	Jesus Heals in Response to Faith
+40:9:017:0	“ And no one puts new wine into old wineskins . For the old skins would burst from the pressure , spilling the wine and ruining the skins . New wine is stored in new wineskins so that both are preserved . ”
+40:9:018:0	As Jesus was saying this , the leader of a synagogue came and knelt before him . “ My daughter has just died , ” he said , “ but you can bring her back to life again if you just come and lay your hand on her . ”
+40:9:019:0	So Jesus and his disciples got up and went with him .
+40:9:020:0	Just then a woman who had suffered for twelve years with constant bleeding came up behind him . She touched the fringe of his robe ,
+40:9:021:0	for she thought , “ If I can just touch his robe , I will be healed . ”
+40:9:022:0	Jesus turned around , and when he saw her he said , “ Daughter , be encouraged ! Your faith has made you well. ” And the woman was healed at that moment .
+40:9:023:0	When Jesus arrived at the official 's home , he saw the noisy crowd and heard the funeral music .
+40:9:024:0	“ Get out ! ” he told them . “ The girl is n't dead ; she 's only asleep. ” But the crowd laughed at him .
+40:9:025:0	After the crowd was put outside , however , Jesus went in and took the girl by the hand , and she stood up !
+40:9:005:1	Jesus Heals the Blind
+40:9:026:0	The report of this miracle swept through the entire countryside .
+40:9:027:0	After Jesus left the girl 's home , two blind men followed along behind him , shouting , “ Son of David , have mercy on us ! ”
+40:9:028:0	They went right into the house where he was staying , and Jesus asked them , “ Do you believe I can make you see ? ” “ Yes , Lord , ” they told him , “ we do . ”
+40:9:029:0	Then he touched their eyes and said , “ Because of your faith , it will happen . ”
+40:9:030:0	Then their eyes were opened , and they could see ! Jesus sternly warned them , “ Do n't tell anyone about this . ”
+40:9:031:0	But instead , they went out and spread his fame all over the region .
+40:9:032:0	When they left , a demon-possessed man who could n't speak was brought to Jesus .
+40:9:033:0	So Jesus cast out the demon , and then the man began to speak . The crowds were amazed . “ Nothing like this has ever happened in Israel ! ” they exclaimed .
+40:9:006:1	The Need for Workers
+40:9:034:0	But the Pharisees said , “ He can cast out demons because he is empowered by the prince of demons . ”
+40:9:035:0	Jesus traveled through all the towns and villages of that area , teaching in the synagogues and announcing the Good News about the Kingdom . And he healed every kind of disease and illness .
+40:9:036:0	When he saw the crowds , he had compassion on them because they were confused and helpless , like sheep without a shepherd .
+40:9:037:0	He said to his disciples , “ The harvest is great , but the workers are few .
+40:9:038:0	So pray to the Lord who is in charge of the harvest ; ask him to send more workers into his fields . ”

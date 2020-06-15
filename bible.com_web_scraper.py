@@ -28,14 +28,32 @@ def page_scraper(url, book, book_number, chapter_number, lang_code):
 
 
     #get all the tags that contain a verse
-    all_tags = soup.findAll('span', class_=re.compile("(verse v[0-9]+)"))
+    all_tags = soup.findAll('span', class_=re.compile("verse v[0-9]+|heading"))
     #print(all_tags)
     psuedo_file = []
     verse_count = 1
+    heading_count = 1
     current_working_verse = ""
     tokened_working_verse = ""
     #loop through all the verses
     for tag in all_tags:
+
+        if tag['class'][0] == 'heading':
+            token = word_tokenize(tag.text.replace("’", "'"))
+            tokened_heading = ' '.join(token)
+            if len(str(heading_count)) == 1:
+                file.write(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_heading + "\n")
+                #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_heading)
+                #print(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_heading)
+            if len(str(heading_count)) == 2:
+                file.write(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_heading + "\n")
+                #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_heading)
+                #print(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_heading)
+            if len(str(heading_count)) == 3:
+                file.write(str(book_number) + ":" + str(chapter_number) + ":" + str(heading_count) + ":1\t" + tokened_heading + "\n")
+                #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":" + str(heading_count) + ":1\t " + tokened_heading)
+                #print(str(book_number) + ":" + str(chapter_number) + ":" + str(heading_count) + ":1\t" + tokened_heading)
+            heading_count += 1
 
         #this check is not neeeded currently, if we add labels/titles this will be useful then
         if tag['class'][0] == 'verse':
@@ -61,26 +79,29 @@ def page_scraper(url, book, book_number, chapter_number, lang_code):
                 if len(str(verse_count)) == 3:
                     file.write(str(book_number) + ":" + str(chapter_number) + ":" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
                     #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":" + str(verse_count) + ":0\t " + tokened_working_verse)
-                    #print(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0\t" + tokened_working_verse)
+                    #print(str(book_number) + ":" + str(chapter_number) + ":" + str(verse_count) + ":0\t" + tokened_working_verse)
                 #updating count and clearing string
                 verse_count = temp_verse
                 current_working_verse = ""
                 tokened_working_verse = ""
 
-        #loop through all the tags children to get to the content of the verse
-        #for some reason most of the verses are within a class called content,
-        #however there appears that when writing is in red the class is called wj
-        #and then within that is the class called content. See the online HTML if confusing
-        for child in tag.children:
-            #print(child)
-            if child['class'] == ['content']:
-                #print(child.text)
-                current_working_verse += child.text
-            if child['class'] != ['content']:
-                for gchild in child:
-                    if gchild['class'] == ['content']:
-                        #print(gchild.text)
-                        current_working_verse += gchild.text
+            #loop through all the tags children to get to the content of the verse
+            #for some reason most of the verses are within a class called content,
+            #however there appears that when writing is in red the class is called wj
+            #and then within that is the class called content. See the online HTML if confusing
+            for child in tag.children:
+                #print(child)
+                if child['class'] == ['content']:
+                    #print(child.text)
+                    current_working_verse += child.text
+
+                if child['class'] != ['content'] and child['class'] != ['label'] and child['class'] != ['heading']:
+                    #print(child)
+                    for gchild in child:
+                        #print(gchild)
+                        if gchild['class'] == ['content']:
+                            #print(gchild.text)
+                            current_working_verse += gchild.text
 
     #tokenize that last line
     token = word_tokenize(current_working_verse.replace("’", "'"))
@@ -89,15 +110,15 @@ def page_scraper(url, book, book_number, chapter_number, lang_code):
     #at the end here we need to add the last verse no matter what due to the way the for loop is set up
     if len(str(verse_count)) == 1:
         file.write(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
-        psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0\t" + tokened_working_verse)
+        #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0\t" + tokened_working_verse)
         #print(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0    " + tokened_working_verse)
     if len(str(verse_count)) == 2:
         file.write(str(book_number) + ":" + str(chapter_number) + ":0" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
-        psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":0" + str(verse_count) + ":0\t" + tokened_working_verse)
+        #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":0" + str(verse_count) + ":0\t" + tokened_working_verse)
         #print(str(book_number) + ":" + str(chapter_number) + ":0" + str(verse_count) + ":0\t" + tokened_working_verse)
     if len(str(verse_count)) == 3:
         file.write(str(book_number) + ":" + str(chapter_number) + ":" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
-        psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":" + str(verse_count) + ":0\t" + tokened_working_verse)
+        #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":" + str(verse_count) + ":0\t" + tokened_working_verse)
         #print(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0\t" + tokened_working_verse)
     #print(psuedo_file)
     file.close()
@@ -110,7 +131,7 @@ def driver():
     #lets say you only want bible 1245, then it would be range(1245, 1246)
     #all ->  range(1, 2525)
     #first -> range(1,2)
-    for i in range(1,2):
+    for i in range(116,117):
         #get the language code
         lang_code = get_lang_code(i)
         #if lang code comes back false, then we know its a bad url

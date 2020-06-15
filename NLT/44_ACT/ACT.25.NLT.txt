@@ -1,0 +1,29 @@
+44:25:001:1	Paul Appears before Festus
+44:25:001:0	Three days after Festus arrived in Caesarea to take over his new responsibilities , he left for Jerusalem ,
+44:25:002:0	where the leading priests and other Jewish leaders met with him and made their accusations against Paul .
+44:25:003:0	They asked Festus as a favor to transfer Paul to Jerusalem ( planning to ambush and kill him on the way ) .
+44:25:004:0	But Festus replied that Paul was at Caesarea and he himself would be returning there soon .
+44:25:005:0	So he said , “ Those of you in authority can return with me . If Paul has done anything wrong , you can make your accusations . ”
+44:25:006:0	About eight or ten days later Festus returned to Caesarea , and on the following day he took his seat in court and ordered that Paul be brought in .
+44:25:007:0	When Paul arrived , the Jewish leaders from Jerusalem gathered around and made many serious accusations they could n't prove .
+44:25:008:0	Paul denied the charges . “ I am not guilty of any crime against the Jewish laws or the Temple or the Roman government , ” he said .
+44:25:009:0	Then Festus , wanting to please the Jews , asked him , “ Are you willing to go to Jerusalem and stand trial before me there ? ”
+44:25:010:0	But Paul replied , “ No ! This is the official Roman court , so I ought to be tried right here . You know very well I am not guilty of harming the Jews .
+44:25:011:0	If I have done something worthy of death , I do n't refuse to die . But if I am innocent , no one has a right to turn me over to these men to kill me . I appeal to Caesar ! ”
+44:25:012:0	Festus conferred with his advisers and then replied , “ Very well ! You have appealed to Caesar , and to Caesar you will go ! ”
+44:25:013:0	A few days later King Agrippa arrived with his sister , Bernice , to pay their respects to Festus .
+44:25:014:0	During their stay of several days , Festus discussed Paul 's case with the king . “ There is a prisoner here , ” he told him , “ whose case was left for me by Felix .
+44:25:015:0	When I was in Jerusalem , the leading priests and Jewish elders pressed charges against him and asked me to condemn him .
+44:25:016:0	I pointed out to them that Roman law does not convict people without a trial . They must be given an opportunity to confront their accusers and defend themselves .
+44:25:017:0	“ When his accusers came here for the trial , I did n't delay . I called the case the very next day and ordered Paul brought in .
+44:25:018:0	But the accusations made against him were n't any of the crimes I expected .
+44:25:019:0	Instead , it was something about their religion and a dead man named Jesus , who Paul insists is alive .
+44:25:020:0	I was at a loss to know how to investigate these things , so I asked him whether he would be willing to stand trial on these charges in Jerusalem .
+44:25:021:0	But Paul appealed to have his case decided by the emperor . So I ordered that he be held in custody until I could arrange to send him to Caesar . ”
+44:25:002:1	Paul Speaks to Agrippa
+44:25:022:0	“ I 'd like to hear the man myself , ” Agrippa said.And Festus replied , “ You will—tomorrow ! ”
+44:25:023:0	So the next day Agrippa and Bernice arrived at the auditorium with great pomp , accompanied by military officers and prominent men of the city . Festus ordered that Paul be brought in .
+44:25:024:0	Then Festus said , “ King Agrippa and all who are here , this is the man whose death is demanded by all the Jews , both here and in Jerusalem .
+44:25:025:0	But in my opinion he has done nothing deserving death . However , since he appealed his case to the emperor , I have decided to send him to Rome .
+44:25:026:0	“ But what shall I write the emperor ? For there is no clear charge against him . So I have brought him before all of you , and especially you , King Agrippa , so that after we examine him , I might have something to write .
+44:25:027:0	For it makes no sense to send a prisoner to the emperor without specifying the charges against him ! ”

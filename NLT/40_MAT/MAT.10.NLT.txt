@@ -1,0 +1,43 @@
+40:10:001:1	Jesus Sends Out the Twelve Apostles
+40:10:001:0	Jesus called his twelve disciples together and gave them authority to cast out evil spirits and to heal every kind of disease and illness .
+40:10:002:0	Here are the names of the twelve apostles : first , Simon ( also called Peter ) , then Andrew ( Peter 's brother ) , James ( son of Zebedee ) , John ( James 's brother ) ,
+40:10:003:0	Philip , Bartholomew , Thomas , Matthew ( the tax collector ) , James ( son of Alphaeus ) , Thaddaeus ,
+40:10:004:0	Simon ( the zealot ) , Judas Iscariot ( who later betrayed him ) .
+40:10:005:0	Jesus sent out the twelve apostles with these instructions : “ Do n't go to the Gentiles or the Samaritans ,
+40:10:006:0	but only to the people of Israel—God 's lost sheep .
+40:10:007:0	Go and announce to them that the Kingdom of Heaven is near .
+40:10:008:0	Heal the sick , raise the dead , cure those with leprosy , and cast out demons . Give as freely as you have received !
+40:10:009:0	“ Do n't take any money in your money belts—no gold , silver , or even copper coins .
+40:10:010:0	Do n't carry a traveler 's bag with a change of clothes and sandals or even a walking stick . Do n't hesitate to accept hospitality , because those who work deserve to be fed .
+40:10:011:0	“ Whenever you enter a city or village , search for a worthy person and stay in his home until you leave town .
+40:10:012:0	When you enter the home , give it your blessing .
+40:10:013:0	If it turns out to be a worthy home , let your blessing stand ; if it is not , take back the blessing .
+40:10:014:0	If any household or town refuses to welcome you or listen to your message , shake its dust from your feet as you leave .
+40:10:015:0	I tell you the truth , the wicked cities of Sodom and Gomorrah will be better off than such a town on the judgment day .
+40:10:016:0	“ Look , I am sending you out as sheep among wolves . So be as shrewd as snakes and harmless as doves .
+40:10:017:0	But beware ! For you will be handed over to the courts and will be flogged with whips in the synagogues .
+40:10:018:0	You will stand trial before governors and kings because you are my followers . But this will be your opportunity to tell the rulers and other unbelievers about me .
+40:10:019:0	When you are arrested , do n't worry about how to respond or what to say . God will give you the right words at the right time .
+40:10:020:0	For it is not you who will be speaking—it will be the Spirit of your Father speaking through you .
+40:10:021:0	“ A brother will betray his brother to death , a father will betray his own child , and children will rebel against their parents and cause them to be killed .
+40:10:022:0	And all nations will hate you because you are my followers . But everyone who endures to the end will be saved .
+40:10:023:0	When you are persecuted in one town , flee to the next . I tell you the truth , the Son of Man will return before you have reached all the towns of Israel .
+40:10:024:0	“ Students are not greater than their teacher , and slaves are not greater than their master .
+40:10:025:0	Students are to be like their teacher , and slaves are to be like their master . And since I , the master of the household , have been called the prince of demons , the members of my household will be called by even worse names !
+40:10:026:0	“ But do n't be afraid of those who threaten you . For the time is coming when everything that is covered will be revealed , and all that is secret will be made known to all .
+40:10:027:0	What I tell you now in the darkness , shout abroad when daybreak comes . What I whisper in your ear , shout from the housetops for all to hear !
+40:10:028:0	“ Do n't be afraid of those who want to kill your body ; they can not touch your soul . Fear only God , who can destroy both soul and body in hell .
+40:10:029:0	What is the price of two sparrows—one copper coin ? But not a single sparrow can fall to the ground without your Father knowing it .
+40:10:030:0	And the very hairs on your head are all numbered .
+40:10:031:0	So do n't be afraid ; you are more valuable to God than a whole flock of sparrows .
+40:10:032:0	“ Everyone who acknowledges me publicly here on earth , I will also acknowledge before my Father in heaven .
+40:10:033:0	But everyone who denies me here on earth , I will also deny before my Father in heaven .
+40:10:034:0	“ Do n't imagine that I came to bring peace to the earth ! I came not to bring peace , but a sword .
+40:10:035:0	‘ I have come to set a man against his father , a daughter against her mother , and a daughter-in-law against her mother-in-law .
+40:10:036:0	Your enemies will be right in your own household ! '
+40:10:037:0	“ If you love your father or mother more than you love me , you are not worthy of being mine ; or if you love your son or daughter more than me , you are not worthy of being mine .
+40:10:038:0	If you refuse to take up your cross and follow me , you are not worthy of being mine .
+40:10:039:0	If you cling to your life , you will lose it ; but if you give up your life for me , you will find it .
+40:10:040:0	“ Anyone who receives you receives me , and anyone who receives me receives the Father who sent me .
+40:10:041:0	If you receive a prophet as one who speaks for God , you will be given the same reward as a prophet . And if you receive righteous people because of their righteousness , you will be given a reward like theirs .
+40:10:042:0	And if you give even a cup of cold water to one of the least of my followers , you will surely be rewarded . ”

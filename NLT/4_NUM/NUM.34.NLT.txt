@@ -1,0 +1,33 @@
+4:34:001:1	Boundaries of the Land
+4:34:001:0	Then the Lord said to Moses ,
+4:34:002:0	“ Give these instructions to the Israelites : When you come into the land of Canaan , which I am giving you as your special possession , these will be the boundaries .
+4:34:003:0	The southern portion of your country will extend from the wilderness of Zin , along the edge of Edom . The southern boundary will begin on the east at the Dead Sea .
+4:34:004:0	It will then run south past Scorpion Pass in the direction of Zin . Its southernmost point will be Kadesh-barnea , from which it will go to Hazar-addar , and on to Azmon .
+4:34:005:0	From Azmon the boundary will turn toward the Brook of Egypt and end at the Mediterranean Sea .
+4:34:006:0	“ Your western boundary will be the coastline of the Mediterranean Sea .
+4:34:007:0	“ Your northern boundary will begin at the Mediterranean Sea and run east to Mount Hor ,
+4:34:008:0	then to Lebo-hamath , and on through Zedad
+4:34:009:0	and Ziphron to Hazar-enan . This will be your northern boundary .
+4:34:010:0	“ The eastern boundary will start at Hazar-enan and run south to Shepham ,
+4:34:011:0	then down to Riblah on the east side of Ain . From there the boundary will run down along the eastern edge of the Sea of Galilee ,
+4:34:012:0	and then along the Jordan River to the Dead Sea . These are the boundaries of your land . ”
+4:34:013:0	Then Moses told the Israelites , “ This territory is the homeland you are to divide among yourselves by sacred lot . The Lord has commanded that the land be divided among the nine and a half remaining tribes .
+4:34:014:0	The families of the tribes of Reuben , Gad , and half the tribe of Manasseh have already received their grants of land
+4:34:002:1	Leaders to Divide the Land
+4:34:015:0	on the east side of the Jordan River , across from Jericho toward the sunrise . ”
+4:34:016:0	And the Lord said to Moses ,
+4:34:017:0	“ Eleazar the priest and Joshua son of Nun are the men designated to divide the grants of land among the people .
+4:34:018:0	Enlist one leader from each tribe to help them with the task .
+4:34:003:1	Tribe
+4:34:004:1	Leader
+4:34:019:0	These are the tribes and the names of the leaders : JudahCaleb son of Jephunneh
+4:34:020:0	SimeonShemuel son of Ammihud
+4:34:021:0	BenjaminElidad son of Kislon
+4:34:022:0	DanBukki son of Jogli
+4:34:023:0	Manasseh son of JosephHanniel son of Ephod
+4:34:024:0	Ephraim son of JosephKemuel son of Shiphtan
+4:34:025:0	ZebulunElizaphan son of Parnach
+4:34:026:0	IssacharPaltiel son of Azzan
+4:34:027:0	AsherAhihud son of Shelomi
+4:34:028:0	NaphtaliPedahel son of Ammihud
+4:34:029:0	These are the men the Lord has appointed to divide the grants of land in Canaan among the Israelites . ”

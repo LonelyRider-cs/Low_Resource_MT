@@ -1,0 +1,47 @@
+4:1:001:1	Registration of Israel 's Troops
+4:1:001:0	A year after Israel 's departure from Egypt , the Lord spoke to Moses in the Tabernacle in the wilderness of Sinai . On the first day of the second month of that year he said ,
+4:1:002:0	“ From the whole community of Israel , record the names of all the warriors by their clans and families . List all the men
+4:1:003:0	twenty years old or older who are able to go to war . You and Aaron must register the troops ,
+4:1:004:0	and you will be assisted by one family leader from each tribe .
+4:1:002:1	Tribe
+4:1:003:1	Leader
+4:1:005:0	“ These are the tribes and the names of the leaders who will assist you : ReubenElizur son of Shedeur
+4:1:006:0	SimeonShelumiel son of Zurishaddai
+4:1:007:0	JudahNahshon son of Amminadab
+4:1:008:0	IssacharNethanel son of Zuar
+4:1:009:0	ZebulunEliab son of Helon
+4:1:010:0	Ephraim son of JosephElishama son of AmmihudManasseh son of JosephGamaliel son of Pedahzur
+4:1:011:0	BenjaminAbidan son of Gideoni
+4:1:012:0	DanAhiezer son of Ammishaddai
+4:1:013:0	AsherPagiel son of Ocran
+4:1:014:0	GadEliasaph son of Deuel
+4:1:015:0	NaphtaliAhira son of Enan
+4:1:016:0	These are the chosen leaders of the community , the leaders of their ancestral tribes , the heads of the clans of Israel . ”
+4:1:017:0	So Moses and Aaron called together these chosen leaders ,
+4:1:018:0	and they assembled the whole community of Israel on that very day . All the people were registered according to their ancestry by their clans and families . The men of Israel who were twenty years old or older were listed one by one ,
+4:1:019:0	just as the Lord had commanded Moses . So Moses recorded their names in the wilderness of Sinai .
+4:1:004:1	Tribe
+4:1:005:1	Number
+4:1:020:0	This is the number of men twenty years old or older who were able to go to war , as their names were listed in the records of their clans and families : Reuben ( Jacob'soldest son ) 46,500
+4:1:022:0	Simeon59,300
+4:1:024:0	Gad45,650
+4:1:026:0	Judah74,600
+4:1:028:0	Issachar54,400
+4:1:030:0	Zebulun57,400
+4:1:032:0	Ephraim son of Joseph40,500
+4:1:034:0	Manasseh son of Joseph32,200
+4:1:036:0	Benjamin35,400
+4:1:038:0	Dan62,700
+4:1:040:0	Asher41,500
+4:1:042:0	Naphtali53,400
+4:1:044:0	These were the men registered by Moses and Aaron and the twelve leaders of Israel , all listed according to their ancestral descent .
+4:1:045:0	They were registered by families—all the men of Israel who were twenty years old or older and able to go to war .
+4:1:046:0	The total number was 603,550 .
+4:1:047:0	But this total did not include the Levites .
+4:1:048:0	For the Lord had said to Moses ,
+4:1:049:0	“ Do not include the tribe of Levi in the registration ; do not count them with the rest of the Israelites .
+4:1:050:0	Put the Levites in charge of the Tabernacle of the Covenant , along with all its furnishings and equipment . They must carry the Tabernacle and all its furnishings as you travel , and they must take care of it and camp around it .
+4:1:051:0	Whenever it is time for the Tabernacle to move , the Levites will take it down . And when it is time to stop , they will set it up again . But any unauthorized person who goes too near the Tabernacle must be put to death .
+4:1:052:0	Each tribe of Israel will camp in a designated area with its own family banner .
+4:1:053:0	But the Levites will camp around the Tabernacle of the Covenant to protect the community of Israel from the Lord 's anger . The Levites are responsible to stand guard around the Tabernacle . ”
+4:1:054:0	So the Israelites did everything just as the Lord had commanded Moses .

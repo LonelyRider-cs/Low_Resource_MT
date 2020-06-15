@@ -1,0 +1,23 @@
+2:1:001:1	The Israelites in Egypt
+2:1:001:0	These are the names of the sons of Israel ( that is , Jacob ) who moved to Egypt with their father , each with his family :
+2:1:002:0	Reuben , Simeon , Levi , Judah ,
+2:1:003:0	Issachar , Zebulun , Benjamin ,
+2:1:004:0	Dan , Naphtali , Gad , and Asher .
+2:1:005:0	In all , Jacob had seventy descendants in Egypt , including Joseph , who was already there .
+2:1:006:0	In time , Joseph and all of his brothers died , ending that entire generation .
+2:1:007:0	But their descendants , the Israelites , had many children and grandchildren . In fact , they multiplied so greatly that they became extremely powerful and filled the land .
+2:1:008:0	Eventually , a new king came to power in Egypt who knew nothing about Joseph or what he had done .
+2:1:009:0	He said to his people , “ Look , the people of Israel now outnumber us and are stronger than we are .
+2:1:010:0	We must make a plan to keep them from growing even more . If we do n't , and if war breaks out , they will join our enemies and fight against us . Then they will escape from the country . ”
+2:1:011:0	So the Egyptians made the Israelites their slaves . They appointed brutal slave drivers over them , hoping to wear them down with crushing labor . They forced them to build the cities of Pithom and Rameses as supply centers for the king .
+2:1:012:0	But the more the Egyptians oppressed them , the more the Israelites multiplied and spread , and the more alarmed the Egyptians became .
+2:1:013:0	So the Egyptians worked the people of Israel without mercy .
+2:1:014:0	They made their lives bitter , forcing them to mix mortar and make bricks and do all the work in the fields . They were ruthless in all their demands .
+2:1:015:0	Then Pharaoh , the king of Egypt , gave this order to the Hebrew midwives , Shiphrah and Puah :
+2:1:016:0	“ When you help the Hebrew women as they give birth , watch as they deliver . If the baby is a boy , kill him ; if it is a girl , let her live . ”
+2:1:017:0	But because the midwives feared God , they refused to obey the king 's orders . They allowed the boys to live , too .
+2:1:018:0	So the king of Egypt called for the midwives . “ Why have you done this ? ” he demanded . “ Why have you allowed the boys to live ? ”
+2:1:019:0	“ The Hebrew women are not like the Egyptian women , ” the midwives replied . “ They are more vigorous and have their babies so quickly that we can not get there in time . ”
+2:1:020:0	So God was good to the midwives , and the Israelites continued to multiply , growing more and more powerful .
+2:1:021:0	And because the midwives feared God , he gave them families of their own .
+2:1:022:0	Then Pharaoh gave this order to all his people : “ Throw every newborn Hebrew boy into the Nile River . But you may let the girls live . ”

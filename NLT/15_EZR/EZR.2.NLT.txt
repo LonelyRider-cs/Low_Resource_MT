@@ -1,0 +1,71 @@
+15:2:001:1	Exiles Who Returned with Zerubbabel
+15:2:001:0	Here is the list of the Jewish exiles of the provinces who returned from their captivity . King Nebuchadnezzar had deported them to Babylon , but now they returned to Jerusalem and the other towns in Judah where they originally lived .
+15:2:002:0	Their leaders were Zerubbabel , Jeshua , Nehemiah , Seraiah , Reelaiah , Mordecai , Bilshan , Mispar , Bigvai , Rehum , and Baanah.This is the number of the men of Israel who returned from exile :
+15:2:003:0	The family of Parosh2,172
+15:2:004:0	The family of Shephatiah372
+15:2:005:0	The family of Arah775
+15:2:006:0	The family of Pahath-moab ( descendants of Jeshua and Joab ) 2,812
+15:2:007:0	The family of Elam1,254
+15:2:008:0	The family of Zattu945
+15:2:009:0	The family of Zaccai760
+15:2:010:0	The family of Bani642
+15:2:011:0	The family of Bebai623
+15:2:012:0	The family of Azgad1,222
+15:2:013:0	The family of Adonikam666
+15:2:014:0	The family of Bigvai2,056
+15:2:015:0	The family of Adin454
+15:2:016:0	The family of Ater ( descendants of Hezekiah ) 98
+15:2:017:0	The family of Bezai323
+15:2:018:0	The family of Jorah112
+15:2:019:0	The family of Hashum223
+15:2:020:0	The family of Gibbar95
+15:2:021:0	The people of Bethlehem123
+15:2:022:0	The people of Netophah56
+15:2:023:0	The people of Anathoth128
+15:2:024:0	The people of Beth-azmaveth42
+15:2:025:0	The people of Kiriath-jearim , Kephirah , and Beeroth743
+15:2:026:0	The people of Ramah and Geba621
+15:2:027:0	The people of Micmash122
+15:2:028:0	The people of Bethel and Ai223
+15:2:029:0	The citizens of Nebo52
+15:2:030:0	The citizens of Magbish156
+15:2:031:0	The citizens of West Elam1,254
+15:2:032:0	The citizens of Harim320
+15:2:033:0	The citizens of Lod , Hadid , and Ono725
+15:2:034:0	The citizens of Jericho345
+15:2:035:0	The citizens of Senaah3,630
+15:2:036:0	These are the priests who returned from exile : The family of Jedaiah ( through the line of Jeshua ) 973
+15:2:037:0	The family of Immer1,052
+15:2:038:0	The family of Pashhur1,247
+15:2:039:0	The family of Harim1,017
+15:2:040:0	These are the Levites who returned from exile : The families of Jeshua and Kadmiel ( descendants of Hodaviah ) 74
+15:2:041:0	The singers of the family of Asaph128
+15:2:042:0	The gatekeepers of the families of Shallum , Ater , Talmon , Akkub , Hatita , and Shobai139
+15:2:043:0	The descendants of the following Temple servants returned from exile : Ziha , Hasupha , Tabbaoth ,
+15:2:044:0	Keros , Siaha , Padon ,
+15:2:045:0	Lebanah , Hagabah , Akkub ,
+15:2:046:0	Hagab , Shalmai , Hanan ,
+15:2:047:0	Giddel , Gahar , Reaiah ,
+15:2:048:0	Rezin , Nekoda , Gazzam ,
+15:2:049:0	Uzza , Paseah , Besai ,
+15:2:050:0	Asnah , Meunim , Nephusim ,
+15:2:051:0	Bakbuk , Hakupha , Harhur ,
+15:2:052:0	Bazluth , Mehida , Harsha ,
+15:2:053:0	Barkos , Sisera , Temah ,
+15:2:054:0	Neziah , and Hatipha .
+15:2:055:0	The descendants of these servants of King Solomon returned from exile : Sotai , Hassophereth , Peruda ,
+15:2:056:0	Jaalah , Darkon , Giddel ,
+15:2:057:0	Shephatiah , Hattil , Pokereth-hazzebaim , and Ami .
+15:2:058:0	In all , the Temple servants and the descendants of Solomon 's servants numbered 392 .
+15:2:059:0	Another group returned at this time from the towns of Tel-melah , Tel-harsha , Kerub , Addan , and Immer . However , they could not prove that they or their families were descendants of Israel .
+15:2:060:0	This group included the families of Delaiah , Tobiah , and Nekoda—a total of 652 people .
+15:2:061:0	Three families of priests—Hobaiah , Hakkoz , and Barzillai—also returned . ( This Barzillai had married a woman who was a descendant of Barzillai of Gilead , and he had taken her family name . )
+15:2:062:0	They searched for their names in the genealogical records , but they were not found , so they were disqualified from serving as priests .
+15:2:063:0	The governor told them not to eat the priests ' share of food from the sacrifices until a priest could consult the Lord about the matter by using the Urim and Thummim—the sacred lots .
+15:2:064:0	So a total of 42,360 people returned to Judah ,
+15:2:065:0	in addition to 7,337 servants and 200 singers , both men and women .
+15:2:066:0	They took with them 736 horses , 245 mules ,
+15:2:067:0	435 camels , and 6,720 donkeys .
+15:2:068:0	When they arrived at the Temple of the Lord in Jerusalem , some of the family leaders made voluntary offerings toward the rebuilding of God 's Temple on its original site ,
+15:2:069:0	and each leader gave as much as he could . The total of their gifts came to 61,000 gold coins , 6,250 pounds of silver , and 100 robes for the priests .
+15:2:070:0	So the priests , the Levites , the singers , the gatekeepers , the Temple servants , and some of the common people settled in villages near Jerusalem . The rest of the people returned to their own towns throughout Israel .

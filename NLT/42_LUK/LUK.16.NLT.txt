@@ -1,0 +1,33 @@
+42:16:001:1	Parable of the Shrewd Manager
+42:16:001:0	Jesus told this story to his disciples : “ There was a certain rich man who had a manager handling his affairs . One day a report came that the manager was wasting his employer 's money .
+42:16:002:0	So the employer called him in and said , ‘ What 's this I hear about you ? Get your report in order , because you are going to be fired . '
+42:16:003:0	“ The manager thought to himself , ‘ Now what ? My boss has fired me . I do n't have the strength to dig ditches , and I 'm too proud to beg .
+42:16:004:0	Ah , I know how to ensure that I 'll have plenty of friends who will give me a home when I am fired . '
+42:16:005:0	“ So he invited each person who owed money to his employer to come and discuss the situation . He asked the first one , ‘ How much do you owe him ? '
+42:16:006:0	The man replied , ‘ I owe him 800 gallons of olive oil . ' So the manager told him , ‘ Take the bill and quickly change it to 400 gallons . '
+42:16:007:0	“ ‘ And how much do you owe my employer ? ' he asked the next man . ‘ I owe him 1,000 bushels of wheat , ' was the reply . ‘ Here , ' the manager said , ‘ take the bill and change it to 800 bushels . '
+42:16:008:0	“ The rich man had to admire the dishonest rascal for being so shrewd . And it is true that the children of this world are more shrewd in dealing with the world around them than are the children of the light .
+42:16:009:0	Here 's the lesson : Use your worldly resources to benefit others and make friends . Then , when your possessions are gone , they will welcome you to an eternal home .
+42:16:010:0	“ If you are faithful in little things , you will be faithful in large ones . But if you are dishonest in little things , you wo n't be honest with greater responsibilities .
+42:16:011:0	And if you are untrustworthy about worldly wealth , who will trust you with the true riches of heaven ?
+42:16:012:0	And if you are not faithful with other people 's things , why should you be trusted with things of your own ?
+42:16:013:0	“ No one can serve two masters . For you will hate one and love the other ; you will be devoted to one and despise the other . You can not serve God and be enslaved to money . ”
+42:16:014:0	The Pharisees , who dearly loved their money , heard all this and scoffed at him .
+42:16:015:0	Then he said to them , “ You like to appear righteous in public , but God knows your hearts . What this world honors is detestable in the sight of God .
+42:16:016:0	“ Until John the Baptist , the law of Moses and the messages of the prophets were your guides . But now the Good News of the Kingdom of God is preached , and everyone is eager to get in .
+42:16:017:0	But that does n't mean that the law has lost its force . It is easier for heaven and earth to disappear than for the smallest point of God 's law to be overturned .
+42:16:002:1	Parable of the Rich Man and Lazarus
+42:16:018:0	“ For example , a man who divorces his wife and marries someone else commits adultery . And anyone who marries a woman divorced from her husband commits adultery . ”
+42:16:019:0	Jesus said , “ There was a certain rich man who was splendidly clothed in purple and fine linen and who lived each day in luxury .
+42:16:020:0	At his gate lay a poor man named Lazarus who was covered with sores .
+42:16:021:0	As Lazarus lay there longing for scraps from the rich man 's table , the dogs would come and lick his open sores .
+42:16:022:0	“ Finally , the poor man died and was carried by the angels to sit beside Abraham at the heavenly banquet . The rich man also died and was buried ,
+42:16:023:0	and he went to the place of the dead . There , in torment , he saw Abraham in the far distance with Lazarus at his side .
+42:16:024:0	“ The rich man shouted , ‘ Father Abraham , have some pity ! Send Lazarus over here to dip the tip of his finger in water and cool my tongue . I am in anguish in these flames . '
+42:16:025:0	“ But Abraham said to him , ‘ Son , remember that during your lifetime you had everything you wanted , and Lazarus had nothing . So now he is here being comforted , and you are in anguish .
+42:16:026:0	And besides , there is a great chasm separating us . No one can cross over to you from here , and no one can cross over to us from there . '
+42:16:027:0	“ Then the rich man said , ‘ Please , Father Abraham , at least send him to my father 's home .
+42:16:028:0	For I have five brothers , and I want him to warn them so they do n't end up in this place of torment . '
+42:16:029:0	“ But Abraham said , ‘ Moses and the prophets have warned them . Your brothers can read what they wrote . '
+42:16:030:0	“ The rich man replied , ‘ No , Father Abraham ! But if someone is sent to them from the dead , then they will repent of their sins and turn to God . '
+42:16:031:0	“ But Abraham said , ‘ If they wo n't listen to Moses and the prophets , they wo n't be persuaded even if someone rises from the dead . ' ”

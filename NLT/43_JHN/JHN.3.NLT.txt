@@ -1,0 +1,37 @@
+43:3:001:0	There was a man named Nicodemus , a Jewish religious leader who was a Pharisee .
+43:3:002:0	After dark one evening , he came to speak with Jesus . “ Rabbi , ” he said , “ we all know that God has sent you to teach us . Your miraculous signs are evidence that God is with you . ”
+43:3:003:0	Jesus replied , “ I tell you the truth , unless you are born again , you can not see the Kingdom of God . ”
+43:3:004:0	“ What do you mean ? ” exclaimed Nicodemus . “ How can an old man go back into his mother 's womb and be born again ? ”
+43:3:005:0	Jesus replied , “ I assure you , no one can enter the Kingdom of God without being born of water and the Spirit .
+43:3:006:0	Humans can reproduce only human life , but the Holy Spirit gives birth to spiritual life .
+43:3:007:0	So do n't be surprised when I say , ‘ You must be born again . '
+43:3:008:0	The wind blows wherever it wants . Just as you can hear the wind but ca n't tell where it comes from or where it is going , so you ca n't explain how people are born of the Spirit . ”
+43:3:009:0	“ How are these things possible ? ” Nicodemus asked .
+43:3:010:0	Jesus replied , “ You are a respected Jewish teacher , and yet you do n't understand these things ?
+43:3:011:0	I assure you , we tell you what we know and have seen , and yet you wo n't believe our testimony .
+43:3:012:0	But if you do n't believe me when I tell you about earthly things , how can you possibly believe if I tell you about heavenly things ?
+43:3:013:0	No one has ever gone to heaven and returned . But the Son of Man has come down from heaven .
+43:3:014:0	And as Moses lifted up the bronze snake on a pole in the wilderness , so the Son of Man must be lifted up ,
+43:3:015:0	so that everyone who believes in him will have eternal life .
+43:3:016:0	“ For this is how God loved the world : He gave his one and only Son , so that everyone who believes in him will not perish but have eternal life .
+43:3:017:0	God sent his Son into the world not to judge the world , but to save the world through him .
+43:3:018:0	“ There is no judgment against anyone who believes in him . But anyone who does not believe in him has already been judged for not believing in God 's one and only Son .
+43:3:019:0	And the judgment is based on this fact : God 's light came into the world , but people loved the darkness more than the light , for their actions were evil .
+43:3:020:0	All who do evil hate the light and refuse to go near it for fear their sins will be exposed .
+43:3:001:1	John the Baptist Exalts Jesus
+43:3:021:0	But those who do what is right come to the light so others can see that they are doing what God wants . ”
+43:3:022:0	Then Jesus and his disciples left Jerusalem and went into the Judean countryside . Jesus spent some time with them there , baptizing people .
+43:3:023:0	At this time John the Baptist was baptizing at Aenon , near Salim , because there was plenty of water there ; and people kept coming to him for baptism .
+43:3:024:0	( This was before John was thrown into prison . )
+43:3:025:0	A debate broke out between John 's disciples and a certain Jew over ceremonial cleansing .
+43:3:026:0	So John 's disciples came to him and said , “ Rabbi , the man you met on the other side of the Jordan River , the one you identified as the Messiah , is also baptizing people . And everybody is going to him instead of coming to us . ”
+43:3:027:0	John replied , “ No one can receive anything unless God gives it from heaven .
+43:3:028:0	You yourselves know how plainly I told you , ‘ I am not the Messiah . I am only here to prepare the way for him . '
+43:3:029:0	It is the bridegroom who marries the bride , and the bridegroom 's friend is simply glad to stand with him and hear his vows . Therefore , I am filled with joy at his success .
+43:3:030:0	He must become greater and greater , and I must become less and less .
+43:3:031:0	“ He has come from above and is greater than anyone else . We are of the earth , and we speak of earthly things , but he has come from heaven and is greater than anyone else .
+43:3:032:0	He testifies about what he has seen and heard , but how few believe what he tells them !
+43:3:033:0	Anyone who accepts his testimony can affirm that God is true .
+43:3:034:0	For he is sent by God . He speaks God 's words , for God gives him the Spirit without limit .
+43:3:035:0	The Father loves his Son and has put everything into his hands .
+43:3:036:0	And anyone who believes in God 's Son has eternal life . Anyone who does n't obey the Son will never experience eternal life but remains under God 's angry judgment . ”

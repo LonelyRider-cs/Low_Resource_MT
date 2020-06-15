@@ -1,0 +1,47 @@
+42:10:001:1	Jesus Sends Out His Disciples
+42:10:001:0	The Lord now chose seventy-two other disciples and sent them ahead in pairs to all the towns and places he planned to visit .
+42:10:002:0	These were his instructions to them : “ The harvest is great , but the workers are few . So pray to the Lord who is in charge of the harvest ; ask him to send more workers into his fields .
+42:10:003:0	Now go , and remember that I am sending you out as lambs among wolves .
+42:10:004:0	Do n't take any money with you , nor a traveler 's bag , nor an extra pair of sandals . And do n't stop to greet anyone on the road .
+42:10:005:0	“ Whenever you enter someone 's home , first say , ‘ May God 's peace be on this house . '
+42:10:006:0	If those who live there are peaceful , the blessing will stand ; if they are not , the blessing will return to you .
+42:10:007:0	Do n't move around from home to home . Stay in one place , eating and drinking what they provide . Do n't hesitate to accept hospitality , because those who work deserve their pay .
+42:10:008:0	“ If you enter a town and it welcomes you , eat whatever is set before you .
+42:10:009:0	Heal the sick , and tell them , ‘ The Kingdom of God is near you now . '
+42:10:010:0	But if a town refuses to welcome you , go out into its streets and say ,
+42:10:011:0	‘ We wipe even the dust of your town from our feet to show that we have abandoned you to your fate . And know this—the Kingdom of God is near ! '
+42:10:012:0	I assure you , even wicked Sodom will be better off than such a town on judgment day .
+42:10:013:0	“ What sorrow awaits you , Korazin and Bethsaida ! For if the miracles I did in you had been done in wicked Tyre and Sidon , their people would have repented of their sins long ago , clothing themselves in burlap and throwing ashes on their heads to show their remorse .
+42:10:014:0	Yes , Tyre and Sidon will be better off on judgment day than you .
+42:10:015:0	And you people of Capernaum , will you be honored in heaven ? No , you will go down to the place of the dead . ”
+42:10:016:0	Then he said to the disciples , “ Anyone who accepts your message is also accepting me . And anyone who rejects you is rejecting me . And anyone who rejects me is rejecting God , who sent me . ”
+42:10:017:0	When the seventy-two disciples returned , they joyfully reported to him , “ Lord , even the demons obey us when we use your name ! ”
+42:10:018:0	“ Yes , ” he told them , “ I saw Satan fall from heaven like lightning !
+42:10:019:0	Look , I have given you authority over all the power of the enemy , and you can walk among snakes and scorpions and crush them . Nothing will injure you .
+42:10:002:1	Jesus ' Prayer of Thanksgiving
+42:10:020:0	But do n't rejoice because evil spirits obey you ; rejoice because your names are registered in heaven . ”
+42:10:021:0	At that same time Jesus was filled with the joy of the Holy Spirit , and he said , “ O Father , Lord of heaven and earth , thank you for hiding these things from those who think themselves wise and clever , and for revealing them to the childlike . Yes , Father , it pleased you to do it this way .
+42:10:022:0	“ My Father has entrusted everything to me . No one truly knows the Son except the Father , and no one truly knows the Father except the Son and those to whom the Son chooses to reveal him . ”
+42:10:023:0	Then when they were alone , he turned to the disciples and said , “ Blessed are the eyes that see what you have seen .
+42:10:003:1	The Most Important Commandment
+42:10:024:0	I tell you , many prophets and kings longed to see what you see , but they did n't see it . And they longed to hear what you hear , but they did n't hear it . ”
+42:10:025:0	One day an expert in religious law stood up to test Jesus by asking him this question : “ Teacher , what should I do to inherit eternal life ? ”
+42:10:026:0	Jesus replied , “ What does the law of Moses say ? How do you read it ? ”
+42:10:027:0	The man answered , “ ‘ You must love the Lord your God with all your heart , all your soul , all your strength , and all your mind . ' And , ‘ Love your neighbor as yourself . ' ”
+42:10:028:0	“ Right ! ” Jesus told him . “ Do this and you will live ! ”
+42:10:004:1	Parable of the Good Samaritan
+42:10:029:0	The man wanted to justify his actions , so he asked Jesus , “ And who is my neighbor ? ”
+42:10:030:0	Jesus replied with a story : “ A Jewish man was traveling from Jerusalem down to Jericho , and he was attacked by bandits . They stripped him of his clothes , beat him up , and left him half dead beside the road .
+42:10:031:0	“ By chance a priest came along . But when he saw the man lying there , he crossed to the other side of the road and passed him by .
+42:10:032:0	A Temple assistant walked over and looked at him lying there , but he also passed by on the other side .
+42:10:033:0	“ Then a despised Samaritan came along , and when he saw the man , he felt compassion for him .
+42:10:034:0	Going over to him , the Samaritan soothed his wounds with olive oil and wine and bandaged them . Then he put the man on his own donkey and took him to an inn , where he took care of him .
+42:10:035:0	The next day he handed the innkeeper two silver coins , telling him , ‘ Take care of this man . If his bill runs higher than this , I 'll pay you the next time I 'm here . '
+42:10:036:0	“ Now which of these three would you say was a neighbor to the man who was attacked by bandits ? ” Jesus asked .
+42:10:005:1	Jesus Visits Martha and Mary
+42:10:037:0	The man replied , “ The one who showed him mercy. ” Then Jesus said , “ Yes , now go and do the same . ”
+42:10:038:0	As Jesus and the disciples continued on their way to Jerusalem , they came to a certain village where a woman named Martha welcomed him into her home .
+42:10:039:0	Her sister , Mary , sat at the Lord 's feet , listening to what he taught .
+42:10:040:0	But Martha was distracted by the big dinner she was preparing . She came to Jesus and said , “ Lord , does n't it seem unfair to you that my sister just sits here while I do all the work ? Tell her to come and help me . ”
+42:10:041:0	But the Lord said to her , “ My dear Martha , you are worried and upset over all these details !
+42:10:042:0	There is only one thing worth being concerned about . Mary has discovered it , and it will not be taken away from her . ”

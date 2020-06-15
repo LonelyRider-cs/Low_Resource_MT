@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 import re
 import os
 
-url = "https://www.bible.com/bible/3453/GEN.5565.KsddJV"
+url = "https://www.bible.com/en-GB/bible/116/MAT.1.NLT"
 
 response = requests.get(url)
 
@@ -22,9 +22,15 @@ book_table_of_contents_dic = {"GEN" : 1, "EXO" : 2, "LEV" : 3, "NUM" : 4, "DEU" 
 #    print(book_table_of_contents_dic[item])
 
 
-if not os.path.exists("/hello"):
-    os.mkdir("/hello")
-    if not os.path.exists("/hello/world"):
-        os.mkdir()
+#if not os.path.exists("/hello"):
+#    os.mkdir("/hello")
+#    if not os.path.exists("/hello/world"):
+#        os.mkdir()
 
 soup = BeautifulSoup(response.text, "html.parser")
+
+all_tags = soup.findAll('span', class_=re.compile("verse v[0-9]+|heading"))
+#all_tags = soup.findAll('span', class_=re.compile("(heading)"))
+
+for tag in all_tags:
+    print(tag.text)

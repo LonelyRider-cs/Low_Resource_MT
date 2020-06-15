@@ -1,0 +1,36 @@
+20:1:001:1	The Purpose of Proverbs
+20:1:001:0	These are the proverbs of Solomon , David 's son , king of Israel .
+20:1:002:0	Their purpose is to teach people wisdom and discipline , to help them understand the insights of the wise .
+20:1:003:0	Their purpose is to teach people to live disciplined and successful lives , to help them do what is right , just , and fair .
+20:1:004:0	These proverbs will give insight to the simple , knowledge and discernment to the young .
+20:1:005:0	Let the wise listen to these proverbs and become even wiser.Let those with understanding receive guidance
+20:1:006:0	by exploring the meaning in these proverbs and parables , the words of the wise and their riddles .
+20:1:002:1	A Father 's Exhortation : Acquire Wisdom
+20:1:007:0	Fear of the Lord is the foundation of true knowledge , but fools despise wisdom and discipline .
+20:1:008:0	My child , listen when your father corrects you.Do n't neglect your mother 's instruction .
+20:1:009:0	What you learn from them will crown you with graceand be a chain of honor around your neck .
+20:1:010:0	My child , if sinners entice you , turn your back on them !
+20:1:011:0	They may say , “ Come and join us.Let 's hide and kill someone ! Just for fun , let 's ambush the innocent !
+20:1:012:0	Let 's swallow them alive , like the grave ; let 's swallow them whole , like those who go down to the pit of death .
+20:1:013:0	Think of the great things we 'll get ! We 'll fill our houses with all the stuff we take .
+20:1:014:0	Come , throw in your lot with us ; we 'll all share the loot . ”
+20:1:015:0	My child , do n't go along with them ! Stay far away from their paths .
+20:1:016:0	They rush to commit evil deeds.They hurry to commit murder .
+20:1:017:0	If a bird sees a trap being set , it knows to stay away .
+20:1:018:0	But these people set an ambush for themselves ; they are trying to get themselves killed .
+20:1:003:1	Wisdom Shouts in the Streets
+20:1:019:0	Such is the fate of all who are greedy for money ; it robs them of life .
+20:1:020:0	Wisdom shouts in the streets.She cries out in the public square .
+20:1:021:0	She calls to the crowds along the main street , to those gathered in front of the city gate :
+20:1:022:0	“ How long , you simpletons , will you insist on being simpleminded ? How long will you mockers relish your mocking ? How long will you fools hate knowledge ?
+20:1:023:0	Come and listen to my counsel.I 'll share my heart with youand make you wise .
+20:1:024:0	“ I called you so often , but you would n't come.I reached out to you , but you paid no attention .
+20:1:025:0	You ignored my adviceand rejected the correction I offered .
+20:1:026:0	So I will laugh when you are in trouble ! I will mock you when disaster overtakes you—
+20:1:027:0	when calamity overtakes you like a storm , when disaster engulfs you like a cyclone , and anguish and distress overwhelm you .
+20:1:028:0	“ When they cry for help , I will not answer.Though they anxiously search for me , they will not find me .
+20:1:029:0	For they hated knowledgeand chose not to fear the Lord .
+20:1:030:0	They rejected my adviceand paid no attention when I corrected them .
+20:1:031:0	Therefore , they must eat the bitter fruit of living their own way , choking on their own schemes .
+20:1:032:0	For simpletons turn away from me—to death.Fools are destroyed by their own complacency .
+20:1:033:0	But all who listen to me will live in peace , untroubled by fear of harm . ”

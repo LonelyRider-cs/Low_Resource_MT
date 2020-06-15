@@ -1,0 +1,37 @@
+4:13:001:1	Twelve Scouts Explore Canaan
+4:13:001:0	The Lord now said to Moses ,
+4:13:002:0	“ Send out men to explore the land of Canaan , the land I am giving to the Israelites . Send one leader from each of the twelve ancestral tribes . ”
+4:13:003:0	So Moses did as the Lord commanded him . He sent out twelve men , all tribal leaders of Israel , from their camp in the wilderness of Paran .
+4:13:002:1	Tribe
+4:13:003:1	Leader
+4:13:004:0	These were the tribes and the names of their leaders : ReubenShammua son of Zaccur
+4:13:005:0	SimeonShaphat son of Hori
+4:13:006:0	JudahCaleb son of Jephunneh
+4:13:007:0	IssacharIgal son of Joseph
+4:13:008:0	EphraimHoshea son of Nun
+4:13:009:0	BenjaminPalti son of Raphu
+4:13:010:0	ZebulunGaddiel son of Sodi
+4:13:011:0	Manasseh son of JosephGaddi son of Susi
+4:13:012:0	DanAmmiel son of Gemalli
+4:13:013:0	AsherSethur son of Michael
+4:13:014:0	NaphtaliNahbi son of Vophsi
+4:13:015:0	GadGeuel son of Maki
+4:13:016:0	These are the names of the men Moses sent out to explore the land . ( Moses called Hoshea son of Nun by the name Joshua . )
+4:13:017:0	Moses gave the men these instructions as he sent them out to explore the land : “ Go north through the Negev into the hill country .
+4:13:018:0	See what the land is like , and find out whether the people living there are strong or weak , few or many .
+4:13:019:0	See what kind of land they live in . Is it good or bad ? Do their towns have walls , or are they unprotected like open camps ?
+4:13:020:0	Is the soil fertile or poor ? Are there many trees ? Do your best to bring back samples of the crops you see. ” ( It happened to be the season for harvesting the first ripe grapes . )
+4:13:021:0	So they went up and explored the land from the wilderness of Zin as far as Rehob , near Lebo-hamath .
+4:13:022:0	Going north , they passed through the Negev and arrived at Hebron , where Ahiman , Sheshai , and Talmai—all descendants of Anak—lived . ( The ancient town of Hebron was founded seven years before the Egyptian city of Zoan . )
+4:13:023:0	When they came to the valley of Eshcol , they cut down a branch with a single cluster of grapes so large that it took two of them to carry it on a pole between them ! They also brought back samples of the pomegranates and figs .
+4:13:004:1	The Scouting Report
+4:13:024:0	That place was called the valley of Eshcol ( which means “ cluster ” ) , because of the cluster of grapes the Israelite men cut there .
+4:13:025:0	After exploring the land for forty days , the men returned
+4:13:026:0	to Moses , Aaron , and the whole community of Israel at Kadesh in the wilderness of Paran . They reported to the whole community what they had seen and showed them the fruit they had taken from the land .
+4:13:027:0	This was their report to Moses : “ We entered the land you sent us to explore , and it is indeed a bountiful country—a land flowing with milk and honey . Here is the kind of fruit it produces .
+4:13:028:0	But the people living there are powerful , and their towns are large and fortified . We even saw giants there , the descendants of Anak !
+4:13:029:0	The Amalekites live in the Negev , and the Hittites , Jebusites , and Amorites live in the hill country . The Canaanites live along the coast of the Mediterranean Sea and along the Jordan Valley . ”
+4:13:030:0	But Caleb tried to quiet the people as they stood before Moses . “ Let 's go at once to take the land , ” he said . “ We can certainly conquer it ! ”
+4:13:031:0	But the other men who had explored the land with him disagreed . “ We ca n't go up against them ! They are stronger than we are ! ”
+4:13:032:0	So they spread this bad report about the land among the Israelites : “ The land we traveled through and explored will devour anyone who goes to live there . All the people we saw were huge .
+4:13:033:0	We even saw giants there , the descendants of Anak . Next to them we felt like grasshoppers , and that 's what they thought , too ! ”

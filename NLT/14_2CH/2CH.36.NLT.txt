@@ -1,0 +1,29 @@
+14:36:001:1	Jehoahaz Rules in Judah
+14:36:001:0	Then the people of the land took Josiah 's son Jehoahaz and made him the next king in Jerusalem .
+14:36:002:0	Jehoahaz was twenty-three years old when he became king , and he reigned in Jerusalem three months .
+14:36:002:1	Jehoiakim Rules in Judah
+14:36:003:0	Then he was deposed by the king of Egypt , who demanded that Judah pay 7,500 pounds of silver and 75 pounds of gold as tribute .
+14:36:004:0	The king of Egypt then installed Eliakim , the brother of Jehoahaz , as the next king of Judah and Jerusalem , and he changed Eliakim 's name to Jehoiakim . Then Neco took Jehoahaz to Egypt as a prisoner .
+14:36:005:0	Jehoiakim was twenty-five years old when he became king , and he reigned in Jerusalem eleven years . He did what was evil in the sight of the Lord his God .
+14:36:006:0	Then King Nebuchadnezzar of Babylon came to Jerusalem and captured it , and he bound Jehoiakim in bronze chains and led him away to Babylon .
+14:36:007:0	Nebuchadnezzar also took some of the treasures from the Temple of the Lord , and he placed them in his palace in Babylon .
+14:36:003:1	Jehoiachin Rules in Judah
+14:36:008:0	The rest of the events in Jehoiakim 's reign , including all the evil things he did and everything found against him , are recorded in The Book of the Kings of Israel and Judah . Then his son Jehoiachin became the next king .
+14:36:009:0	Jehoiachin was eighteen years old when he became king , and he reigned in Jerusalem three months and ten days . Jehoiachin did what was evil in the Lord 's sight .
+14:36:004:1	Zedekiah Rules in Judah
+14:36:010:0	In the spring of the year King Nebuchadnezzar took Jehoiachin to Babylon . Many treasures from the Temple of the Lord were also taken to Babylon at that time . And Nebuchadnezzar installed Jehoiachin 's uncle , Zedekiah , as the next king in Judah and Jerusalem .
+14:36:011:0	Zedekiah was twenty-one years old when he became king , and he reigned in Jerusalem eleven years .
+14:36:012:0	But Zedekiah did what was evil in the sight of the Lord his God , and he refused to humble himself when the prophet Jeremiah spoke to him directly from the Lord .
+14:36:013:0	He also rebelled against King Nebuchadnezzar , even though he had taken an oath of loyalty in God 's name . Zedekiah was a hard and stubborn man , refusing to turn to the Lord , the God of Israel .
+14:36:014:0	Likewise , all the leaders of the priests and the people became more and more unfaithful . They followed all the pagan practices of the surrounding nations , desecrating the Temple of the Lord that had been consecrated in Jerusalem .
+14:36:015:0	The Lord , the God of their ancestors , repeatedly sent his prophets to warn them , for he had compassion on his people and his Temple .
+14:36:005:1	The Fall of Jerusalem
+14:36:016:0	But the people mocked these messengers of God and despised their words . They scoffed at the prophets until the Lord 's anger could no longer be restrained and nothing could be done .
+14:36:017:0	So the Lord brought the king of Babylon against them . The Babylonians killed Judah 's young men , even chasing after them into the Temple . They had no pity on the people , killing both young men and young women , the old and the infirm . God handed all of them over to Nebuchadnezzar .
+14:36:018:0	The king took home to Babylon all the articles , large and small , used in the Temple of God , and the treasures from both the Lord 's Temple and from the palace of the king and his officials .
+14:36:019:0	Then his army burned the Temple of God , tore down the walls of Jerusalem , burned all the palaces , and completely destroyed everything of value .
+14:36:020:0	The few who survived were taken as exiles to Babylon , and they became servants to the king and his sons until the kingdom of Persia came to power .
+14:36:006:1	Cyrus Allows the Exiles to Return
+14:36:021:0	So the message of the Lord spoken through Jeremiah was fulfilled . The land finally enjoyed its Sabbath rest , lying desolate until the seventy years were fulfilled , just as the prophet had said .
+14:36:022:0	In the first year of King Cyrus of Persia , the Lord fulfilled the prophecy he had given through Jeremiah . He stirred the heart of Cyrus to put this proclamation in writing and to send it throughout his kingdom :
+14:36:023:0	“ This is what King Cyrus of Persia says : “ The Lord , the God of heaven , has given me all the kingdoms of the earth . He has appointed me to build him a Temple at Jerusalem , which is in Judah . Any of you who are his people may go there for this task . And may the Lord your God be with you ! ”

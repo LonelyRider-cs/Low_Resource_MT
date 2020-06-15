@@ -1,0 +1,25 @@
+2:5:001:1	Moses and Aaron Speak to Pharaoh
+2:5:001:0	After this presentation to Israel 's leaders , Moses and Aaron went and spoke to Pharaoh . They told him , “ This is what the Lord , the God of Israel , says : Let my people go so they may hold a festival in my honor in the wilderness . ”
+2:5:002:0	“ Is that so ? ” retorted Pharaoh . “ And who is the Lord ? Why should I listen to him and let Israel go ? I do n't know the Lord , and I will not let Israel go . ”
+2:5:003:0	But Aaron and Moses persisted . “ The God of the Hebrews has met with us , ” they declared . “ So let us take a three-day journey into the wilderness so we can offer sacrifices to the Lord our God . If we do n't , he will kill us with a plague or with the sword . ”
+2:5:004:0	Pharaoh replied , “ Moses and Aaron , why are you distracting the people from their tasks ? Get back to work !
+2:5:002:1	Making Bricks without Straw
+2:5:005:0	Look , there are many of your people in the land , and you are stopping them from their work . ”
+2:5:006:0	That same day Pharaoh sent this order to the Egyptian slave drivers and the Israelite foremen :
+2:5:007:0	“ Do not supply any more straw for making bricks . Make the people get it themselves !
+2:5:008:0	But still require them to make the same number of bricks as before . Do n't reduce the quota . They are lazy . That 's why they are crying out , ‘ Let us go and offer sacrifices to our God . '
+2:5:009:0	Load them down with more work . Make them sweat ! That will teach them to listen to lies ! ”
+2:5:010:0	So the slave drivers and foremen went out and told the people : “ This is what Pharaoh says : I will not provide any more straw for you .
+2:5:011:0	Go and get it yourselves . Find it wherever you can . But you must produce just as many bricks as before ! ”
+2:5:012:0	So the people scattered throughout the land of Egypt in search of stubble to use as straw .
+2:5:013:0	Meanwhile , the Egyptian slave drivers continued to push hard . “ Meet your daily quota of bricks , just as you did when we provided you with straw ! ” they demanded .
+2:5:014:0	Then they whipped the Israelite foremen they had put in charge of the work crews . “ Why have n't you met your quotas either yesterday or today ? ” they demanded .
+2:5:015:0	So the Israelite foremen went to Pharaoh and pleaded with him . “ Please do n't treat your servants like this , ” they begged .
+2:5:016:0	“ We are given no straw , but the slave drivers still demand , ‘ Make bricks ! ' We are being beaten , but it is n't our fault ! Your own people are to blame ! ”
+2:5:017:0	But Pharaoh shouted , “ You 're just lazy ! Lazy ! That 's why you 're saying , ‘ Let us go and offer sacrifices to the Lord . '
+2:5:018:0	Now get back to work ! No straw will be given to you , but you must still produce the full quota of bricks . ”
+2:5:019:0	The Israelite foremen could see that they were in serious trouble when they were told , “ You must not reduce the number of bricks you make each day . ”
+2:5:020:0	As they left Pharaoh 's court , they confronted Moses and Aaron , who were waiting outside for them .
+2:5:021:0	The foremen said to them , “ May the Lord judge and punish you for making us stink before Pharaoh and his officials . You have put a sword into their hands , an excuse to kill us ! ”
+2:5:022:0	Then Moses went back to the Lord and protested , “ Why have you brought all this trouble on your own people , Lord ? Why did you send me ?
+2:5:023:0	Ever since I came to Pharaoh as your spokesman , he has been even more brutal to your people . And you have done nothing to rescue them ! ”
