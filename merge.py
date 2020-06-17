@@ -80,7 +80,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("-s", "--source", type = str, required=True, help = "dir name for source language")
     parser.add_argument("-t", "--target", type=str, required=True, help="dir name for target language")
-    parser.add_argument("-split", "--split", action='store_true', required=False, help="split the data lines into train-dev-test with the ratio of 7:1:2")
+    parser.add_argument("-split", "--split", action='store_true', required=False, help="If specified, split the data lines into train-dev-test with the ratio of 7:1:2")
     args = parser.parse_args()
 
     srclang = args.source
