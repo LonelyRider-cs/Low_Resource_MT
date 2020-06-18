@@ -1,0 +1,31 @@
+48:3:001:1	Faith Brings Righteousness
+48:3:001:0	You foolish Galatians , who has bewitched you , before whose eyes Jesus Christ was publicly portrayed as crucified ?
+48:3:002:0	This is the only thing I want to find out from you : did you receive the Spirit by the works of the Law , or by hearing with faith ?
+48:3:003:0	Are you so foolish ? Having begun by the Spirit , are you now being perfected by the flesh ?
+48:3:004:0	Did you suffer so many things in vain—if indeed it was in vain ?
+48:3:005:0	So then , does He who provides you with the Spirit and works miracles among you , do it by the works of the Law , or by hearing with faith ?
+48:3:006:0	Even so Abraham believed God , and it was reckoned to him as righteousness .
+48:3:007:0	Therefore , be sure that it is those who are of faith who are sons of Abraham .
+48:3:008:0	The Scripture , foreseeing that God would justify the Gentiles by faith , preached the gospel beforehand to Abraham , saying , “ All the nations will be blessed in you . ”
+48:3:009:0	So then those who are of faith are blessed with Abraham , the believer .
+48:3:010:0	For as many as are of the works of the Law are under a curse ; for it is written , “ Cursed is everyone who does not abide by all things written in the book of the law , to perform them . ”
+48:3:011:0	Now that no one is justified by the Law before God is evident ; for , “ The righteous man shall live by faith . ”
+48:3:012:0	However , the Law is not of faith ; on the contrary , “ He who practices them shall live by them . ”
+48:3:013:0	Christ redeemed us from the curse of the Law , having become a curse for us—for it is written , “ Cursed is everyone who hangs on a tree ” —
+48:3:002:1	Intent of the Law
+48:3:014:0	in order that in Christ Jesus the blessing of Abraham might come to the Gentiles , so that we would receive the promise of the Spirit through faith .
+48:3:015:0	Brethren , I speak in terms of human relations : even though it is only a man’s covenant , yet when it has been ratified , no one sets it aside or adds conditions to it .
+48:3:016:0	Now the promises were spoken to Abraham and to his seed . He does not say , “ And to seeds , ” as referring to many , but rather to one , “ And to your seed , ” that is , Christ .
+48:3:017:0	What I am saying is this : the Law , which came four hundred and thirty years later , does not invalidate a covenant previously ratified by God , so as to nullify the promise .
+48:3:018:0	For if the inheritance is based on law , it is no longer based on a promise ; but God has granted it to Abraham by means of a promise .
+48:3:019:0	Why the Law then ? It was added because of transgressions , having been ordained through angels by the agency of a mediator , until the seed would come to whom the promise had been made .
+48:3:020:0	Now a mediator is not for one party only ; whereas God is only one .
+48:3:021:0	Is the Law then contrary to the promises of God ? May it never be ! For if a law had been given which was able to impart life , then righteousness would indeed have been based on law .
+48:3:022:0	But the Scripture has shut up everyone under sin , so that the promise by faith in Jesus Christ might be given to those who believe .
+48:3:023:0	But before faith came , we were kept in custody under the law , being shut up to the faith which was later to be revealed .
+48:3:024:0	Therefore the Law has become our tutor to lead us to Christ , so that we may be justified by faith .
+48:3:025:0	But now that faith has come , we are no longer under a tutor .
+48:3:026:0	For you are all sons of God through faith in Christ Jesus .
+48:3:027:0	For all of you who were baptized into Christ have clothed yourselves with Christ .
+48:3:028:0	There is neither Jew nor Greek , there is neither slave nor free man , there is neither male nor female ; for you are all one in Christ Jesus .
+48:3:029:0	And if you belong to Christ , then you are Abraham’s descendants , heirs according to promise .

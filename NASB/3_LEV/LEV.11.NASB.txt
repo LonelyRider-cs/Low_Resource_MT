@@ -1,0 +1,49 @@
+3:11:001:1	Laws about Animals for Food
+3:11:001:0	The Lord spoke again to Moses and to Aaron , saying to them ,
+3:11:002:0	“ Speak to the sons of Israel , saying , ‘These are the creatures which you may eat from all the animals that are on the earth .
+3:11:003:0	Whatever divides a hoof , thus making split hoofs , and chews the cud , among the animals , that you may eat .
+3:11:004:0	Nevertheless , you are not to eat of these , among those which chew the cud , or among those which divide the hoof : the camel , for though it chews cud , it does not divide the hoof , it is unclean to you .
+3:11:005:0	Likewise , the shaphan , for though it chews cud , it does not divide the hoof , it is unclean to you ;
+3:11:006:0	the rabbit also , for though it chews cud , it does not divide the hoof , it is unclean to you ;
+3:11:007:0	and the pig , for though it divides the hoof , thus making a split hoof , it does not chew cud , it is unclean to you .
+3:11:008:0	You shall not eat of their flesh nor touch their carcasses ; they are unclean to you .
+3:11:009:0	‘These you may eat , whatever is in the water : all that have fins and scales , those in the water , in the seas or in the rivers , you may eat .
+3:11:010:0	But whatever is in the seas and in the rivers that does not have fins and scales among all the teeming life of the water , and among all the living creatures that are in the water , they are detestable things to you ,
+3:11:011:0	and they shall be abhorrent to you ; you may not eat of their flesh , and their carcasses you shall detest .
+3:11:002:1	Avoid the Unclean
+3:11:012:0	Whatever in the water does not have fins and scales is abhorrent to you .
+3:11:013:0	‘These , moreover , you shall detest among the birds ; they are abhorrent , not to be eaten : the eagle and the vulture and the buzzard ,
+3:11:014:0	and the kite and the falcon in its kind ,
+3:11:015:0	every raven in its kind ,
+3:11:016:0	and the ostrich and the owl and the sea gull and the hawk in its kind ,
+3:11:017:0	and the little owl and the cormorant and the great owl ,
+3:11:018:0	and the white owl and the pelican and the carrion vulture ,
+3:11:019:0	and the stork , the heron in its kinds , and the hoopoe , and the bat .
+3:11:020:0	‘All the winged insects that walk on all fours are detestable to you .
+3:11:021:0	Yet these you may eat among all the winged insects which walk on all fours : those which have above their feet jointed legs with which to jump on the earth .
+3:11:022:0	These of them you may eat : the locust in its kinds , and the devastating locust in its kinds , and the cricket in its kinds , and the grasshopper in its kinds .
+3:11:023:0	But all other winged insects which are four-footed are detestable to you .
+3:11:024:0	‘By these , moreover , you will be made unclean : whoever touches their carcasses becomes unclean until evening ,
+3:11:025:0	and whoever picks up any of their carcasses shall wash his clothes and be unclean until evening .
+3:11:026:0	Concerning all the animals which divide the hoof but do not make a split hoof , or which do not chew cud , they are unclean to you : whoever touches them becomes unclean .
+3:11:027:0	Also whatever walks on its paws , among all the creatures that walk on all fours , are unclean to you ; whoever touches their carcasses becomes unclean until evening ,
+3:11:028:0	and the one who picks up their carcasses shall wash his clothes and be unclean until evening ; they are unclean to you .
+3:11:029:0	‘Now these are to you the unclean among the swarming things which swarm on the earth : the mole , and the mouse , and the great lizard in its kinds ,
+3:11:030:0	and the gecko , and the crocodile , and the lizard , and the sand reptile , and the chameleon .
+3:11:031:0	These are to you the unclean among all the swarming things ; whoever touches them when they are dead becomes unclean until evening .
+3:11:032:0	Also anything on which one of them may fall when they are dead becomes unclean , including any wooden article , or clothing , or a skin , or a sack—any article of which use is made—it shall be put in the water and be unclean until evening , then it becomes clean .
+3:11:033:0	As for any earthenware vessel into which one of them may fall , whatever is in it becomes unclean and you shall break the vessel .
+3:11:034:0	Any of the food which may be eaten , on which water comes , shall become unclean , and any liquid which may be drunk in every vessel shall become unclean .
+3:11:035:0	Everything , moreover , on which part of their carcass may fall becomes unclean ; an oven or a stove shall be smashed ; they are unclean and shall continue as unclean to you .
+3:11:036:0	Nevertheless a spring or a cistern collecting water shall be clean , though the one who touches their carcass shall be unclean .
+3:11:037:0	If a part of their carcass falls on any seed for sowing which is to be sown , it is clean .
+3:11:038:0	Though if water is put on the seed and a part of their carcass falls on it , it is unclean to you .
+3:11:039:0	‘Also if one of the animals dies which you have for food , the one who touches its carcass becomes unclean until evening .
+3:11:040:0	He too , who eats some of its carcass shall wash his clothes and be unclean until evening , and the one who picks up its carcass shall wash his clothes and be unclean until evening .
+3:11:041:0	‘Now every swarming thing that swarms on the earth is detestable , not to be eaten .
+3:11:042:0	Whatever crawls on its belly , and whatever walks on all fours , whatever has many feet , in respect to every swarming thing that swarms on the earth , you shall not eat them , for they are detestable .
+3:11:043:0	Do not render yourselves detestable through any of the swarming things that swarm ; and you shall not make yourselves unclean with them so that you become unclean .
+3:11:044:0	For I am the Lord your God . Consecrate yourselves therefore , and be holy , for I am holy . And you shall not make yourselves unclean with any of the swarming things that swarm on the earth .
+3:11:045:0	For I am the Lord who brought you up from the land of Egypt to be your God ; thus you shall be holy , for I am holy . ’ ”
+3:11:046:0	This is the law regarding the animal and the bird , and every living thing that moves in the waters and everything that swarms on the earth ,
+3:11:047:0	to make a distinction between the unclean and the clean , and between the edible creature and the creature which is not to be eaten .

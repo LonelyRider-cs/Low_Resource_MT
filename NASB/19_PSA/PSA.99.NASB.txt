@@ -1,0 +1,13 @@
+19:99:001:1	PSALM 99
+19:99:002:1	Praise to the L
+19:99:003:1	ord
+19:99:004:1	for His Fidelity to Israel .
+19:99:001:0	The Lord reigns , let the peoples tremble ; He is enthroned above the cherubim , let the earth shake !
+19:99:002:0	The Lord is great in Zion , And He is exalted above all the peoples .
+19:99:003:0	Let them praise Your great and awesome name ; Holy is He .
+19:99:004:0	The strength of the King loves justice ; You have established equity ; You have executed justice and righteousness in Jacob .
+19:99:005:0	Exalt the Lord our GodAnd worship at His footstool ; Holy is He .
+19:99:006:0	Moses and Aaron were among His priests , And Samuel was among those who called on His name ; They called upon the Lord and He answered them .
+19:99:007:0	He spoke to them in the pillar of cloud ; They kept His testimoniesAnd the statute that He gave them .
+19:99:008:0	O Lord our God , You answered them ; You were a forgiving God to them , And yet an avenger of their evil deeds .
+19:99:009:0	Exalt the Lord our GodAnd worship at His holy hill , For holy is the Lord our God .

@@ -1,0 +1,34 @@
+20:30:001:1	The Words of Agur
+20:30:001:0	The words of Agur the son of Jakeh , the oracle . The man declares to Ithiel , to Ithiel and Ucal :
+20:30:002:0	Surely I am more stupid than any man , And I do not have the understanding of a man .
+20:30:003:0	Neither have I learned wisdom , Nor do I have the knowledge of the Holy One .
+20:30:004:0	Who has ascended into heaven and descended ? Who has gathered the wind in His fists ? Who has wrapped the waters in His garment ? Who has established all the ends of the earth ? What is His name or His son’s name ? Surely you know !
+20:30:005:0	Every word of God is tested ; He is a shield to those who take refuge in Him .
+20:30:006:0	Do not add to His wordsOr He will reprove you , and you will be proved a liar .
+20:30:007:0	Two things I asked of You , Do not refuse me before I die :
+20:30:008:0	Keep deception and lies far from me , Give me neither poverty nor riches ; Feed me with the food that is my portion ,
+20:30:009:0	That I not be full and deny You and say , “ Who is the Lord ? ” Or that I not be in want and steal , And profane the name of my God .
+20:30:010:0	Do not slander a slave to his master , Or he will curse you and you will be found guilty .
+20:30:011:0	There is a kind of man who curses his fatherAnd does not bless his mother .
+20:30:012:0	There is a kind who is pure in his own eyes , Yet is not washed from his filthiness .
+20:30:013:0	There is a kind—oh how lofty are his eyes ! And his eyelids are raised in arrogance .
+20:30:014:0	There is a kind of man whose teeth are like swordsAnd his jaw teeth like knives , To devour the afflicted from the earthAnd the needy from among men .
+20:30:015:0	The leech has two daughters , “ Give , ” “ Give . ” There are three things that will not be satisfied , Four that will not say , “ Enough ” :
+20:30:016:0	Sheol , and the barren womb , Earth that is never satisfied with water , And fire that never says , “ Enough . ”
+20:30:017:0	The eye that mocks a fatherAnd scorns a mother , The ravens of the valley will pick it out , And the young eagles will eat it .
+20:30:018:0	There are three things which are too wonderful for me , Four which I do not understand :
+20:30:019:0	The way of an eagle in the sky , The way of a serpent on a rock , The way of a ship in the middle of the sea , And the way of a man with a maid .
+20:30:020:0	This is the way of an adulterous woman : She eats and wipes her mouth , And says , “ I have done no wrong . ”
+20:30:021:0	Under three things the earth quakes , And under four , it cannot bear up :
+20:30:022:0	Under a slave when he becomes king , And a fool when he is satisfied with food ,
+20:30:023:0	Under an unloved woman when she gets a husband , And a maidservant when she supplants her mistress .
+20:30:024:0	Four things are small on the earth , But they are exceedingly wise :
+20:30:025:0	The ants are not a strong people , But they prepare their food in the summer ;
+20:30:026:0	The shephanim are not mighty people , Yet they make their houses in the rocks ;
+20:30:027:0	The locusts have no king , Yet all of them go out in ranks ;
+20:30:028:0	The lizard you may grasp with the hands , Yet it is in kings’ palaces .
+20:30:029:0	There are three things which are stately in their march , Even four which are stately when they walk :
+20:30:030:0	The lion which is mighty among beastsAnd does not retreat before any ,
+20:30:031:0	The strutting rooster , the male goat also , And a king when his army is with him .
+20:30:032:0	If you have been foolish in exalting yourselfOr if you have plotted evil , put your hand on your mouth .
+20:30:033:0	For the churning of milk produces butter , And pressing the nose brings forth blood ; So the churning of anger produces strife .

@@ -1,0 +1,23 @@
+19:145:001:1	Psalm . cxlv .
+19:145:002:1	Exaltabo te .
+19:145:001:0	YS mawrygaf dydy , vy Dew a’m] Brenhin , ac a vendithiaf dy Enw vyth ac yn tragyvyth .
+19:145:002:0	Pop dydd ith vendithiaf , a’ molaf dy Enw yn oes oesoedd .
+19:145:003:0	Ys mawr [ yw] yr Arglwydd , a’thrachanmoladwy , a’ei vowredd ny ellir ei amgyffred .
+19:145:004:0	Cenedlaeth y vawl wrth genedlaeth dy weithrededd , ath veddiant y venagant :
+19:145:005:0	prydverthwch gogoniant dy vawrhydi ath weithrededd rryvedd a vevyriaf .
+19:145:006:0	Ac am gedernit dy betheu ofnadwy y cympwyllant , ath vawredd a venagaf .
+19:145:007:0	Coffaduriaeth dy vawr ddaoni ry draethant , ac oth gyfiawnder y canant-yu-llavar .
+19:145:008:0	Trugarawc a’thostnriol yw’r Arglwydd hwyr y ddic , ac ys mawr ei drugaredd .
+19:145:009:0	Ys da yw’r Arglwydd wrth bawp , a’ ei drugareddeu [ ys yd] vchlaw ei oll weithredoedd .
+19:145:010:0	Dy oll weithrededd ath glodvorant , Arglwydd , a’th Sainct yth vendithiant .
+19:145:011:0	Gogoniant dy deyrnas y ddangosant a’th veddiant y gympwyllant ,
+19:145:012:0	I beri adnabot ei veddiant y veibion dynion , a’gogoniant pryvyerthwch ei deyrnas .
+19:145:013:0	Dy deyrnas [ ys y] deyrnas tragyvythawl , a’th arglwyddiaeth [ a bery] yn oes oesoedd .
+19:145:014:0	Yr Arglwydd ’sy yn cynnal yr oll ’rei a syrthiant , ac efe a gyfyd bawp y vo ar gwympo .
+19:145:015:0	Llygait pawp ys y yn dysgwyl wrthyt , a’thi y roi yddwynt ei bwyt yn ei amser .
+19:145:016:0	Agory dy law , a’chyflawny bop peth byw ath wyllys-da .
+19:145:017:0	Cyfiawn yw’r Arglwydd yn ei oll ffyrdd , a’ sanctaidd yn ei oll weithredeu .
+19:145:018:0	Agos yw’r Arglwydd at bawp y ailw arno : ’sef y bawp y ailw arnaw yn-gwirionedd .
+19:145:019:0	Ef wna ewyllys yr ei ai h’ofnant , a’i llefain y wrendy , ac eu h’ymwared .
+19:145:020:0	Yr Arglwydd a gaidw yr oll rei y carant : a’r oll andewolion y ddinitra .
+19:145:021:0	Mawl yr Arglwydd y veneic vy-genae , ac a vendithia pop cnawt ei Enw sanctawl yn oes oesoedd .

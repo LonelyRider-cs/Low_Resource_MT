@@ -1,0 +1,6 @@
+19:134:001:1	PSALM 134
+19:134:002:1	Greetings of Night Watchers .
+19:134:003:1	A Song of Ascents .
+19:134:001:0	Behold , bless the Lord , all servants of the Lord , Who serve by night in the house of the Lord !
+19:134:002:0	Lift up your hands to the sanctuaryAnd bless the Lord .
+19:134:003:0	May the Lord bless you from Zion , He who made heaven and earth .

@@ -1,0 +1,24 @@
+19:38:001:1	Psalm . xxxviij
+19:38:002:1	Domine ne in furore .
+19:38:001:0	ARglwyddd na cherydda vi yn dy lit , ac na chospa vi yn dy dddiclloneð .
+19:38:002:0	Can ys dy saethae y ddescenesant ynof , a’th law a ddescennawd arnaf .
+19:38:003:0	Nyd oes iechyt yn vy-cnawt , o erwydd dy ddigllonedd : ac nyd oes heddwch im escyrn o blegit vy-pechot .
+19:38:004:0	Can ys vy-camweddae aeth dros vy-pen , [ a’] megis baich athrwm y maent yn rrydrwm arnaf .
+19:38:005:0	[ Ys] pytrawdd a’ llygrawd v’archollion y gan vy ynvydrwydd .
+19:38:006:0	Im crymwyt ac im plygwyt yn ddirvawr : peunydd yn athrist y cerddwn .
+19:38:007:0	Can ys vy-clunieu y gyflawnir o boethder , ac nid [ oes] van iach yn vy-cnawt .
+19:38:008:0	Im gwanechwyt ac im dryllwyt yn dramawr : rhueis gan [ wir] ovid vy-calon .
+19:38:009:0	Arglwydd yr wyf yn menegy vy oll ddeissifiat geyr dy vron , a’m vchenait nid yw guddiedic rhagot’ .
+19:38:010:0	Vy-calon ys ydd yn cynnyrfu , vy nerth ys y im gadu , a’ lleuer vy llygait , ys wyntwy nyd ynt y-my .
+19:38:011:0	Vy caredigion a’m cymddeithion a safent hwyt ywrth ve-pla , a’m cyfnesafieit y safent o hirbell .
+19:38:012:0	A’r ei y geisient [ dwyn] vy enait , y ’osodent vagleu , a’r ei a geisient vy-drygy , a ddywedent enwiredde , ac a ddychymygent ddichellion beunydd .
+19:38:013:0	A’minef val byðar ny chylywn , a’megis mutan [ ytwyf] ny ’d agorei ei enae .
+19:38:014:0	Val hyn ydd oeddwn val gwr eb glywed , ac eb argyoeddion yn ei enae .
+19:38:015:0	Can ys ynot Arglwydd ydd ymddiriedaf : ti [ am] clywy , vy Arglwydd , vy-Dew .
+19:38:016:0	Can ys dywedais , [ clyw vi] rrac yddynt lawenechu arnaf : [ can ys] pan lithro vy-troet yr ymvawrygant im erbyn .
+19:38:017:0	Ys parot ytwyf y gloffi , a’m dolur [ ys y] ger vy-bron yn wastat .
+19:38:018:0	Pan addefaf vy cystudd , [ ac] y pryderaf dros vy-pechot .
+19:38:019:0	Ac ymae vy-gelynion yn vyw [ ac] yn gedyrn , a’r ei a’m casaant ar gam a liosocwyt .
+19:38:020:0	Yr ei hefyt a dalai ddrwc dros dda , vydd im erbyn , can y-my ddilyn daeoni .
+19:38:021:0	Na ad vyvi , Arglwyð : vy-Dew , nac ymbella ywrthyf
+19:38:022:0	Brysia im cannorthwyaw , Arglwydd , vy iechyt .

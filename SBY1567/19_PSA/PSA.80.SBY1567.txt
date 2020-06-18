@@ -1,0 +1,21 @@
+19:80:001:1	Psalm . lxxx .
+19:80:002:1	Qui regis Israel .
+19:80:001:0	CLyw [ dydi] Vugail Israel , ys yr hwn wyt yn tywys Ioseph mal devait : llewycha , ti ys ydd yn eistedd ar y Cerubieit .
+19:80:002:0	Gar bron Ephráim , Beniamín , a’ Manasséh cyvot dy nerth , a’ dyred in cymporth
+19:80:003:0	Dew d’adymchwel ni , a’ thywynna dy wynep val in iachâer .
+19:80:004:0	A Arglwydd Ddew y lluedd , pa hyd y sory wrth weði dy popul ?
+19:80:005:0	Bwydeist hwy a bara daigrae , a’rhoðeist yddwynt ðaigrae y’w yw yfet a mesur mawr .
+19:80:006:0	Ti an gwnaethost yn gynnen y ein cymmydogion , a’n gelynion ys ydd in gwatwor yn eu cyfrwng .
+19:80:007:0	A’ Ddew y lluoedd d’adymchwel ni : tywynna dy wynep , ac in iachéir .
+19:80:008:0	Dugeist winwydden o’r Aipht : tavleist allan y cenedloedd , a’ phlenneist e-hi .
+19:80:009:0	Gwnaethost’ le y’ddhei , a’ gwreiddieist hi gwraidd , a’ hi lanwodd y ddaiar .
+19:80:010:0	Y mynyddedd y guddijt gan hei gwascot , a’ei changae [ oedd val] y Cedriwydd rhagorawl .
+19:80:011:0	Hi estennodd hei cheinciae yd y môr , a’ ei changenni yd yr Avon .
+19:80:012:0	Paam [ ynte] y drylliaist hei chaeu y lawr , val y mae pawp y el rhyd y ffordd yn hei dirwyn .
+19:80:013:0	Y baydd coet hei dinistriodd , a’ bwystvil y maes hei porawdd ,
+19:80:014:0	Dew y lluoeð dychwel adolwyn : edrych y lawr o’r nefoedd , a’ gwyl a’ govwya y winwydden hon ,
+19:80:015:0	A’r ’winllan y blannawdd dy ddeheulaw , a’r vapcainc [ ’rhon] y gadarnéist yty-un .
+19:80:016:0	[ Ys] lloscwyt hi a than , [ a’] thorwyt ir llawr : ac wynt y gollir gan gerydd dy wynep .
+19:80:017:0	Byddet dy law ar ’wr dy ddeheulaw , [ ac] ar vap dyn , [ rhwn] y gadarnéist y ty vn .
+19:80:018:0	Yno nyd adymchwelwn ywrthyt : bywá ni , a’ galwn ar dy Enw .
+19:80:019:0	Dadymchwel ni , Arglwydd Ddew y lluoedd : tywyna dy wynep ac in iachéir ,

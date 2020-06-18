@@ -1,0 +1,58 @@
+43:4:001:1	Jesus Goes to Galilee
+43:4:001:0	Therefore when the Lord knew that the Pharisees had heard that Jesus was making and baptizing more disciples than John
+43:4:002:0	( although Jesus Himself was not baptizing , but His disciples were ) ,
+43:4:003:0	He left Judea and went away again into Galilee .
+43:4:004:0	And He had to pass through Samaria .
+43:4:005:0	So He *came to a city of Samaria called Sychar , near the parcel of ground that Jacob gave to his son Joseph ;
+43:4:002:1	The Woman of Samaria
+43:4:006:0	and Jacob’s well was there . So Jesus , being wearied from His journey , was sitting thus by the well . It was about the sixth hour .
+43:4:007:0	There *came a woman of Samaria to draw water . Jesus *said to her , “ Give Me a drink . ”
+43:4:008:0	For His disciples had gone away into the city to buy food .
+43:4:009:0	Therefore the Samaritan woman *said to Him , “ How is it that You , being a Jew , ask me for a drink since I am a Samaritan woman ? ” ( For Jews have no dealings with Samaritans . )
+43:4:010:0	Jesus answered and said to her , “ If you knew the gift of God , and who it is who says to you , ‘Give Me a drink , ’ you would have asked Him , and He would have given you living water . ”
+43:4:011:0	She *said to Him , “ Sir , You have nothing to draw with and the well is deep ; where then do You get that living water ?
+43:4:012:0	You are not greater than our father Jacob , are You , who gave us the well , and drank of it himself and his sons and his cattle ? ”
+43:4:013:0	Jesus answered and said to her , “ Everyone who drinks of this water will thirst again ;
+43:4:014:0	but whoever drinks of the water that I will give him shall never thirst ; but the water that I will give him will become in him a well of water springing up to eternal life . ”
+43:4:015:0	The woman *said to Him , “ Sir , give me this water , so I will not be thirsty nor come all the way here to draw . ”
+43:4:016:0	He *said to her , “ Go , call your husband and come here . ”
+43:4:017:0	The woman answered and said , “ I have no husband . ” Jesus *said to her , “ You have correctly said , ‘I have no husband’ ;
+43:4:018:0	for you have had five husbands , and the one whom you now have is not your husband ; this you have said truly . ”
+43:4:019:0	The woman *said to Him , “ Sir , I perceive that You are a prophet .
+43:4:020:0	Our fathers worshiped in this mountain , and you people say that in Jerusalem is the place where men ought to worship . ”
+43:4:021:0	Jesus *said to her , “ Woman , believe Me , an hour is coming when neither in this mountain nor in Jerusalem will you worship the Father .
+43:4:022:0	You worship what you do not know ; we worship what we know , for salvation is from the Jews .
+43:4:023:0	But an hour is coming , and now is , when the true worshipers will worship the Father in spirit and truth ; for such people the Father seeks to be His worshipers .
+43:4:024:0	God is spirit , and those who worship Him must worship in spirit and truth . ”
+43:4:025:0	The woman *said to Him , “ I know that Messiah is coming ( He who is called Christ ) ; when that One comes , He will declare all things to us . ”
+43:4:026:0	Jesus *said to her , “ I who speak to you am ”
+43:4:027:0	At this point His disciples came , and they were amazed that He had been speaking with a woman , yet no one said , “ What do You seek ? ” or , “ Why do You speak with her ? ”
+43:4:028:0	So the woman left her waterpot , and went into the city and *said to the men ,
+43:4:029:0	“ Come , see a man who told me all the things that I have done ; this is not the Christ , is it ? ”
+43:4:030:0	They went out of the city , and were coming to Him .
+43:4:031:0	Meanwhile the disciples were urging Him , saying , “ Rabbi , eat . ”
+43:4:032:0	But He said to them , “ I have food to eat that you do not know about . ”
+43:4:033:0	So the disciples were saying to one another , “ No one brought Him anything to eat , did he ? ”
+43:4:034:0	Jesus *said to them , “ My food is to do the will of Him who sent Me and to accomplish His work .
+43:4:035:0	Do you not say , ‘There are yet four months , and comes the harvest’ ? Behold , I say to you , lift up your eyes and look on the fields , that they are white for harvest .
+43:4:036:0	Already he who reaps is receiving wages and is gathering fruit for life eternal ; so that he who sows and he who reaps may rejoice together .
+43:4:037:0	For in this the saying is true , ‘One sows and another reaps . ’
+43:4:003:1	The Samaritans
+43:4:038:0	I sent you to reap that for which you have not labored ; others have labored and you have entered into their labor . ”
+43:4:039:0	From that city many of the Samaritans believed in Him because of the word of the woman who testified , “ He told me all the things that I have done . ”
+43:4:040:0	So when the Samaritans came to Jesus , they were asking Him to stay with them ; and He stayed there two days .
+43:4:041:0	Many more believed because of His word ;
+43:4:042:0	and they were saying to the woman , “ It is no longer because of what you said that we believe , for we have heard for ourselves and know that this One is indeed the Savior of the world . ”
+43:4:043:0	After the two days He went forth from there into Galilee .
+43:4:044:0	For Jesus Himself testified that a prophet has no honor in his own country .
+43:4:004:1	Healing a Nobleman’s Son
+43:4:045:0	So when He came to Galilee , the Galileans received Him , having seen all the things that He did in Jerusalem at the feast ; for they themselves also went to the feast .
+43:4:046:0	Therefore He came again to Cana of Galilee where He had made the water wine . And there was a royal official whose son was sick at Capernaum .
+43:4:047:0	When he heard that Jesus had come out of Judea into Galilee , he went to Him and was imploring Him to come down and heal his son ; for he was at the point of death .
+43:4:048:0	So Jesus said to him , “ Unless you see signs and wonders , you will not believe . ”
+43:4:049:0	The royal official *said to Him , “ Sir , come down before my child dies . ”
+43:4:050:0	Jesus *said to him , “ Go ; your son lives . ” The man believed the word that Jesus spoke to him and started off .
+43:4:051:0	As he was now going down , his slaves met him , saying that his son was living .
+43:4:052:0	So he inquired of them the hour when he began to get better . Then they said to him , “ Yesterday at the seventh hour the fever left him . ”
+43:4:053:0	So the father knew that it was at that hour in which Jesus said to him , “ Your son lives ” ; and he himself believed and his whole household .
+43:4:054:0	This is again a second sign that Jesus performed when He had come out of Judea into Galilee .

@@ -1,0 +1,29 @@
+40:1:001:1	Pen . j .
+40:1:002:1	¶ Iachae Christ , ys ef yw , y Messiach a addawsit ir tadae , yr hwn a gahat o r Ysprytglan , ac a aned o Vair vorwyn , a hi wedy hi dyweddio ac Ioseph . Yr Angel yn boddlony meddwl Ioseph . Paam y gelwir ef Iesu , a phaam
+40:1:003:1	Emmanuel
+40:1:004:1	.
+40:1:001:0	LLyver cenedleth Iesu Christ vap Dauid , vap Abrahā ,
+40:1:002:0	Abraham a genetlodd Isaac . Ac Isaac a genetlodd Iacob . Ac Iacob a genetloedd Iudas , a ei vroder .
+40:1:003:0	Ac Iudas a genetloedd Phares , a’ Zara o Thamar . A’ Phares a genetlawdd Esrom . Ac Esrom a genetlawð Aram .
+40:1:004:0	Ac Aram a genetloð Aminadab . Ac Aminadab a genetloð Naasson . A’ Naasson a genetlawdd Salmō .
+40:1:005:0	A’ Salmō a genetloð Booz o Rachab . A’ Booz a genetlawdd Obed o Ruth . Ac Obed a genetlawdd Iesse .
+40:1:006:0	Ac Iesse a genetlawdd Dauid Vrenhin . A’ Dauid Vrenhin a genetlawdd Solomon o hon oedd vvreic Urias .
+40:1:007:0	A’ Solomon a genetlawdd Roboam . A’ Roboam a genetlodd Abia . Ac Abia a genetloedd Asa .
+40:1:008:0	Ac Asa a genetlawdd Iosaphat . Ac Iosaphat a genetlawdd Ioram . Ac Ioram a genetlawdd Ozias .
+40:1:009:0	Ac Ozias a genetlawdd Ioatham . Ac Ioatham a genetlawdd Achaz . Ac Achaz a genetlawdd Ezecias .
+40:1:010:0	Ac Ezecias a genetlawdd Manasses . A’ Manasses a genetlawdd Amon . Ac Amon a genetlawdd Iosias .
+40:1:011:0	Ac Iosias a genetlawdd Iacim . Ac Iacim a genetlawdd Iechonias , a’ ei vroder yn‐cylch amser ei traigl i Vabylon .
+40:1:012:0	Ac yn ol ei treiglo hwy i Vabylon , Iechonias a genetloedd Salathiel . A’ Salathiel a genetlawdd Zorababel .
+40:1:013:0	A’ Zorobabel a genetlawdd Abiud . Ac Abiud a genetlawdd Eliacim . Ac Eliacim a genetlawdd Azor .
+40:1:014:0	Ac Azor a genetlawdd Sadoc . A’ Sadoc a genetloedd Achim . Ac Achim a genetlawdd Eliud .
+40:1:015:0	Ac Eliud a genetlawdd Eleazar . Ac Eleazar a genetlawdd Matthan . A’ Matthan a genetlawdd Iacob .
+40:1:016:0	Ac Iacob a genetlawdd Ioseph , gwr Mair , o’r hon y ganet Iesu yr hwn a elwir Christ .
+40:1:017:0	A’r oll genedlaethae o Abraham i Ddauid , pedair Cenedlaeth ar ddec : ac o Dauid yd y treigl ir Babilon , pedair cenedlaeth ar ddec : ac o’r treigl i Vabylon yd Christ , pedair cenedlaeth ar ddec .
+40:1:018:0	A’ genedigaeth Iesu Christ oedd val hyn , wedy dyweddio Mair ei vam ac Ioseph , cyn na ei dyvot wy ynghyt , hi a gahat yn veichioc o’r Yspryt glan .
+40:1:019:0	Ac Ioseph y gwr hi can ei vot yn gyfion , ac nad ewyllysei y enllibio hi , a amcanodd y rhoi hi ymaith yn ddirgel .
+40:1:020:0	A’ thra ytoedd ef yn bwriady hynn , nycha , Angel yr Arglwydd yn ymddangos iddaw trwy hun , gā ddywedyt , Ioseph vap Dauid , nac ofna gymeryt Mair yn wreic y‐ty : can ys yr hyn a genetlwyt ynthei , ys ydd or yspryt glan .
+40:1:021:0	A’ hi a ddwc vap , a’ thi elwy ei Enw ef Iesu : can ys ef a iachaa ei bopul o ddywrth ei pechatae .
+40:1:022:0	A’ hyn oll a wnaethpwyt er cyflawny , yr hyn addywetpwyt gan yr Arglwydd twy’r Propwyt , can ddywedyt ,
+40:1:023:0	Nycha , morwyn a vydd veichioc , ac a ddwc vap , a’ hwy alwant y enw ef Emmanuel , yr hwn a’s esponir , a arwyddocaa , Duw gyd a ni .
+40:1:024:0	Ac Ioseph , pan ddihunodd o hun , a wnaeth megis y gorchymynesei Angel yr Arglwydd yddaw : ac a gymerawdd ei wreic .
+40:1:025:0	Ac nyd adnabu , ef yhi , yd pan escorawdd hi ar hei map cyn-enit ac ef alwodd y enw ef IESV .

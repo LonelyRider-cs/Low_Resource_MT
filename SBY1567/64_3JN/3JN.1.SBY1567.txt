@@ -1,0 +1,17 @@
+64:1:001:1	Pen . j .
+64:1:002:1	3 Llawenychu y mae ef vot Gaius yn rhodio yn y gwirioneð , 8 Eu hannoc y mae y vot yn garuaidd wrth y Christianogion tlodion yn amser ei hymlit . 9 Dangos y mae caredic waith Diotrephes , 12 A gair da Demetrius .
+64:1:001:0	YR Henafgwr at y caredic Gaius , yr hwn a garaf yn‐gwirionedd .
+64:1:002:0	Y caredic , ydd wyf yn damuno yn bennaf dy vot yn llwyðo ac yn dda’r byt arnat , mal y mae dy enait yn llwyddo .
+64:1:003:0	Canys llawenhau a wneuthum yn vawr pan ddaeth dy vrodyr , a’ thestiolaethu am y gwirionedd ys ydd ynot , mal ydd wyt yn rrodio yn‐gwirionedd .
+64:1:004:0	Nyd oes can yf’ lawenydd mwy na hyn , nid amgen , clywet bot vy meibion yn rhodio yn‐gwirionedd .
+64:1:005:0	Y caredic , ydd wyt yn gwneuthur yn ffyddlon beth bynac a wnai i’r brodyr , ac y estronieit ,
+64:1:006:0	Yr ei a destiolaythen am dy gariat gerbron yr Ecclesi . Yr ei a’s hebryngy rhagddynt megis y gwedda erwydd Dyw , ys da y gwnai ,
+64:1:007:0	Can ys er mwyn y Enw ef ydd aethant ymddaith , eb gymeryd dim gan y Cenedloedd .
+64:1:008:0	Nyni a ddlyem gan hynny dderbyn y cyfryw rei , val y byddom ganhorthwyr ir gwirionedd .
+64:1:009:0	Scrivenais at yr Eccles : eithr Diotrephes yr hwn a gar vot yn vlaenor yn y plith hwy , ny dderbyn ddim o hanom .
+64:1:010:0	Erwyð paam a’s dauaf , mi venagaf ei weithredoeð y mae e yn y wneuthur , gā siarad in herbyn a gairie drigionus , ac nyd yn voddlawn y hyny ac nyd yw ef y hun yn derbyn y brodyr , eithr goharð y mae yr ei a wyllysient , a’ ei gwthio allan o’r Eccles .
+64:1:011:0	Vy‐caredic , na ddilyn yr hyn ’sy ddrwc , anyd yr hyn ysy dda : yr hwn a wna ddayoni , o Ddyw y may : a’r hwn a wna ddrygioni , ny weloð Dduw .
+64:1:012:0	Y mae y Ddemetrius ’airda gan bawp , a’ chan y gwirionedd y hunan : a’ nineu hefyt ein vnain ym yn testiolaethu , a’ gwyddoch vot yn testiolaeth ni yn gywir .
+64:1:013:0	Y mae ymi lawer o betheu yw scrifenu : eithyr nyd a duy a’ phin yr scrivennaf atat .
+64:1:014:0	Gobeitho ydd wyf gahel dy welet ar vyrder , ac y cavvn ymddiddan eneu yn‐geneu .
+64:1:015:0	Tangneddyf yty . Y mae dy geraint ith anerch . Anerrch y cereint wrth y henwe .

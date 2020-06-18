@@ -1,0 +1,14 @@
+19:98:001:1	PSALM 98
+19:98:002:1	A Call to Praise the L
+19:98:003:1	ord
+19:98:004:1	for His Righteousness .
+19:98:005:1	A Psalm .
+19:98:001:0	O sing to the Lord a new song , For He has done wonderful things , His right hand and His holy arm have gained the victory for Him .
+19:98:002:0	The Lord has made known His salvation ; He has revealed His righteousness in the sight of the nations .
+19:98:003:0	He has remembered His lovingkindness and His faithfulness to the house of Israel ; All the ends of the earth have seen the salvation of our God .
+19:98:004:0	Shout joyfully to the Lord , all the earth ; Break forth and sing for joy and sing praises .
+19:98:005:0	Sing praises to the Lord with the lyre , With the lyre and the sound of melody .
+19:98:006:0	With trumpets and the sound of the hornShout joyfully before the King , the Lord .
+19:98:007:0	Let the sea roar and all it contains , The world and those who dwell in it .
+19:98:008:0	Let the rivers clap their hands , Let the mountains sing together for joy
+19:98:009:0	Before the Lord , for He is coming to judge the earth ; He will judge the world with righteousnessAnd the peoples with equity .

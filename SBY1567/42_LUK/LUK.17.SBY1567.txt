@@ -1,0 +1,38 @@
+42:17:001:1	Pen . xvij .
+42:17:002:1	Christ yn dyscu ei ddiscipulon i ’ochelyd achos rhwystr . Bot y vn vaddae ir llall . Dyly o hanam weddiaw am angwanegu ffydd . Ef yn mawrygu rhinwedd ffydd . Ac yn dangos anallu dyn . Ef yn iachau dec or clwyf gohan . Yn traethu o’r dyddiae dyweddaf , ac o ddywedd y byd .
+42:17:001:0	YNo y dyuot ef wrth ei ddiscipulon , Ny aill bot amgen , na ðaw rhwystrae , an’d gwae ef drwy ’r hwn y dauant .
+42:17:002:0	Gwell oedd yddaw ef pe crogit maen melin mavvr yn‐cylch ei vwngl , a’i davlu i’r mor , na bod iddaw rwystraw vn or ei bychain hyn .
+42:17:003:0	Cedwch arnoch eich hun : a’s gwna dy vrawt sarhad yn dy erbyn , cerydda ef : ac a’s yvv ediuar gantaw maddae y‐ddaw .
+42:17:004:0	A’ chyd pecho ith erbyn saithwaith yn y dydd , a’ seithwaith yn y dydd troi atat , gan ddywedyt , Mae’n ediuar genyf , maddae y‐ddaw .
+42:17:005:0	A’r Apostolon a ddywedesont wrth yr Arglwydd , Angwanega ein ffyð .
+42:17:006:0	A’r Arglwydd a ddyuot , Pe bai genwch ffyð cymmeint ac yvv gronyn o had mustard , ac a dywedech ymblanna yn y mamin hwn , Ymddadwraiddia , ac wrth y pren sycor , ys uvyddhay ef y‐chwy .
+42:17:007:0	Pwy o hanoch hefyt ac iddo was yn aredic neu yn porthi da , a ddywait wrthaw yn y van , yn ol dyuot o’r maes , Dos , ac eiste ’i lawr y vwyta ?
+42:17:008:0	ac ny ddywait yn hytrach wrthaw . Cyweiria hyn a swperwyf , ac ymwregysa , a’ gwasanaetha vi , nes i mi vwyta ac yfet , ac wedy hyny bwyta , ac yf dithe ?
+42:17:009:0	A ddiolch ef ir gwas hwnw can wneythyd o hanaw hyn a ’orchmynesit yddaw ? nyd wy’n tybiet .
+42:17:010:0	Ac velly chwitheu , gwedy gwneloch pop perh oll , ar a orchymynwyt y‐chwy , dywedwch , Paam , Gweision anvuddiol ym : can ys hyn a ddylesem ey wneuthyd , a wnaetham . Yr Euangel y xiiij . Sul gwedy Trintot .
+42:17:011:0	¶ Ac velly y darvu ac ef yn mynet i Gaerusalem , ac ef a ddeuth trwy genawl Samaria a’ Galilea .
+42:17:012:0	Ac mal ydd oeð ef yn myned y mewn i ryw ben‐tref , y cyvarvu ac ef ddec‐wyr gohanglaf , yr ei a safesant o hirbell .
+42:17:013:0	Ac wy godesont ei llefae , can ddywedyt , Iesu , y Llywydd , trugarha wrthym .
+42:17:014:0	A’ phan welawdd ef wy , y dyvot wrthynt , Ewch , ymddangoswch ir Offeiriait . Ac e ddarvu , ac wy’n yn mynet y glanhawyt hwy .
+42:17:015:0	Yno vn o hanwynt , pan welawdd ddarvot ei iachay , a ymchwelawdd , ac a llef vchel e roes ’ogoniant y Dduw ,
+42:17:016:0	ac a gwympawdd ar ei wynep wrth y draet ef , can ddiolvvch yddaw : a’ hwn oedd Samarit .
+42:17:017:0	A’r Iesu a atepawdd ac a ddyvot , A ny ’lanhawyt dec ? a’ph’le mae’r naw ?
+42:17:018:0	Ny chahat ar a ðelynt i roi gogoniant i Dduw , oddeithr yr estrawn hwn .
+42:17:019:0	Ac ef a ddyvot wrthaw , Cyvot , does ymaith , dy ffydd ath iachaawdd .
+42:17:020:0	A’ phan yr ymofynit yðo y gan y Pharisaiait , pa bryd y dauei teyrnas Duw , yr atepei yddynt , ac y dywedei , Ny ðaw teyrnas Duw wrth i dysgwyl .
+42:17:021:0	Ac ny’s dywedāt , Wely , yma , ne wely yna : canys wely y mae teyrnas Duw o’ch mewn .
+42:17:022:0	Ac ef a ddyuot wrth y discipulon , E ddaw ’r amser pan ddeisyfoch ’weled vn o ddyddiae Map y dyn , ac ny’s gwelwch .
+42:17:023:0	Yuo y dywedant wrthych , Wele yman , nei wele yna : eithyr nag ewch yno , ac na ddylynwch wy .
+42:17:024:0	Can ys megis y vellten a velltenna o yvvrth vn van y dan y nef , a dowyn i van arall y dan y nef , velly y bydd Map y dyn yn y ddydd ef .
+42:17:025:0	Eithyr yn gyntaf dir yw iddo ddyoddef llawer o bethæ , ai argyweddy y gan y genedleth hon .
+42:17:026:0	A’ megis y darvu yn‐dyddiae Noe , velly y bydd yn‐dyddiae Map y dyn hefyt .
+42:17:027:0	Bwytaent , yfent , gwreicaent , a’ gwrhaent , yd y dyð ydd ai Noe i’r Arch : a’ daeth y diliv , ac ei cyfercollawdd vvy oll .
+42:17:028:0	Yr vn modd hefyt , mal y darvu yn‐dyðiae Lot : bwytaent , yfent , prynent , gwerthent , plantent , adailent .
+42:17:029:0	Eithyr y dyð ydd aeth Lot allan o Sodoma , y glawiodd hi tan a’ brwmstan o’r nef , ac y dinistrawdd vvy oll .
+42:17:030:0	Erwydd yr esemplæ hyn y bydd yn y diernot yr ymddengys Map y dyn .
+42:17:031:0	Yn y dydd hwnw yr hwn ys ydd arucha y tuy , a’ ei ddodrefn yn tuy , na ddescendet yw gymeryd allan : a’ hwn ’sy yn y maes yr vn ffynyt , na ddadymchweled at yr hyn a adavvodd ar ol .
+42:17:032:0	Cofiwch ’wreic Lot .
+42:17:033:0	Pwy pynac a gais gadw ei enait , ef ei cyll : a’ phwy py pynac ei cyll , ei bywocaa .
+42:17:034:0	Dywedaf y‐chwy , y nos hon hono y bydd dau mewn‐vn gwely : vn a dderbynir , a’r llall a edewir .
+42:17:035:0	Dwy vyddant yn malu yn yr vn‐lle : y naill a gymerir , a’r llall a edewir .
+42:17:037:0	Ac vvy a atebesont , ac a ddywedesont wrthaw , P’le , Arglwydd ? Ac ef a ddyuot wrthynt , P’le bynac y bo’r corph yno hefyt yr ymgascl yr eryrod .

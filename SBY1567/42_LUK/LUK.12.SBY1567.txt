@@ -1,0 +1,67 @@
+42:12:001:1	Pen . xij .
+42:12:002:1	Christ yn gorchymyn ymochelyt rac hypocrisi a’ ffuant . Na ddylyem ofny dyn amyn Dew . Cyffessy y Enw ef . Cabl yn erbyn yr Yspryt . Nad elom y
+42:12:003:1	*
+42:12:004:1	dros
+42:12:005:1	tyhwnt in galwedigaeth . Nad ymroddom i chwanoc ’ofal y vuchedd hon , Eithyr i vniondap , eleeseni , gwiliaw , dioddefgarwch , doethinep a’
+42:12:006:1	‡
+42:12:007:1	cytundep
+42:12:008:1	dyvndap .
+42:12:001:0	YN y cyfamser , yr ymdyrrawdd ynghyt lliaws aneirif o bopul , y’n yd ymsengynt ar y gylydd : ac y dechreuodd ef ddywedyt wrth ei ddiscipulon yn gyntaf , Ymochelwch rac surdoes y Pharisaiait , yr hwn yw hypocrisi .
+42:12:002:0	Can nad oes dim toedic , a’r ny’s didoer : na chuðiedic a’r ny’s daw i wybodaeth .
+42:12:003:0	Erwyð paam pa bethe bynac a ðywetsoch yn‐tywyllwch , ei clywir yn y goleuni : a’ hyn a ddywedesoch yn y glust , mewn lleoedd dirgel , a bregethir ar vchaf y tai .
+42:12:004:0	A’ dywedaf wrthych vy‐cereint , Nac ofnwch rac yr ei n a laddant y corph , ac wedy hyny eb yddyn gahel gwneuth ’r dim mwy .
+42:12:005:0	A’ rhac ddangosafy‐chwy , pwy ’n a ofnwch : ofnwch hwn yr vn gwedy lladdo , ’sy iddo veddiant i vwrw i’r yffern : dioer , y dywedaf wrthych , hwnvv a ofnwch .
+42:12:006:0	Any phrynir pempt o darynot‐y‐to er doy fferling , ac eto nid oes vn o hanynt yn angof geir bron Duw ?
+42:12:007:0	Ie , ac y mae oll wallt eich pen yn gyfrifedic : nag ofnwch gan hyny : ys ymdelwch mwy no llawer o adarynot yto .
+42:12:008:0	Hefyt y dywedaf y‐chwy , Pwy pynac a’m cyffesso i geyr bron dynion , Map y dyn y cyffessa yntef hefyt geyr bron Angelion Duw .
+42:12:009:0	A’ hwn a’m gwato i geyr bron dynion , a wedir geyr bron Angelon Duw .
+42:12:010:0	A’ phwy pynac a ddywait ’air yn erbyn Map y dyn , ei maddeuir iddaw : eithyr i hwn a gablo yr Yspryt Glan , ny’s maddeuir .
+42:12:011:0	A’ phan ich’ dugant ir Synagogae , ac at y llywyawdwyr a’r gwyr‐o‐veddiant , na ovelwch pa vodd , nei pa beth a atepoch , nai pa beth a ddywetoch .
+42:12:012:0	Can ys yr Yspryt Glan a’ch dysc yn yr awr hono , pa beth sy rait i chvvi y ddywedyt .
+42:12:013:0	Ac vn o’r dyrfa a ddyvot wrthaw , Athro , arch i’m brawd rannu a mi yr etiueddiaeth .
+42:12:014:0	Ac ef a ddyuot wrthaw , Y dyn , pwy a’m gesodes i yn vrawdwr , neu yn rhannwr arnoch ?
+42:12:015:0	Erwydd paam ef a ddyuot wrthynt Edrychwch ac ymogelwch rac trachwant : can ys cyd bot i ðyn amlder o dda , er hyny nid yw i einioes yn sefyll o nerth ei dda .
+42:12:016:0	Ac ef adroddawdd barabol wrthynt , gan ddywedyt , Tir ryw wr goludawc a ffrwythlonawdd yn dda .
+42:12:017:0	Ac velly y meddyliawð ynto ehun , can ddywedyt , Beth a wnaf , am nad oes genyf ehengder lle gallwyf ðody veu ffrwythae y gadw ?
+42:12:018:0	Ac ef a ddyuot , Hyn a wnaf , mi dynnaf veu yscuporiae i lawr , ac a adailiadaf ’rei mwy , ac yddyn y casclaf veu oll ffrwythae , a’m daon .
+42:12:019:0	A’ dywedaf wrth vy enait , Enait , mae yti dda lawer wedy ’r roi y gadw dros lawer o vlyðyneð : gorphywys , bwyta , yf , ymddigrifha .
+42:12:020:0	A’ Duw a ddyuot wrthaw , A ynfyd , heno y cyrchant ymaith dy enait y cenyt : yno pwy biei‐vyð y pethae a arlwyaist ?
+42:12:021:0	Velly am hwn a dresoro yddo ehun , ac nyd yw ’oludawc yn‐duw .
+42:12:022:0	Ac ef a ddyuot wrth ei ddiscipulon , Am hyny y dywedaf wrthych , Na phryderwch am eich einioes , beth a vwytaoch : nac am eich corph , beth a wiscoch .
+42:12:023:0	Mwy yw’r einioes na’r lluniaeth : a’r corph na’r wisc .
+42:12:024:0	Ystyriwch vvedd y cicvrain : can na heuant , ac na vetant : ac nid oes yddyn na chell nac yscupawr , ac er hyny y mae Duw yn y l’uniaethy hwy : pa veint mwy ydd y‐chwi well na ’r ehediait ?
+42:12:025:0	A phwy ’n o hanoch drwy ovalus‐veðyliaw , a aill dodi wrth ei gorpholaeth vn cuvydd ?
+42:12:026:0	A’ny ellwch gan hyny wneythur y peth lleiaf , paam y pryderwch am y llaill ?
+42:12:027:0	Ystyriwch’ y lili mal y tyfant vvy nyd yyn yn travaely , nag yn nyddu : a’ dywedaf wrthych , na bu Selef y un yn ei oll arderchawgrwydd , wedy ’r wiscaw val vn or ei hyn .
+42:12:028:0	Ac a’s amwisc Duw y gwelltyn yr hvvn’sy heddyw yn y maes , ac y voru a daylir ir ffwrnais , pa vaint mwy y dillada ef chvvychwi , havvyrvechan eich ffydd ?
+42:12:029:0	Can hyny na vid y chwi ymovyn , py beth a vwytaoch nei pa beth a yfoch , ac na phedruswch .
+42:12:030:0	Can ys y pethae hyn oll a ymgais populoedd y byd : a’ch Tat chwi a wyr vot arnoch eisie y pethae hynn .
+42:12:031:0	And yn hytrach caisiwch‐vvi deyrnas Duw , a’r pethae hyn oll a roddir ychwy .
+42:12:032:0	Nac ofna , dydi gadw bach : can ys ryngawdd bodd i’ch Tad roddy y‐chwy y deyrnas .
+42:12:033:0	Gwerthwch ysyð y‐chwy , a ’rhowch yn eleeseni . Gwnewch y‐chwy amnerae a’r ny’s hen eiddiant , yn dresawr andefficiol yn y nefoedd , lle ny nesa llaitr , ac ny lygra pryf .
+42:12:034:0	Can ys lle y mae eich tresawr , ynaw y byð eich calon hefyt .
+42:12:035:0	Bit eich llwyni wedy ’r wregysu , a’ch cannwyllae wedy ’nynu ,
+42:12:036:0	a’ chwitheu yn gyffelyp i ðynion yn dysgwyl am ei harglwydd , pa bryd y daw ef o’r briodas , val pan ddel ef a’ churo ’r drvvs , yddyn agori iddo yn ebrwydd .
+42:12:037:0	Ys gwynvydedic y gweision hynny , yr ein yr Arglwydd pan ddel ei caiff yn‐neffro : yn wir y dywedaf y‐chwi , yr ymwregysa ef ehun , ac a‐wna‐yddyn eisted‐i lawr‐i‐vwyta , ac a ddaw allan , ac y gwasanaetha hwy .
+42:12:038:0	Ac a’s daw ef yn yr ail wiliadwriaeth , nei a’s daw ef yn y drydedd wiliaduriaeth , a’ ei cahel wy velly , gwyn ei byt y gweision hyny .
+42:12:039:0	Yr owon gwybyddwch hyn , pe’s gwypei gwr y tuy pa awr y daethesei’r lleitr , ef a wyliesei , ac ny adawsei gloddiaw ei duy trywoð ,
+42:12:040:0	A’ byddw‐chwitheu am hyny barot : can ys daw Map y dyn yn yr awr a’r ny thybioch .
+42:12:041:0	Yno dywedyt o Petr wrthaw , Arglwydd , ai wrthym ni y dywedy y parabol hwn , ai ynte wrth bavvb oll hefyt ?
+42:12:042:0	A’r Arglwydd a ddyvot , Pwy ’n sy dy-warcheidwat ffyddlawn , a’ phwyllawc , yr hwn a ’osyt yr Arglwydd yn llyvvodraethvvr ar ei duylu , y roddy yddyn ei cyfluniaeth yn y amser ?
+42:12:043:0	Gwyn ei vyt yntef y gwas , yr hwn ei arglwyð pan ddel , ai caiff yn gwneythu ’r velly .
+42:12:044:0	Yn wirionedd y dywedaf wrthych , y gosyt ef hwnw yn llyvvodraethvvr ar yr oll ac ys y iddaw .
+42:12:045:0	Eithyr a’s dywait y gwas hwnw yn ei galon , Ef a oeda vy arglwydd ei ddyuodiat , a’ dechrae curaw y gweision , a’r morynion a’ bwyta ac yfet , a’ meddwi .
+42:12:046:0	E ddaw arglwydd y gwas hwuw mewn dydd pryd na thybia ef , ac mewn awr na wyr ef ywrthei , ac ei trycha ef ymaith , ac a rydd iddo ei ran y gyd a’r anffyddlonieit .
+42:12:047:0	A’r gwas hwnw a wybu ewyllys ei arglwydd , ac nyd ymbaratoawdd , ac ny wnaeth yn ol y ewyllys ef , a vaiddir a llawer gvvialennot .
+42:12:048:0	Eithyr ’hwn ny’s gwybu , ac a wnaeth bethae teilwng o wialenodae a vaiddir ac ychydic vvialenodæ : can ys i bwy bynac y rhoðwyt llawer , l’awer a geisir ganthaw , ac y bwy bynac y dodant lawer , mwy a ’o vynnant ganthaw .
+42:12:049:0	Taan a ðaethym i roi ar y ddaiar , a’ pha beth yw v’wyllys , a’s cenneuwyt eisus ?
+42:12:050:0	Eithyr dir yw vy-betyddiaw a betydd , a’ phywedd im gwescir , y’ ny dervynir hyn .
+42:12:051:0	A’ dybiwch ddyuot o hanovi y roddy tangneddyf ar y ddayar ? dywedaf y chwi , nad do eithyr yn hytrach ymryson .
+42:12:052:0	Can ys o hyn allan y byð pemp yn yr vn tuy wedy’r ymranu , tri yn erbyn dau , a’ dau yn erbyn tri .
+42:12:053:0	Y tat a ymranna yn erbyn y map , a’r map yn erbyn y tat : y vam yn erbyn y verch , a’r verch yn erbyn y vam : y chwegr yn erbyn y waydd , a’r waydd yn erbyn hei chwegr .
+42:12:054:0	Yno y dyuot ef ir werin , Pan weloch wybren yn cyuodi o’r Gorllewin , yn y van y dywedwch , Y mae cavod yn dyuot : ac velly yw .
+42:12:055:0	A’ phan vveloch y Deheuwynt yn chwythu , y dywedwch , y bydd hi gwresoc , a hi vydd .
+42:12:056:0	Hypocriteit , chvvi gwyddoch ddyall wynep y ddayar , a’r nef : a’ phaam na ddyellwch yr amser hyn ?
+42:12:057:0	Ac paam na vernwch o hanoch eich hunain beth ’sy gyfiawn .
+42:12:058:0	Tra vych yn myned y gyd ath ’wrthnebwr at y llywyawdr , ’rhydd y fforð dyro dy waith ar gael dy ymwared y wrthaw , rac bot iddaw dy ddwyn at y brawdwr , ac i’r brawdwr dy roðy at y cais , ac ir cais dy davlu yn‐carchar .
+42:12:059:0	Dywedaf yty , nad ai di y maes o ddyno yd y ny thelych yr hatling eithavv .

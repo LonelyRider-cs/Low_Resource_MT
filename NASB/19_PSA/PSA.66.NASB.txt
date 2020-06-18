@@ -1,0 +1,23 @@
+19:66:001:1	PSALM 66
+19:66:002:1	Praise for God’s Mighty Deeds and for His Answer to Prayer .
+19:66:003:1	For the choir director . A Song . A Psalm .
+19:66:001:0	Shout joyfully to God , all the earth ;
+19:66:002:0	Sing the glory of His name ; Make His praise glorious .
+19:66:003:0	Say to God , “ How awesome are Your works ! Because of the greatness of Your power Your enemies will give feigned obedience to You .
+19:66:004:0	All the earth will worship You , And will sing praises to You ; They will sing praises to Your name . ” Selah .
+19:66:005:0	Come and see the works of God , Who is awesome in His deeds toward the sons of men .
+19:66:006:0	He turned the sea into dry land ; They passed through the river on foot ; There let us rejoice in Him !
+19:66:007:0	He rules by His might forever ; His eyes keep watch on the nations ; Let not the rebellious exalt themselves . Selah .
+19:66:008:0	Bless our God , O peoples , And sound His praise abroad ,
+19:66:009:0	Who keeps us in lifeAnd does not allow our feet to slip .
+19:66:010:0	For You have tried us , O God ; You have refined us as silver is refined .
+19:66:011:0	You brought us into the net ; You laid an oppressive burden upon our loins .
+19:66:012:0	You made men ride over our heads ; We went through fire and through water , Yet You brought us out into a place of abundance .
+19:66:013:0	I shall come into Your house with burnt offerings ; I shall pay You my vows ,
+19:66:014:0	Which my lips utteredAnd my mouth spoke when I was in distress .
+19:66:015:0	I shall offer to You burnt offerings of fat beasts , With the smoke of rams ; I shall make an offering of bulls with male goats . Selah .
+19:66:016:0	Come and hear , all who fear God , And I will tell of what He has done for my soul .
+19:66:017:0	I cried to Him with my mouth , And He was extolled with my tongue .
+19:66:018:0	If I regard wickedness in my heart , The Lord will not hear ;
+19:66:019:0	But certainly God has heard ; He has given heed to the voice of my prayer .
+19:66:020:0	Blessed be God , Who has not turned away my prayerNor His lovingkindness from me .

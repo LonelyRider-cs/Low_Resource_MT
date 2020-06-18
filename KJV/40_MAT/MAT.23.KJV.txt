@@ -1,0 +1,39 @@
+40:23:001:0	Then spake Jesus to the multitude , and to his disciples ,
+40:23:002:0	Saying , The scribes and the Pharisees sit in Moses' seat :
+40:23:003:0	All therefore whatsoever they bid you observe , that observe and do ; but do not ye after their works : for they say , and do not .
+40:23:004:0	For they bind heavy burdens and grievous to be borne , and lay them on men's shoulders ; but they themselves will not move them with one of their fingers .
+40:23:005:0	But all their works they do for to be seen of men : they make broad their phylacteries , and enlarge the borders of their garments ,
+40:23:006:0	And love the uppermost rooms at feasts , and the chief seats in the synagogues ,
+40:23:007:0	And greetings in the markets , and to be called of men , Rabbi , Rabbi .
+40:23:008:0	But be not ye called Rabbi : for one is your Master , even Christ ; and all ye are brethren .
+40:23:009:0	And call no man your father upon the earth : for one is your Father , which is in heaven .
+40:23:010:0	Neither be ye called masters : for one is your Master , even Christ .
+40:23:011:0	But he that is greatest among you shall be your servant .
+40:23:012:0	And whosoever shall exalt himself shall be abased ; and he that shall humble himself shall be exalted .
+40:23:013:0	But woe unto you , scribes and Pharisees , hypocrites ! for ye shut up the kingdom of heaven against men : for ye neither go in yourselves , neither suffer ye them that are entering to go in .
+40:23:014:0	Woe unto you , scribes and Pharisees , hypocrites ! for ye devour widows' houses , and for a pretence make long prayer : therefore ye shall receive the greater damnation .
+40:23:015:0	Woe unto you , scribes and Pharisees , hypocrites ! for ye compass sea and land to make one proselyte , and when he is made , ye make him twofold more the child of hell than yourselves .
+40:23:016:0	Woe unto you , ye blind guides , which say , Whosoever shall swear by the temple , it is nothing ; but whosoever shall swear by the gold of the temple , he is a debtor !
+40:23:017:0	Ye fools and blind : for whether is greater , the gold , or the temple that sanctifieth the gold ?
+40:23:018:0	And , Whosoever shall swear by the altar , it is nothing ; but whosoever sweareth by the gift that is upon it , he is guilty .
+40:23:019:0	Ye fools and blind : for whether is greater , the gift , or the altar that sanctifieth the gift ?
+40:23:020:0	Whoso therefore shall swear by the altar , sweareth by it , and by all things thereon .
+40:23:021:0	And whoso shall swear by the temple , sweareth by it , and by him that dwelleth therein .
+40:23:022:0	And he that shall swear by heaven , sweareth by the throne of God , and by him that sitteth thereon .
+40:23:023:0	Woe unto you , scribes and Pharisees , hypocrites ! for ye pay tithe of mint and anise and cummin , and have omitted the weightier matters of the law , judgment , mercy , and faith : these ought ye to have done , and not to leave the other undone .
+40:23:024:0	Ye blind guides , which strain at a gnat , and swallow a camel .
+40:23:025:0	Woe unto you , scribes and Pharisees , hypocrites ! for ye make clean the outside of the cup and of the platter , but within they are full of extortion and excess .
+40:23:026:0	Thou blind Pharisee , cleanse first that which is within the cup and platter , that the outside of them may be clean also .
+40:23:027:0	Woe unto you , scribes and Pharisees , hypocrites ! for ye are like unto whited sepulchres , which indeed appear beautiful outward , but are within full of dead men's bones , and of all uncleanness .
+40:23:028:0	Even so ye also outwardly appear righteous unto men , but within ye are full of hypocrisy and iniquity .
+40:23:029:0	Woe unto you , scribes and Pharisees , hypocrites ! because ye build the tombs of the prophets , and garnish the sepulchres of the righteous ,
+40:23:030:0	And say , If we had been in the days of our fathers , we would not have been partakers with them in the blood of the prophets .
+40:23:031:0	Wherefore ye be witnesses unto yourselves , that ye are the children of them which killed the prophets .
+40:23:032:0	Fill ye up then the measure of your fathers .
+40:23:033:0	Ye serpents , ye generation of vipers , how can ye escape the damnation of hell ?
+40:23:034:0	Wherefore , behold , I send unto you prophets , and wise men , and scribes : and some of them ye shall kill and crucify ; and some of them shall ye scourge in your synagogues , and persecute them from city to city :
+40:23:035:0	That upon you may come all the righteous blood shed upon the earth , from the blood of righteous Abel unto the blood of Zacharias son of Barachias , whom ye slew between the temple and the altar .
+40:23:036:0	Verily I say unto you , All these things shall come upon this generation .
+40:23:037:0	O Jerusalem , Jerusalem , thou that killest the prophets , and stonest them which are sent unto thee , how often would I have gathered thy children together , even as a hen gathereth her chickens under her wings , and ye would not !
+40:23:038:0	Behold , your house is left unto you desolate .
+40:23:039:0	For I say unto you , Ye shall not see me henceforth , till ye shall say , Blessed is he that cometh in the name of the Lord .

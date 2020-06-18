@@ -1,0 +1,30 @@
+19:102:001:1	Psalm . cij .
+19:102:002:1	Dowine exaudi .
+19:102:001:0	ARglwydd , clyw vy-gweddi , a’ deuet vy gwaedd atat’
+19:102:002:0	Na chudd dy wynep rhagof yn dyð cyfnigder : inclina dy glust ataf : y dydd y galwyf , brysia im gwrando .
+19:102:003:0	Can ys darvu vy-ddyddiae val mwc , am escyrn y boethwyt megis aelwyt .
+19:102:004:0	Trawyt vy-calon a ’gwywawð val glaswellt , can ys angofeis vwyta vy-bara .
+19:102:005:0	Can lais vy-irad y glyn vy escyrn wrth vy-croen .
+19:102:006:0	Cyffelip wyf ir pelican o’r diffeithwch : mal tylluan wyf yn yr anialwch .
+19:102:007:0	Gwiliaw ydd wyf ac yr wyf mal aderyn y to vnic ar ben y tuy .
+19:102:008:0	Paunydd im divenwa vy-gelynion , ar ei ysy yn ynvydu wrthyf , a dyngesont im erbyn .
+19:102:009:0	Can ys llutw val bara a vwyteis , am diot ac wylofain a gymysceis ,
+19:102:010:0	Obleit dy var ath ddigoveint : can ys im dercheveist , ac im bwrieist ir llawr .
+19:102:011:0	Vy-dyddiye [ ynt] val gwascawt , a gilia , a’ minau mal gwelltglas y wywais ,
+19:102:012:0	Tithau Arglwydd ysy yn aros yn tragyvyth , ath coffaduriaeth o genedlaeth y genedlaeth .
+19:102:013:0	Ti a gody ac a drugaréy wrth Tsijon : can ys yr amser y drugarhay wrthei , can ys daeth yr amser-nod .
+19:102:014:0	Can ys may dy weision ac ewyllys-da yw main hi , ac yn tosturiaw wrth y llwch hi .
+19:102:015:0	Yno y cenedloeð y ofnant Enw yr Arglwyð , ac oll Vrenhinedd y ddaiar dy ’ogoniant ,
+19:102:016:0	Pan adeilo yr Arglwyð Tsijón [ ac] y tgweler yn ei ogoniā
+19:102:017:0	Ac yr edrych ar weddi y dyn llesc , ac ny thremyga ei gweddi .
+19:102:018:0	Hyn y escrivennir er genedlaeth ar ol : a’r popul y creer , a vawl yr Arglwydd .
+19:102:019:0	Can ys edrychawdd ef y lawr o vchelder ei Gyssecr : o’r nefoedd y syllawdd yr Arglwydd ar y ddaiar ,
+19:102:020:0	Yn y glywei ef gwynovain y carcharawr , a’ gwaredy plant angae .
+19:102:021:0	Yn y venegant Enw yr Arglwydd yn Tsijon , a’ ei voliant yn Caerusalem ,
+19:102:022:0	Pan ymgynullo y populoedd y gyd , a’r teyrnasoedd y wasanaethy yr Arglwydd .
+19:102:023:0	Gestyngawdd ef vy nerth yn vy ffordd , [ a’] byráodd vy-dyddiae .
+19:102:024:0	A’ dywedais , Vy-Dew , na ddwc vi ymaith yn cenol vy-dyddieu : dy vlynyddedd di [ a barhán] o genedlaeth i genedlaeth .
+19:102:025:0	Gynt y seilieist y ddaiar , a’gwaith dy ddwylaw [ yw’r] nefoedd .
+19:102:026:0	Wyntwy y gollir , tithau a sefy : wyntwy oll a henāt val dilledyn : mal gwisc ydd ysmuty hwy , ac eu ysmutir .
+19:102:027:0	Tithau yr vn ytwyt , ath vlyddynedd ny phallant .
+19:102:028:0	Plant dy weision a arosant , a’ei had vydd savadwy rhac dy wynep .

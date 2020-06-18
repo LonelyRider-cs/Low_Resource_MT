@@ -1,0 +1,221 @@
+19:119:001:1	Psalm . cxix .
+19:119:002:1	ALEPH .
+19:119:003:1	Beati imaculati
+19:119:001:0	GWyn ei byd y divacul yn ei ffordd , [ ac] y rodiant yn Deddyf yr Arglwydd .
+19:119:002:0	Gwyn ei byd yr ei y gawant ei destolaethae , [ ac] a i h’oll galon y ceisiant ef .
+19:119:003:0	Diogel na’s gwnant wy enwiredd , yr ei y rodiant yn ei ffryrdd ef .
+19:119:004:0	Ti orch’mynaist gadw dy ’orchymynion yn ddyval .
+19:119:005:0	O am gyferio vy ffyrð , er mwyn cadw dy gynneddfae .
+19:119:006:0	Yno nim gwradwyddit , pan edrychwyf ar dy oll orchymyneu .
+19:119:007:0	Clodvoraf dydy a chalon vnion , pan ddyscwyf varnae dy gyfiawnder .
+19:119:004:1	BETH
+19:119:005:1	In quo corrigit .
+19:119:008:0	Dy gynneddfeu a gadwaf : na ad vi yn dragywyth .
+19:119:009:0	A’Pha beth y glaná dyn ienanc ei ffordd ? gan hi chadw wrth dy ’air di .
+19:119:010:0	Am oll calon ith ceisiais : naad ymi gyfeiliorni ywrth dy ’orchymyneu .
+19:119:011:0	Yn vy-calon y cuddiais dy amaðrodd , val na phechwn yn dy erbyn .
+19:119:012:0	Bendiget ytwyt , Arglwydd : dysc ymy dy gynneddfae .
+19:119:013:0	Am gwefulae y mynageis oll varneu dy eneu .
+19:119:014:0	Bu mor hyfryd genyf ffordd dy destolaethae , a’r oll ’olud .
+19:119:015:0	Yn dy orchymynion y meuyriaf , ac y edrychaf ar dy lwybrae .
+19:119:006:1	GIMEL
+19:119:007:1	Retibue seruo tuo .
+19:119:016:0	Yn dy gynneddfae yr ymddigrifaf , [ ac] nyd ebryvygaf dy ’air .
+19:119:017:0	Bydd dda wrth dy was , [ val y byddwy vyw , a’ chatw dy ’air .
+19:119:018:0	Agor vy llygait , val y gwelwyf ryveddodae dy Ddeddyf .
+19:119:019:0	Alltud ytwyf ar y ddaiar : na chudd rhagof dy ’orchymynion .
+19:119:020:0	Drylliawd vy calon gan ddychwant ith ’orchymynion bop amser .
+19:119:021:0	Destruwieist y beilchion : melltigedic yw’r ei a gyfeiliornant ywrth dy orchymynion .
+19:119:022:0	Gwrthladd y wrthyf gywilydd a’ thremic : can ys dy destolaethae y gadweis .
+19:119:023:0	Tywysogion hefyd y eisteddesant , [ ac] y ddywedsont im erbyn : ath was y vevyriei yn dy gynneddfae .
+19:119:008:1	DALETH
+19:119:009:1	Adhæsit pauimento anima mea .
+19:119:024:0	Hefyt dy destolaethae , yw vy digrifwch , a’m cycorwyr .
+19:119:025:0	GLynawdd vy eneit wrth y llwch : bywá vi wrth dy ’air .
+19:119:026:0	Vy ffyrdd a vanegais [ y-ty] , a’ gwrandewest’ vi : dysc y my dy gynneddfae .
+19:119:027:0	Par ymy ddeall ffordd dy orchymynion , a’ mevyriaf yn yn dy ryveddodae .
+19:119:028:0	Toddawdd vy eneit gan dristit : cyvot vi y vyny yn ol dy ’air .
+19:119:029:0	Cymer y wrthyf ffordd y celwydd , a’ chaniatá y-mi yn rradlawn dy Ddedðyf .
+19:119:030:0	Fordd wirioedd y ddetholeis , [ ath varnae y osodeis [ gar vy-bron] .
+19:119:031:0	Glynais wrth dy destolaethae , Arglwydd : na’m gwradwydda .
+19:119:010:1	HE .
+19:119:011:1	Legem pone .
+19:119:032:0	Fyrdd dy ’orchmyneu y redaf , pan ehengych vy-calon . Boreu weddi .
+19:119:033:0	DYsc ymy Arglwydd ffordd dy gynneddfeu , a’mi ei catwaf yd y dyweð .
+19:119:034:0	Par i mi ðeall , a’ chatwaf dy Ddeddyf : ac hei catwaf a’m oll calon .
+19:119:035:0	Par y-mi gerddet yn llwybr dy ’or chmyneu : can ys ynthaw y mae vy ’wyllyseis .
+19:119:036:0	Inclina vy-calon ar dy destolaethae , ac nyd ar gupyðdot .
+19:119:037:0	Tro heibio vy llygait rac gwelet gwagedd , [ ac] yn dy ffordd bywocá vi .
+19:119:038:0	Cadarna dy air ith was , o bleit yddo dy ofni ,
+19:119:039:0	Dwc ymaith vy-gwarth yr hwn y ofneis : can ys da dy vairnion .
+19:119:012:1	VAV
+19:119:013:1	Et veniat super me .
+19:119:040:0	Wele , vy chwant ys ydd ith ’orchmynion : bywoca vi ith gyfiawnder .
+19:119:041:0	A’ Dauet ymy dy drugarawgrwydd , Arglwydd , [ a’th] iechyt yn ol dy ’air .
+19:119:042:0	Yno ydd atebaf im cablwyr : can ys ymddiriedaf yn dy ’air .
+19:119:043:0	Ac na ddwc ’air y gwirionedd yn llwyr o’m geneu : canys wrth dy vairn y dysgwiliaf .
+19:119:044:0	Yno y catwaf dy Ddeddyf yn oystat , byth ac yn tragyvyth .
+19:119:045:0	A’ rhodiaf mewn ehengder : can ys dy orchymynion y geisiaf .
+19:119:046:0	Cympwyllaf hefyd oth testolaethae rhac bron Brenhinedd , ac nim cywilyddir .
+19:119:047:0	Am digrifwch vydd yn dy ’orchymynae , yr ei y gereis .
+19:119:014:1	ZAIN .
+19:119:015:1	Memor esto Verbi tui .
+19:119:048:0	Am dwylaw y dderchafaf ar dy ’orchymymynneu , yr ei y gereis , a’ mevyriaf yn dy gynneddfeu .
+19:119:049:0	COfia dy ’air [ y wnaed] ith was , yn yr hwn y pereist ymy amddyrieit .
+19:119:050:0	Hyn yw vy-confort yn vy-cystudd : can ys dy ’air am bywocawdd .
+19:119:051:0	Y beilchion am gwatworesont yn ddirvawr : [ er hyny] ny threiglais y wrth dy Ddeddyf .
+19:119:052:0	Cofiais dy vairn o’r cynvyt , Arglwydd , ac im diddanwyt .
+19:119:053:0	Ofn a ddaeth arnaf obleit yr andewiolion , yr ei sy yn gady dy Ddeddyf .
+19:119:054:0	Vy-canyat oedd dy gynneddfeu yn-tuy vy-pererindawt .
+19:119:055:0	Cofiais dy Enw , Arglwydd , yn y nos , a’ chedwais dy Ddeddyf .
+19:119:016:1	CHETH .
+19:119:017:1	Portio mea .
+19:119:056:0	Hyn y dderyw y mi can ys cedweis dy ’orchymynion .
+19:119:057:0	ARglwyð yr hwn wyt vy rran , meðyliais gadw dy ’airieu .
+19:119:058:0	Gweddiais rac dy vron im oll galon : trugará wrthyf yn ol dy ’air .
+19:119:059:0	Yyltyriais vy ffyrdd , a’ throeisym vy-traet ith testolaethae .
+19:119:060:0	Brysiais ac nid oedais gadw dy o’rchmynion .
+19:119:061:0	Catervâe yr andewolion a’m yspeiliesont : eithyr nid ebryvygeis dy Ddeddyf .
+19:119:062:0	Haner nos y cyfodaf ith glodvory , o bleit dy gyfiawn=veirn .
+19:119:063:0	Cydymddeith wyf i bawp ath ofnant , ac y gatwant dy ’orchymynion .
+19:119:018:1	TETH .
+19:119:019:1	Bonitatem fecisi .
+19:119:064:0	Oth trugaredd , Arglwydd , cyflawn yw y ddaiar : dysc ymy dy gynnyddfeu .
+19:119:065:0	ARglwyð ys da vuost’ wrth dy was , yn ol dy air .
+19:119:066:0	Dysc ymy iawn ddeall a’ gwybyddieth : can ys dy orchymynion y gredais .
+19:119:067:0	Cyn vy-cystuddio , y cyveiliornais : ac yr awrhon y cadwaf dy ’air .
+19:119:068:0	Ys da wyt a’ daonus : dysc ymy dy gynneddfeu .
+19:119:069:0	Dychymygawdd y beilchion gelwydd arnaf : minau a gatwaf dy ’orchymynae a’m oll calon .
+19:119:070:0	Cy vraset a’r blonec yw ei calon : minau yn dy Ddeðyf ys ydd am digrifwch .
+19:119:071:0	Ys da i mi , vot vy-cystuddio , er mwyn dyscy dy gynnyddfeu .
+19:119:020:1	IOD .
+19:119:021:1	Manus tuæ fecerunt me .
+19:119:072:0	Gwell y mi Ddeddyf dy enae na , miloedd o aur ac ariant . Prydnavvn vveddi .
+19:119:073:0	DY ddwylaw am gwnaethant ac am ffurfiasant : [ gan hyny] moes i mi deall , y [ gahel] dyscy dy ’orchymyniō
+19:119:074:0	Yno yr ei ath ofnāt , wrth vy-gwelet a lawenánt , can ys yn dy air y imddiriedeis .
+19:119:075:0	Mi wn , Arglwydd , mae cyfiawn [ yw] dy varnae , ac yti yn gyfiawn vy-cystudio .
+19:119:076:0	Bit atolwg dy drugaredd im confforto yn ol dy air ith was [ anaethwr . ]
+19:119:077:0	Deuet dy dosturiol-drugareddae attaf , val y bwy vyw : can ys dy Ddeddyf yw vy-digrifwch .
+19:119:078:0	Cywylyddier y beilchion : can ys gwnaethant yn andewiol [ ac] yn auoc a mi : minau a vevyriaf yn dy ’orch . mynneu .
+19:119:079:0	Ymchwelant attaf y sawl ath ofnant , a’r ei y adwaenant dy destolaethae .
+19:119:022:1	CAPH .
+19:119:023:1	Desecit anima mea .
+19:119:080:0	Bid vy-calon yn berffeith yn dy gynneddfeu rac vy-cywilyddio .
+19:119:081:0	DEfficiawdd vy eneit am dy iechyt : [ er hyny] wrth dy ’air y dysgwiliaf .
+19:119:082:0	Deffigiawd vy llygait am dy air , gan ddywedyt , Pa bryd im diddeny ?
+19:119:083:0	Can ys ydd wyf val potel mewn mwc , [ etwa] nid angofais dy gynneddfeu .
+19:119:084:0	Pa niuer yw dyddiae dy was ? pa bryd y gwnai varn yn erbyn yr ei am erlidiant .
+19:119:085:0	Cloddiawdd y beilchion byllae y-mi , yr hyn nid yw wrth dy Ddeddyf .
+19:119:086:0	Dy oll ’orchymynion [ ynt wirionedd] yn ffals im erlidiant : cymporth vi .
+19:119:087:0	Braidd na ddivasont vi ar y ddaiar : a’ mi nyd ymedeis ath ’orchymynion .
+19:119:024:1	LAMED .
+19:119:025:1	In æternum Domine .
+19:119:088:0	Yn ol dy drugaredd bywocá vi : a’ chatwaf testolaeth dy enae .
+19:119:089:0	DY ’air , Arglwydd , y bery byth yn y nefoedd .
+19:119:090:0	Dy wirionedd [ ys ydd] o genedlaeth y genedlaeth : seiliaist y ddaiar , a’ hi a saif .
+19:119:091:0	Y maent wy yn paráu [ ys yd] y dydd hwn wrth dy ’ordinadeu : can ys oll ynt dy waision .
+19:119:092:0	Pe na bysei dy Ddeddyf ddigrifwch ymy , yno im collesit vi yn vy cystudd .
+19:119:093:0	Byth nid ancofiaf dy ’orchymynion : can ys ac wyntwy im bywéist .
+19:119:094:0	Iti , ydd wyf , catw vi : canys dy orchymynion a gaisiais .
+19:119:095:0	Yr andewolion am dysgwilient er vy-diva : ceisiaf-ddeall dy destolaethae .
+19:119:026:1	MEM .
+19:119:027:1	Quomodo dilexi .
+19:119:096:0	Gwelais dervyn bop perffeithrwydd : [ eithr] dy ’orchymyn ys y tra eheng .
+19:119:097:0	PA garu ydd wyfar dy Ddeddyf ? pop dydd ydd wyf yn ei mevyrio .
+19:119:098:0	Wrth dy orchymyniou im gwnaethost yn ðoethach na’m gelynion : can ys byth [ ydd ynt] y gyd a mi .
+19:119:099:0	Vchlaw vy-dyscyawdwyr y dyellais : can ys dy destolaethae [ ynt] vy mevyrdawt .
+19:119:100:0	Dyellais yn vwy na’r henuriait , can ys dy orchymynion a gedwais .
+19:119:101:0	Goherddeis vy-traed rac pop ffordd ddrwc , er mwyn cadw dy ’air .
+19:119:102:0	O ywrth dy vairn nyd enciliais : can ys ti am dysceist
+19:119:103:0	Mor velus yw dy ’eiriae im gorchvan : [ ys] mwy na’r mel im genae .
+19:119:028:1	NVN .
+19:119:029:1	Lucerna pedibus meis .
+19:119:104:0	Can dy ’orchymynion y dauthym y ddyall : am hyny y caséis pop llwybr ’auawc . Boreu vveddi .
+19:119:105:0	LUcern yw dy ’air im traed , a’ llewych im llwybr .
+19:119:106:0	Tyngais a’ chwpláf , ar gadw dy iawn-veirn .
+19:119:107:0	Im cystuddiwyt yn ddirvawr : Arglwydd , bywia vi yn ol dy ’air .
+19:119:108:0	Atolwc Arglwydd , bid gymradwy genyt rydd-offrymeu vy-geneu , a’dysc ymi dy vairn .
+19:119:109:0	Vy eneit ys ydd yn vy llaw yu oystat : er hyny nid angof genyf dy Ddeddyf .
+19:119:110:0	Gosodawdd yr andewolion vagl ymy : ac nid enciliais ywrth dy orchymynnae .
+19:119:111:0	Etiveddais dy destolaethae yn tragyvyth : can ys llawenydd vy-calon ytynt .
+19:119:030:1	SAMECH .
+19:119:031:1	Iniquos odio habui .
+19:119:112:0	Pwysais vy-calon y gyflawny dy gynneddfeu bop amser , [ ys] yd y dywedd .
+19:119:113:0	MEddyliae-gweigion y gafeis : eithr dy Ddeddyf a garaf .
+19:119:114:0	Vy dirgelva-wyt a’m tarian . [ ac] yn dy ’air y ymddiriedaf .
+19:119:115:0	Tynwch y wrthyf chwi andewolion : can ys catwaf ’orchymynion vy-Dew .
+19:119:116:0	Cynnal vi yn ol dy air , a’ byw vyddaf , ac na phar ym wradwydd o’m gobaith .
+19:119:117:0	Attega vi , ac iach vyddaf , ac ymddigrifáf yn dy gynneddfeu yn wastat .
+19:119:118:0	Sathreist yr oll rei ymdawant y wrth dy gynneddfeu : can ys over yw ei dichell .
+19:119:119:0	Peraist ymaith oll andewolion y ddaiar val ampuredd [ metel] : am hyny y cereis dy destolaethae .
+19:119:032:1	AIN .
+19:119:033:1	Feci iudicum
+19:119:120:0	Ergrynawdd vy-cnawt rrac dy arswyt , a’ chan dy vairn yr ofnais .
+19:119:121:0	GWneythym varn a’ chyfiawnder : na ad vi im gorthrymwyr .
+19:119:122:0	Par ith was roi ei vryd ar ddaoni , [ ac] na’d ir beilchion vy-gorthrymu .
+19:119:123:0	Deffygiawð vy llygait [ yn edrych] am dy iechyt , ac am dy ymadrodd cyfiawn .
+19:119:124:0	Gwna ath was yn ol dy drugaredd , a’dysc i mi dy gynneddfae .
+19:119:125:0	Gwas y ti ytwyf : can hyny gwna i mi ddeall , mal y gwypwyf dy destolaethae .
+19:119:126:0	Amser yw ir Arglwydd waithiaw : [ can ys] destruwesont dy Ddeddyf .
+19:119:127:0	Am hyny y caraf dy ’orchymynion vchlaw aur , ac uchlaw aur coeth .
+19:119:034:1	Mirabilia .
+19:119:035:1	PE .
+19:119:128:0	Can hynny ys vnion y barnais dy oll ’orchmynion : a’ phop llwybr gauawc a gaseais .
+19:119:129:0	YS rhyvedd [ yw] dy destolaethae : am hyny y caidw vy enait wyntwy .
+19:119:130:0	Agoriat dy ’air a rydd olauni , [ ac] a bar ddeall irr ei andisemyl .
+19:119:131:0	Agoreis vy-genae ac anhetlais , can ys dy ’orchmynion a garais .
+19:119:132:0	Edrych arnaf a’ thrugará wrthyf , yn ol dy ddevot ir ei y garant dy Enw .
+19:119:133:0	Forddia di vy llwybreu yn dy ’air , ac na bo y ddim enwiredd arglwyddiaw arnaf .
+19:119:134:0	Achup vi rac trawsedd dynion , a’ chatwaf dy orchymyneu .
+19:119:135:0	Llewycha d’wynep ar dy was , a’ dysc ymy dy gynneddfeu .
+19:119:036:1	Iustus es Domine .
+19:119:037:1	TSADDI .
+19:119:136:0	Avonydd dufredd a red om llygaid , can na chatwant dy ’orchymynion .
+19:119:137:0	KYfiawn ytwyt Arglwydd , ac vnion yw dy varn .
+19:119:138:0	Ath testiolaethoe y gorchymyneist gifiawnder , a’ gwirionedd yn benddivaddeu .
+19:119:139:0	Vyg gwynvyd am divaodd , can im gelynion ancofi dy’ air .
+19:119:140:0	Provwyt dy’ air yn buraf dim , ath was y car ef .
+19:119:141:0	Bychan ytwyf a’ thremigus : er hyny nyd ancofiaf dy ’orchymynion .
+19:119:142:0	Dy gyfiawnder [ sy] gyfiawnder tragywyddawl , ath Ddeddyf gwirionedd [ yw] .
+19:119:143:0	Ing a gwascva a ðaeth arnaf : [ eithr yn dy orchmynion [ y mae] vy-digrifwch .
+19:119:038:1	KOPH .
+19:119:039:1	Clamaui .
+19:119:144:0	Iawnder dy testiolaethae [ sy] tragyvythawl : dod y my ddeall , a’ byw vyddaf . Prydnawn weddi .
+19:119:145:0	LLevais am oll galon : clyw vi , Arglwyð , [ ath] gynneðfeu a gatwaf
+19:119:146:0	Arnat y gelwais : ymwared vi , a’ chatwaf dy destliolaethae .
+19:119:147:0	Achupeis y cynddyð , a’ llefais : can ys am dy ’air y dysgwiliwn .
+19:119:148:0	Vy llygait y achubent wiliae [ ’r nos] er mevyrio yn dy ’air .
+19:119:149:0	Clyw vy llef yn ol dy drugararwgwydd : Arglwydd yn ol dy ddevot bywa vi .
+19:119:150:0	Dynessay y mae yr ei ’s ydd yn canlyn drwc , [ ac] ywrth dy Deddyf yr ymbellânt .
+19:119:151:0	Cyfagos wyt Arglwydd : can ys dy oll’ orchymynion [ ’sy] gywir .
+19:119:040:1	RESCH .
+19:119:041:1	Vide humilitatem meam .
+19:119:152:0	Es talm y gwyddwn wrth dy destolaethae , vot yty y seiliaw wynt yn tragyvyth .
+19:119:153:0	EDrych ar vy-cystudd , a’ dianc vi : can nad angofeis dy Ddeddyf .
+19:119:154:0	Dadle vy-dadl , a’ gwared vi : bywia vi yn ol dy ’air .
+19:119:155:0	Ys pell iechyt ywrth yr andewolion , can na cheisiesont dy gynneddfeu .
+19:119:156:0	Ys mawr dy dosturiaethe . Arglwydd : bywia vi-wrth dy vairn .
+19:119:157:0	Llawer [ ’s ydd] im erlid ac im gorthrymu , [ ac] ywrth dy testoliaeth nyd enciliaf .
+19:119:158:0	Gwelwn y troseddwyr a ’govit oedd genyf , can na chatwent dy ’air .
+19:119:159:0	Gwyl , Arglwydd , modd y cereis dy ’orchymynion : bywia vi yn ol dy drugarawgrwydd .
+19:119:042:1	SCHIN .
+19:119:043:1	Principes persecuti .
+19:119:160:0	[ O’r] pen cyntaf y mae dy air yn wirionedd , ac oll varnae dy gyfiawnder [ y baránt] yn tragyvyth .
+19:119:161:0	TYwysogion am erlydiesont yn ddiachos , eithr gan dy ’airieu yr ofnei vy-calon .
+19:119:162:0	Llawen yw vi o bleit dy ’air , mal vn yn cahel yscyvaeth lawer .
+19:119:163:0	Falsedd ys y gas a’ ffiaidd genyf , [ eithr] dy Ddeddyf a garaf .
+19:119:164:0	Seithweith yn y dydd ith volaf , o erwydd dy iawn varneu .
+19:119:165:0	Mawr vydd llwyddiant yr ei a garant dy Ddeddyf , ac nys daw eniwet yddynt .
+19:119:166:0	Ys gwiliais wrth dy iechyt , Arglwydd , ath ’orchymynion a wneuthym .
+19:119:167:0	Catwadd vy eneit dy destoliaethae : canys caraf wynt yn ddirvawr
+19:119:044:1	TAV .
+19:119:045:1	Appropinquet deprecatio .
+19:119:168:0	Cetweis dy ’orchymynion ath testoliaethae : can ys vy oll ffyrdd [ ynt] yn dy olwc .
+19:119:169:0	DEuet vy-cwyn ger dy wynep , Arglwyð , [ ac] yn ol dy ’air par y-my ddyall .
+19:119:170:0	Deuet vy adolwyn rhac dy wynep , ac yn ol dy ’air gwared vi .
+19:119:171:0	Vy-gwefuse a gympwyll voliant , pan ddyscych ymy , dy gynnedfeu .
+19:119:172:0	Vy-tavod a’ draetha oth ’air : can ys dy oll ’orchymynion [ sy] gyfiawn .
+19:119:173:0	Boet dy law am cymportho : can ys dy ’orchymynion y ddywyseis .
+19:119:174:0	Bu arnaf hiraeth am dy iechyt , Arglwydd , ath Ddeddyf yw vy hyfrydwch .
+19:119:175:0	Bid vyw vy eneit , ac ef ath vawl , ath vairn am cymporthant .
+19:119:176:0	Cyfeiliorneis val dauat a gollit : cais dy was , o bleit dy orchmynion nyd ebryvygeis .

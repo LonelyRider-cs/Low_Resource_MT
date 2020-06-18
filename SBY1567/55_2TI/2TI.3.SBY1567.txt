@@ -1,0 +1,22 @@
+55:3:001:1	Pen . iij .
+55:3:002:1	1 Prophwyto y mae ef o’r amsereu periclus , 2 Y mae yn amlygu r
+55:3:003:1	*
+55:3:004:1	ffuantwyr gausaint
+55:3:005:1	hypocriteit y dā ei lliw ai harwyð . 12 Yn dangos cyflwr y Christianogiō . 14 A’ phy wedd ymogelir periclon . 16 Hefyt pa vudd a ddaw y wrth yr Scrythurae .
+55:3:001:0	GWybydd hyn hefyt , may yn y dyddieu dywethaf y daw amsereu periclus .
+55:3:002:0	Can ys bydd dynion a’i serch arnyn y hunain , yn cupyddion , ymffrostwyr , yn veichion , cablwyr , yn anuvyddion yw rrieni , yn andiolchgar , yn ansanctaidd ,
+55:3:003:0	Digariat‐naturiol ganthynt , yn tori‐dygymbot , gaugyhuddwyr , yn rei antemperus , yn ffyrnygion , eb serch ganthynt ir ei da ,
+55:3:004:0	Bradwyr , ’rei gwaydwyllt , rei bolchwydd , rei yn caru chwantach yn vwy nac yn caru Duw ,
+55:3:005:0	A’ chanthynt gyfrith dywoldeb , eithyr ymwadu a’ei ’rym a wnaethont : tro ymaith gan hyny y wrth y cyfryw rei .
+55:3:006:0	Can o’r ei hyn y mae y sawl a ymluscant i daie , ac yn dwyn yn gaith wrageddos yn llwythoc o bechotae , yn arweinedic gan amravael chwāteu ,
+55:3:007:0	A’r gvvragedd hyn ynt vyth yn dyscu , ac eb allu byth dyvot y wybodaeth y gwirionedd .
+55:3:008:0	Ac megis y gwrth safodd Iannes ac Iambres Voysen , vel’y y mae yr ei hyn yn gwrthðod y gwirionedd , dynion o veddwl llygredic , yn amprovadwy erwydd y ffydd .
+55:3:009:0	Eithr ny vuddiant vvy mwyach : can ys ei hynvydrwydd vydd amlwg i bawp , megis ac y bu yr eiddynt .
+55:3:010:0	A’ thi a lwyr adwaenost vy‐dysceidaeth i , helhynt vy‐buchedd , vy‐purpos , ffydd , ammyned , cariat , dioddefgarwch ,
+55:3:011:0	Ymlidiae , a’ gorthrymdereu yr ei y ðaeth i mi yn Antiocheia , yn Iconium , ac yn Lystri , yr hyn ymlidiae a ðyoddefais : eithyr o ywrthynt oll im gwaredawdd yr Arglwydd .
+55:3:012:0	Ac ys pawp a’r wyllysont vyw yn ddywol yn‐Christ Iesu , a ymlidir .
+55:3:013:0	Eithr y drwc ddynion , a’r twyllwyr aant waethwaeth , gan dwyllo , a’ chael ei twyllo .
+55:3:014:0	Eithyr aros ti yn y petheu a ddysceist , ac ith sefydlir ynthynt , yn gwybot can bwy ey dysceist :
+55:3:015:0	A’ bot y ti wybot yr Scrythuræ glan er yn vap , yr ei ’sy abl ith wneuthur yn‐ðoeth i iechedwrieth trwy’r ffydd ys ydd yn‐Christ Iesu .
+55:3:016:0	Can ys yr oll Scrythur ys ydd wedy ei rroddi can ysprytoliaeth Duw , ac ys ydd profitiol y addyscu , y argyweddu , y correctio , ac y roi athraweth yn‐cyfiawnder ,
+55:3:017:0	Mal y bo dyn Duw yn perfeith , wedy ei berfeithio i bop gweithred da .

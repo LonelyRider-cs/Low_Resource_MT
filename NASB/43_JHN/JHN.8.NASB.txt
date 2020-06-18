@@ -1,0 +1,62 @@
+43:8:001:1	The Adulterous Woman
+43:8:001:0	But Jesus went to the Mount of Olives .
+43:8:002:0	Early in the morning He came again into the temple , and all the people were coming to Him ; and He sat down and began to teach them .
+43:8:003:0	The scribes and the Pharisees *brought a woman caught in adultery , and having set her in the center of the court ,
+43:8:004:0	they *said to Him , “ Teacher , this woman has been caught in adultery , in the very act .
+43:8:005:0	Now in the Law Moses commanded us to stone such women ; what then do You say ? ”
+43:8:006:0	They were saying this , testing Him , so that they might have grounds for accusing Him . But Jesus stooped down and with His finger wrote on the ground .
+43:8:007:0	But when they persisted in asking Him , He straightened up , and said to them , “ He who is without sin among you , let him first to throw a stone at her . ”
+43:8:008:0	Again He stooped down and wrote on the ground .
+43:8:009:0	When they heard it , they began to go out one by one , beginning with the older ones , and He was left alone , and the woman , where she was , in the center of the court .
+43:8:010:0	Straightening up , Jesus said to her , “ Woman , where are they ? Did no one condemn you ? ”
+43:8:002:1	Jesus Is the Light of the World
+43:8:011:0	She said , “ No one , Lord . ” And Jesus said , “ I do not condemn you , either . Go . From now on sin no more . ” ]
+43:8:012:0	Then Jesus again spoke to them , saying , “ I am the Light of the world ; he who follows Me will not walk in the darkness , but will have the Light of life . ”
+43:8:013:0	So the Pharisees said to Him , “ You are testifying about Yourself ; Your testimony is not true . ”
+43:8:014:0	Jesus answered and said to them , “ Even if I testify about Myself , My testimony is true , for I know where I came from and where I am going ; but you do not know where I come from or where I am going .
+43:8:015:0	You judge according to the flesh ; I am not judging anyone .
+43:8:016:0	But even if I do judge , My judgment is true ; for I am not alone but I and the Father who sent Me .
+43:8:017:0	Even in your law it has been written that the testimony of two men is true .
+43:8:018:0	I am He who testifies about Myself , and the Father who sent Me testifies about Me . ”
+43:8:019:0	So they were saying to Him , “ Where is Your Father ? ” Jesus answered , “ You know neither Me nor My Father ; if you knew Me , you would know My Father also . ”
+43:8:020:0	These words He spoke in the treasury , as He taught in the temple ; and no one seized Him , because His hour had not yet come .
+43:8:021:0	Then He said again to them , “ I go away , and you will seek Me , and will die in your sin ; where I am going , you cannot come . ”
+43:8:022:0	So the Jews were saying , “ Surely He will not kill Himself , will He , since He says , ‘Where I am going , you cannot come’ ? ”
+43:8:023:0	And He was saying to them , “ You are from below , I am from above ; you are of this world , I am not of this world .
+43:8:024:0	Therefore I said to you that you will die in your sins ; for unless you believe that I am you will die in your sins . ”
+43:8:025:0	So they were saying to Him , “ Who are You ? ” Jesus said to them , “ What have I been saying to you the beginning ?
+43:8:026:0	I have many things to speak and to judge concerning you , but He who sent Me is true ; and the things which I heard from Him , these I speak to the world . ”
+43:8:027:0	They did not realize that He had been speaking to them about the Father .
+43:8:028:0	So Jesus said , “ When you lift up the Son of Man , then you will know that I am and I do nothing on My own initiative , but I speak these things as the Father taught Me .
+43:8:029:0	And He who sent Me is with Me ; He has not left Me alone , for I always do the things that are pleasing to Him . ”
+43:8:003:1	The Truth Will Make You Free
+43:8:030:0	As He spoke these things , many came to believe in Him .
+43:8:031:0	So Jesus was saying to those Jews who had believed Him , “ If you continue in My word , you are truly disciples of Mine ;
+43:8:032:0	and you will know the truth , and the truth will make you free . ”
+43:8:033:0	They answered Him , “ We are Abraham’s descendants and have never yet been enslaved to anyone ; how is it that You say , ‘You will become free’ ? ”
+43:8:034:0	Jesus answered them , “ Truly , truly , I say to you , everyone who commits sin is the slave of sin .
+43:8:035:0	The slave does not remain in the house forever ; the son does remain forever .
+43:8:036:0	So if the Son makes you free , you will be free indeed .
+43:8:037:0	I know that you are Abraham’s descendants ; yet you seek to kill Me , because My word has no place in you .
+43:8:038:0	I speak the things which I have seen with Father ; therefore you also do the things which you heard from father . ”
+43:8:039:0	They answered and said to Him , “ Abraham is our father . ” Jesus *said to them , “ If you are Abraham’s children , do the deeds of Abraham .
+43:8:040:0	But as it is , you are seeking to kill Me , a man who has told you the truth , which I heard from God ; this Abraham did not do .
+43:8:041:0	You are doing the deeds of your father . ” They said to Him , “ We were not born of fornication ; we have one Father : God . ”
+43:8:042:0	Jesus said to them , “ If God were your Father , you would love Me , for I proceeded forth and have come from God , for I have not even come on My own initiative , but He sent Me .
+43:8:043:0	Why do you not understand what I am saying ? because you cannot hear My word .
+43:8:044:0	You are of father the devil , and you want to do the desires of your father . He was a murderer from the beginning , and does not stand in the truth because there is no truth in him . Whenever he speaks a lie , he speaks from his own for he is a liar and the father of lies .
+43:8:045:0	But because I speak the truth , you do not believe Me .
+43:8:046:0	Which one of you convicts Me of sin ? If I speak truth , why do you not believe Me ?
+43:8:047:0	He who is of God hears the words of God ; for this reason you do not hear because you are not of God . ”
+43:8:048:0	The Jews answered and said to Him , “ Do we not say rightly that You are a Samaritan and have a demon ? ”
+43:8:049:0	Jesus answered , “ I do not have a demon ; but I honor My Father , and you dishonor Me .
+43:8:050:0	But I do not seek My glory ; there is One who seeks and judges .
+43:8:051:0	Truly , truly , I say to you , if anyone keeps My word he will never see death . ”
+43:8:052:0	The Jews said to Him , “ Now we know that You have a demon . Abraham died , and the prophets also ; and You say , ‘If anyone keeps My word , he will never taste of death . ’
+43:8:053:0	Surely You are not greater than our father Abraham , who died ? The prophets died too ; whom do You make Yourself out to be ? ”
+43:8:054:0	Jesus answered , “ If I glorify Myself , My glory is nothing ; it is My Father who glorifies Me , of whom you say , ‘He is our God’ ;
+43:8:055:0	and you have not come to know Him , but I know Him ; and if I say that I do not know Him , I will be a liar like you , but I do know Him and keep His word .
+43:8:056:0	Your father Abraham rejoiced to see My day , and he saw and was glad . ”
+43:8:057:0	So the Jews said to Him , “ You are not yet fifty years old , and have You seen Abraham ? ”
+43:8:058:0	Jesus said to them , “ Truly , truly , I say to you , before Abraham was born , I am . ”
+43:8:059:0	Therefore they picked up stones to throw at Him , but Jesus hid Himself and went out of the temple .

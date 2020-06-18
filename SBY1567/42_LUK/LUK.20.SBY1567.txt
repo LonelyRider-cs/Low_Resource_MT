@@ -1,0 +1,52 @@
+42:20:001:1	Pen . xx .
+42:20:002:1	Christ yn goystegu ei wrthnebwyr a’
+42:20:003:1	*
+42:20:004:1	chvvestiō
+42:20:005:1	gorchest arall . Yn dangos y dinistriat wy drwy ar ddamec . Awturtot Llywyawdwyr . Y cyuodedigaeth a ei ddwywol veddiant . Ef yn beio ar vocsach a’rryvio y Gwyr‐llen .
+42:20:001:0	AC e ddarvu ar vn o’r dyddiae hyny , ac ef yn dyscu ’r popul yn y Templ , ac yn Euāgelu , yr Archoffeiriait , a’r Gwyr llen a ddaethant arnaw y gyd ar Henafieit
+42:20:002:0	ac a lafaresont wrthaw , gan ddywedyt , Dyweit i ni wrth pa awturtot y gwnai di y pethe hyn , nai pwy a roes i ti yr awturtat hyn ?
+42:20:003:0	Ac ef atepodd ac a ddyuot wrthwynt , A’ minef a ’ovynaf i chwithe , vn‐peth : dywedwch ymy gan hyny :
+42:20:004:0	Betyð Ioan ai o’r nef ydd oeð , ai o ddynion ?
+42:20:005:0	A’ hwy a resymesōt ynthyn y hunain , gā ðywedyt , A’s dywedwn mai or nef , ef a ðywait , Paam gan hyny na chredech y‐ddaw ?
+42:20:006:0	Ac a’s dywedwn Mai o ddynion , yr oll popul a’n llapyddia ni : can ys‐diogel yvv ganthwynt mai Prophwyt oedd Ioan .
+42:20:007:0	Am hyny yr atebesont , na wyddent o b’le ydd oeð .
+42:20:008:0	Yno y dyuot yr Iesu wrthynt , Ac nys’ ddywedaf vinev y chwithev , trwy pa awdurdot y gwnaf y pethae hyn .
+42:20:009:0	Yno y dechreawdd ef ddywedyt wrth y plwyf y parabol hyn , Gwr oedd a blannei winllan , ac y llocawdd hi y dir‐ðiwylliawdwyr : ac aeth i wlat dieithr , dros amser mawr .
+42:20:010:0	Ac ar ryw bryd , yd anvones ef was at y tir‐ðiwylliawdwyr val y rhoddent y‐ddaw o ffrwyth y winllan , eithyr y tir‐ddiwyllyawdwyr y bayddent ef , ac eu danvonent ymaith yn wac .
+42:20:011:0	Ac eilwaith yd anvonawdd ef was arall : a hwnavv a gurasont wy , ac ei amparchesont ac ei danvonesōt y fforð yn wac .
+42:20:012:0	Trache e ddanvonawdd y trydydd , a hwn , a archollesont ac a vwriesont allan .
+42:20:013:0	Yno y dyuot Arglwydd y winllan , Pa beth a wnaf ? Anvonaf y caredic vap mauvi : ef allei y parchant , pan y gwelont ef .
+42:20:014:0	A’r tir‐ddiwilliawddwyr pan welesont ef , ymrysymy ai gylydd a ’orugant , gan ddywedyt Hwn yw’r y tifedd : dewch , lladdwn ef , y’n y bo yr tiveddiaeth yn eiddom .
+42:20:015:0	A’ hwy y tavlesont ef allan o’r winllan , ac ei lladdesont . Pa beth gan hyny a wna Arglwydd y winllan yddwynt ?
+42:20:016:0	Ef a ddaw ac a destryw y tir‐ddiwilliawdwyr hyn , ac a ddyd ey winllan y eraill . A’ phan glywsant hyn , y dywedesont Na bo hyny .
+42:20:017:0	Ac ef a edrychawdd arnynt , ac a ddyvot , Beth ynteu yw hyn a esceivenwyt , Y maen y wrthodent yr adailwyr , hwnw a wnaethpwyt yn ben ir congylvaen ?
+42:20:018:0	Pwy pynac a syrthio ar y maen hwnaw , a ddryllir : ac ar pwy pynac y syrthio ef ei mal yn chwilfriw .
+42:20:019:0	Yno yr Archoffeiriait a’r Gwyr‐llen yn yr awr hono a geysynt ddodi dwylo arnaw : ( anyd bot arnyn ofn y popul ) can ys gwybuont may yn y erbyn hwy y dywedesei ef y parabol hwn .
+42:20:020:0	A’ hwy ei dysgwyliesont , ac a ddanvonent gynllwynwyr a symlent ey bot yn gyfion , y graffu ar y ymadrodd ef , ac y’w roddy ef ym‐meddiant ac awturtot y President .
+42:20:021:0	Ac y a ’ofynesont y‐ddaw , gan ddywedyt , Athro , gwyddam y dywedy di ac y dyscy yr vnion , ac na dderbyny vvyneb ond val ygylydd , ’eithyr dyscu yddwyt i bavvp ffordd Dduw yn‐gwirioned .
+42:20:022:0	Ai cyfreithlawn i ni roddy teyrnget i Caisar ai nyd yw ?
+42:20:023:0	Ac ef a ddyallawdd y dichell wy , ac a ddyuot wrth‐wynt , Paam y temptiwch vi ?
+42:20:024:0	dangoswch i mi geiniawc . Pwy biae ’r ddelw ar graipht ’sy arnei . Atep o hanynt a ’dywedyt , Caisar .
+42:20:025:0	Yno y dywedei ef wrthynt , Rowch am hyny yr eiddo Caisar , i Caisar , a ’r eiddaw Duw , y Dduw .
+42:20:026:0	Ac velly ny allesont veio ar y eiriae ef geyr bron y popul : anyd ryveð vu ganthynt y atep ef , a’ thewy a son a wnaethāt .
+42:20:027:0	Yno y daeth ataw ’r ei o’r Zadduceit ( yr ei a wadant vot cyuodedigaeth ) ac a ’ovynent iðaw ,
+42:20:028:0	gan ddywedyt , Athro , Moysen a yscrivennawdd i ni , A’s bydd marw brawd nep ac iddaw wreic , a’ marw o hanaw yn ddi‐blant , bot y’w vrawt gymeryd ei wreic , a’ chody had y’w vrawd .
+42:20:029:0	Ac yr oedd saith broder , a’r cyntaf a gymerth ’wraic ac a vu varw yn ddi blant .
+42:20:030:0	A’r ail a gymerth y wreic , ac yntef a vu varw eb plant .
+42:20:031:0	Yno y trydydd y cymerth hi : a’r vn modd y bu veirw y saith eb adu plant .
+42:20:032:0	Ac yn ddywethaf oll marw o’r wreic hefyt .
+42:20:033:0	Can hyny yn y cyuodedigaeth , gwraic i bwy vn o hanynt vydd hi ? can ys ir saith y bu hi yn wreic .
+42:20:034:0	Yno ydd atebawdd yr Iesu , ac y dyuot wrthynt , Plant y byd hwn a wreicaant ac a’wrant .
+42:20:035:0	Anyd yr ei a deilyngir y veddy ar y byd hwnw , a ’r cyuodiat o veirw , ny wreicaant , ac ny wrhant .
+42:20:036:0	Can na allant varw mwyach , o bleit eu bot yn gymetrol a’r Angelon , ac ynt yn Veibion Duw , ac wyntæ yn blant y cyuodedigaeth .
+42:20:037:0	A’ bod ir meirw adgyuodi , ’sef Moysen ei racddangoses yn y dyrysllwyn , pan ddyvot ef , Mai yr Arglwydd yvv y Duw Abraham , a’r Duw Isaac , a’r Duw Iaco .
+42:20:038:0	Can nad yw ef Duw ’r meirw , anyd ir ei byw : can ys byw ynt oll iddo ef .
+42:20:039:0	Yno ydd atepawdd ’r ei o’r Gwyr‐llen , ac a ddywedesont , Athro , da y dewedeist .
+42:20:040:0	Ac ar ol hyny , ny veiddiesont ymofyn ac ef ddim oll .
+42:20:041:0	Yno y dyuot wrth‐wynt , Pa‐vodd y dywedant vot y Christ yn vap Dauid ?
+42:20:042:0	Ac yntef Dauid yn dywedyt yn llyver y Psamae , Dywedawð yr Arglwydd wrth vy Arglwydd , eisted ar vy‐deheulaw ,
+42:20:043:0	Y n y wnelwyf vy‐gelynion yn droedfainc y‐ty .
+42:20:044:0	Can y Ddauid y alw ef yn Arglwydd , a’ pha weð y mae ef yn vap iddaw .
+42:20:045:0	Yno a’r popul yn clywet , y dyuot ef wrth ei ddiscipulon ,
+42:20:046:0	Ymogelwch rac y Gwyr‐llen , yr ei a ewyllysiant vyned mewn dillat llaision , ac a garant gael cyfarch gwell yddyn yn y marchanatoedd , a’r eisteddvae vchaf yn y Synagogae , a’r lleoedd pennaf yn yn y gwleddoedd :
+42:20:047:0	yr ei a lwyr ysant dai y gvvragedd-gweddwon ’sef yn rhith hir weddiaw : yr ei hyn a dderbyniant varn drymach .

@@ -1,0 +1,22 @@
+19:77:001:1	Psalm . lxxvij .
+19:77:002:1	Voce mea ad Dominum .
+19:77:001:0	AR Ddew [ y daeth vy llef , pan waeddais : vy llef [ a ddaeth] at Ddew , ac ef am gwranandawoð .
+19:77:002:0	Yn-dydd vy-cyfingser y ceisiais yr Arglwyð : vy archoll y redai y nos ac ny pheidiai : vy eneit a wrthodes ei ddiddanu .
+19:77:003:0	Meddyliais am Ddew , ac im cynnyrfwyt : gweðiais , am yspryt oedd athrist . Sélah .
+19:77:004:0	Deliaist vy llygait yn-deffro : mewn trymvryd yr oeddwn ac ny allwn lavaru .
+19:77:005:0	[ Yno] yr ystyriais y dyddiae gynt , [ a’] blyddynedd yr [ hen] oesoedd .
+19:77:006:0	Cofio a wnaethym vy canu y nos : ys cympwyllais wrth vy-calon , a’m yspryt a chwiliawdd ynddyval .
+19:77:007:0	A ymbellá yr Arglwyð yn tragywyth ? ac a gair ei ewyllys da mwy ?
+19:77:008:0	A ballawdd y drugareð ef byth ? a ðarvu ei aðewit yn oes oesoedd ?
+19:77:009:0	A angofiawð Dew vot yn drugaroc ? a attaliodd ef ei drugareddae yn [ ei] soriant ? Selah .
+19:77:010:0	A’ dywedais , Vy angae ytyw : [ yno y meddyliaisam] vlynyddedd deheulaw y Goruchaf .
+19:77:011:0	Cofieis weithredeð yr Arglwydd : ys cofieis am dy ryveddodeu o’r cynvyt .
+19:77:012:0	A’ mevyrias dy oll werthredeð , a’ chympwyllais am dy waithieu [ gan ddywedyt , ]
+19:77:013:0	Dew dy fforð [ ys ydd] yn y Cyssecr : pwy ’sy gymeint Dew a’n Dew [ ni ? ]
+19:77:014:0	Ti y w’r Dew y wnai ryveddodae : gwnaethost wybot dy gedernit ym-plith y populoedd .
+19:77:015:0	Gwaredeist ath vraich dy popul , [ ys] meibion Iaco ac Ioseph . Selah .
+19:77:016:0	Y dyfreð ath welsant , Ddew : y dyfreð ath welsant [ ac] ofnesant : ys y dyfndereu a grynent .
+19:77:017:0	Yr wybreu a dywalltent ddyfreð : y nefoeð a roðent leferyð : ys dy saetheu a gerddent .
+19:77:018:0	Llais dy daran [ oeð] oðyamgylch : y mellt a lewychent y byt : echrynawð y byt ac escutwodd .
+19:77:019:0	Yn y môr [ y mae] dy fforð , ath lwybrae yn y dyfredd mawrion , ath olae nid adwaenir .
+19:77:020:0	Tywyseit dy popul mal deveit , drwy law Moysen ac Aron .

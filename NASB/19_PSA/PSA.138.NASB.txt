@@ -1,0 +1,17 @@
+19:138:001:1	PSALM 138
+19:138:002:1	Thanksgiving for the L
+19:138:003:1	ord
+19:138:004:1	’
+19:138:005:1	s
+19:138:006:1	Favor .
+19:138:007:1	
+19:138:008:1	A Psalm
+19:138:009:1	of David .
+19:138:001:0	I will give You thanks with all my heart ; I will sing praises to You before the gods .
+19:138:002:0	I will bow down toward Your holy templeAnd give thanks to Your name for Your lovingkindness and Your truth ; For You have magnified Your word according to all Your name .
+19:138:003:0	On the day I called , You answered me ; You made me bold with strength in my soul .
+19:138:004:0	All the kings of the earth will give thanks to You , O Lord , When they have heard the words of Your mouth .
+19:138:005:0	And they will sing of the ways of the Lord , For great is the glory of the Lord .
+19:138:006:0	For though the Lord is exalted , Yet He regards the lowly , But the haughty He knows from afar .
+19:138:007:0	Though I walk in the midst of trouble , You will revive me ; You will stretch forth Your hand against the wrath of my enemies , And Your right hand will save me .
+19:138:008:0	The Lord will accomplish what concerns me ; Your lovingkindness , O Lord , is everlasting ; Do not forsake the works of Your hands .

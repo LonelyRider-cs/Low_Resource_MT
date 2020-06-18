@@ -1,0 +1,12 @@
+19:122:001:1	PSALM 122
+19:122:002:1	Prayer for the Peace of Jerusalem .
+19:122:003:1	A Song of Ascents , of David .
+19:122:001:0	I was glad when they said to me , “ Let us go to the house of the Lord . ”
+19:122:002:0	Our feet are standingWithin your gates , O Jerusalem ,
+19:122:003:0	Jerusalem , that is builtAs a city that is compact together ;
+19:122:004:0	To which the tribes go up , even the tribes of the Lord—An ordinance for Israel—To give thanks to the name of the Lord .
+19:122:005:0	For there thrones were set for judgment , The thrones of the house of David .
+19:122:006:0	Pray for the peace of Jerusalem : “ May they prosper who love you .
+19:122:007:0	May peace be within your walls , And prosperity within your palaces . ”
+19:122:008:0	For the sake of my brothers and my friends , I will now say , “ May peace be within you . ”
+19:122:009:0	For the sake of the house of the Lord our God , I will seek your good .

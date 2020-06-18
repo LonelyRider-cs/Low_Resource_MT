@@ -1,0 +1,23 @@
+19:77:001:1	PSALM 77
+19:77:002:1	Comfort in Trouble from Recalling God’s Mighty Deeds .
+19:77:003:1	For the choir director ; according to Jeduthun . A Psalm of Asaph .
+19:77:001:0	My voice rises to God , and I will cry aloud ; My voice rises to God , and He will hear me .
+19:77:002:0	In the day of my trouble I sought the Lord ; In the night my hand was stretched out without weariness ; My soul refused to be comforted .
+19:77:003:0	When I remember God , then I am disturbed ; When I sigh , then my spirit grows faint . Selah .
+19:77:004:0	You have held my eyelids open ; I am so troubled that I cannot speak .
+19:77:005:0	I have considered the days of old , The years of long ago .
+19:77:006:0	I will remember my song in the night ; I will meditate with my heart , And my spirit ponders :
+19:77:007:0	Will the Lord reject forever ? And will He never be favorable again ?
+19:77:008:0	Has His lovingkindness ceased forever ? Has His promise come to an end forever ?
+19:77:009:0	Has God forgotten to be gracious , Or has He in anger withdrawn His compassion ? Selah .
+19:77:010:0	Then I said , “ It is my grief , That the right hand of the Most High has changed . ”
+19:77:011:0	I shall remember the deeds of the Lord ; Surely I will remember Your wonders of old .
+19:77:012:0	I will meditate on all Your workAnd muse on Your deeds .
+19:77:013:0	Your way , O God , is holy ; What god is great like our God ?
+19:77:014:0	You are the God who works wonders ; You have made known Your strength among the peoples .
+19:77:015:0	You have by Your power redeemed Your people , The sons of Jacob and Joseph . Selah .
+19:77:016:0	The waters saw You , O God ; The waters saw You , they were in anguish ; The deeps also trembled .
+19:77:017:0	The clouds poured out water ; The skies gave forth a sound ; Your arrows flashed here and there .
+19:77:018:0	The sound of Your thunder was in the whirlwind ; The lightnings lit up the world ; The earth trembled and shook .
+19:77:019:0	Your way was in the seaAnd Your paths in the mighty waters , And Your footprints may not be known .
+19:77:020:0	You led Your people like a flockBy the hand of Moses and Aaron .

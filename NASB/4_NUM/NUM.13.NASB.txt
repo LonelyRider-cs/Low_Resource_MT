@@ -1,0 +1,35 @@
+4:13:001:1	Spies View the Land
+4:13:001:0	Then the Lord spoke to Moses saying ,
+4:13:002:0	“ Send out for yourself men so that they may spy out the land of Canaan , which I am going to give to the sons of Israel ; you shall send a man from each of their fathers’ tribes , every one a leader among them . ”
+4:13:003:0	So Moses sent them from the wilderness of Paran at the command of the Lord , all of them men who were heads of the sons of Israel .
+4:13:004:0	These then were their names : from the tribe of Reuben , Shammua the son of Zaccur ;
+4:13:005:0	from the tribe of Simeon , Shaphat the son of Hori ;
+4:13:006:0	from the tribe of Judah , Caleb the son of Jephunneh ;
+4:13:007:0	from the tribe of Issachar , Igal the son of Joseph ;
+4:13:008:0	from the tribe of Ephraim , Hoshea the son of Nun ;
+4:13:009:0	from the tribe of Benjamin , Palti the son of Raphu ;
+4:13:010:0	from the tribe of Zebulun , Gaddiel the son of Sodi ;
+4:13:011:0	from the tribe of Joseph , from the tribe of Manasseh , Gaddi the son of Susi ;
+4:13:012:0	from the tribe of Dan , Ammiel the son of Gemalli ;
+4:13:013:0	from the tribe of Asher , Sethur the son of Michael ;
+4:13:014:0	from the tribe of Naphtali , Nahbi the son of Vophsi ;
+4:13:015:0	from the tribe of Gad , Geuel the son of Machi .
+4:13:016:0	These are the names of the men whom Moses sent to spy out the land ; but Moses called Hoshea the son of Nun , Joshua .
+4:13:017:0	When Moses sent them to spy out the land of Canaan , he said to them , “ Go up there into the Negev ; then go up into the hill country .
+4:13:018:0	See what the land is like , and whether the people who live in it are strong or weak , whether they are few or many .
+4:13:019:0	How is the land in which they live , is it good or bad ? And how are the cities in which they live , are they like open camps or with fortifications ?
+4:13:020:0	How is the land , is it fat or lean ? Are there trees in it or not ? Make an effort then to get some of the fruit of the land . ” Now the time was the time of the first ripe grapes .
+4:13:021:0	So they went up and spied out the land from the wilderness of Zin as far as Rehob , at Lebo-hamath .
+4:13:022:0	When they had gone up into the Negev , they came to Hebron where Ahiman , Sheshai and Talmai , the descendants of Anak were . ( Now Hebron was built seven years before Zoan in Egypt . )
+4:13:023:0	Then they came to the valley of Eshcol and from there cut down a branch with a single cluster of grapes ; and they carried it on a pole between two men , with some of the pomegranates and the figs .
+4:13:002:1	The Spies’ Reports
+4:13:024:0	That place was called the valley of Eshcol , because of the cluster which the sons of Israel cut down from there .
+4:13:025:0	When they returned from spying out the land , at the end of forty days ,
+4:13:026:0	they proceeded to come to Moses and Aaron and to all the congregation of the sons of Israel in the wilderness of Paran , at Kadesh ; and they brought back word to them and to all the congregation and showed them the fruit of the land .
+4:13:027:0	Thus they told him , and said , “ We went in to the land where you sent us ; and it certainly does flow with milk and honey , and this is its fruit .
+4:13:028:0	Nevertheless , the people who live in the land are strong , and the cities are fortified and very large ; and moreover , we saw the descendants of Anak there .
+4:13:029:0	Amalek is living in the land of the Negev and the Hittites and the Jebusites and the Amorites are living in the hill country , and the Canaanites are living by the sea and by the side of the Jordan . ”
+4:13:030:0	Then Caleb quieted the people before Moses and said , “ We should by all means go up and take possession of it , for we will surely overcome it . ”
+4:13:031:0	But the men who had gone up with him said , “ We are not able to go up against the people , for they are too strong for us . ”
+4:13:032:0	So they gave out to the sons of Israel a bad report of the land which they had spied out , saying , “ The land through which we have gone , in spying it out , is a land that devours its inhabitants ; and all the people whom we saw in it are men of great size .
+4:13:033:0	There also we saw the Nephilim ( the sons of Anak are part of the Nephilim ) ; and we became like grasshoppers in our own sight , and so we were in their sight . ”

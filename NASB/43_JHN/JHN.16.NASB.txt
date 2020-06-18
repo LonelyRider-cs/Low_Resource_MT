@@ -1,0 +1,37 @@
+43:16:001:1	Jesus’ Warning
+43:16:001:0	“ These things I have spoken to you so that you may be kept from stumbling .
+43:16:002:0	They will make you outcasts from the synagogue , but an hour is coming for everyone who kills you to think that he is offering service to God .
+43:16:003:0	These things they will do because they have not known the Father or Me .
+43:16:002:1	The Holy Spirit Promised
+43:16:004:0	But these things I have spoken to you , so that when their hour comes , you may remember that I told you of them . These things I did not say to you at the beginning , because I was with you .
+43:16:005:0	“ But now I am going to Him who sent Me ; and none of you asks Me , ‘Where are You going ? ’
+43:16:006:0	But because I have said these things to you , sorrow has filled your heart .
+43:16:007:0	But I tell you the truth , it is to your advantage that I go away ; for if I do not go away , the Helper will not come to you ; but if I go , I will send Him to you .
+43:16:008:0	And He , when He comes , will convict the world concerning sin and righteousness and judgment ;
+43:16:009:0	concerning sin , because they do not believe in Me ;
+43:16:010:0	and concerning righteousness , because I go to the Father and you no longer see Me ;
+43:16:011:0	and concerning judgment , because the ruler of this world has been judged .
+43:16:012:0	“ I have many more things to say to you , but you cannot bear now .
+43:16:013:0	But when He , the Spirit of truth , comes , He will guide you into all the truth ; for He will not speak on His own initiative , but whatever He hears , He will speak ; and He will disclose to you what is to come .
+43:16:014:0	He will glorify Me , for He will take of Mine and will disclose to you .
+43:16:003:1	Jesus’ Death and Resurrection Foretold
+43:16:015:0	All things that the Father has are Mine ; therefore I said that He takes of Mine and will disclose to you .
+43:16:016:0	“ A little while , and you will no longer see Me ; and again a little while , and you will see Me . ”
+43:16:017:0	Some of His disciples then said to one another , “ What is this thing He is telling us , ‘A little while , and you will not see Me ; and again a little while , and you will see Me’ ; and , ‘because I go to the Father’ ? ”
+43:16:018:0	So they were saying , “ What is this that He says , ‘A little while’ ? We do not know what He is talking about . ”
+43:16:019:0	Jesus knew that they wished to question Him , and He said to them , “ Are you deliberating together about this , that I said , ‘A little while , and you will not see Me , and again a little while , and you will see Me’ ?
+43:16:020:0	Truly , truly , I say to you , that you will weep and lament , but the world will rejoice ; you will grieve , but your grief will be turned into joy .
+43:16:021:0	Whenever a woman is in labor she has pain , because her hour has come ; but when she gives birth to the child , she no longer remembers the anguish because of the joy that a child has been born into the world .
+43:16:004:1	Prayer Promises
+43:16:022:0	Therefore you too have grief now ; but I will see you again , and your heart will rejoice , and no one take your joy away from you .
+43:16:023:0	In that day you will not question Me about anything . Truly , truly , I say to you , if you ask the Father for anything in My name , He will give it to you .
+43:16:024:0	Until now you have asked for nothing in My name ; ask and you will receive , so that your joy may be made full .
+43:16:025:0	“ These things I have spoken to you in figurative language ; an hour is coming when I will no longer speak to you in figurative language , but will tell you plainly of the Father .
+43:16:026:0	In that day you will ask in My name , and I do not say to you that I will request of the Father on your behalf ;
+43:16:027:0	for the Father Himself loves you , because you have loved Me and have believed that I came forth from the Father .
+43:16:028:0	I came forth from the Father and have come into the world ; I am leaving the world again and going to the Father . ”
+43:16:029:0	His disciples *said , “ Lo , now You are speaking plainly and are not using a figure of speech .
+43:16:030:0	Now we know that You know all things , and have no need for anyone to question You ; by this we believe that You came from God . ”
+43:16:031:0	Jesus answered them , “ Do you now believe ?
+43:16:032:0	Behold , an hour is coming , and has come , for you to be scattered , each to his own and to leave Me alone ; and I am not alone , because the Father is with Me .
+43:16:033:0	These things I have spoken to you , so that in Me you may have peace . In the world you have tribulation , but take courage ; I have overcome the world . ”

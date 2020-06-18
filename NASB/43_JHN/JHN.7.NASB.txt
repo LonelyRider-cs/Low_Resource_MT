@@ -1,0 +1,55 @@
+43:7:001:1	Jesus Teaches at the Feast
+43:7:001:0	After these things Jesus was walking in Galilee , for He was unwilling to walk in Judea because the Jews were seeking to kill Him .
+43:7:002:0	Now the feast of the Jews , the Feast of Booths , was near .
+43:7:003:0	Therefore His brothers said to Him , “ Leave here and go into Judea , so that Your disciples also may see Your works which You are doing .
+43:7:004:0	For no one does anything in secret when he himself seeks to be known publicly . If You do these things , show Yourself to the world . ”
+43:7:005:0	For not even His brothers were believing in Him .
+43:7:006:0	So Jesus *said to them , “ My time is not yet here , but your time is always opportune .
+43:7:007:0	The world cannot hate you , but it hates Me because I testify of it , that its deeds are evil .
+43:7:008:0	Go up to the feast yourselves ; I do not go up to this feast because My time has not yet fully come . ”
+43:7:009:0	Having said these things to them , He stayed in Galilee .
+43:7:010:0	But when His brothers had gone up to the feast , then He Himself also went up , not publicly , but as if , in secret .
+43:7:011:0	So the Jews were seeking Him at the feast and were saying , “ Where is He ? ”
+43:7:012:0	There was much grumbling among the crowds concerning Him ; some were saying , “ He is a good man ” ; others were saying , “ No , on the contrary , He leads the people astray . ”
+43:7:013:0	Yet no one was speaking openly of Him for fear of the Jews .
+43:7:014:0	But when it was now the midst of the feast Jesus went up into the temple , and began to teach .
+43:7:015:0	The Jews then were astonished , saying , “ How has this man become learned , having never been educated ? ”
+43:7:016:0	So Jesus answered them and said , “ My teaching is not Mine , but His who sent Me .
+43:7:017:0	If anyone is willing to do His will , he will know of the teaching , whether it is of God or I speak from Myself .
+43:7:018:0	He who speaks from himself seeks his own glory ; but He who is seeking the glory of the One who sent Him , He is true , and there is no unrighteousness in Him .
+43:7:019:0	“ Did not Moses give you the Law , and none of you carries out the Law ? Why do you seek to kill Me ? ”
+43:7:020:0	The crowd answered , “ You have a demon ! Who seeks to kill You ? ”
+43:7:021:0	Jesus answered them , “ I did one deed , and you all marvel .
+43:7:022:0	For this reason Moses has given you circumcision ( not because it is from Moses , but from the fathers ) , and on Sabbath you circumcise a man .
+43:7:023:0	If a man receives circumcision on Sabbath so that the Law of Moses will not be broken , are you angry with Me because I made an entire man well on Sabbath ?
+43:7:024:0	Do not judge according to appearance , but judge with righteous judgment . ”
+43:7:025:0	So some of the people of Jerusalem were saying , “ Is this not the man whom they are seeking to kill ?
+43:7:026:0	Look , He is speaking publicly , and they are saying nothing to Him . The rulers do not really know that this is the Christ , do they ?
+43:7:027:0	However , we know where this man is from ; but whenever the Christ may come , no one knows where He is from . ”
+43:7:028:0	Then Jesus cried out in the temple , teaching and saying , “ You both know Me and know where I am from ; and I have not come of Myself , but He who sent Me is true , whom you do not know .
+43:7:029:0	I know Him , because I am from Him , and He sent Me . ”
+43:7:030:0	So they were seeking to seize Him ; and no man laid his hand on Him , because His hour had not yet come .
+43:7:031:0	But many of the crowd believed in Him ; and they were saying , “ When the Christ comes , He will not perform more signs than those which this man has , will He ? ”
+43:7:032:0	The Pharisees heard the crowd muttering these things about Him , and the chief priests and the Pharisees sent officers to seize Him .
+43:7:033:0	Therefore Jesus said , “ For a little while longer I am with you , then I go to Him who sent Me .
+43:7:034:0	You will seek Me , and will not find Me ; and where I am , you cannot come . ”
+43:7:035:0	The Jews then said to one another , “ Where does this man intend to go that we will not find Him ? He is not intending to go to the Dispersion among the Greeks , and teach the Greeks , is He ?
+43:7:036:0	What is this statement that He said , ‘You will seek Me , and will not find Me ; and where I am , you cannot come’ ? ”
+43:7:037:0	Now on the last day , the great day of the feast , Jesus stood and cried out , saying , “ If anyone is thirsty , let him come to Me and drink .
+43:7:038:0	He who believes in Me , as the Scripture said , ‘From his innermost being will flow rivers of living water . ’ ”
+43:7:002:1	Division of People over Jesus
+43:7:039:0	But this He spoke of the Spirit , whom those who believed in Him were to receive ; for the Spirit was not yet given , because Jesus was not yet glorified .
+43:7:040:0	Some of the people therefore , when they heard these words , were saying , “ This certainly is the Prophet . ”
+43:7:041:0	Others were saying , “ This is the Christ . ” Still others were saying , “ Surely the Christ is not going to come from Galilee , is He ?
+43:7:042:0	Has not the Scripture said that the Christ comes from the descendants of David , and from Bethlehem , the village where David was ? ”
+43:7:043:0	So a division occurred in the crowd because of Him .
+43:7:044:0	Some of them wanted to seize Him , but no one laid hands on Him .
+43:7:045:0	The officers then came to the chief priests and Pharisees , and they said to them , “ Why did you not bring Him ? ”
+43:7:046:0	The officers answered , “ Never has a man spoken the way this man speaks . ”
+43:7:047:0	The Pharisees then answered them , “ You have not also been led astray , have you ?
+43:7:048:0	No one of the rulers or Pharisees has believed in Him , has he ?
+43:7:049:0	But this crowd which does not know the Law is accursed . ”
+43:7:050:0	Nicodemus ( he who came to Him before , being one of them ) *said to them ,
+43:7:051:0	“ Our Law does not judge a man unless it first hears from him and knows what he is doing , does it ? ”
+43:7:052:0	They answered him , “ You are not also from Galilee , are you ? Search , and see that no prophet arises out of Galilee . ”
+43:7:053:0	[ Everyone went to his home .

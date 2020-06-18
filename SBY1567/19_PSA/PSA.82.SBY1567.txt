@@ -1,0 +1,12 @@
+19:82:001:1	Psalm . lxxxi
+19:82:002:1	j
+19:82:003:1	.
+19:82:004:1	Deus stetit in sinagoga .
+19:82:001:0	DEw ys y yn sefyll yn-cynnulleidfa y dewieu : ym-plith y dewieu y mae ef yn barnu .
+19:82:002:0	Pa hyd y barnwch yn ancyfiawn a’ chymryt plait yr andewiolion ? Selah .
+19:82:003:0	Bernwch-yn-vnion y tlawt ar amddivat : a’ gwnewch-gyfiawnder i rhaidus a’r truan .
+19:82:004:0	Gwaredwch y tlawt a’r angenawc : cadwch hwy rac llaw yr andewiolion .
+19:82:005:0	Ny wyddant ac ny ddyallant [ ddim] : rodio y maent yn-tywyllwch , [ er hyny] oll sailieu y ddaiar y gyffroit .
+19:82:006:0	Mi ddywedais , [ Ys] dewiae ytych , a’ phlant y Goruchaf ytych oll .
+19:82:007:0	Er hyny val dyn y byddwch veirw , a’ chwi dywysogion val eraill y dygwyddwch .
+19:82:008:0	Dew cyvot , [ a’] barn y ddaiar , can ys ti etifeddy yr oll genedloedd .

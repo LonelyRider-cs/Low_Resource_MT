@@ -1,0 +1,15 @@
+19:75:001:1	PSALM 75
+19:75:002:1	God Abases the Proud , but Exalts the Righteous .
+19:75:003:1	For the choir director ;
+19:75:004:1	set to
+19:75:005:1	Al-tashheth . A Psalm of Asaph , a Song .
+19:75:001:0	We give thanks to You , O God , we give thanks , For Your name is near ; Men declare Your wondrous works .
+19:75:002:0	“ When I select an appointed time , It is I who judge with equity .
+19:75:003:0	The earth and all who dwell in it melt ; It is I who have firmly set its pillars . Selah .
+19:75:004:0	I said to the boastful , ‘Do not boast , ’And to the wicked , ‘Do not lift up the horn ;
+19:75:005:0	Do not lift up your horn on high , Do not speak with insolent pride . ’ ”
+19:75:006:0	For not from the east , nor from the west , Nor from the desert comes exaltation ;
+19:75:007:0	But God is the Judge ; He puts down one and exalts another .
+19:75:008:0	For a cup is in the hand of the Lord , and the wine foams ; It is well mixed , and He pours out of this ; Surely all the wicked of the earth must drain and drink down its dregs .
+19:75:009:0	But as for me , I will declare it forever ; I will sing praises to the God of Jacob .
+19:75:010:0	And all the horns of the wicked He will cut off , But the horns of the righteous will be lifted up .

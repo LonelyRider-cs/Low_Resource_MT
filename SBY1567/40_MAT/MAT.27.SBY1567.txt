@@ -1,0 +1,68 @@
+40:27:001:1	Pen . xxvij .
+40:27:002:1	Delifro Christ at Pilat . Iudas yn ymgrogy . Bot cyhoeddi Christ yn wirion gan y beirniat , ac er hyny ei groci ynghyfrwng llatron . Ef yn gweddiaw ar ucha y groc . Bot rhwygo ’r llen . Y cyrph meirw yn cyuodi . Ioseph yn claddu Christ . Gwylwyr yn cadw’r bedd .
+40:27:001:0	A’ Phan ddeuth y borae , yð ymgyggorawð yr oll Archoffeiriait a’ Henurieit y popul yn erbyn yr Iesu , er ei roddy i angae ,
+40:27:002:0	ac aethant ymaith ac ef yn rhwym , ac ei rhoeāt Pontius Pilatus y l’ywiawdr .
+40:27:003:0	Yno pan weles Iudas aei bradychawdd , ei ady ef yn auawc , e vu edivar ganthaw , ac a dduc drachefn y dec arucain ariant ir Archoffeiriait , a’r Henurieit ,
+40:27:004:0	gan ddywedyt , Pechais can vradychy gwaet gwirian . Wythae a ðywydesont , Peth yw hyny i ni ? edrych ti .
+40:27:005:0	Ac wedy yddaw davly yr ariant yn y Templ , ef a ymadawodd , ac aeth , ac a ymgrogawdd .
+40:27:006:0	A’r Archoffeiriait a gymeresont yr ariant , ac a ddywedesont , Nyd cyfreithlawn i ni ei bwrw wy yn y Corbā , can ys gwerth gwaet ytyw .
+40:27:007:0	A’ gwedy yddynt ymgydgyggori , wy brynesont ac wynt vaes y crochenydd i gladdy pererinion .
+40:27:008:0	Ac am hyny y gelwir y maes hwnw Maes y gwaet yd y dydd heddyw .
+40:27:009:0	( Yno y cwplawyt yr hynn a ddywedpwyt trwy Ieremias y Prophwyt , y ddywait , Ac wynt a gymersont ddec ar ucain ariant , gwerth y gwerthedic , yr hwn a brynesōt gan plāt ’r Israel .
+40:27:010:0	Ac wynt eu roesont am vaes y crochenyð , megis y gossoddes yr Arglwydd ymy )
+40:27:011:0	A’r Iesu a safawð geyr bron y llywyawdr , a’r llywyawdr a ovynawdd yddo , can ddywedyt , Ai ti’r Brehin yr Iuddaeon ? A’r Iesn a ddyvot wrthaw , tu ei dywedeist .
+40:27:012:0	A’ phan gyhuddwyt ef can yr Archoffeiwait ar Henurieit , nyd atepawdd ef ddim .
+40:27:013:0	Yno y dyvot Pilatus wrthaw , A ny chlywy veint o pethae y maent wy yn ei roi yn dy erbyn ?
+40:27:014:0	Ac y nyd atepawdd ef yddo i vn gair , val y rryweddawdd y llywawdr yn vawr .
+40:27:015:0	Ac ar yr wyl hono ydd arverei y llywiawdr ellwng ir popul vn carcharor yr hwn a vynnent .
+40:27:016:0	Yno ydd oedd ganthwynt garcharor honneit a elwit Barabbas .
+40:27:017:0	A’ gwedy yðynt ymgasclu yn‐cyt , Pilatus a ðyyvot wrthynt , Pa vn avynwch i mi ellwng y chwi , Barabas ai Iesu yr hwn a elwir Christ ?
+40:27:018:0	( canys ef a wyðiat yn dda mae o genvigen y roðesent ef .
+40:27:019:0	Ac ef yn eisteð ar yr ’orseddvainc , ei wraic a ddanvonawdd attaw gā ðywedyt , Na vit i ti awnelych ar gvvr cyfiawn hwnnw , can ys goddefais lawer heðyw mewn breuddwyddion o ei a chos . )
+40:27:020:0	A’r archoffeiriait a’r Henureit ymlewyð awnaethēt a’r bobl er mwyn govyn Barabbas , a’ cholli ’r Iesu .
+40:27:021:0	A’r llywyawdur a atepawdd , ac a ddyvot wrthynt , Pa vn o’r ddau a vynwch i mi ei ellwng ychwy ? Wyntae a ddywetsant Barabbas .
+40:27:022:0	Pilatus a ðyvot wrthynt Peth awnaf ynte i Iesu yr hwn a elwir Christ ? Wy oll a ddywedesont wrthaw , Croger ef .
+40:27:023:0	Yno y dyvot y llywyawdur , An’d pa ddrwc y wnaeth ef ? Yno y llefesont yn vwy , can ddywedyt , Croger ef .
+40:27:024:0	Pan welawdd Pilatus na thycyei dim yddaw anid bot mwy o gynnwrf yn cody , ef a gymerth ddwfr , ac a’ olches ei ddwylaw geyr bronn y popul , can ddywedyt , Gwirian wyf y wrth waet y cyfiawn hwnn , edrychwch-chwi arnoch .
+40:27:025:0	A’r oll popul a atepawð ac a ðyvot , Bid y waet ef arnam ni ar ein plant .
+40:27:026:0	Ac val hynn y gellyngawdd ef Barabas yddynt , ac ef a yscyrsiodd yr Iesu , ac y rhodes ef yw groci .
+40:27:027:0	Yno milwyr y llywiawdr a gymeresont yr Iesu ir dadlaeduy , ac a gynullesont attaw yr oll gywdawt ,
+40:27:028:0	ac ei dioscesont , ac roesant am danaw huc coch ,
+40:27:029:0	ac a blethesont coron ddrain ac ei dodesont ar ei benn , a’ chorsen yn ei law ddeheu , ac a blycesont ei glinie geir ei vron , ac ei gwatworesont , gan ddywedyt , Henpych‐well Brenhin yr Iuddeon ,
+40:27:030:0	ac wynt a boeresont arnaw , ac gymersont gorsen ac ei trawsont ar ei ben .
+40:27:031:0	A’ gwedy yddwynt ei watwary , wy ei dioscesont ef o’r huc , ac ei gwiscesont ef aei ddillat ehun , ac aethant ac ef yw groci .
+40:27:032:0	Ac a’n hwy yn mynet allan , eu cawsant ddyn o Cyren , a elwit Simon : a hwn a gompellasant i ddwyn y groc ef .
+40:27:033:0	A’ phan ddaethan i le a elwit Golgotha , ( ys ef yw hynny y Benglogva . )
+40:27:034:0	Wy roesont yddaw yw yfet vinegr yn gymyscedic a bystyl : a’ gwedy yðo ei brovi , ny vynnawdd ef yvet .
+40:27:035:0	Ac wedy yðynt y grogy ef , wy ranesont ei ddillat , ac a vwriesont goelbrenni , er cyflawny y peth , y ddywetpwyt trwy ’r Prophwyt , Wy a rannasant vy‐dillat yn eu plith , ac ar vy‐gwisc y bwriesont goelbren .
+40:27:036:0	Ac wy a eisteddesant ac ei gwiliesont ef yno .
+40:27:037:0	Ac ’osodesont hefyt vch ei benn ei achos yn escrivenedic Hvvn yvv Iesu y Brenhin yr Iudæon .
+40:27:038:0	Yno y crogwyt ddaw leitr y gyd ac ef , vn ar ddehau , ac arall ar aswy .
+40:27:039:0	A’r ei oedd yn mynet heibio , y caplesant ef , gan ysgytwyt ei pēnae ,
+40:27:040:0	a’ dywedyt , Ti yr hwn a ddestrywi ’r Templ , ac ei adaily mewn tri‐die , cadw dy hun : a’s tu yw Map Duw , descen o groc .
+40:27:041:0	A’r vn modd yr Archoffeiriait y gwatworesont ef y gyd a’r Scrivenyddion , a’r Henurieit , a’r Pharisaieit gan ddywedyt .
+40:27:042:0	Ef a waredawdd eraill , ac nyd all ef y ymwared ehun : a’s Brenhin yr Israel yw ef , descennet yr awrhon o groc , ac ni a gredwn ydd‐aw .
+40:27:043:0	Mae e yn ymðiriet yn‐Duw , rhyðhaet ef yr awrhon , a’s myn ef ei gahel : can ys ef a ddyvot , Map Dew ytwyf .
+40:27:044:0	Yr vn peth hefyt a eidliwiesont ydd‐aw , y llatron , yr ei a grocesit gyd ac ef .
+40:27:045:0	Ac o’r chwechet awr , y bu tywyllwch ar yr oll ðaiar , yd y nawvet awr .
+40:27:046:0	Ac yn cylch y nawved awr y llefawdd yr Iesu a llef vchel , gan ddywedyt , Eli , Eli , lamasabachthani ? ys ef yw , Vy‐Duw , vy‐Duw , paam im gwrthodeist ?
+40:27:047:0	A’r ei o’r sawl oedd yn sefyll yno , pan glywsont , a ðywedesont , Mae hwn yn galw ar Elias .
+40:27:048:0	Ac yn y van vn o hanynt o redawð , ac a gymerth yspong ac ei llanwodd o vinegr , ac a ei dodes ar gorsen , ac a roes iddaw yw yfet .
+40:27:049:0	Ereill a ddywesont , Gad iddo : edrychwn , a ddel Elias y waredy ef .
+40:27:050:0	Yno y llefawdd yr Iesu drachefyn a llef vchel , ac ef a vaðeuawdd yr yspryt .
+40:27:051:0	A’ nycha , l’en y Templ a rwygwyd yn ðau , or cwr vcha yd yr isaf , a’r ddaear a grynawdd , a’r main a holltwyt ,
+40:27:052:0	a’r beddae a ymogeresont , a’ llawer o gyrph y Sainct yr ei a gyscesent , a godesent ,
+40:27:053:0	ac a ddaethant allan o’r beddae ar ol y gyfodiat ef , ac aethāt y mewn ir dinas sanctaidd , ac a ymddangosesont i lawer .
+40:27:054:0	Pan weles y cann‐wriad , ar ei oedd gyd ac ef yn gwylied yr Iesu , y ddaiar yn cryny , a’r pethe awneythesit , wy ofnesont yn vawr , can ddywedyt , Yn wir Map Duw ytoedd hwn .
+40:27:055:0	Ac ydd oedd yno lawer o wragedd , yn edrych arnavv o bell , yr ei a gynlynesent yr Iesu o’r Galilea , gan weini yddaw .
+40:27:056:0	Ym‐plith yr ei ydd oedd Mair Magdalen , a’ Mair mam Iaco ac Ioses , a’ mam plant Zebedeus .
+40:27:057:0	A’ gwedi y myned hi yn hwyr , y daeth gwr goludawc o Arimathaia , a’ ei enw Ioseph , yr hwn vesei yntef yn ddiscipul ir Iesu .
+40:27:058:0	Hwn aeth at Pilatus , ac archoð gorph yr Iesu . Yno y gorchymynawdd Pilatus bot roddy y corph .
+40:27:059:0	Ac velly y cymerth Ioseph y corph , ac ei amdoes mewn llen lliein glan ,
+40:27:060:0	ac ei dodes yn ei vonwent newydd , yr hwn a drychesei ef mewn craic , ac a dreiglodd lech vawr ar ddrws y vonwent , ac aeth ymaith .
+40:27:061:0	Ac ydd oedd Mair Vagdalen a’r Mair arall yn eystedd gyferbyn a’r bedd .
+40:27:062:0	A’r dydd dranoeth yn ol parotoat y Sabbath , yr ymgynullawdd yr Archoffeiriat a’r Pharisaieit at Pilatus ,
+40:27:063:0	ac a ddywedesont , Arglwydd , e ddaw in cof ni ddywedyt o’r twyllwr hwnw , ac ef etwa yn vyw , O vewn tri‐die y cyfodaf ,
+40:27:064:0	gorchymyn gan hyny gadw y bedd yn ddilys yd y trydydd dydd , rac dyvot ei ddyscipulon o hyd nos a’ ei ladrata ef ffvvrd , a’ dywedyt wrth y popul , Ef a gyfododd o veirw : ac velly y byð y cyfeilorn dyweddaf yn waeth na’r cyntaf .
+40:27:065:0	Yno y dyvot Pilatus wrthyn , ymae genwch wyliadwriaeth : ewch , a’ diogelwch val y gwyddoch .
+40:27:066:0	Ac wy aethan , ac a ddiogelesant y bedd y gan y wiliadwriaeth , ac a inselieson y llech .

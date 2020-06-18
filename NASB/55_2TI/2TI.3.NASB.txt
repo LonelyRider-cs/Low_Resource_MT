@@ -1,0 +1,18 @@
+55:3:001:1	“ Difficult Times Will Come ”
+55:3:001:0	But realize this , that in the last days difficult times will come .
+55:3:002:0	For men will be lovers of self , lovers of money , boastful , arrogant , revilers , disobedient to parents , ungrateful , unholy ,
+55:3:003:0	unloving , irreconcilable , malicious gossips , without self-control , brutal , haters of good ,
+55:3:004:0	treacherous , reckless , conceited , lovers of pleasure rather than lovers of God ,
+55:3:005:0	holding to a form of godliness , although they have denied its power ; Avoid such men as these .
+55:3:006:0	For among them are those who enter into households and captivate weak women weighed down with sins , led on by various impulses ,
+55:3:007:0	always learning and never able to come to the knowledge of the truth .
+55:3:008:0	Just as Jannes and Jambres opposed Moses , so these men also oppose the truth , men of depraved mind , rejected in regard to the faith .
+55:3:009:0	But they will not make further progress ; for their folly will be obvious to all , just as Jannes’s and Jambres’s folly was also .
+55:3:010:0	Now you followed my teaching , conduct , purpose , faith , patience , love , perseverance ,
+55:3:011:0	persecutions , and sufferings , such as happened to me at Antioch , at Iconium and at Lystra ; what persecutions I endured , and out of them all the Lord rescued me !
+55:3:012:0	Indeed , all who desire to live godly in Christ Jesus will be persecuted .
+55:3:013:0	But evil men and impostors will proceed from bad to worse , deceiving and being deceived .
+55:3:014:0	You , however , continue in the things you have learned and become convinced of , knowing from whom you have learned them ,
+55:3:015:0	and that from childhood you have known the sacred writings which are able to give you the wisdom that leads to salvation through faith which is in Christ Jesus .
+55:3:016:0	All Scripture is inspired by God and profitable for teaching , for reproof , for correction , for training in righteousness ;
+55:3:017:0	so that the man of God may be adequate , equipped for every good work .

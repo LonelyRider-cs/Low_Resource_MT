@@ -1,0 +1,36 @@
+11:4:001:1	Solomon’s Officials
+11:4:001:0	Now King Solomon was king over all Israel .
+11:4:002:0	These were his officials : Azariah the son of Zadok was the priest ;
+11:4:003:0	Elihoreph and Ahijah , the sons of Shisha were secretaries ; Jehoshaphat the son of Ahilud was the recorder ;
+11:4:004:0	and Benaiah the son of Jehoiada was over the army ; and Zadok and Abiathar were priests ;
+11:4:005:0	and Azariah the son of Nathan was over the deputies ; and Zabud the son of Nathan , a priest , was the king’s friend ;
+11:4:006:0	and Ahishar was over the household ; and Adoniram the son of Abda was over the men subject to forced labor .
+11:4:007:0	Solomon had twelve deputies over all Israel , who provided for the king and his household ; each man had to provide for a month in the year .
+11:4:008:0	These are their names : Ben-hur , in the hill country of Ephraim ;
+11:4:009:0	Ben-deker in Makaz and Shaalbim and Beth-shemesh and Elonbeth-hanan ;
+11:4:010:0	Ben-hesed , in Arubboth ( Socoh was his and all the land of Hepher ) ;
+11:4:011:0	Ben-abinadab , in all the height of Dor ( Taphath the daughter of Solomon was his wife ) ;
+11:4:012:0	Baana the son of Ahilud , in Taanach and Megiddo , and all Beth-shean which is beside Zarethan below Jezreel , from Beth-shean to Abel-meholah as far as the other side of Jokmeam ;
+11:4:013:0	Ben-geber , in Ramoth-gilead ( the towns of Jair , the son of Manasseh , which are in Gilead were his : the region of Argob , which is in Bashan , sixty great cities with walls and bronze bars were his ) ;
+11:4:014:0	Ahinadab the son of Iddo , in Mahanaim ;
+11:4:015:0	Ahimaaz , in Naphtali ( he also married Basemath the daughter of Solomon ) ;
+11:4:016:0	Baana the son of Hushai , in Asher and Bealoth ;
+11:4:017:0	Jehoshaphat the son of Paruah , in Issachar ;
+11:4:018:0	Shimei the son of Ela , in Benjamin ;
+11:4:002:1	Solomon’s Power , Wealth and Wisdom
+11:4:019:0	Geber the son of Uri , in the land of Gilead , the country of Sihon king of the Amorites and of Og king of Bashan ; and he was the only deputy who was in the land .
+11:4:020:0	Judah and Israel were as numerous as the sand that is on the seashore in abundance ; they were eating and drinking and rejoicing .
+11:4:021:0	Now Solomon ruled over all the kingdoms from the River to the land of the Philistines and to the border of Egypt ; they brought tribute and served Solomon all the days of his life .
+11:4:022:0	Solomon’s provision for one day was thirty kors of fine flour and sixty kors of meal ,
+11:4:023:0	ten fat oxen , twenty pasture-fed oxen , a hundred sheep besides deer , gazelles , roebucks , and fattened fowl .
+11:4:024:0	For he had dominion over everything west of the River , from Tiphsah even to Gaza , over all the kings west of the River ; and he had peace on all sides around about him .
+11:4:025:0	So Judah and Israel lived in safety , every man under his vine and his fig tree , from Dan even to Beersheba , all the days of Solomon .
+11:4:026:0	Solomon had 40 , 000 stalls of horses for his chariots , and 12 , 000 horsemen .
+11:4:027:0	Those deputies provided for King Solomon and all who came to King Solomon’s table , each in his month ; they left nothing lacking .
+11:4:028:0	They also brought barley and straw for the horses and swift steeds to the place where it should be , each according to his charge .
+11:4:029:0	Now God gave Solomon wisdom and very great discernment and breadth of mind , like the sand that is on the seashore .
+11:4:030:0	Solomon’s wisdom surpassed the wisdom of all the sons of the east and all the wisdom of Egypt .
+11:4:031:0	For he was wiser than all men , than Ethan the Ezrahite , Heman , Calcol and Darda , the sons of Mahol ; and his fame was known in all the surrounding nations .
+11:4:032:0	He also spoke 3 , 000 proverbs , and his songs were 1 , 005 .
+11:4:033:0	He spoke of trees , from the cedar that is in Lebanon even to the hyssop that grows on the wall ; he spoke also of animals and birds and creeping things and fish .
+11:4:034:0	Men came from all peoples to hear the wisdom of Solomon , from all the kings of the earth who had heard of his wisdom .

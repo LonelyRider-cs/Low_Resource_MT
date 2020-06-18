@@ -1,0 +1,19 @@
+59:4:001:1	Pen . iiij .
+59:4:002:1	1 Gwedi iddo ddangos achos pob anghyfiownder , ac enwireð a hevyd achos pob gras a ddayoni , 4 Y cynghori y may y garu Dyw , 7 Ac y ymroi iddo ef , 11 Ac nas addroddant ddrwc am y cymedogion , 13 Eithr yn ddioddefus ymddiriaid y ymgeledd Dyw .
+59:4:001:0	O Ble y may y rryfeloedd a’r ymladdau yn ych plith chwi ? onid oðiwrth hynn , sef ych trachwantay , rrai ynt yn ymwan yn ych aylodau ?
+59:4:002:0	Chwennychu yddych , ac heb caffael : cenftgennu yddych , ac eiddigedd sy cenych , ac heb allu ymorddiwes : ymladd a’ rryvela y ddych , heb gael dim , am nad ydych yn govyn .
+59:4:003:0	Gofyn y ddych , ac ni dych yn derbyn herwydd ych bod yn gofyn ar gam , fal y gallech eu dreulio ar ych trachwantay .
+59:4:004:0	Chwi odinebwyr a’ godinebwragedd , oni wyðochi fod cariad y byd yn elyniaeth can Ddyw ? Am hynny pwy bynac a fynno fod yn car ir byd , y may yn ymwneuthyr yn elyn i Ddyw .
+59:4:005:0	Ydychi yn tybiaid fod yr yscrythyr yn doydyt yn ofer , Yr ysbryd syn yn trigo ynomi ni , at genvigen y may ei chwant ?
+59:4:006:0	Eithr y may yr Scrythur yn cynnyc mwy o ras , ac am hynny yn doydyt , Dyw sy yn gwrthnebur bailch , ac yn rroi gras ir ei vfydd .
+59:4:007:0	Ymostyngwch am hyny y Ddyw : gwrthnebwch ddiawl , ac ef a gilia o ddiwrthych .
+59:4:008:0	Nessewch at Ddyw , ac ef a nessaa attoch . Glanhewch ych dwylo , chwi pechaduriaid , a’ phurwch ych calonnay , chwi ar meddwl dau ddyblig .
+59:4:009:0	Ymgospwch , ac alerwch , ac wylwch : bid yvvch troi ych chwerthin yn alar , ach llywenydd yn dristwch .
+59:4:010:0	Ymddarostyngwch gar bronn yr Arglwydd , ac ef ach cyfyd y fyny .
+59:4:011:0	Na ddoydwch yn erbyn y gilidd , fymrodyr . Y neb a ddyweto yn erbyn i frawd , ac hwn a farno eu frawd , y may yn doydyt yn erbyn y gyfraith , ac yn barnur gyfraith : ac os wytti yn barnur gyfraith , nid y dwytti yn gyflownwr cyfraith , namyn browdwr .
+59:4:012:0	Vn gosodwr cyfraith y sydd , rrwn a ddichin gadw , a cholli . Pwy ydwytti rrwn a ferni ar arall ?
+59:4:013:0	Iddo ’nawr yr rai a ddoydwch , Heddiw neu fory ni awn i gyfryw ddinas , ac a arrosswn yno flwyddyn , ac a farchnattawn ac a ynnillwn ,
+59:4:014:0	( Rrain ni wyddoch beth a fydd y vory . Cans beth ydiw ych enioes chwi ? Tarth yn wir ydyw rrwn a ymddengys ychydig amser , a chwedi hyny a ddiflanna )
+59:4:015:0	Yn lle hynn a ddylech y ðoydet , Os yr Arglwyð a y mynn , ac oss byddwn byw , ni a wnawu hyn , neu hynny .
+59:4:016:0	Eithr chwi yn awr ymryfygu y ddych , yn ych gwacfost : pob cyfryw ryfig drwg yw .
+59:4:017:0	Am hynny , y neb a wyr wneuthyr yn dda , ac niss gwnel , mewn pechod y may .

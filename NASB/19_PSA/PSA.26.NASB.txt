@@ -1,0 +1,17 @@
+19:26:001:1	PSALM 26
+19:26:002:1	Protestation of Integrity and Prayer for Protection .
+19:26:003:1	
+19:26:004:1	A Psalm
+19:26:005:1	of David .
+19:26:001:0	Vindicate me , O Lord , for I have walked in my integrity , And I have trusted in the Lord without wavering .
+19:26:002:0	Examine me , O Lord , and try me ; Test my mind and my heart .
+19:26:003:0	For Your lovingkindness is before my eyes , And I have walked in Your truth .
+19:26:004:0	I do not sit with deceitful men , Nor will I go with pretenders .
+19:26:005:0	I hate the assembly of evildoers , And I will not sit with the wicked .
+19:26:006:0	I shall wash my hands in innocence , And I will go about Your altar , O Lord ,
+19:26:007:0	That I may proclaim with the voice of thanksgivingAnd declare all Your wonders .
+19:26:008:0	O Lord , I love the habitation of Your houseAnd the place where Your glory dwells .
+19:26:009:0	Do not take my soul away along with sinners , Nor my life with men of bloodshed ,
+19:26:010:0	In whose hands is a wicked scheme , And whose right hand is full of bribes .
+19:26:011:0	But as for me , I shall walk in my integrity ; Redeem me , and be gracious to me .
+19:26:012:0	My foot stands on a level place ; In the congregations I shall bless the Lord .

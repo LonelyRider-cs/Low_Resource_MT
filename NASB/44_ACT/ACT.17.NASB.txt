@@ -1,0 +1,38 @@
+44:17:001:1	Paul at Thessalonica
+44:17:001:0	Now when they had traveled through Amphipolis and Apollonia , they came to Thessalonica , where there was a synagogue of the Jews .
+44:17:002:0	And according to Paul’s custom , he went to them , and for three Sabbaths reasoned with them from the Scriptures ,
+44:17:003:0	explaining and giving evidence that the Christ had to suffer and rise again from the dead , and saying , “ This Jesus whom I am proclaiming to you is the Christ . ”
+44:17:004:0	And some of them were persuaded and joined Paul and Silas , along with a large number of the God-fearing Greeks and a number of the leading women .
+44:17:005:0	But the Jews , becoming jealous and taking along some wicked men from the market place , formed a mob and set the city in an uproar ; and attacking the house of Jason , they were seeking to bring them out to the people .
+44:17:006:0	When they did not find them , they began dragging Jason and some brethren before the city authorities , shouting , “ These men who have upset the world have come here also ;
+44:17:007:0	and Jason has welcomed them , and they all act contrary to the decrees of Caesar , saying that there is another king , Jesus . ”
+44:17:008:0	They stirred up the crowd and the city authorities who heard these things .
+44:17:002:1	Paul at Berea
+44:17:009:0	And when they had received a pledge from Jason and the others , they released them .
+44:17:010:0	The brethren immediately sent Paul and Silas away by night to Berea , and when they arrived , they went into the synagogue of the Jews .
+44:17:011:0	Now these were more noble-minded than those in Thessalonica , for they received the word with great eagerness , examining the Scriptures daily to see whether these things were so .
+44:17:012:0	Therefore many of them believed , along with a number of prominent Greek women and men .
+44:17:013:0	But when the Jews of Thessalonica found out that the word of God had been proclaimed by Paul in Berea also , they came there as well , agitating and stirring up the crowds .
+44:17:014:0	Then immediately the brethren sent Paul out to go as far as the sea ; and Silas and Timothy remained there .
+44:17:003:1	Paul at Athens
+44:17:015:0	Now those who escorted Paul brought him as far as Athens ; and receiving a command for Silas and Timothy to come to him as soon as possible , they left .
+44:17:016:0	Now while Paul was waiting for them at Athens , his spirit was being provoked within him as he was observing the city full of idols .
+44:17:017:0	So he was reasoning in the synagogue with the Jews and the God-fearing Gentiles , and in the market place every day with those who happened to be present .
+44:17:018:0	And also some of the Epicurean and Stoic philosophers were conversing with him . Some were saying , “ What would this idle babbler wish to say ? ” Others , “ He seems to be a proclaimer of strange deities , ” —because he was preaching Jesus and the resurrection .
+44:17:019:0	And they took him and brought him to the Areopagus , saying , “ May we know what this new teaching is which you are proclaiming ?
+44:17:020:0	For you are bringing some strange things to our ears ; so we want to know what these things mean . ”
+44:17:004:1	Sermon on Mars Hill
+44:17:021:0	( Now all the Athenians and the strangers visiting there used to spend their time in nothing other than telling or hearing something new . )
+44:17:022:0	So Paul stood in the midst of the Areopagus and said , “ Men of Athens , I observe that you are very religious in all respects .
+44:17:023:0	For while I was passing through and examining the objects of your worship , I also found an altar with this inscription , ‘TO AN UNKNOWN GOD . ’ Therefore what you worship in ignorance , this I proclaim to you .
+44:17:024:0	The God who made the world and all things in it , since He is Lord of heaven and earth , does not dwell in temples made with hands ;
+44:17:025:0	nor is He served by human hands , as though He needed anything , since He Himself gives to all people life and breath and all things ;
+44:17:026:0	and He made from one man every nation of mankind to live on all the face of the earth , having determined their appointed times and the boundaries of their habitation ,
+44:17:027:0	that they would seek God , if perhaps they might grope for Him and find Him , though He is not far from each one of us ;
+44:17:028:0	for in Him we live and move and exist , as even some of your own poets have said , ‘For we also are His children . ’
+44:17:029:0	Being then the children of God , we ought not to think that the Divine Nature is like gold or silver or stone , an image formed by the art and thought of man .
+44:17:030:0	Therefore having overlooked the times of ignorance , God is now declaring to men that all people everywhere should repent ,
+44:17:031:0	because He has fixed a day in which He will judge the world in righteousness through a Man whom He has appointed , having furnished proof to all men by raising Him from the dead . ”
+44:17:032:0	Now when they heard of the resurrection of the dead , some began to sneer , but others said , “ We shall hear you again concerning this . ”
+44:17:033:0	So Paul went out of their midst .
+44:17:034:0	But some men joined him and believed , among whom also were Dionysius the Areopagite and a woman named Damaris and others with them .

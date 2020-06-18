@@ -1,0 +1,24 @@
+47:6:001:1	Pen . vj .
+47:6:002:1	Eiriol i vuchedd Christianoc , Ac ar vot gantyn gyffelyp serchvryd yddaw ef , ac ys y ganto ef yddyn hwy . Hefyd ar ymgadw o hanynt y wrth oll halogrwydd
+47:6:003:1	6 : 0
+47:6:004:1	*
+47:6:005:1	eiddol‐addoliat
+47:6:006:1	delw‐addoliat yn‐corph ac enait , ac na bo cyfadnabot a delw‐addolwyr .
+47:6:001:0	VElly nineu can hyny megis yn gydweithwyr a atolygwn yvvch , na dderbyniochvvi rat Duw yn over .
+47:6:002:0	Canys dywait ef , Yn amser cymradwy ith erglywais , ac yn‐dydd iachydvvrieth ith ganhorthwyais : wely’r awrhon yr amser cymeradwy wele’r awrhon ddydd yr iechedvvrieth .
+47:6:003:0	Nyd ym ni yn rhoi vn achos tramcwydd yn‐dim , rac cael bei ar ein gweinidogaeth .
+47:6:004:0	Eithyr ym‐pop peth ydd ym yn eiu provi ein hunain val yn wenidogion Duw , yn ammynedd mawr , yn gorthrymderae , yn anghenion , yn‐cyfyngderae ,
+47:6:005:0	yn-gwialenodae , yn‐carcharae , yn‐tervysce , yn‐travaelion , gan wiliaw , gan vmprydiaw ,
+47:6:006:0	gan burdep , gan wybyddieth , gan hirddyoddef , gan diriondeb , gan yr Yspryt glan , gan gariat diffuātus
+47:6:007:0	gan’ air gwirionedd , gan nerth Duw , gan arvae cyfiawnder ar ddeheu ac aswy ,
+47:6:008:0	gan barch , ac amparch , gan glod ac ac anglod , megis twyllwyr , ac er hyny yn gywir :
+47:6:009:0	megis yn anadnabyddus , ac er hyny yn adnabyddus : megis yn meirw , ac wele ni yn vyw : megis wedy ein cospi , ac nyd wedy ’n lladd :
+47:6:010:0	megis yn dristion , ac eto yn ’oestat yn llawen : megis yn dlodion , ac eto yn cyfoethogi llawer : megis eb ddim cenym , ac eto yn meddyannu pop dim .
+47:6:011:0	Chvvi Corinthieit y mae ein geneu yn agoret ychwi : ein calon a ehengwyt .
+47:6:012:0	Ni’ ch cadwyt yn cyfing ynom ni , eithr ich cadwyt chwi yn gyfing yn eich ymyscaroedd eich vnain .
+47:6:013:0	Yrowon yn lle taliad , y dywedaf vegis wrth vy meibion . Ehenger chwithe hefyt .
+47:6:014:0	Nac iauer‐chwi yn ancymparus gyd a’r anffyddlonion : can ys pa gymddeithas ’sydd i wiredd ac anwireð ? a’ pha gommun ’sydd y ’oleuni a thywyllwch ?
+47:6:015:0	a’ pha gyssondeb ys ydd i Christ a Belial ? neu pa ran’sydd i hwn a gred gyd a’r hwn ’sy eb ffyð ?
+47:6:016:0	a’ pha gydfot ’sydd i Templ Dduw ac eiddoleu ? can ys chwi yw Templ Dduw byw : val y dyvod Duw , Preswiliaf ynthwynt , ac a rodiaf yn y mewn : a’ byddaf yn Dduw yddwynt , ac hwy vyddant yn popul y mi .
+47:6:017:0	Can hyny dewch allan oei plith wy , ac ymohanwch , medd yr Arglwydd : ac na chyhwrddwch ddim aflan , a’ mi ach derbyniaf chvvi .
+47:6:018:0	A’ byddaf ywch yn Dat , a’ chwi vyddvvch yn veibion ac yn verchet i mi , medd yr Arglwydd oll gyvoethawc .

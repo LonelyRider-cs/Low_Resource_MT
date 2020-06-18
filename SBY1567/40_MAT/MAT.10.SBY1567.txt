@@ -1,0 +1,47 @@
+40:10:001:1	Pen . x .
+40:10:002:1	Christ yn anfon ei Apostolion i Iudaea , yn eu goruwchmynny , yn ei dyscy , ac yn ei cyssuriaw erbyn pan ei herlyner . Yr Yspryt glan yn ymadrodd drwy ei Weinidogion . Pwy a ddlem ni ei ofny . Bot eyn gwallt dan gyfrif . O addef Christ . Na charer tad a’ mam yn vwy no Christ . Bot i ni gymeryd ein
+40:10:003:1	*
+40:10:004:1	croc
+40:10:005:1	croes . Am gadw nei golli ein einioes . Am dderbyn y Praecethwyr .
+40:10:001:0	AC ef a elwis ei ddauðec discipul ataw , ac a roddes y ddyn veddiant yn erbyn ysprytion aflan , yw tavly wy allan , ac y iachay pop haint a’ phop adwyth .
+40:10:002:0	Ac enwae y dauddec Apostolion yw’r ei hyn . Y cyntaf Simon , a elwit Petr ac Andreas ei vrawt : Iaco vap Zebedeus , ac Ioan ei vrawt .
+40:10:003:0	Philip a’ Bartholomeus : Thomas a’ Matthew y Publican : Iaco vap Alpheus , a’ Lebbeus a’ ei gyfenw yn Thaddaeus :
+40:10:004:0	Simon y Cananit , ac Iudas Iscariot yr hwn hefyt y bradychawdd ef .
+40:10:005:0	Y dauddec hyn a ddanfonawdd yr Iesu ymaith , ac a ’orchymynawdd yddwynt , gan ddywedyt , Nag ewch i ffordd y Cenedloeð , ac i ddinasoedd y Samarieit nag ewch y mewn :
+40:10:006:0	anyd ewch yn hytrach at gyfergolledic ðefeit tuy Israel .
+40:10:007:0	Ac wrth vyned precethwch , gan ðywedyt , Y mae teyrnas nef wedy dynesau yn agos .
+40:10:008:0	Iachewch y cleifion , glanewch yr ei clawr : cyfodwch y meirw : bwriwch allan gythreulieit . Yn rrat yd erbyniesoch , yn rat rhowch .
+40:10:009:0	Na veddwch ar aur , nag ariant , nac efydd yn eich gwregysae ,
+40:10:010:0	nag yscrepan ir daith , na dwy bais , nag escidiae , na ffon : can ys teilwng ir gweithwr ei vwyt .
+40:10:011:0	Ac i pa ddinas pynac nei dref yd eloch , ymofynwch pwy ’sydd teilwng yn‐ddi , ac ynaw trigwch yn yd eloch o ddyno .
+40:10:012:0	A’ phan ddeloch i duy anerchwch ef .
+40:10:013:0	Ac a bydd y tuy yn teilwng , dauet eich tangneddyf arnaw : ac any bydd yn deilwng , ymchwelet eich tangneddyf atoch .
+40:10:014:0	A’ phwy pynac a’r ny’s derbyn chwi , ac ny chlyw eich gairiae , pan ymadawoch o’r tuy hvvnvv nei ordinas hono , escutwch y llwch ywrth eich traet .
+40:10:015:0	Yn wir y dywedaf y chwi , y bydd esmwythach ir ei o dir Sodom a’ Gomorrha yn‐dydd brawd nag ir dinas hono .
+40:10:016:0	¶ Nycha , ydd wy vi yn eich danvon mal defeit ynghenol bleiddiae : byddwch am hynny ddoethion mal seirph , a’ gwirion mal colombenot .
+40:10:017:0	Eithr ymogelwch rac dynion , canys wy ach roðāt chvvi at Eisteddfae ac ach yscyrsian yn ei Synagagae .
+40:10:018:0	Ac ich dugir at y llywiawdwyr a’r Brenhinoedd om pleit i , er testiolaeth yddwynt , ac i’r Cenetloedd .
+40:10:019:0	Eithr pan ich trawsroddan , na phryderwch pa vodd nei pa beth a ðywetoch : can ys roddir y chwy yn awr hono , pa beth a ddywetoch .
+40:10:020:0	Can ys nid chwychvvi yw’r ei a ddyweit , anyd yspryt eich Tad yr hwn a dywait ynoch .
+40:10:021:0	A’r brawd a vradycha ’r brawd a varwolaeth , a’r tat y map , a’r plant a godant yn erbyn ei Rieni , ac a barāt yddwyn varw .
+40:10:022:0	A’ dygasoc vyddwch gan bawp er mwyn vy Enw : anyd yr hwn a barao yd y dywedd , ef a gedwir .
+40:10:023:0	A’ phan ich erlidiant yn y dinas hon , ciliwch i vn arall : can ys yn wir y dywedaf wrthych , na ’orphenwch oll ddinasoedd Israel , nes dawot Map y dyn .
+40:10:024:0	Nid yw’r discipul uwch na ei athro , na’r gwasanaethvvr uwch na ei Arglwydd .
+40:10:025:0	Digon ir discipul vot val y bo ei athro , a’r gwasanaethvvr val ei Arglwydd . A’s galwasan wr y tuy yn Beelzebub , pa veint mwy y galvvan ei duylwyth ef ?
+40:10:026:0	Nag ofnwch wy am hyny : can nad oes dim toedic , ar ny’s didoijr : na dim cuddiedic ar na ddaw i wybodoeth .
+40:10:027:0	Hyn a ddywedaf ywch yn y tywyllwch , dywedwch yn y golauni : a hyn a glywoch yn ych glust , precethwch ar ben y tai .
+40:10:028:0	Ac nac ofnwch yr ei a ladd y corph , ac ny allant ladd yr enait : eithyr yn hytrach ofnwch hwn , a ðichon gyfergolli yr enait y gyd a’r corph yn yffern .
+40:10:029:0	Any werthir dau ederyn y to er fferling ac ny chwympa yr vn o hanynt i’r llawr heb evvyllys eich Tad chvvi ?
+40:10:030:0	Ac y mae hefyd eich oll wallt yn gyfrifedic .
+40:10:031:0	Nac ofnwch gan hynny , chwi delwch mwy na llawer o adar yto .
+40:10:032:0	Pwy pynac gā hynny am cyffesso i yngwydd dynion , hwnaw a gyffessaf vinef hefyd yn‐gwydd vy‐Tad yr hwn ’sy yn y nefoedd .
+40:10:033:0	A’ phwy pynac am gwad yngwydd dynion , hwnaw a wada vi hefyd yn‐gwydd vy‐tad yr hwn ’sy yn y nefoedd .
+40:10:034:0	Na thybiwch vy‐dewot i ddanfon tangneddyf i’r ddayar : ny ddaethym y ddanfon tangneddyf anyd y cleddyf .
+40:10:035:0	Can ys‐daethim i osot dyn y ymrafaely yn erbyn ei dad a’r verch yn erbyn ei mam , ar waydd yn erbyn i chwegr .
+40:10:036:0	A’ gelynion dyn vydd tuylwyth ei dy y hun .
+40:10:037:0	Y nep a garo tad ne vam yn vwy namyvi , nyd yw deilwng o hanof i . A’r nep y garo vap ne verch yn vwy na myvi , nyd yw deilwng o hanof vi .
+40:10:038:0	A’ hwn ny chymer ei groes , a chalyn ar v’ol i , nyd yw deilwng o hanafi .
+40:10:039:0	Y nep a gatwo ei enait , ai cyll , a’r nep a gollo ei enad om pleit i , ai caidw .
+40:10:040:0	Y nep ach derbynio chvvi , am derbyn i : ar nep am derbynio vi , a dderbyn hwn am danfonawdd i .
+40:10:041:0	Y nep a ðerbynio brophwyt yn enw Prophwyt , a dderbyn vvobr Prophwyt : a’r nep a dderbynio gyfiawn , yn enw cyfiawn , a dderbyn vvobr y cyfiawn .
+40:10:042:0	A’ phwy pynac a roddo ir vn o’r ei bychein hyn phiolet o ddwfr oer yn vnic , yn enw discipul , yn wir y dywedaf ychwi , ny chyll ef ei vvobr .

@@ -1,0 +1,46 @@
+44:15:001:1	Pen . xv .
+44:15:002:1	Ymryson yn cylch yr
+44:15:003:1	*
+44:15:004:1	Circumcisio
+44:15:005:1	enwaediat . Yr Apostolieit yn anvon ei dosparth at yr Ecclesi . Paul ac Barnabas yn precethy yn Antiocheia . Ac yn ymddidoli a ei gilydd o bleit Ioan Mark .
+44:15:001:0	AC yno y descenawdd ’r ei o Iudaia , ac a ddyscesont y broder , gan ddyvvedyt . Addieithr bot eich enwaedy , herwydd Deddyf Moysen , ny ellwch vot yn cadwedic .
+44:15:002:0	A’ phan ytoedd ymryson nyd bachan , ac ymddadlae gan Paul ac Barnabas yn y erbyn hwy , yno ordeiniaw a wnaethant i Paul ac Barnabas ac yr eill o hanynt , vyned i vynydd i Caerusalē , at yr Ebestyl a’r henafiait o bleit yr ymofyn hyn .
+44:15:003:0	Yno wedy ei d’anvon wy ymaith gan yr Eccles , traweny a wnaethant trwy Phoinice , ac Samareia , gan vanegy ymchweliat y Cenetloedd : ac wy a dducesont lewenydd inawr ir oll vroder .
+44:15:004:0	Ac pan ddaethant i Gaerusalem , ei d’erbyniwyt y gan yr Eccles , a’r Apostolion ar Henafieit , ac manegy a ’orugant pa pethae a wnaethai Ddew trwyddwynt vvy .
+44:15:005:0	Eithyr eb vvynt , yr ei o sect y Pharisaiait , a’r oedd yn credy , a gyvodesont , gan ddywedyt , vot yn angenrait y enwaedy hwy , a’ gorchymyn yddvvynt gadw Deðyf Moysen .
+44:15:006:0	Yno y daeth yr Apostolon ar Henafieit yn‐cyt , y edrych ar yr ymadrodd hwnn .
+44:15:007:0	Ac wedy bot ymddadle mawr , y cyvodes Petr , ac y dyvot wrthwynr , Ha wyr vroder , chwi wyddoch ðarvot er estalm o amser , yn ein plith ni y Ddew vy n ethol i , yn y byðei ir Cenetloeð trwy vy‐genae glywet gair yr Euāgel , a’ chredy .
+44:15:008:0	Ac Dew yr hwn a edwyn calonnae , a dduc testolaeth gyd ac wynt , gan roddi yddwynt vvy yr Yspryt glan , megis ac y gvvnaeth i nineu ,
+44:15:009:0	ac ny wnaeth ef ddim gohanrhet y rhom ni ac wyntvvy , can darvot iddo drwy ffydd carthy ei calonnae .
+44:15:010:0	Ac yn awr paam ydd ych yn tēpto Dew , wrth ddody iau ar warhae ’r discipulon , yr hwn ny allawdd na ein tadae na nineu ei ðygy ?
+44:15:011:0	Eithr yð ym ni yn credu , trwy rat Iesu Christ ein bot yn gatwedic , yn y modd y maent wy .
+44:15:012:0	Yno yd ystawodd yr oll tyrfa , ac y gwrandawsant Barnabas ac Paul , yr ei a vanagent pa arwyddion a’ ryveddodac a wnaethai Dew ymplith y Cenetloed trwyddynt vvy .
+44:15:013:0	Ac wedy yddwynt ymoystegy , ydd attepadd Iaco , gan ddywedyt , A‐wyr vroder , gwrandewch vi .
+44:15:014:0	Symeon a vanagawð , paddelw y govwyawdd Dew yn gyntaf y Cenetloeð , y gymeryt o hanvvynt bopul y Enw ef .
+44:15:015:0	Ac wrth hynn y cyssona geiriae yr Prophwyti , mal yð escrivēnir ,
+44:15:016:0	Yn ol hyn yð ymchwelaf , ac yr adadeilaf tabernacul Dauid , yr hwn a syrthiawdd , ai adveilie a at gyweiriaf , ac ei cyfodaf ,
+44:15:017:0	yd pan vo relyw y dynion ymgeisiaw yr Arglwydd , ac ir oll Cenetloedd , ar pa rei y galwyt vy Enw , með yr Arglwydd yr hwn a wna yr oll pethae hyn .
+44:15:018:0	O ddechreuat y byt y mae yn wybodedic gan Ddew ei oll weithredoedd .
+44:15:019:0	Erwydd paam im‐barn i , ny ddlem ni gynnyrfy yr ei hyny o’r Cenetloedd a ymchwelwyt ar Ddew ,
+44:15:020:0	anid bot y ni escennrivy attwynt , a’r ymgadw o hanynt o wrth halogrwydd delwae , a’ godinab , ac yrvvth y dagwyt , ac yrvvth waet .
+44:15:021:0	Can ys y mae i Voysen yn yr hen oesoedd gynt , ym‐pop dinas , ’r ei y precetha ef , canys ddarllenir ef yn y Synagogae bop dydd Sabbath .
+44:15:022:0	Yno y gwelwyt vot yn iawn gan yr Apostolion ar Henafiait y gyd a’r oll Eccles , bot anvon gwyr etholedigion oei plith ehunain i Antiocheia y gyd a Paul ac Barnabas : nid amgen , Iudas aei gyfenw Barsabas , ac Silas , yr ei oeð wyr pennaf ym‐plith y broder ,
+44:15:023:0	ac escriveny llythyrae y gyd ac wynt yn y ffurf hynn . YR APOSTOLON a’r Henafeit , a’r broder , at y broder y syð o’r Cenetloedd yn Antiocheia , ac yn Syria , ac yn Cilicia , yn danvon anerch .
+44:15:024:0	Can ys clywsam , ddarvot ir ei y ddaethant y wrthym , eich cynnyrfy chvvi a geiriae , a thraws siglaw eich meddyliae , gan dywedyt , Rait y chwi bot eich enwaedy , a’ chadw yr Ddeddyf , ir ei ny roddesem ni gyfryw ’orchymyn .
+44:15:025:0	Am hyny y gwelpwyt genym vot yn dda , gwedy ein dyvot yn‐cyt o gyfundab , anvon gwyr etholedigion atoch , y gyd a ein caredicion Barnabas ac Paul ,
+44:15:026:0	gwyr a roesont ei heneidiae tros Enw ein Arglwydd Iesu Christ .
+44:15:027:0	Can hyny yd anvonesam Iudas , ac Sylas , yr ei a venaic hefyt ychwy yr vnryw pethae ar davot leferyð .
+44:15:028:0	Can ys gwelspwyt‐yn‐dda y gan yr Yspryt glan , a chenym nineu , na ðodem angwanec vaich arnoch , na ’r pethae angenreidiol hynn , nid amgenach no ,
+44:15:029:0	Bot i chwy ymgynnal y wrth y pethae ’ry offrymir y ddelwae , ac ywrth waed , ac ywrth y peth y degir , ac ywrth godinab : ywrth yr ei a’s ymgadwch , da y gwnewch . Ewch yn iach .
+44:15:030:0	Ac wedy ei gellwng o yno , wy ddaethant i Antiocheia , ac yn oll cynnull o hanwynt y llyosogrvvydd , wy y rroddesont yr epistol yddvvynt .
+44:15:031:0	Ac wedy yddwynt ei ðarllen , llawenhay a ’orugāt gan y dyðāwch .
+44:15:032:0	Ac Iudas ac Silas ac wynt yn prophwyti , a anogēt y broder ac ymadroð lliosoc , ac ei cadarnhesont .
+44:15:033:0	Ac wedy yddwynt drigio ynaw dalm o amser , wy vaðeuwyt yn heddwch y gan y broder at yr Apostolon .
+44:15:034:0	Ac er hynny e welawdd Silas yn iawn aros yno yn’ostat .
+44:15:035:0	Paul hefyt ef a’ Barnabas arosāt yn Antiocheia gan ei dyscy a’ phraecethy y gyd a llawer eraill ’air yr Arglwydd .
+44:15:036:0	Eithyr ar ol swrn o ddyddiae ysganei Paul wrth Barnabas , Ymchwelwn drachefyn , ac ymwelwn a’n broder ym‐pop dinas , lle precethesam ’air yr Arglwydd , ac edrych paðdelw ydd ynt arnavv .
+44:15:037:0	Ac Barnabas a gycgorawð gymeryd gyd ac ynt Ioan a elwit Marc .
+44:15:038:0	Eithr Paul a dybiawdd nad oedd yn gyfaddas y gymeryd ef yn ei cymddeithas , yr hwn a dynnesei y wrthwynt o Pamphilia , ac nid aethei gyd ac wynt ir gwaith .
+44:15:039:0	Ac yno yr ymgyffroesant mor ddirvawr ac yr ymadawas yn aill y wrth y llall , val y cymerth Barnabas Varc , ac y mordyawdd i Cyprus .
+44:15:040:0	Ac Paul a ddewysawdd Silas , ac aeth racðaw wedy ei ’orchymyn gan y broder y rat Dew .
+44:15:041:0	Ac ef a dramwyawdd trwy Siria a’ Cilicia gan , gadarnhay yr Ecclesi .

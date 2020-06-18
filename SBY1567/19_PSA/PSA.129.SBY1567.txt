@@ -1,0 +1,10 @@
+19:129:001:1	Psalm . cxxix .
+19:129:002:1	Sepe expugnauerunt .
+19:129:001:0	LLawer gwaith im cystuddient om ieuntit , y gall yr owrhon Israel ddywedyt .
+19:129:002:0	[ Ys] llawer gwaith im cystuddiesont om ieunctit : ac ny allasant-vy-gorvot .
+19:129:003:0	Arddawdd yr arddwyr ar vy-cefn , [ a’] thynesont gwysae hirion .
+19:129:004:0	Eithr yr Arglwydd cyfiawn , a dorawdd raffeu yr andewolion .
+19:129:005:0	Gwradwyðir ac ymchwelir tra chefn yr oll rei ’sy ðygasoc wrth Tsijón .
+19:129:006:0	Wy vyddant val glaswellt pennae’r tai , yr hwn a wywa cyn ei dynnu .
+19:129:007:0	O’r hwn ny lanw y pladwrwr ei law , na’r lloffwr ei gesail .
+19:129:008:0	Ar ny’s dywet yr ei ant heibio , Bendith yr Arglwydd arnoch , [ neu] , Ich bendithiwn yn Enw yr Arglwydd .

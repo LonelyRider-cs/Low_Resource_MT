@@ -1,0 +1,15 @@
+19:85:001:1	Psalm . lxxxv .
+19:85:002:1	Benedixisti Domine .
+19:85:001:0	CEreist Arglwydd dy dir : dychweleist gaethiwet Iaco .
+19:85:002:0	Maddeueist enwiredd dy popul : a thoeist ei oll pechatae . Sélah .
+19:85:003:0	Attalieist dy oll ddigllonedd , ac ymchweleist y wrth lidiawgrwydd dy soriant .
+19:85:004:0	Dychwel ni Ddew ein iechyt , a llaysa dy ddigoveint wrthym .
+19:85:005:0	A sory [ di] wrthym yn trygyvyth ac a estenny dy ddicter o’r genedlaeth ygylydd ?
+19:85:006:0	A ny throi di drachefyn [ a’n bywio , yny bo ith popul lawenáu ynot ?
+19:85:007:0	Dangos ynny , Arglwydd , dy drugaredd , a’ chaniata yni dy iechyt .
+19:85:008:0	Gwrandawyf pa ðywait yr Arglwydd Ddew ; canys dywait ef dangneðyf wrth ei bopul , ac wrth ei Sainct , val nad ymchwelant y ynvydrwydd .
+19:85:009:0	Diau vot y iechyt ef yn agos at yr ei y ofant ef , y’n y drico gogoniant yn ein tir .
+19:85:010:0	Trugared a gwirioneð a gyfyrddant : cyfiawnder a’ thangneddyf a [ ymgusanant . ]
+19:85:011:0	Gwirionedd a vlagura o’r ðaiar , a’ chyfiawnder a edrych y lawr o’r nefoedd .
+19:85:012:0	Sef y rrydd yr Arglwyð ðaoni , a’n tir a ryð y frwyth yntau .
+19:85:013:0	Cifiawnder a gerdd] o ei’ vlaen ef , ac a osot ei olion rhyd y ffordd .

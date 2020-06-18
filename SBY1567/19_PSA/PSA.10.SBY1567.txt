@@ -1,0 +1,20 @@
+19:10:001:1	Psalm . x .
+19:10:002:1	Vt quid Domine .
+19:10:001:0	PAam , Arglwydd y sefy o bell , ac ymguddy yn yr amser [ ac yn ein] cyfingdra .
+19:10:002:0	Yr andywiol a balchder a erlid y tlawt : dalier hwy yn y cyfrwyseð y ðychymygesont .
+19:10:003:0	Can ys yr andewiol y ffrostiawdd ewyllys ei galon ehun , a’r cupydd y bendithiawdd [ ehun] : coec cantho yr Arglwydd .
+19:10:004:0	Y mae ’r [ dyn andewiol mor valch nad yw ef yn caisio Dyw : meddwl y mae yn wastat nad oes [ vn] Duw .
+19:10:005:0	Ei ffyrdd ef ys y pop amser yn llwyddo : dy varnae [ di] ys yð yn vchel o ywrth ei olwc [ ef] : am hyn y chwyth ef ar ei oll elynion .
+19:10:006:0	Syganei ef yn ei galon , Ni’m cyffroir i byth bythol , [ ac] ny [ ddygwydd] ymy ddim anvad ,
+19:10:007:0	Ei enae ys yd yn llawn melltith , a’dichell a’ somiant : y dan ei dauot y mae] drigioni ac enwiredd .
+19:10:008:0	Eisted y byð yn cynllwyno yn yr heolydd : yn y dirgel y murnia ef y gwiriā : ei lygait a dremia yn erbyn y tlawt .
+19:10:009:0	Cynllwyn y bydd ynghudd , megis lleo ynei ’ogof : llechu y bydd er treisio y tlawt : treisio ’r tlawt y bydd wrth y dynnu ef yw rwyt .
+19:10:010:0	Crymu [ ac] ymestwng a wna ef : am hyny y cwympa tyrrau o dlodiou gan ei allu ef .
+19:10:011:0	Syganei yn ei galon , Ef aeth dros gof gan Dduw , y mae yn cuddio ei wynep , [ ac] ny wyl byth .
+19:10:012:0	Cyuod , Arglwydd Ddyw : dercha dy law : naad tros gof y tlodion .
+19:10:013:0	Paam ir andewiol dremygu Duw : gan ddywedyt yn ei galon , Nyd ymovynny .
+19:10:014:0	Er hynny [ ti ei] gweleist : can ys ti wely y drugioni a’r cam , val y dodych yn dy ðwylaw : arna-ti y dyry y tlawt , [ can ys] ti yw cannorthwywr yr ymddivad .
+19:10:015:0	Tor vraich yr andywiol a’r drygionns : cais y ddrigioni ef , [ ac] ny cheffy [ ddim . ]
+19:10:016:0	Yr Arglwydd [ ys ydd] Urenhin byth ac yn tragyvyth : y cenedloedd a gyfergollwyt oy dir ef .
+19:10:017:0	Arglwydd , clyweist ddamunet y tlodion : cyweiry ei calonae : clust-ymwrandewy [ ac wynt] ,
+19:10:018:0	Er barnu yr ymddivat a’r tlawt , val na bo y ddyn daiarol beri ofn mwy- [ ach . ]

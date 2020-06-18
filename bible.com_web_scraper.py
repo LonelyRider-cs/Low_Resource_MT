@@ -5,11 +5,14 @@ import time
 from bs4 import BeautifulSoup
 import re
 from nltk.tokenize import word_tokenize
+from nltk.tokenize import RegexpTokenizer
+import getopt
+import sys
 #------------IMPORTANT------------#
 #2524 total bibles on bible.com
 
 
-def page_scraper(url, book, book_number, chapter_number, lang_code):
+def page_scraper(url, book, book_number, chapter_number, lang_code, TOKENIZER):
 
     response = requests.get(url)
 
@@ -35,12 +38,21 @@ def page_scraper(url, book, book_number, chapter_number, lang_code):
     heading_count = 1
     current_working_verse = ""
     tokened_working_verse = ""
+    tokened_heading = ""
     #loop through all the verses
     for tag in all_tags:
 
         if tag['class'][0] == 'heading':
-            token = word_tokenize(tag.text.replace("’", "'").replace("—", " — "))
-            tokened_heading = ' '.join(token)
+            if TOKENIZER == None:
+                tokened_heading = tag.text
+            elif TOKENIZER == 'ENGLISH':
+                token = word_tokenize(tag.text.replace("’", "'").replace("—", " — "))
+                tokened_heading = ' '.join(token)
+            elif TOKENIZER == 'OTHER':
+                tokenizer = RegexpTokenizer("[^\s.\";:,.“”\[\(\)?!]+|[^\w\d'\s\-]")
+                token = tokenizer.tokenize(tag.text)
+                tokened_heading = ' '.join(token)
+
             if len(str(heading_count)) == 1:
                 file.write(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_heading + "\n")
                 #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_heading)
@@ -54,17 +66,26 @@ def page_scraper(url, book, book_number, chapter_number, lang_code):
                 #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":" + str(heading_count) + ":1\t " + tokened_heading)
                 #print(str(book_number) + ":" + str(chapter_number) + ":" + str(heading_count) + ":1\t" + tokened_heading)
             heading_count += 1
+            tokened_heading = ""
 
         #this check is not neeeded currently, if we add labels/titles this will be useful then
         if tag['class'][0] == 'verse':
             temp_verse = int(tag['class'][1][1:])
 
+
+
             #if our verse changes we know to then append the current verses, then update the verse count and reset the current verse string to blank
             #this also writes to the specified text file
             if verse_count != temp_verse:
-                #tokenize all words and symbols before writing to file
-                token = word_tokenize(current_working_verse.replace("’", "'").replace("—", " — "))
-                tokened_working_verse = ' '.join(token)
+                if TOKENIZER == None:
+                    tokened_working_verse = current_working_verse
+                elif TOKENIZER == 'ENGLISH':
+                    token = word_tokenize(current_working_verse.replace("’", "'").replace("—", " — "))
+                    tokened_working_verse = ' '.join(token)
+                elif TOKENIZER == 'OTHER':
+                    tokenizer = RegexpTokenizer("[^\s.\";:,.“”\[\(\)?!]+|[^\w\d'\s\-]")
+                    token = tokenizer.tokenize(current_working_verse)
+                    tokened_working_verse = ' '.join(token)
                 #print(current_working_verse)
                 #print(token)
                 #print(tokened_working_verse)
@@ -90,22 +111,29 @@ def page_scraper(url, book, book_number, chapter_number, lang_code):
             #however there appears that when writing is in red the class is called wj
             #and then within that is the class called content. See the online HTML if confusing
             for child in tag.children:
-                #print(child)
-                if child['class'] == ['content']:
-                    #print(child.text)
-                    current_working_verse += child.text
 
+                if child['class'] == ['content']:
+                    #print(child['class'])
+                    #print('APPENDED: ' + child.text)
+                    current_working_verse += child.text
                 if child['class'] != ['content'] and child['class'] != ['label'] and child['class'] != ['heading']:
                     #print(child)
                     for gchild in child:
                         #print(gchild)
                         if gchild['class'] == ['content']:
-                            #print(gchild.text)
+                            #print('APPENDED: ' + gchild.text)
                             current_working_verse += gchild.text
 
     #tokenize that last line
-    token = word_tokenize(current_working_verse.replace("’", "'").replace("—", " — "))
-    tokened_working_verse = ' '.join(token)
+    if TOKENIZER == None:
+        tokened_working_verse = current_working_verse
+    elif TOKENIZER == 'ENGLISH':
+        token = word_tokenize(current_working_verse.replace("’", "'").replace("—", " — "))
+        tokened_working_verse = ' '.join(token)
+    elif TOKENIZER == 'OTHER':
+        tokenizer = RegexpTokenizer("[^\s.\";:,.“”\[\(\)?!]+|[^\w\d'\s\-]")
+        token = tokenizer.tokenize(current_working_verse)
+        tokened_working_verse = ' '.join(token)
     #print(tokened_working_verse)
     #at the end here we need to add the last verse no matter what due to the way the for loop is set up
     if len(str(verse_count)) == 1:
@@ -124,14 +152,14 @@ def page_scraper(url, book, book_number, chapter_number, lang_code):
     file.close()
     return 0
 
-def driver():
+def driver(start, stop, TOKENIZER):
     book_table_of_contents_dic = {"GEN" : 1, "EXO" : 2, "LEV" : 3, "NUM" : 4, "DEU" : 5, "JOS" : 6, "JDG" : 7, "RUT" : 8, "1SA" : 9, "2SA" : 10, "1KI" : 11, "2KI" : 12, "1CG" : 13, "2CH" : 14, "EZR" : 15, "NEH" : 16, "EST" : 17, "JOB" : 18, "PSA" : 19, "PRO" : 20, "ECC" : 21, "SNG" : 22, "ISA" : 23, "JER" : 24, "LAM" : 25, "EZK" : 26, "DAN" : 27, "HOS" : 28, "JOL" : 29, "AMO" : 30, "OBA" : 31, "JON" : 32, "MIC" : 33, "NAH" : 34, "HAB" : 35, "ZEP" : 36, "HAG" : 37, "ZEC" : 38, "MAL" : 39, "MAT" : 40, "MRK" : 41, "LUK" : 42, "JHN" : 43, "ACT" : 44, "ROM" : 45, "1CO" : 46, "2CO" : 47, "GAL" : 48, "EPH" : 49, "PHP" : 50, "COL" : 51, "1TH" : 52, "2TH" : 53, "1TI" : 54, "2TI" : 55, "TIT" : 56, "PHM" : 57, "HEB" : 58, "JAS" : 59, "1PE" : 60, "2PE" : 61, "1JN" : 62, "2JN" : 63, "3JN" : 64, "JUD" : 65, "REV" : 66}
     #loop through all 2524 bibles
     #change the numbers to scrape specific bibles,
     #lets say you only want bible 1245, then it would be range(1245, 1246)
     #all ->  range(1, 2525)
     #first -> range(1,2)
-    for i in range(116,117):
+    for i in range(start,stop):
         #get the language code
         lang_code = get_lang_code(i)
         #if lang code comes back false, then we know its a bad url
@@ -154,7 +182,7 @@ def driver():
                     else:
                         print(url)
                         #after satisfying all othre conditions we then scrape the web page and store the data
-                        page_scraper(url, book, book_table_of_contents_dic[book], chapter_count, lang_code)
+                        page_scraper(url, book, book_table_of_contents_dic[book], chapter_count, lang_code, TOKENIZER)
                         chapter_count += 1
         else:
             continue
@@ -170,5 +198,54 @@ def get_lang_code(i):
         return False
 
 
+#sets up the driver function
+def menu(argv):
+    BIBLE_LIST = []
+    TOKENIZER = None
+
+    #graps command line arguments inputed from user
+    options, remainder =  getopt.gnu_getopt(argv[1:], 'al:r:eoh', ['all_bibles', 'list=', 'range=', 'english_token', 'other_token', '--help'])
+
+    for opt, arg in options:
+        if opt in ('-a', '--all_bibles'):
+            BIBLE_LIST.append((1,2525))
+        if opt in ('-l', '--list'):
+            #print(arg.split(','))
+            bible_list = arg.split(',')
+            for bible in bible_list:
+                start = int(bible)
+                stop = int(bible) + 1
+                BIBLE_LIST.append((start, stop))
+        if opt in ('-r', '--range'):
+            #print(arg)
+            bible_range = arg.split(',')
+            start = int(bible_range[0])
+            stop = int(bible_range[1]) + 1
+            BIBLE_LIST.append((start,stop))
+        if opt in ('-e', '--english_token'):
+            TOKENIZER = 'ENGLISH'
+        if opt in ('-o', '--other_token'):
+            TOKENIZER = 'OTHER'
+        if opt in ('-h', '--help'):
+            print("\n*** Bible.com webpage scraper ***\n")
+            print("Usage: bible.com_web_scraper.py [OPTIONS] ")
+            print("Stores specified bibles in local storage")
+            print("Each bible has a unique numerical code associated to it between 1 and 2524")
+            print("The tokenizer default is set to off, one needs to be specified if wanted")
+            print("OPTIONS:")
+            print(" -a         scrapes and stores all 2524 bibles")
+            print(" -l NUM     comma seperated list of specified bibles you want")
+            print(" -r NUM     two comma seperated values for a range of bibles to grab")
+            print(" -e         tokenizes words based off of english grammar")
+            print(" -o         standardized rule set for tokenizing any language")
+            print(" -h         help")
+            quit()
+
+    print(BIBLE_LIST)
+    print(TOKENIZER)
+    for b in BIBLE_LIST:
+        driver(b[0], b[1], TOKENIZER)
+
+
 if __name__ == '__main__':
-    driver()
+    menu(sys.argv)

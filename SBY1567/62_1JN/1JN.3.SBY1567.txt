@@ -1,0 +1,26 @@
+62:3:001:1	Pen . iij .
+62:3:002:1	1 Dirfawr gariat Dew arnam , 7 A p’hwedo y dlyem nineu drachefn garu ei gylydd .
+62:3:001:0	GWelwch , pa’r y gariat a roes y Tat arnam , val in gelwit yn veibion Dew : o bleit hyn nyd edwyn y byt chwi , can nad edwyn e efe .
+62:3:002:0	A garedigion , yr owrhon ydd ym ni veibion Dew , eithyr nyd ymddangosawdd eto pa beth vyddwn : a’ gwyðam pan ymddangoso ef , y byddwn gyffelip yddaw : can ys gwelwn ef megis ac y mae ef .
+62:3:003:0	A’ phop vn ’sy ganthaw y gobaith hyn yntho ef , ei purha y hun , megis ac y mae yntef yn bur .
+62:3:004:0	Pwy pynac a wna bechot , y mae ef hefyt y gwneuthur ancyfraith : cans ancyfraith yw pechot .
+62:3:005:0	A’ gwyddoch may ymddangos a wnaeth ef er dileu yn pechotae ni , ac ynthaw ef nyd oes pechot .
+62:3:006:0	Pwy pynac ’sy ’n aros yntho ef , ny phecha ef : pwy pynac a pecha , ny welawdd ddim o hanaw , ac ny’s adnabu ef .
+62:3:007:0	Blant bechain , na thwyllet nep chwi : yr hwn a wna gyfiawnder , ys y gyfiawn , megis y mae yntef yn gyfiawn .
+62:3:008:0	Hwn a wna bechot , o dðiavol y mae : can ys diavol a becha or dechreu : er mvvyn hyn yr ymddangosodd Map Dew , val yd atdodei ef weithredoedd diavol .
+62:3:009:0	Pop vn a anet o Ddew , ny phecha : can ys y had ef ys ydd yn aros ynthaw , ac ny all ef bechu , can y eni ef o Dduw .
+62:3:010:0	Yn hyn yr adwenir plant Dew , a phlant diavol : pwy pynac ny wna gyfiawnder , nyd ef yw o Ddew , na’r hwn ny char ei vrawt .
+62:3:011:0	Can ys hyn yw’r genadwri , a glywsoch or dechreuat , bot y ni garu eu gylydd ,
+62:3:012:0	Nyd mal Cain yr hvvn oeð or Vall , ac a ladoð ei vrawt : ac er mwyn pa beth y lladawdd ef vo ? can vot y weithredoedd e yhun yn ddrwc , a’r ei ei vrawt yn dda . Yr Epistol yr ij . Sul gwedy yr Trintot .
+62:3:013:0	Na ryveddwch , vy‐broder , cyd casao y byt chwi .
+62:3:014:0	Nyni a wyddom ddarvot ein ysmuto o varwolaeth y vywyt , can ein bot yn caru y broder : hwn ny charo ei vrawt , ’sy’ n aros yn angen .
+62:3:015:0	Pwy pynac a gasao ei vrawt , lladdwr‐dyn ydyw : a’ gwyddoch nad oes i vn lladwr‐dyn vywyt tragyvythawl yn aros ynthaw .
+62:3:016:0	Wrth hyn y gwybuom gariat , can yddo ef ddodi ei einioes drosom ni : a’ nineu a ddlem ddodi ein einioes dros ein broder .
+62:3:017:0	A’phwy pynac ysy ganthaw vywyt y byt hwn ac a wyl ei vrawt mewn eisieu , ac a gayo ei dostri oddywrthaw , p’wedd y trig cariat ar Ddew ynthaw ?
+62:3:018:0	Vy plant‐bychain , na charwn ar’ air , nac ar davot yn vnic , eithyr ar weithred a’ gwirionedd .
+62:3:019:0	Ac wrth hyny y gwyddam ein bot or gwirionedd , ac y bydd y ni ger y vron ef ddiogelu ein calonneu .
+62:3:020:0	Can ys a’s ein caloneu a’n condemna , mwy yw Duw na’n caloneu , ac a wyr bop peth .
+62:3:021:0	Caredigion , a’s ein calon ni’n condemna , yno y mae y ni hyder ar Dduw .
+62:3:022:0	A’ pha beth bynac a archom , ni ei derbyniwn cantbaw , can y ni gadw ei ’orchymyneu , a’ gwneuthur y petheu ys y voddlawn yn ei ’olwc .
+62:3:023:0	Hwn gan hyny yw y ’orchymyn ef , vot y ni gredu yn Enw ei Vap Iesu Christ , a’ charu eu gylyð , mal y rroes ef ’orchymyn .
+62:3:024:0	Can ys yr hwn a gaidw y ’orchymynion ef , a drig ynto ef , ac yntef yntho ef : ac wrth hyn y gwyddam y vot ef yn aros ynom , ys ef o’r Yspryt y roddes ef y ni .

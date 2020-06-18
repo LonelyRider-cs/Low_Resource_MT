@@ -1,0 +1,13 @@
+19:113:001:1	PSALM 113
+19:113:002:1	The L
+19:113:003:1	ord
+19:113:004:1	Exalts the Humble .
+19:113:001:0	Praise the Lord ! Praise , O servants of the Lord , Praise the name of the Lord .
+19:113:002:0	Blessed be the name of the LordFrom this time forth and forever .
+19:113:003:0	From the rising of the sun to its settingThe name of the Lord is to be praised .
+19:113:004:0	The Lord is high above all nations ; His glory is above the heavens .
+19:113:005:0	Who is like the Lord our God , Who is enthroned on high ,
+19:113:006:0	Who humbles Himself to behold The things that are in heaven and in the earth ?
+19:113:007:0	He raises the poor from the dustAnd lifts the needy from the ash heap ,
+19:113:008:0	To make them sit with princes , With the princes of His people .
+19:113:009:0	He makes the barren woman abide in the house As a joyful mother of children . Praise the Lord !

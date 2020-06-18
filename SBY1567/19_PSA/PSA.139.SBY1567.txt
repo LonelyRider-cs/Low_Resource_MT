@@ -1,0 +1,26 @@
+19:139:001:1	Psam . cxxxix .
+19:139:002:1	Domine probasti .
+19:139:001:0	ARglwydd , chwiliaist vi ac im adnabuost .
+19:139:002:0	Adwaenost vy eisteddiat , am cyfodiat : dyelly vy meðwl o hirbell .
+19:139:003:0	Vy llwybr am gorweddva y amgylchynyt’ , am oll ffyrð a chwilyt .
+19:139:004:0	Can nad oes gair yn vy-tavot , [ ond] wele , Arglwydd , ti ei gwyddost oll .
+19:139:005:0	Yr wyt im cyfingu yn ol ac ym-blaen , ac yn gosot dy law arnaf .
+19:139:006:0	[ Dy] wybodaeth sy tra rhyvedd genyf , mor vchel ytyw ac na allaf wrthaw .
+19:139:007:0	I b’le ydd af rac dy yspryt ? ac yb’le y ciliaf o rac dy vron ?
+19:139:008:0	A’s escennaf ir nef , ydd wyt yno : a’s gorweddaf yn yffern , ydd wyt yno .
+19:139:009:0	Cymerwyf adanedd y wawr [ ðydd] , a’thrigo yn eithaw y mor :
+19:139:010:0	Ys yno im tywys dy law , ath deheulaw am cynnail .
+19:139:011:0	A’s dywedaf , Ys y tywyllwch am cudd , ’sef y nos [ a vydd] goleuni o’m amgylch .
+19:139:012:0	Ys y tywyllwch ny thywylla rrago-ti : eithr y nos a lewycha mal y dydd : tywyllwch a’r golauni ’sydd yr vn ffynyt .
+19:139:013:0	Can ys ti berchenogeist vy ’rennae : toeist vi yn-croth vy mam .
+19:139:014:0	Clodvoraf dydy , can ys yn ofnadwy ac yn ryvedd im gwnaethpwyt : rryvedd yw dy weithredoedd , a’ [ hyny] a wyr vy eneit yn dda-iawn .
+19:139:015:0	Ny chuddiwyt vy escyrn rhagot , cyd im gwnaethpwyt yn [ lle] dirgel , a’m ffurviaw isot yn y ddaiar .
+19:139:016:0	Vy annelwic y welent dy lygait : can ys yn dy lyver yð escrivenit oll , [ yr ei] o ddydd y-ddydd a ffurfir , pryd nad oedd yr vn o hanwynt [ cyn hyny] .
+19:139:017:0	Can hyny mor annwyl genyf dy gycorae Ddew ? mor vawrion yw ei summae ?
+19:139:018:0	A’s cyfrifwn wynt , mwy-ytynt na’r tyvot : pan ddeffrowyf , yn wastat ydd wyf gyd a thi .
+19:139:019:0	O pe lladdyt , Ddew , yr andewiol a’r gwyr gwaedlyd , [ wrth yr ei y dywedaf] , Tynnwch y wrthyf :
+19:139:020:0	Yr ei y lavarant scelerder am danat , a’hwy yty yn ’elynion eu derchefir yn over .
+19:139:021:0	Anid cas genyf , Arglwydd , y rei ath gasaant ? ac anyd wyf yn ymdynnu ar ei y gyvotant ith erbyn ?
+19:139:022:0	Vy-gwirgas a rois arnwynt , val petynt yn elynion y-mi .
+19:139:023:0	Chwilia vi Dduw a’ gwybydd vy-calon praw vi , ac adnebydd vy-medduliae .
+19:139:024:0	A’ gwyl a oes ffordd drawsedd ynof , a’ thywys vi yn y ffordd yn tragywydd .

@@ -1,0 +1,9 @@
+19:126:001:1	PSALM 126
+19:126:002:1	Thanksgiving for Return from Captivity .
+19:126:003:1	A Song of Ascents .
+19:126:001:0	When the Lord brought back the captive ones of Zion , We were like those who dream .
+19:126:002:0	Then our mouth was filled with laughterAnd our tongue with joyful shouting ; Then they said among the nations , “ The Lord has done great things for them . ”
+19:126:003:0	The Lord has done great things for us ; We are glad .
+19:126:004:0	Restore our captivity , O Lord , As the streams in the South .
+19:126:005:0	Those who sow in tears shall reap with joyful shouting .
+19:126:006:0	He who goes to and fro weeping , carrying his bag of seed , Shall indeed come again with a shout of joy , bringing his sheaves with him .

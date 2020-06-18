@@ -1,0 +1,16 @@
+19:108:001:1	PSALM 108
+19:108:002:1	God Praised and Supplicated to Give Victory .
+19:108:003:1	A Song , a Psalm of David .
+19:108:001:0	My heart is steadfast , O God ; I will sing , I will sing praises , even with my soul .
+19:108:002:0	Awake , harp and lyre ; I will awaken the dawn !
+19:108:003:0	I will give thanks to You , O Lord , among the peoples , And I will sing praises to You among the nations .
+19:108:004:0	For Your lovingkindness is great above the heavens , And Your truth reaches to the skies .
+19:108:005:0	Be exalted , O God , above the heavens , And Your glory above all the earth .
+19:108:006:0	That Your beloved may be delivered , Save with Your right hand , and answer me !
+19:108:007:0	God has spoken in His holiness : “ I will exult , I will portion out ShechemAnd measure out the valley of Succoth .
+19:108:008:0	Gilead is Mine , Manasseh is Mine ; Ephraim also is the helmet of My head ; Judah is My scepter .
+19:108:009:0	Moab is My washbowl ; Over Edom I shall throw My shoe ; Over Philistia I will shout aloud . ”
+19:108:010:0	Who will bring me into the besieged city ? Who will lead me to Edom ?
+19:108:011:0	Have not You Yourself , O God , rejected us ? And will You not go forth with our armies , O God ?
+19:108:012:0	Oh give us help against the adversary , For deliverance by man is in vain .
+19:108:013:0	Through God we will do valiantly , And it is He who shall tread down our adversaries .

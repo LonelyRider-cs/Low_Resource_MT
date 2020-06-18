@@ -1,0 +1,40 @@
+42:3:001:1	Pen . iij .
+42:3:002:1	Precaeth , betydd , a charchar Ioan . Tybieit may Christ oedd ef . Batyddio Christ . Ei oedran a’ iacheu .
+42:3:001:0	SEf yn y pempthecvet vlwyddyn o deyrnas Tiberius Caisar , ac a Phontius Pilatus yn llywiawdr Iudaia , a’ Herod yn Tetrarch Galilaia , a’ ei vrawt Philip yn Tetrarch Ituraia , a ’gwlat Trachenitis , a’ Lysanias yn Tetrarch Abilene ,
+42:3:002:0	( pan oedd Annas a’ Chaiaphas yn Archrffeiriait ) y dyvu gair Duw at Ioan vap Zecharias yn y diffeith .
+42:3:003:0	Ac ef a ddaeth i bop goror yn cylch Iorddonen , can precethy batydd edivairwch er maddeuant pechatae ,
+42:3:004:0	mal ydd escriuenwyt yn llyuer ymadroddion Esaias y Prophwyt , yr hwn a ddywait , Llef vn yn llefain yn y diffeithvvch yvv , Arlwywch ffordd yr Arglwydd , vnionwch y lwybrae ef .
+42:3:005:0	Pop glynn a gyflawnir , a’ phob mynyth a’ brynn a iselir , a’r caimion a wnair yn vnion , a’r llwybrae geirwon vyddant yn lyfnion ,
+42:3:006:0	Ac oll cnawd a wyl iechydurieth Duw .
+42:3:007:0	Yno y deuot ef wrth y populoedd a ddaethent y’w betyddiaw y ganthaw , A genedlaethae gwiperoedd , pwy ach rac rybuddiawdd i ffo ywrth y digovain ar ddyuot ?
+42:3:008:0	Dygwch gan hyny ffrwythae teilwng i wellad‐buchedd , ac na ðechrewch dywedyt ynoch eich hunain , Y mae y ni Abraham yn dad ynny : can ys dywedaf ywch’ , y gall Duw pe o’r main hyn godi plant i Abraham .
+42:3:009:0	Ac yr awrhon y dodwyt y vwyall ar wraiddyn y prenie : can hyn pop pren ny ddwc ffrwyth da , a gymynir i lawr , ac a vwrir yn tan .
+42:3:010:0	Yno y govynodd populoedd iddo , gan ddywedyt , Pa beth gan hyny a wnawn ?
+42:3:011:0	Ac ef a atepawdd ac a ddyuot wrthynt , Hwn ’sy iddo ðwy bais , cyfranet a’ hwn nid oes iddo yr vn : a’ hwn ’sy berchen bwyt , gwnaet yr vn ffynyt .
+42:3:012:0	Yno y daeth y Publicanot hefyt y’w betyddio , ac a ddywetsont wrthaw , Athro , pa beth a wnawn ni ?
+42:3:013:0	Ac ef a ddyuot wrthynt , Na chaisiwch ddim mwy nag a ’osodwyt y chwy .
+42:3:014:0	A’r milwyr wythe a ymofynesont ac ef , gan ddywedyt , A’ pha beth a wnawn nineu ? Ac ef a ddyuot wrthynt , Na vyddwch draws wrth nep , ac na cham‐achwynwch ar ueb , a’ byddwch voddlawn ich cyfloge .
+42:3:015:0	Mal ydd oedd y popul yn dysgwyl , a’ phavvp oll yn synveddilied yn ei calonoe am Ioan , ai anyd oedd ef y Christ ,
+42:3:016:0	ydd atepai Ioan , ac y dywedai wrthynt oll , Myvi yn ddiau ’sy yn ych betyddiaw a dwfr , anid y mae vn cryfach na myvi , yn dyuot , yr hwn nid wyf dailwng y ddatot carreu ei escidie : efe ach betyddia ar Yspryt glan , ac a than .
+42:3:017:0	Yr vn ’sy aei ’oagr yn y law , ac ef a lwyrlanha ei lawr , ac a gascl ei ’wenith y’w escupawr , a’r vs a lysc ef a’ than andiffoddadwy .
+42:3:018:0	Ac vellhyn gan gygcori llawer o bethae eraill , y precethawdd ef ir popul .
+42:3:019:0	Eithyr pan argyhoeddit Herod y Tetrarch ganto ef am Herodias gwreic Philip ei vrawt , ac am yr oll scelerae a wnethesei Herod ,
+42:3:020:0	ef a angwanegawdd hyn hefyt ar vcha oll , goarchau o hanaw Ioan yn‐carchar .
+42:3:021:0	Ac e ddarvu , wrth vatyddiaw yr oll popul , ac y betyddiwyt Iesu , ac y gweddiawð ef , val yr agorit y nef :
+42:3:022:0	a’r Ysprit glā a ddescendadd mewn rhith corphorawl megis colomben , arno ef , ac yr oedd llef o’r nef yn dywedyt , Ti yw vy-caredic Vap : yno ti yr ymvoddlonaf .
+42:3:023:0	Ac ys ef Iesu a ddecheuawdd vot yn cylch ddec blwydd ar vgain ’oed , yr hwn oedd ( val y tybit ) yn vap i Ioseph , yr hvvn oedd vap Eli ,
+42:3:024:0	vap Mathat , vap Leui , vap Melchi , vap Ianna , vap Ioseph ,
+42:3:025:0	vap Mattathias , vap Amos , vap Naum , vap Esli , vap Nagge ,
+42:3:026:0	vap Maath , vap Mattathias , vap Semei , vap Ioseph , vap Iuda ,
+42:3:027:0	vap Ioanna , vap Rhesa , vap Zorobabel , vap Salathiel , vap Neri ,
+42:3:028:0	vap Melchi , vap Ad‐di , vap Cosam , vap Elmodā , vap Er .
+42:3:029:0	Vap Iose , vap Eliezer , vap Iorim , vap Matthat , vap Leui ,
+42:3:030:0	vap Simeon , vap Iuda , vap Ioseph , vap Ionan , vap Eliacim ,
+42:3:031:0	vap Melea , vap Mainan , vap Mattatha , vap Nathan , vap Dauid ,
+42:3:032:0	vap Iesse , vap Obed , vap Booz , vap Salmon , vap Naasson ,
+42:3:033:0	vap Aminadab , vap Aram , vap Esrom , vap Phares , vap Iuda ,
+42:3:034:0	vap Iacob , vap Isaac , vap Abraham , vap Thara , vap Nachor ,
+42:3:035:0	vap Saruch , vap Ragau , vap Phalec , vap Eber , vap Sala ,
+42:3:036:0	uap Cainan , vap Arphaxad , vap Sem , uap Noe , uap Lamech ,
+42:3:037:0	uap Mathusala , vap Enoch , uap Iared , uap Maleleel , uap Cainan ,
+42:3:038:0	uap Enos , uap Seth , ’ap Adda , ’ap Duw ,

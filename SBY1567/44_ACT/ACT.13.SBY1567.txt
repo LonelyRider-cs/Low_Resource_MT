@@ -1,0 +1,54 @@
+44:13:001:1	Pen . xiij .
+44:13:002:1	Bod galw Paul a’ barnabas y precethy ymplith y Cenetloeð . Am Sergius Paulus , ac Elymas y swynwr . Ymadawiat Marc . Paul yn precethy yn Antiocheia . Fyðd y Cenetloedd . Bod gwrthðot yr Iuddaeon . Bod y sawl a ordeiniwyt i vywyt , yn credy . Frwyth ffydd .
+44:13:001:0	YDd oedd hefyt yn yr Eccles ytoedd yn Antiocheia , Prophwyti ’rei a’ dyscyawdron , megis Barnabas , ac Simeon y elwit Niger , a ’Lucius o Cyrene , ac Manahen ( yr hwn y ddaroedd ei gyd vaethrin gyd ac Herod y Tetrarch ) ac Saul
+44:13:002:0	Ac mal ydd oeddent wy yn gweini ir Arglwydd , ac yn vmprydiaw , y dyvot yr Yspryt glan , Didolwch i mi Barnabas ac Saul , ir gwaith y gelwais am danwynt .
+44:13:003:0	Yno ydd vmprydiesont , ac y gweðiesont , ac y dodesont ei dwylaw arnaddvvyynt , at y gellyngesont yvv hynt .
+44:13:004:0	Ac wynte wedy ei d’anvon ymaith y gan yr Yspryt glā , aethan y wared y Selcucia , ac o ddyno mordwyaw a’ orugant y Cyprus .
+44:13:005:0	Ac pan oeddent yn Salamis , y precethesant ’air Dew yn Synagae yr Iuðeon : ac ydd oedd Ioan hefyt yn wenidawc yddvvynt .
+44:13:006:0	Ac wedy yddwynt gerddet dros yr ynys yd yn Paphus , wy a gawsant ryw swynwr , gau prophwyt , o Iddew , a’ei enw Bariesus ,
+44:13:007:0	yr hwn ytoeð y gyd a’ Raglaw Sergius Paulus , vn oedd wr prudd . Ef e a ’alwodd‐ato am Barnabas ac Saul , ac a ddesyfawdd cael clywet gair Dew .
+44:13:008:0	Ac Elymas , y swynwr ( can ys velly ytyw ei enw oei ddeongyl ) a wrthladdawdd yddwynt , gan geisiaw d’atroi y Raglaw o’r ffydd .
+44:13:009:0	Yno Saul ( yr hvn hefyt a elvvir Paul ) yn gyflawn or Yspryt glan , a hylldremiawdd arnaw ,
+44:13:010:0	ac a ddyvot , A gyflawn o bop dichell a’ phop twyll , map diavol , a’ gelyn pop cyfiawnder , a ny pheidy a dychwelyd vnion ffyrdd yr Arglwydd ?
+44:13:011:0	Ac yn awr , nachaf , llaw yr Arglwydd ys yd arnat , a’ dall vyddy , ac eb welet yr haul dros amser . Ac yn ddiatrec y syrthiawdd arno niwlen a’ thywyllwch ac ef aeth o y amhylch , y geisiaw llaw‐arweinwyr .
+44:13:012:0	Yno y Raglaw pan welas yr hyn a wnaethit , a credoð , gan ryveddy wrth ddysceidaeth yr Arglwydd .
+44:13:013:0	Pellach , wedy daroedd i Paul a’r ei oedd gyd ac ef ddiangori y wrth Paphus y daethant i Perga dinas ym‐Pamphilia : yno yr ymadaodd Ioan ac wynt , ac a ymchwelawdd i Caerusalem .
+44:13:014:0	Ac wedy yddwynt vyned ymaith o Perga , wy ddaethāt i Antiocheia dinas ym‐Pisidia , ac mynet y mewn ir Synagog y dyð Saboth , ac eisteð a ’orugant .
+44:13:015:0	Ac yn ol y llith y Ddeddyf a’r Prophwyti , yr archsynagogwyr a dd’anvonesont attwynt , gan ddywedyt , Ha wyr vroder , a’s oes genwch neb gair eiriol ir popul , dywedwch rhagoch .
+44:13:016:0	Yno y cyvodes Paul ac wedy yddo amneidio a llaw am ’oystec , y dyvot , A wyr yr Israel , a’r sawl ’sy yn ofny Dew , gwrandewch .
+44:13:017:0	Dew y popul hynn yr Israel a ddetholes ein tadae , ac a dderchafawdd y popul pan oedd yn preswiliaw yn tir‐yr Aipht , ac a braich goruchel y duc ef wynt allan oddynaw ,
+44:13:018:0	ac amgylch amser danugain blynedd y goddefawdd ef y moesae hwy yn y dyffaithvvch .
+44:13:019:0	Ac wedy yddaw ddiley saith cenetl yn‐tir Chanaan , y parthawdd ef y tir hwy yddwynt a choelbren .
+44:13:020:0	Ac wedy hyn y rhoes ef yddynt vrawdwyr yn‐cylch petwar‐cant a’ dec a dauugain o vlynyðedd , yd ar amser Samuel y Prophet .
+44:13:021:0	Ac yn ol hynny yr archasant gael Brenhin , ac y rhoes Dew yðwynt Saul , vap Cis gwr o lwyth Beniamin dros yspait dauugain blynedd .
+44:13:022:0	Ac yn ol y ysmuto ef , y cyvodes ef Ddauyð yn Vrenhin yddwynt , am ba vn y testiawdd ef , gan ddywedyt , Ys cefeis Ddauydd vap Iesse , gwr herwydd vy‐calon , yr hwn a wna pop peth a’r ewyllysiwyf .
+44:13:023:0	O had hwnn yma y cyvo‐des Dew wrth ei addewit ir Israel , yr Iachawdr Iesu :
+44:13:024:0	pan precethodd Ioan yn gyntaf o vlaen y ddyvodiat ef , vatyð ediveirwch ir oll popul Israel .
+44:13:025:0	Ac pan gyflawnoð Ioan ei gerðet , y dywedoð , y neb a veddylwch vy‐bot i , nid hvvnvv yw vi : eithyr wele , y mae vn yn dyvot ar vy ol i , yr hwn nid wyf deilwng y ddatdod escit ei draet . Yr Epistol ddie Marth Pasc .
+44:13:026:0	A wyr vroder , plāt cenedlaeth Abraham , a’ pha’r ei bynac yn eich plith ys ydd yn ofny Dew , y chvvychwi yd anvonwyt gair yr iecheit hwnn .
+44:13:027:0	Can ys preswylwyr Caerusalem a’ ei llywodraethwyr cā nad adnabuont ef , nac eto llefae yr Prophwyti , yr ei a ddarllenir pop dydd Sabbath , y gyflawnesant wy , can y varny ef ,
+44:13:028:0	a chyd na chawsant ddim achos angae arnavv , val cynt yr archasant vvy ar Pilat y ladd ef .
+44:13:029:0	Ac gwedy yddwynt gwplay pop peth a escrivenesit o hano , eu descenesont i ar y pren , ac ei dodesont ym‐monwent .
+44:13:030:0	Ac Dew y cyvodes ef i vynydd o veirw .
+44:13:031:0	Ac y gwelwyt ef lawer dydd y ganthwynt , yr ei ddaeth i vynydd gyd ac ef o Galilaia i Caerusalem , y sawl ys yn testion iddo wrth y popul .
+44:13:032:0	A’ nineu dd’ym yn manegy y chwy , am yr addewit a wnaethpwyt ir tadae ,
+44:13:033:0	ddarvot i Ddew ei gyflawny y nyni y plant wy , can iddo gyvody Iesu , megis ac yð escrivenir yn yr ail Psalm , Y map meu yw ti : myvi heðyw ath genetlais .
+44:13:034:0	Ac am iddaw y gyvody ef o veirw ny mwyach ar adymchoelyd ir bedd , y dyvot val hyn , Roðaf ychwy sanctawl bethae Dauid , yr ei ynt ffyðlon .
+44:13:035:0	Erwydd paam y dywait ef hefyt yn lle arall , Ny adewy ith Sanct welet llwgredigeth .
+44:13:036:0	Can ys Dauid eisioes gwedy iddaw wasanaethy ei oes , drwy gyccor Dew , ef a hunawdd , ac a osodwyt gyd aei dadae , ac a welawdd lygredigeth .
+44:13:037:0	Eithr ef e ’rhwn a gyvodoð Dew i vynydd , ny welas ddim llwgredigaeth .
+44:13:038:0	Can hyny bid wybodedic y chwy , hawyr vroder , may trwy hwn yma y precethir ychwy vaddeuant pechatae .
+44:13:039:0	Ac ywrth pop peth , y gan ba r’ei ny ellit eich cyfiawny trwy Ddeðyf Moysen , ys trwy ddaw ef pop vn a creta , a gyfiawnir .
+44:13:040:0	Gwilwch am hyny , rac dyvot arnoch , y peth a ddywedir yn y Prophwyti ,
+44:13:041:0	Edrychwch ddirmygwyr , a’ rhyveddwch , a’ diflanwch ymaith : can ys , gweithiaf weithred yn eich dyddiae , gweithredd ny’s credwch , a byddei y neb ei vanegy ychwy .
+44:13:042:0	Ac wedi ei ei dyvot wy allan o Synagog yr Iuddaeon , ydd atolygawdd y Cenetloedd preceo hanynt y geiriae hyn y ddwynt y dydd Sabbath nesaf ,
+44:13:043:0	A’ gwedy ymadael or Gynnulleidfa , llawer or Iuddaeon , ac o proseliteit o’r oeð yn ofny Dew , a ddylynesant Paul ac Barnabas , yr ei a lavarodd wrthwynt , ac a annogawdd arnaddwynt ar aros yn rrat Dew ,
+44:13:044:0	A’r dydd Sabbath nesaf , y daeth yr holl ddinas haiach ir vn lle y vrandaw gair Dew .
+44:13:045:0	A’ phan welas yr Iuddaeon y popul , y cyflawnwyt wy o genvigen , ac a ðywedesant yn erbyn y pethae , a ddywedwyt gan Paul , gan ei gwrth‐ddywedyt a’ ei caply .
+44:13:046:0	Yno y llevarawdd Paul a’ Barnabas yn hederus , gan ddywedyt , Rait oedd ymadrodd gair Dew yn cyntaf y chvvy chwi : anid can y chwi ei wrthladd e a’ch barny eichunain yn anteilwng o vywyt tragyvythawl , nachaf , nyni yn ymchwelyt at y Cenetloeod .
+44:13:047:0	Can ys velly y gorchymynawdd yr Arglwydd y ni , gan ddyvvedyt . Gosodeis dydi yn leuver ir Cenetloedd , y n y bych iachyt yd ar ddyweð y byt .
+44:13:048:0	A’ phan glybu yr Cenetloedd , llawenhay a wnaethant , a gogoneddy gair yr Arglwydd , a’ chyniver ac a ordinesit ir bywyt tragyvythawl , a gredesant .
+44:13:049:0	Ac val hynn y cyhoeddit gair yr Arglwydd trwy gwbyl o’r wlat .
+44:13:050:0	A’r Iuddaeon oedd yn cynnyrfy rei or gwragedd devosionol ac anrydeddus , a’ phennaethieit y dinas , ac y godesont ymlit yn erbyn Paul ac Barnabas , ac ei gyrresont allan oei tervynae hvvy .
+44:13:051:0	A’ hwynteu a yscytwesant y llwch i wrth ei traed , yn y herbyn hwy , ac a ddaethant i Iconium .
+44:13:052:0	A’r discipulon a gyflawnit o lawenydd ac o’r Yspryt glan .

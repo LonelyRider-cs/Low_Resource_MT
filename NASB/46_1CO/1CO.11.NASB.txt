@@ -1,0 +1,36 @@
+46:11:001:1	Christian Order
+46:11:001:0	Be imitators of me , just as I also am of Christ .
+46:11:002:0	Now I praise you because you remember me in everything and hold firmly to the traditions , just as I delivered them to you .
+46:11:003:0	But I want you to understand that Christ is the head of every man , and the man is the head of a woman , and God is the head of Christ .
+46:11:004:0	Every man who has something on his head while praying or prophesying disgraces his head .
+46:11:005:0	But every woman who has her head uncovered while praying or prophesying disgraces her head , for she is one and the same as the woman whose head is shaved .
+46:11:006:0	For if a woman does not cover her head , let her also have her hair cut off ; but if it is disgraceful for a woman to have her hair cut off or her head shaved , let her cover her head .
+46:11:007:0	For a man ought not to have his head covered , since he is the image and glory of God ; but the woman is the glory of man .
+46:11:008:0	For man does not originate from woman , but woman from man ;
+46:11:009:0	for indeed man was not created for the woman’s sake , but woman for the man’s sake .
+46:11:010:0	Therefore the woman ought to have a symbol of authority on her head , because of the angels .
+46:11:011:0	However , in the Lord , neither is woman independent of man , nor is man independent of woman .
+46:11:012:0	For as the woman originates from the man , so also the man has his birth through the woman ; and all things originate from God .
+46:11:013:0	Judge for yourselves : is it proper for a woman to pray to God with her head uncovered ?
+46:11:014:0	Does not even nature itself teach you that if a man has long hair , it is a dishonor to him ,
+46:11:015:0	but if a woman has long hair , it is a glory to her ? For her hair is given to her for a covering .
+46:11:016:0	But if one is inclined to be contentious , we have no other practice , nor have the churches of God .
+46:11:017:0	But in giving this instruction , I do not praise you , because you come together not for the better but for the worse .
+46:11:018:0	For , in the first place , when you come together as a church , I hear that divisions exist among you ; and in part I believe it .
+46:11:019:0	For there must also be factions among you , so that those who are approved may become evident among you .
+46:11:020:0	Therefore when you meet together , it is not to eat the Lord’s Supper ,
+46:11:021:0	for in your eating each one takes his own supper first ; and one is hungry and another is drunk .
+46:11:002:1	The Lord’s Supper
+46:11:022:0	What ! Do you not have houses in which to eat and drink ? Or do you despise the church of God and shame those who have nothing ? What shall I say to you ? Shall I praise you ? In this I will not praise you .
+46:11:023:0	For I received from the Lord that which I also delivered to you , that the Lord Jesus in the night in which He was betrayed took bread ;
+46:11:024:0	and when He had given thanks , He broke it and said , “ This is My body , which is for you ; do this in remembrance of Me . ”
+46:11:025:0	In the same way He took the cup also after supper , saying , “ This cup is the new covenant in My blood ; do this , as often as you drink in remembrance of Me . ”
+46:11:026:0	For as often as you eat this bread and drink the cup , you proclaim the Lord’s death until He comes .
+46:11:027:0	Therefore whoever eats the bread or drinks the cup of the Lord in an unworthy manner , shall be guilty of the body and the blood of the Lord .
+46:11:028:0	But a man must examine himself , and in so doing he is to eat of the bread and drink of the cup .
+46:11:029:0	For he who eats and drinks , eats and drinks judgment to himself if he does not judge the body rightly .
+46:11:030:0	For this reason many among you are weak and sick , and a number sleep .
+46:11:031:0	But if we judged ourselves rightly , we would not be judged .
+46:11:032:0	But when we are judged , we are disciplined by the Lord so that we will not be condemned along with the world .
+46:11:033:0	So then , my brethren , when you come together to eat , wait for one another .
+46:11:034:0	If anyone is hungry , let him eat at home , so that you will not come together for judgment . The remaining matters I will arrange when I come .

@@ -1,0 +1,43 @@
+44:19:001:1	Paul at Ephesus
+44:19:001:0	It happened that while Apollos was at Corinth , Paul passed through the upper country and came to Ephesus , and found some disciples .
+44:19:002:0	He said to them , “ Did you receive the Holy Spirit when you believed ? ” And they said to him , “ No , we have not even heard whether there is a Holy Spirit . ”
+44:19:003:0	And he said , “ Into what then were you baptized ? ” And they said , “ Into John’s baptism . ”
+44:19:004:0	Paul said , “ John baptized with the baptism of repentance , telling the people to believe in Him who was coming after him , that is , in Jesus . ”
+44:19:005:0	When they heard this , they were baptized in the name of the Lord Jesus .
+44:19:006:0	And when Paul had laid his hands upon them , the Holy Spirit came on them , and they began speaking with tongues and prophesying .
+44:19:007:0	There were in all about twelve men .
+44:19:008:0	And he entered the synagogue and continued speaking out boldly for three months , reasoning and persuading them about the kingdom of God .
+44:19:009:0	But when some were becoming hardened and disobedient , speaking evil of the Way before the people , he withdrew from them and took away the disciples , reasoning daily in the school of Tyrannus .
+44:19:002:1	Miracles at Ephesus
+44:19:010:0	This took place for two years , so that all who lived in Asia heard the word of the Lord , both Jews and Greeks .
+44:19:011:0	God was performing extraordinary miracles by the hands of Paul ,
+44:19:012:0	so that handkerchiefs or aprons were even carried from his body to the sick , and the diseases left them and the evil spirits went out .
+44:19:013:0	But also some of the Jewish exorcists , who went from place to place , attempted to name over those who had the evil spirits the name of the Lord Jesus , saying , “ I adjure you by Jesus whom Paul preaches . ”
+44:19:014:0	Seven sons of one Sceva , a Jewish chief priest , were doing this .
+44:19:015:0	And the evil spirit answered and said to them , “ I recognize Jesus , and I know about Paul , but who are you ? ”
+44:19:016:0	And the man , in whom was the evil spirit , leaped on them and subdued all of them and overpowered them , so that they fled out of that house naked and wounded .
+44:19:017:0	This became known to all , both Jews and Greeks , who lived in Ephesus ; and fear fell upon them all and the name of the Lord Jesus was being magnified .
+44:19:018:0	Many also of those who had believed kept coming , confessing and disclosing their practices .
+44:19:019:0	And many of those who practiced magic brought their books together and began burning them in the sight of everyone ; and they counted up the price of them and found it fifty thousand pieces of silver .
+44:19:020:0	So the word of the Lord was growing mightily and prevailing .
+44:19:021:0	Now after these things were finished , Paul purposed in the Spirit to go to Jerusalem after he had passed through Macedonia and Achaia , saying , “ After I have been there , I must also see Rome . ”
+44:19:022:0	And having sent into Macedonia two of those who ministered to him , Timothy and Erastus , he himself stayed in Asia for a while .
+44:19:023:0	About that time there occurred no small disturbance concerning the Way .
+44:19:024:0	For a man named Demetrius , a silversmith , who made silver shrines of Artemis , was bringing no little business to the craftsmen ;
+44:19:025:0	these he gathered together with the workmen of similar trades , and said , “ Men , you know that our prosperity depends upon this business .
+44:19:026:0	You see and hear that not only in Ephesus , but in almost all of Asia , this Paul has persuaded and turned away a considerable number of people , saying that gods made with hands are no gods at all .
+44:19:027:0	Not only is there danger that this trade of ours fall into disrepute , but also that the temple of the great goddess Artemis be regarded as worthless and that she whom all of Asia and the world worship will even be dethroned from her magnificence . ”
+44:19:028:0	When they heard this and were filled with rage , they began crying out , saying , “ Great is Artemis of the Ephesians ! ”
+44:19:029:0	The city was filled with the confusion , and they rushed with one accord into the theater , dragging along Gaius and Aristarchus , Paul’s traveling companions from Macedonia .
+44:19:030:0	And when Paul wanted to go into the assembly , the disciples would not let him .
+44:19:031:0	Also some of the Asiarchs who were friends of his sent to him and repeatedly urged him not to venture into the theater .
+44:19:032:0	So then , some were shouting one thing and some another , for the assembly was in confusion and the majority did not know for what reason they had come together .
+44:19:033:0	Some of the crowd concluded it was Alexander , since the Jews had put him forward ; and having motioned with his hand , Alexander was intending to make a defense to the assembly .
+44:19:034:0	But when they recognized that he was a Jew , a single outcry arose from them all as they shouted for about two hours , “ Great is Artemis of the Ephesians ! ”
+44:19:035:0	After quieting the crowd , the town clerk *said , “ Men of Ephesus , what man is there after all who does not know that the city of the Ephesians is guardian of the temple of the great Artemis and of the image which fell down from heaven ?
+44:19:036:0	So , since these are undeniable facts , you ought to keep calm and to do nothing rash .
+44:19:037:0	For you have brought these men here who are neither robbers of temples nor blasphemers of our goddess .
+44:19:038:0	So then , if Demetrius and the craftsmen who are with him have a complaint against any man , the courts are in session and proconsuls are available ; let them bring charges against one another .
+44:19:039:0	But if you want anything beyond this , it shall be settled in the lawful assembly .
+44:19:040:0	For indeed we are in danger of being accused of a riot in connection with today’s events , since there is no real cause for it , and in this connection we will be unable to account for this disorderly gathering . ”
+44:19:041:0	After saying this he dismissed the assembly .

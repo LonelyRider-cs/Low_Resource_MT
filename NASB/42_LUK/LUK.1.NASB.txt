@@ -1,0 +1,87 @@
+42:1:001:1	Introduction
+42:1:001:0	Inasmuch as many have undertaken to compile an account of the things accomplished among us ,
+42:1:002:0	just as they were handed down to us by those who from the beginning were eyewitnesses and servants of the word ,
+42:1:003:0	it seemed fitting for me as well , having investigated everything carefully from the beginning , to write it out for you in consecutive order , most excellent Theophilus ;
+42:1:002:1	Birth of John the Baptist Foretold
+42:1:004:0	so that you may know the exact truth about the things you have been taught .
+42:1:005:0	In the days of Herod , king of Judea , there was a priest named Zacharias , of the division of Abijah ; and he had a wife from the daughters of Aaron , and her name was Elizabeth .
+42:1:006:0	They were both righteous in the sight of God , walking blamelessly in all the commandments and requirements of the Lord .
+42:1:007:0	But they had no child , because Elizabeth was barren , and they were both advanced in years .
+42:1:008:0	Now it happened that while he was performing his priestly service before God in the appointed order of his division ,
+42:1:009:0	according to the custom of the priestly office , he was chosen by lot to enter the temple of the Lord and burn incense .
+42:1:010:0	And the whole multitude of the people were in prayer outside at the hour of the incense offering .
+42:1:011:0	And an angel of the Lord appeared to him , standing to the right of the altar of incense .
+42:1:012:0	Zacharias was troubled when he saw the angel , and fear gripped him .
+42:1:013:0	But the angel said to him , “ Do not be afraid , Zacharias , for your petition has been heard , and your wife Elizabeth will bear you a son , and you will give him the name John .
+42:1:014:0	You will have joy and gladness , and many will rejoice at his birth .
+42:1:015:0	For he will be great in the sight of the Lord ; and he will drink no wine or liquor , and he will be filled with the Holy Spirit while yet in his mother’s womb .
+42:1:016:0	And he will turn many of the sons of Israel back to the Lord their God .
+42:1:017:0	It is he who will go as a forerunner before Him in the spirit and power of Elijah , to turn the hearts of the fathers back to the children , and the disobedient to the attitude of the righteous , so as to make ready a people prepared for the Lord . ”
+42:1:018:0	Zacharias said to the angel , “ How will I know this for certain ? For I am an old man and my wife is advanced in years . ”
+42:1:019:0	The angel answered and said to him , “ I am Gabriel , who stands in the presence of God , and I have been sent to speak to you and to bring you this good news .
+42:1:020:0	And behold , you shall be silent and unable to speak until the day when these things take place , because you did not believe my words , which will be fulfilled in their proper time . ”
+42:1:021:0	The people were waiting for Zacharias , and were wondering at his delay in the temple .
+42:1:022:0	But when he came out , he was unable to speak to them ; and they realized that he had seen a vision in the temple ; and he kept making signs to them , and remained mute .
+42:1:023:0	When the days of his priestly service were ended , he went back home .
+42:1:024:0	After these days Elizabeth his wife became pregnant , and she kept herself in seclusion for five months , saying ,
+42:1:003:1	Jesus’ Birth Foretold
+42:1:025:0	“ This is the way the Lord has dealt with me in the days when He looked with favor upon me , to take away my disgrace among men . ”
+42:1:026:0	Now in the sixth month the angel Gabriel was sent from God to a city in Galilee called Nazareth ,
+42:1:027:0	to a virgin engaged to a man whose name was Joseph , of the descendants of David ; and the virgin’s name was Mary .
+42:1:028:0	And coming in , he said to her , “ Greetings , favored one ! The Lord is with you . ”
+42:1:029:0	But she was very perplexed at this statement , and kept pondering what kind of salutation this was .
+42:1:030:0	The angel said to her , “ Do not be afraid , Mary ; for you have found favor with God .
+42:1:031:0	And behold , you will conceive in your womb and bear a son , and you shall name Him Jesus .
+42:1:032:0	He will be great and will be called the Son of the Most High ; and the Lord God will give Him the throne of His father David ;
+42:1:033:0	and He will reign over the house of Jacob forever , and His kingdom will have no end . ”
+42:1:034:0	Mary said to the angel , “ How can this be , since I am a virgin ? ”
+42:1:035:0	The angel answered and said to her , “ The Holy Spirit will come upon you , and the power of the Most High will overshadow you ; and for that reason the holy Child shall be called the Son of God .
+42:1:036:0	And behold , even your relative Elizabeth has also conceived a son in her old age ; and she who was called barren is now in her sixth month .
+42:1:037:0	For nothing will be impossible with God . ”
+42:1:004:1	Mary Visits Elizabeth
+42:1:038:0	And Mary said , “ Behold , the bondslave of the Lord ; may it be done to me according to your word . ” And the angel departed from her .
+42:1:039:0	Now at this time Mary arose and went in a hurry to the hill country , to a city of Judah ,
+42:1:040:0	and entered the house of Zacharias and greeted Elizabeth .
+42:1:041:0	When Elizabeth heard Mary’s greeting , the baby leaped in her womb ; and Elizabeth was filled with the Holy Spirit .
+42:1:042:0	And she cried out with a loud voice and said , “ Blessed are you among women , and blessed is the fruit of your womb !
+42:1:043:0	And how has it happened to me , that the mother of my Lord would come to me ?
+42:1:044:0	For behold , when the sound of your greeting reached my ears , the baby leaped in my womb for joy .
+42:1:005:1	The Magnificat
+42:1:045:0	And blessed is she who believed that there would be a fulfillment of what had been spoken to her by the Lord . ”
+42:1:046:0	And Mary said : “ My soul exalts the Lord ,
+42:1:047:0	And my spirit has rejoiced in God my Savior .
+42:1:048:0	For He has had regard for the humble state of His bondslave ; For behold , from this time on all generations will count me blessed .
+42:1:049:0	For the Mighty One has done great things for me ; And holy is His name .
+42:1:050:0	And His mercy is upon generation after generationToward those who fear Him .
+42:1:051:0	He has done mighty deeds with His arm ; He has scattered those who were proud in the thoughts of their heart .
+42:1:052:0	He has brought down rulers from their thrones , And has exalted those who were humble .
+42:1:053:0	He has filled the hungry with good things ; And sent away the rich empty-handed .
+42:1:054:0	He has given help to Israel His servant , In remembrance of His mercy ,
+42:1:055:0	As He spoke to our fathers , To Abraham and his descendants forever . ”
+42:1:006:1	John Is Born
+42:1:056:0	And Mary stayed with her about three months , and then returned to her home .
+42:1:057:0	Now the time had come for Elizabeth to give birth , and she gave birth to a son .
+42:1:058:0	Her neighbors and her relatives heard that the Lord had displayed His great mercy toward her ; and they were rejoicing with her .
+42:1:059:0	And it happened that on the eighth day they came to circumcise the child , and they were going to call him Zacharias , after his father .
+42:1:060:0	But his mother answered and said , “ No indeed ; but he shall be called John . ”
+42:1:061:0	And they said to her , “ There is no one among your relatives who is called by that name . ”
+42:1:062:0	And they made signs to his father , as to what he wanted him called .
+42:1:063:0	And he asked for a tablet and wrote as follows , “ His name is John . ” And they were all astonished .
+42:1:064:0	And at once his mouth was opened and his tongue loosed , and he began to speak in praise of God .
+42:1:065:0	Fear came on all those living around them ; and all these matters were being talked about in all the hill country of Judea .
+42:1:007:1	Zacharias’s Prophecy
+42:1:066:0	All who heard them kept them in mind , saying , “ What then will this child turn out to be ? ” For the hand of the Lord was certainly with him .
+42:1:067:0	And his father Zacharias was filled with the Holy Spirit , and prophesied , saying :
+42:1:068:0	“ Blessed be the Lord God of Israel , For He has visited us and accomplished redemption for His people ,
+42:1:069:0	And has raised up a horn of salvation for usIn the house of David His servant—
+42:1:070:0	As He spoke by the mouth of His holy prophets from of old—
+42:1:071:0	Salvation from our enemies , And from the hand of all who hate us ;
+42:1:072:0	To show mercy toward our fathers , And to remember His holy covenant ,
+42:1:073:0	The oath which He swore to Abraham our father ,
+42:1:074:0	To grant us that we , being rescued from the hand of our enemies , Might serve Him without fear ,
+42:1:075:0	In holiness and righteousness before Him all our days .
+42:1:076:0	And you , child , will be called the prophet of the Most High ; For you will go on before the Lord to prepare His ways ;
+42:1:077:0	To give to His people the knowledge of salvationBy the forgiveness of their sins ,
+42:1:078:0	Because of the tender mercy of our God , With which the Sunrise from on high will visit us ,
+42:1:079:0	To shine upon those who sit in darkness and the shadow of death , To guide our feet into the way of peace . ”
+42:1:080:0	And the child continued to grow and to become strong in spirit , and he lived in the deserts until the day of his public appearance to Israel .

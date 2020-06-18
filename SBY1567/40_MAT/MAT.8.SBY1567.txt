@@ -1,0 +1,36 @@
+40:8:001:1	Pen . viij .
+40:8:002:1	Christ yn iachay y dyn a’r clwy mawr . Fydd y capten . Galwedigaeth y Cenedloedd . Chwegr neu mam gwraic Petr . Am y Gwr llen a ewyllysei ddilyn Christ . Tlodi Christ . Y vod ef yn llonyddy yr mor a’r gwynt . Ac yn gyrry y cythraulieit allan o’r dyn i’r moch .
+40:8:001:0	A Gwedy y ðyvot ef y waret o’r mynydd , llawer o bopuloedd ei dylynawdd .
+40:8:002:0	A’ nycha , vn clafgohanawl a ddeuth ac ei addolawdd , cann ddywedyt , Arglwydd a’s mynny , ti elly vy‐glanhay .
+40:8:003:0	A’r Iesu a estennawdd ei law , ac ei cyhurddawdd ef , gan ddywedyt , Mynaf , glanhaer di : ac yn y van y ’ohanglwyf ef a ’lanhawyt .
+40:8:004:0	Yno y dyuot yr Iesu wrthaw , Gwyl na ddywetych wrth nep , eithr dos , ac ymddagos ir Offeiriat , ac offryma y rhodd a orchymynawdd Moysen , er testoliaeth yddwynt .
+40:8:005:0	Gwedy dyvot yr Iesu i Capernaum , y daeth attaw Gantwriad gan ddeisyfy arnaw ,
+40:8:006:0	a’ dywedyt , Arglwydd , y mae vy‐gwas i yn gorwedd gartref yn glaf o’r parlys , ac mewn poen ddirfawr .
+40:8:007:0	A’r Iesu a ddyfot wrthaw , Mi a ddeuaf ac ei gwnaf ef yn iach .
+40:8:008:0	A’r Cannwriad aei atepawdd , can ddywedyt , Arglwydd , nyd wyf vi dailwng y ddawot o hanot y dan vy‐cronglwyr ; eithyr yn vnic dywait y gair , ac ef a iacheir vy‐gwas i .
+40:8:009:0	Can ys dyn wyf vinae y dan awturtot vn arall , ac y mae genyf vilwyr y danaf : a’ dywedaf wrth hwn , Cerða : ac efe a , ac wrth arall , Dyred : ac e ðaw , ac wrth vy‐gwas , Gwna hyn ; ac ef ei gwna .
+40:8:010:0	Pan glywodd yr Iesu hyn , e ryfeddawd , ac a ðyvot , wrth yr ei oedd yn ei ganlyn , Yn wir , y dywedaf wrthych , Ny chefais gymeint ffydd , na’c yn yr Israel .
+40:8:011:0	A’ mi a ddywedaf wrthych , y daw llawer o’r Dwyrein a’r Gorllewyn , ac a eisteddāt gyd ac Abraham , ac Isaac , ac Iacob yn‐teyrnas nefoedd .
+40:8:012:0	A’ phlant y deyrnas a davlir ir tywyllwch eithaf : ynow y bydd wylofain a’ riccian dannedd .
+40:8:013:0	Yno y dyvot yr Iesu wrth y Cantwriad , Dos ymaith , a’ megis y credeist , bit y‐ty . A’ ei was a iachawyt yn yr awr honno .
+40:8:014:0	¶ A’ phan ddaethei ’r Iesu i tuy Petr , ef a welawdd y chwegr ef yn gorwedd , ac yn glaf or cryd .
+40:8:015:0	Ac ef a gyhyrddawdd ai llaw , a’r cryd a ei gadawodd : yn y chydodd hi i vyny a’ gweini yddynt .
+40:8:016:0	Gwedy y hwyrhay hi , wy ddugesont attavv lawer o’r ei cythraelic : ac ef a vwriawdd allan yr ysprytion a ei ’air , ac a iachaodd yr oll gleifion .
+40:8:017:0	Yn y chyflawnit yr hyn a ðywedit trwy Iesaias y Prophwyt , can ddywedyt , Efe a gymerth ein gwendit ni , ac a dduc ein heintiae .
+40:8:018:0	¶ A phan welawdd yr Iesu dorfeydd lawer oei amgylch , ef a ’orchymynawdd yddwynt vyned drosodd ir lan arall .
+40:8:019:0	Yno y daeth ryw ’wr‐lleen , ac a ddyvot wrthaw , Athro , mi ath canlynaf i b’lebynac ydd ai .
+40:8:020:0	Yno ’r Iesu a ddyvot wrthaw , Y mae ffauae gan y llwynogot a ’chan adar y nefoedd ei nythot , an’d gan Fap y dyn nyd oes le i orphwys i ben .
+40:8:021:0	¶ Ac vn arall o ei ddiscipulon a ddyvot wrthaw , Arglwydd , Godde i mi yn gyntaf fyned , a chlaðy vy‐tad .
+40:8:022:0	A’r Iesu a ddyvot wrtho , Dilyn vi , a’ gad ir meirw gladdy ei meirw hvvy .
+40:8:023:0	¶ A gwedy iddo vyned ir llong , ei ddiscipulon ei canlynodd .
+40:8:024:0	A’ nycha , e gyfodes cynnwrf mawr yn y mor , yd pan guddit y llong gan y tonae : ac ef e oedd yn cyscu .
+40:8:025:0	Yno y daeth ei ddiscipulon ataw , ac ei defroesant , can ddywedyt , Arglwydd , cadw ni : e ddarfu am danam .
+40:8:026:0	Ac ef a ddyvot wrthynt , Paam ydd ofnwch , havvyr a’r ffydd vechan ? Yno y codawdd ef , ac y goharddawdd ef y gwyntoedd a’r mor : ac yno ydd aeth hi yn araf hin .
+40:8:027:0	A’r dynion a ryvedodd , gan ddywedyt Pa ryw vvr yw hwn , pan vo’r gwyntoedd ar mor yn uvyddhay yddaw ?
+40:8:028:0	A’ gwedy ei ddawot ef ir lan arall , i wlat y Gergesieit , e gyfarfu ac ef ddau a diavleit ynthwynt , yr ei a ddaethen o’r monwenti yn dra ffyrnicion , mal na allai vn‐dyn vyned y ffordd honno .
+40:8:029:0	A’ nycha , llefain awnaethant , gan ddywedyt , Iesu vap Duw , beth y sy i ni a wnelom a thi ? A ddaethast ti yma in poeni cyn yr amser ?
+40:8:030:0	Ac ydd oedd ym‐pell o ywrthynt genvaint o voch lawer yn pori .
+40:8:031:0	A’r diavleit a ddeisyfesont arnaw , gan ddywedyt , A’s bwry ni allan , gad i ni vynet i’r genvaint voch .
+40:8:032:0	Ac ef a ddyvot wrthynt , Ewch . Ac wy aethant allan , ac aethant ir genvaint voch : a’ nycha , yr oll genvaint voch a ymdreiglei dros y dibin i’r mor , ac a vuō veirw yn y dyfredd .
+40:8:033:0	Yno y ffoawdd y meichiait : a’ gwedy y dyvot hwy i’r dinas , menegy a wnaethant pop peth , a’ pha beth a ddarfesei ir ei oedd y diavleit ynthwynt .
+40:8:034:0	A’ nycha , yr oll ddinas a ddaeth allan , y gyvarvot a’r Iesu : a’ phan ei gwelsont , atolugy a wnaeehant iddaw , ymadel oei teruyneu .

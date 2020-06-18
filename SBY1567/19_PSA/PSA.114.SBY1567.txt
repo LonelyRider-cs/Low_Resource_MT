@@ -1,0 +1,10 @@
+19:114:001:1	Psalm . cxiiij .
+19:114:002:1	In exitu Israel .
+19:114:001:0	PAn aeth Israel allan o’r Aipht [ a’] thuy Iaco o ywrth y popul ancyfiaith ,
+19:114:002:0	Ydd oedd Iudah yn sancteiddiat yddaw , [ ac] Israel y’w Arglwyðiaeth .
+19:114:003:0	Y mor [ ei] gwelawð , ac a giliawdd : Iorddanen a droeswyt yn wysc hei chefyn ,
+19:114:004:0	Y mynyðedd a naidient val meherynot , a’r brynniae mal wyn defeit .
+19:114:005:0	Pa [ ddaroedd] yty , y Mor , pan gilyt ? tithau Iorddanen , pan ith droespwyt yn wysc dy gefn ?
+19:114:006:0	Chwychwy vynydde [ paam] y naidiech val meherynot , chwithae vrynniae val wyn [ deveit] ?
+19:114:007:0	Rac wynep yr Arglwydd yr ergrynawdd y ðaiar , [ s’ef] rhac wynep Dew Iaco .
+19:114:008:0	Yr hwn y dry y graic yn llyn o ddwfr , [ a’r] callestr yn ffynnon o ddufredd .

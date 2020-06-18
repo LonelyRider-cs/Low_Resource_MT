@@ -1,0 +1,13 @@
+19:149:001:1	PSALM 149
+19:149:002:1	Israel Invoked to Praise the L
+19:149:003:1	ord
+19:149:004:1	.
+19:149:001:0	Praise the Lord ! Sing to the Lord a new song , And His praise in the congregation of the godly ones .
+19:149:002:0	Let Israel be glad in his Maker ; Let the sons of Zion rejoice in their King .
+19:149:003:0	Let them praise His name with dancing ; Let them sing praises to Him with timbrel and lyre .
+19:149:004:0	For the Lord takes pleasure in His people ; He will beautify the afflicted ones with salvation .
+19:149:005:0	Let the godly ones exult in glory ; Let them sing for joy on their beds .
+19:149:006:0	Let the high praises of God be in their mouth , And a two-edged sword in their hand ,
+19:149:007:0	To execute vengeance on the nationsAnd punishment on the peoples ,
+19:149:008:0	To bind their kings with chainsAnd their nobles with fetters of iron ,
+19:149:009:0	To execute on them the judgment written ; This is an honor for all His godly ones . Praise the Lord !

@@ -1,0 +1,38 @@
+43:3:001:1	Pen . iij .
+43:3:002:1	Christ yn addyscu Nicodemus ynghylch yr adenedigaeth . Am Fydd . Am serch Duw er lles y byd . Dysceidaeth a’ batydd Ioan . A’r testiolaeth a ddwc ef am Christ .
+43:3:001:0	YDd oedd dyn o’r Pharisaiait , a’ ei enw yn Nicodemus pennaeth ymplith yr Iuðaeon .
+43:3:002:0	Hwn a ðeuth at yr Iesu liw nos , ac a ðyvot wrthaw , Rabbi , ni y wyddam mae dyscawdur wyt wedy dyvot y wrth Dduw : can na ddychon nep wneythy’r y gwrthiae hyn a wney di , a ny byðei Duw gyd ac ef .
+43:3:003:0	Yr Iesu a atepoð ac a ðyuot wrthaw , Yn wir , yn wir y dywedaf yt’ , A ðiethr geni dyn drachefyn , ny ddygon ef welet teyrnas Duw .
+43:3:004:0	Nicodemus a ddyvot wrthaw , Pa vodd y dychon dyn eni ac ef yn hen ? a all ef vynet i groth ei vam drachefyn , a’ geni ?
+43:3:005:0	Yr Iesu atepawdd , Yn wir , yn wir y dywedaf yti , addieithr geni dyn o ddwfyr ac or yspryt , ny ddichon ef vyned y mewn teyrnas Duw .
+43:3:006:0	Yr hynn a ’anet or cnawt , ys y gnawt : a ’r hynn a ’anet o’r Yspryt ys yð yspryt .
+43:3:007:0	Na ryvedda ðywedyt o hanof wrthyt , Y byd rait eich geni drachefyn .
+43:3:008:0	Y gwynt lle mynno , a chwyth , a’ ei lef a glywy , eithyr ny wyddost o b’le y daw , ac y bale ydd a : velly y mae pop dyn a a’net o’r Yspryt .
+43:3:009:0	Nicodemus atepawdd ac a ddyvot wrthaw , Paddelw y dychon y pethae hynn vot ?
+43:3:010:0	Yr Iesu a atepawdd ac a ddyvot wrthaw , A ywti yn ðyscyawdr yr Israel , ac ny wyddost y pethae hynn ?
+43:3:011:0	Yn wir , yn wir y doedaf wrthyt , yr hynn a wyddam a ddywedwn , a’r hyn a welsam a testoliaethwn : a’n testiolaeth ny dderbyniwch .
+43:3:012:0	A’s pan ddywetaf ychwy pethe daiarol , ny chredwch , pa vodd a’s dywetwyf ychwy , am pethae nefolion y credwch .
+43:3:013:0	Can nad escen nep ir nef , a ddieithr hwn a ddescenawdd o’r nef , ys ef Map y dyn yr hwn ys y’n y nef .
+43:3:014:0	A’ megis y derchafawð Moysen y sarph yn y diffeith , velly y bydd rait bot derchavael Map y dyn ,
+43:3:015:0	yn y bo y bwy bynac a cred yntaw , na choller , yn amyn caffael bywyt tragyvythawl . Yr Euāgel ar ddie Llun y Sulgwyn .
+43:3:016:0	¶ Can ys velly y carodd Duw y byt , y n y roðes ef ei vnig‐enit vap , y’n y vydei i bop vn a greda ynthaw , na choller , amyn caffael bywyt tragyvythawl .
+43:3:017:0	Can na ddanvonawdd Duw ei vap i’r byt , i varny’r byt , anyd er iachay yr byt trwydaw ef .
+43:3:018:0	Yn vn a cred ynthaw ef , ny vernir : a’r vn ny thred a varnwyt eisioes can na chredodd yn . Enw yr vnigenit vap Duw .
+43:3:019:0	A’ hynn yw’r varnedigaeth , can ðyvot golauni ir byt , a’ chary o ddynion dywyllwch yn vwy na’r golauni , o erwydd bot y gweithrededd wy’n ðrwc .
+43:3:020:0	O bleit pop vn yn gwnethy drwc , ys y gas gātho yr golauni , ac ny ðana i’r golauny , rac argyoeddy ei weithredeð
+43:3:021:0	Ar hwn a wna wirionedd a ddaw i’r golauni , y n y bo cyhoedd ei weithredoedd , mae o erwydd Duw y gweithredwyt wy .
+43:3:022:0	Gwedy y pethe hyn y daeth yr Iesu ef a ei ddiscipulon i dir Iudaia , ac yno y trigiawdd y gyd ac wynt , ac y betyddyawdd .
+43:3:023:0	Ac ydd oedd Ioan hefyt yn batyddiaw yn Ainon geyr llaw Salim , can ys bot dyfredd lliosawc yno : a’ daethant vvy , ac eu betyddiwyt .
+43:3:024:0	Can na vwriesit eto Ioan yn‐carchar .
+43:3:025:0	Yno y bu ’orchest rhwng discipulon Ioan a’r Iuddaeon , yn‐cylch purhau .
+43:3:026:0	A’ daethwynt ad Ioan , ac a ddywedesont wrthaw , Rabbi , hwn oedd y gyd a thi y tu hwnt i Iorddonen , i’r vn y testolaethais‐ti , nycha , y batyddia ef , a’ phawp oll ’sy yn dyuot attavv .
+43:3:027:0	Ioan a atepawdd , ac addyuot , Ny aill dyn dderbyn dim a ny’s roddir yddaw o’r nef .
+43:3:028:0	Chwychwi ychunain ydyw vy‐testion i , ar ddywedyt o hano vi , Nyd mi yw yr Christ , eithr darvot vy’n anvon o y vlaen ef .
+43:3:029:0	Hwn ’sy iddo ddyweddivvreic , y w’r dyweddiwr : a’ char y dyweðiwr yr hwn a saif ac y clyw ef , a lawenha yn vawr , o bleit llef y dyweddiwr . Y llawenydd hyn meu vi gan hyny a gyflawnwyt .
+43:3:030:0	Raid yðaw ef ymangwanegy , ac y minef ymleihau .
+43:3:031:0	Hwn a ddaeth o dduchod , ysy goruwch pavvp oll : hwn ysy o’r ddaiar , y sy o’r ddayar , ac o’r ddaiar yr ymadrodd : hwn a ddaeth o’r nef y sy goruch pavvp oll .
+43:3:032:0	A’ hyn a welawdd ac a glywawdd , hyny a testolaetha ef : a’i destiolaeth ef ny dderbyn nebun .
+43:3:033:0	Hwn a dderbyniavvdd y destiolaeth ef , ys ef a inseliawdd mai Duw ’sy gywir .
+43:3:034:0	Can ys yr hwn a ddanvonawdd Duw , a lafara’ airiae Duw : can nyd wrth vesur y mae Duw yn rhodðy iddo yr Yspryt .
+43:3:035:0	Y Tat a gar y Map , ac a roddes bop peth oll yn ey law .
+43:3:036:0	Hwn a gred yn y Map , y mae iddo vywyt tragyvythawl , a’ hwn nyd vvyddhao i’r Map , ny wyl ef vywyt , anyd digofain Duw a erys arnaw .

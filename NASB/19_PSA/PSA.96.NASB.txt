@@ -1,0 +1,17 @@
+19:96:001:1	PSALM 96
+19:96:002:1	A Call to Worship the L
+19:96:003:1	ord
+19:96:004:1	the Righteous Judge .
+19:96:001:0	Sing to the Lord a new song ; Sing to the Lord , all the earth .
+19:96:002:0	Sing to the Lord , bless His name ; Proclaim good tidings of His salvation from day to day .
+19:96:003:0	Tell of His glory among the nations , His wonderful deeds among all the peoples .
+19:96:004:0	For great is the Lord and greatly to be praised ; He is to be feared above all gods .
+19:96:005:0	For all the gods of the peoples are idols , But the Lord made the heavens .
+19:96:006:0	Splendor and majesty are before Him , Strength and beauty are in His sanctuary .
+19:96:007:0	Ascribe to the Lord , O families of the peoples , Ascribe to the Lord glory and strength .
+19:96:008:0	Ascribe to the Lord the glory of His name ; Bring an offering and come into His courts .
+19:96:009:0	Worship the Lord in holy attire ; Tremble before Him , all the earth .
+19:96:010:0	Say among the nations , “ The Lord reigns ; Indeed , the world is firmly established , it will not be moved ; He will judge the peoples with equity . ”
+19:96:011:0	Let the heavens be glad , and let the earth rejoice ; Let the sea roar , and all it contains ;
+19:96:012:0	Let the field exult , and all that is in it . Then all the trees of the forest will sing for joy
+19:96:013:0	Before the Lord , for He is coming , For He is coming to judge the earth . He will judge the world in righteousnessAnd the peoples in His faithfulness .

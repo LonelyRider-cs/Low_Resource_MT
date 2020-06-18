@@ -1,0 +1,56 @@
+43:1:001:1	The Deity of Jesus Christ
+43:1:001:0	In the beginning was the Word , and the Word was with God , and the Word was God .
+43:1:002:0	He was in the beginning with God .
+43:1:003:0	All things came into being through Him , and apart from Him nothing came into being that has come into being .
+43:1:004:0	In Him was life , and the life was the Light of men .
+43:1:002:1	The Witness John
+43:1:005:0	The Light shines in the darkness , and the darkness did not comprehend it .
+43:1:006:0	There came a man sent from God , whose name was John .
+43:1:007:0	He came as a witness , to testify about the Light , so that all might believe through him .
+43:1:008:0	He was not the Light , but he came to testify about the Light .
+43:1:009:0	There was the true Light which , coming into the world , enlightens every man .
+43:1:010:0	He was in the world , and the world was made through Him , and the world did not know Him .
+43:1:011:0	He came to His own , and those who were His own did not receive Him .
+43:1:012:0	But as many as received Him , to them He gave the right to become children of God , even to those who believe in His name ,
+43:1:003:1	The Word Made Flesh
+43:1:013:0	who were born , not of blood nor of the will of the flesh nor of the will of man , but of God .
+43:1:014:0	And the Word became flesh , and dwelt among us , and we saw His glory , glory as of the only begotten from the Father , full of grace and truth .
+43:1:015:0	John *testified about Him and cried out , saying , “ This was He of whom I said , ‘He who comes after me has a higher rank than I , for He existed before me . ’ ”
+43:1:016:0	For of His fullness we have all received , and grace upon grace .
+43:1:017:0	For the Law was given through Moses ; grace and truth were realized through Jesus Christ .
+43:1:004:1	The Testimony of John
+43:1:018:0	No one has seen God at any time ; the only begotten God who is in the bosom of the Father , He has explained Him .
+43:1:019:0	This is the testimony of John , when the Jews sent to him priests and Levites from Jerusalem to ask him , “ Who are you ? ”
+43:1:020:0	And he confessed and did not deny , but confessed , “ I am not the Christ . ”
+43:1:021:0	They asked him , “ What then ? Are you Elijah ? ” And he *said , “ I am not . ” “ Are you the Prophet ? ” And he answered , “ No . ”
+43:1:022:0	Then they said to him , “ Who are you , so that we may give an answer to those who sent us ? What do you say about yourself ? ”
+43:1:023:0	He said , “ I am a voice of one crying in the wilderness , ‘Make straight the way of the Lord , ’ as Isaiah the prophet said . ”
+43:1:024:0	Now they had been sent from the Pharisees .
+43:1:025:0	They asked him , and said to him , “ Why then are you baptizing , if you are not the Christ , nor Elijah , nor the Prophet ? ”
+43:1:026:0	John answered them saying , “ I baptize in water , but among you stands One whom you do not know .
+43:1:027:0	It is He who comes after me , the thong of whose sandal I am not worthy to untie . ”
+43:1:028:0	These things took place in Bethany beyond the Jordan , where John was baptizing .
+43:1:029:0	The next day he *saw Jesus coming to him and *said , “ Behold , the Lamb of God who takes away the sin of the world !
+43:1:030:0	This is He on behalf of whom I said , ‘After me comes a Man who has a higher rank than I , for He existed before me . ’
+43:1:031:0	I did not recognize Him , but so that He might be manifested to Israel , I came baptizing in water . ”
+43:1:032:0	John testified saying , “ I have seen the Spirit descending as a dove out of heaven , and He remained upon Him .
+43:1:033:0	I did not recognize Him , but He who sent me to baptize in water said to me , ‘He upon whom you see the Spirit descending and remaining upon Him , this is the One who baptizes in the Holy Spirit . ’
+43:1:005:1	Jesus’ Public Ministry , First Converts
+43:1:034:0	I myself have seen , and have testified that this is the Son of God . ”
+43:1:035:0	Again the next day John was standing with two of his disciples ,
+43:1:036:0	and he looked at Jesus as He walked , and *said , “ Behold , the Lamb of God ! ”
+43:1:037:0	The two disciples heard him speak , and they followed Jesus .
+43:1:038:0	And Jesus turned and saw them following , and *said to them , “ What do you seek ? ” They said to Him , “ Rabbi ( which translated means Teacher ) , where are You staying ? ”
+43:1:039:0	He *said to them , “ Come , and you will see . ” So they came and saw where He was staying ; and they stayed with Him that day , for it was about the tenth hour .
+43:1:040:0	One of the two who heard John speak and followed Him , was Andrew , Simon Peter’s brother .
+43:1:041:0	He *found first his own brother Simon and *said to him , “ We have found the Messiah ” ( which translated means Christ ) .
+43:1:042:0	He brought him to Jesus . Jesus looked at him and said , “ You are Simon the son of John ; you shall be called Cephas ” ( which is translated Peter ) .
+43:1:043:0	The next day He purposed to go into Galilee , and He *found Philip . And Jesus *said to him , “ Follow Me . ”
+43:1:044:0	Now Philip was from Bethsaida , of the city of Andrew and Peter .
+43:1:045:0	Philip *found Nathanael and *said to him , “ We have found Him of whom Moses in the Law and also the Prophets wrote—Jesus of Nazareth , the son of Joseph . ”
+43:1:046:0	Nathanael said to him , “ Can any good thing come out of Nazareth ? ” Philip *said to him , “ Come and see . ”
+43:1:047:0	Jesus saw Nathanael coming to Him , and *said of him , “ Behold , an Israelite indeed , in whom there is no deceit ! ”
+43:1:048:0	Nathanael *said to Him , “ How do You know me ? ” Jesus answered and said to him , “ Before Philip called you , when you were under the fig tree , I saw you . ”
+43:1:049:0	Nathanael answered Him , “ Rabbi , You are the Son of God ; You are the King of Israel . ”
+43:1:050:0	Jesus answered and said to him , “ Because I said to you that I saw you under the fig tree , do you believe ? You will see greater things than these . ”
+43:1:051:0	And He *said to him , “ Truly , truly , I say to you , you will see the heavens opened and the angels of God ascending and descending on the Son of Man . ”

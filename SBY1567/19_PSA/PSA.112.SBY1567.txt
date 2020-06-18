@@ -1,0 +1,12 @@
+19:112:001:1	Psalm . cxvij .
+19:112:002:1	Beatus vir .
+19:112:001:0	GWynvydedic yw’r gwr y ofna yr Arglwydd , ac a [ dra hoffo ei ’orgchymyneu .
+19:112:002:0	Galluawc ar y ddaiar vydd ei had , cenedlaeth yr ei vnion y vendithir .
+19:112:003:0	Cyvoeth a’ golud [ vydd] yn ei duy , a’ ei gyfiawnder a saif byth .
+19:112:004:0	Ir ei gwirion y cyfyt goleu yn-tywyllwch : [ efe ’sy] drugarawc ac yn llawn-tosturi , a’ chyfiawnder .
+19:112:005:0	Gwr da ’s y drugarawc ac a rydd-venthic , [ ac] a lywodraetha ei vaterion a’ barn .
+19:112:006:0	Ys byth nyd escogir ef : [ eithr] yn-coffadurieth tragyvythawl y bydd y cyfiawn ,
+19:112:007:0	Er clywed [ chwedl] drwc nyd ofna : [ o bleit] safadwy yw ei galon gan ymddiriet yn yr Arglwydd .
+19:112:008:0	Cynnaliedic yw ei galon : [ am hynny] nyd ofna , yd ban welo [ ei wyllys] ar ei elynion .
+19:112:009:0	Rannawdd [ a’] rroddes i’r tlodion : y gyfiawnder ef a saif yn dragyvyth : ei gorn a dderchevir yn-gogoniant .
+19:112:010:0	Yr andewiol ei gwyl , ac a ymddigia : ef a wasc ei ddanedd , ac a dawdd ymaith : damunet yr andewolion a gyfergollir .

@@ -1,0 +1,15 @@
+19:95:001:1	PSALM 95
+19:95:002:1	Praise to the L
+19:95:003:1	ord
+19:95:004:1	, and Warning against Unbelief .
+19:95:001:0	O come , let us sing for joy to the Lord , Let us shout joyfully to the rock of our salvation .
+19:95:002:0	Let us come before His presence with thanksgiving , Let us shout joyfully to Him with psalms .
+19:95:003:0	For the Lord is a great GodAnd a great King above all gods ,
+19:95:004:0	In whose hand are the depths of the earth , The peaks of the mountains are His also .
+19:95:005:0	The sea is His , for it was He who made it , And His hands formed the dry land .
+19:95:006:0	Come , let us worship and bow down , Let us kneel before the Lord our Maker .
+19:95:007:0	For He is our God , And we are the people of His pasture and the sheep of His hand . Today , if you would hear His voice ,
+19:95:008:0	Do not harden your hearts , as at Meribah , As in the day of Massah in the wilderness ,
+19:95:009:0	“ When your fathers tested Me , They tried Me , though they had seen My work .
+19:95:010:0	For forty years I loathed that generation , And said they are a people who err in their heart , And they do not know My ways .
+19:95:011:0	Therefore I swore in My anger , Truly they shall not enter into My rest . ”

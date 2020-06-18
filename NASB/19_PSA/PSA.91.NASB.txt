@@ -1,0 +1,20 @@
+19:91:001:1	PSALM 91
+19:91:002:1	Security of the One Who Trusts in the L
+19:91:003:1	ord
+19:91:004:1	.
+19:91:001:0	He who dwells in the shelter of the Most HighWill abide in the shadow of the Almighty .
+19:91:002:0	I will say to the Lord , “ My refuge and my fortress , My God , in whom I trust ! ”
+19:91:003:0	For it is He who delivers you from the snare of the trapperAnd from the deadly pestilence .
+19:91:004:0	He will cover you with His pinions , And under His wings you may seek refuge ; His faithfulness is a shield and bulwark .
+19:91:005:0	You will not be afraid of the terror by night , Or of the arrow that flies by day ;
+19:91:006:0	Of the pestilence that stalks in darkness , Or of the destruction that lays waste at noon .
+19:91:007:0	A thousand may fall at your sideAnd ten thousand at your right hand , But it shall not approach you .
+19:91:008:0	You will only look on with your eyesAnd see the recompense of the wicked .
+19:91:009:0	For you have made the Lord , my refuge , Even the Most High , your dwelling place .
+19:91:010:0	No evil will befall you , Nor will any plague come near your tent .
+19:91:011:0	For He will give His angels charge concerning you , To guard you in all your ways .
+19:91:012:0	They will bear you up in their hands , That you do not strike your foot against a stone .
+19:91:013:0	You will tread upon the lion and cobra , The young lion and the serpent you will trample down .
+19:91:014:0	“ Because he has loved Me , therefore I will deliver him ; I will set him securely on high , because he has known My name .
+19:91:015:0	He will call upon Me , and I will answer him ; I will be with him in trouble ; I will rescue him and honor him .
+19:91:016:0	With a long life I will satisfy himAnd let him see My salvation . ”

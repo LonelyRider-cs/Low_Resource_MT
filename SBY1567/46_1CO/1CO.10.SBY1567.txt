@@ -1,0 +1,35 @@
+46:10:001:1	Pen . x .
+46:10:002:1	Mae ef yn ei hofni wy ac esempl o’r Iuðeon , nad ymddiriedōt yn gnawdol yn‐doniae Duw , Gan ei hanoc y ymogelyd rac pop ryw ðelw‐addoliat , A’ rhac rhwystro ei cymydoc .
+46:10:001:0	HEfyt , yroder , ny vynwn ywch anwybot , pā yvv bot ein oll tadeu gynt y dan yr wybren , a’u myned oll trwy’r mor ,
+46:10:002:0	a’u batyddio vvy oll y dan Voysen , yn yr wybren , ac yn y mor ,
+46:10:003:0	ac a vwytesōt bawp yr vn bwyt ysprytawl ,
+46:10:004:0	ac a yfesont bawp yr vn ddiot ysprytawl ( can ys vvy yfesont or vn graic ysprytawl rhon oedd yn dyvot ar ol : a’r Graic oedd Christ )
+46:10:005:0	eithr y lawer o hanwynt nyd oedd Duw voddlon : can ys bwrwyt wy y lawr yn y diffaithvvch .
+46:10:006:0	A’r ei hyny oeddynt esemplae y nyni , val na byddei y ninheu chwenychu am ðryc betheu , val ac y chwynechesont wy .
+46:10:007:0	Ac na vyðwch eiðol‐addolwyr , mal y bu rei o hanwynt wy , megis y mae yn scrivenedic , Eisteddawdd y popul y vwyta ac yvet , ac a gyvodesont i chwareu .
+46:10:008:0	Ac na wnawn ’odinep , mal y gwnaeth yr ei o hanynt wy ’odinep , ac a gwympiodd mewn vn diernot teir‐mil ar vcain .
+46:10:009:0	Ac na themtiwn Christ , megis ac y temptiawdd r’ei a hanaddynt wy ef , ac eu distrywyt gan seirph .
+46:10:010:0	Ac na vurnurwch chvvi , megis ac y murmurodd rhei o hanynt wy , ac au dinistrwyt gan y dinistrydd .
+46:10:011:0	A’r petheu hyn oll a ddeuth yddynt wy er esemplae , ac a escrivenwyt er rybydd i ni , ar ba rei y dygwyddawdd tervynae yr oesoedd .
+46:10:012:0	Can hyny hwn a debic y vot yn sefyll , edrychet rac iddo gwympo .
+46:10:013:0	Nyd ymavlawdd ynoch demtation , addieithyr vn dynawl : a’Duw ’sy ffyddlawn , yr hwn ny ad eich temto chvvi uchlaw hyn a alloch , eithyr gyd a’r temtation y gwna ef ellyngdawt , val y galloch ymdaro .
+46:10:014:0	Erwydd paam vy‐caredigion ffowch rrac eiðol‐addoliad .
+46:10:015:0	Dywedyt ydd wyf val wrth rei pwylloc : bernw‐chwi pa beth wyf yn ei ddywedyt .
+46:10:016:0	Phiol y vendith rhon ydd ym yn ei bendithio , anyd commun gwaet Christ yw ? Y bara rhwn a dorwn , anyd commun corph Christ yw ?
+46:10:017:0	Can ys nyni yr ei ym laweroeð ’ydym vn bara , ac vn corph , can eyn bot ni oll yn gyfranogion o vn bara .
+46:10:018:0	Edrychwch ar yr Israel rhwn ’sy erwydd y cnawd : anyd yw ’r ei a vwytaant or abertheu , yn gyfranogion o’r allor ?
+46:10:019:0	Beth ddywedaf gan hyny ? ai bot yr eiðol yn ðim neu vot yr hyn a aberthir ir eiðolon yn ddim ?
+46:10:020:0	nag yvv , anyd am y petheu a abertha y Cenetloedd , eu bot yn y haberthu y gythreulieit , ac nyd i Dduw : ac ny vynnwn y chwi vot yn cymddeithas a’r cythreulieit .
+46:10:021:0	Ny ellwch yfet o phiol yr Arglwydd , ac o phiol y cythreulieit . Ny ellwch vot yn gyfranogion o vord yr Arglwydd , ac o vord y cythreulieit .
+46:10:022:0	A annogwn ni yr Arglwydd y ddigio ? a ydym ni yn gadarnach nac ef ?
+46:10:023:0	Y mae pop peth yn rhydd i mi , eithr ny wna pop peth les : pop peth ’sy rydd i mi , eithyr nyd yw pop peht yn addailad .
+46:10:024:0	Na cheisiet neb y peth ’sydd yddaw y hun , anyd pop vn lles y arall :
+46:10:025:0	Beth bynac a werthir yn y gigva bwytewch , eb y mofyn dim er mwyn cydwybot .
+46:10:026:0	Can ys yddaw’r Arglwydd y ðaiar , a’i chyflawnder .
+46:10:027:0	A’s bydd neb o’r ei ny chredant , ich gohawð a’ chwitheu yn myned , beth bynac a ddoter geyr eich bron , bwytewch , eb ymofyn dim er mwn eydwybot .
+46:10:028:0	Eithyr a’s dywait nep wrthych , E a aberthwyt y peth hyn ir eiðolon , na vwytewch ddim hano , o bleit hwn a ei dangosawdd , ac er cydwybot ( can ys yr Arglwydd bieu ’r ddayar , a’ chwbl ’syð ynthei )
+46:10:029:0	a’r gydwybot meddaf , nyd taudi anyd vnarall : can ys paam y bernir vy rryðdit i gan gydwybot vn arall ?
+46:10:030:0	O bleit a’s myvi trwy ddawn Duvv a wyf gyfranoc , paam im ceplir i , am yr hyn ydd wy vi yn diolvvch ?
+46:10:031:0	Am hyny pa vn bynac a wneloch ai bwyta ai yfet , ai peth aral’ , gwnewch bop peth er gogoniant i Dduw .
+46:10:032:0	Na vyðwch achos tramcwydd , nac ir Iuddeon , nac ir Cenetloedd , nac i Eccles Duw :
+46:10:033:0	’sef megis ac ydd wy vi yn rhengy bodd pawp ym pop peth , eb geisio y lles vy hunaan , anyd lles l’aweroeð , val e bōt cadwedic .

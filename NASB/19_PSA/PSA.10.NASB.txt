@@ -1,0 +1,20 @@
+19:10:001:1	PSALM 10
+19:10:002:1	A Prayer for the Overthrow of the Wicked .
+19:10:001:0	Why do You stand afar off , O Lord ? Why do You hide Yourself in times of trouble ?
+19:10:002:0	In pride the wicked hotly pursue the afflicted ; Let them be caught in the plots which they have devised .
+19:10:003:0	For the wicked boasts of his heart’s desire , And the greedy man curses and spurns the Lord .
+19:10:004:0	The wicked , in the haughtiness of his countenance , does not seek Him . All his thoughts are , “ There is no God . ”
+19:10:005:0	His ways prosper at all times ; Your judgments are on high , out of his sight ; As for all his adversaries , he snorts at them .
+19:10:006:0	He says to himself , “ I will not be moved ; Throughout all generations I will not be in adversity . ”
+19:10:007:0	His mouth is full of curses and deceit and oppression ; Under his tongue is mischief and wickedness .
+19:10:008:0	He sits in the lurking places of the villages ; In the hiding places he kills the innocent ; His eyes stealthily watch for the unfortunate .
+19:10:009:0	He lurks in a hiding place as a lion in his lair ; He lurks to catch the afflicted ; He catches the afflicted when he draws him into his net .
+19:10:010:0	He crouches , he bows down , And the unfortunate fall by his mighty ones .
+19:10:011:0	He says to himself , “ God has forgotten ; He has hidden His face ; He will never see it . ”
+19:10:012:0	Arise , O Lord ; O God , lift up Your hand . Do not forget the afflicted .
+19:10:013:0	Why has the wicked spurned God ? He has said to himself , “ You will not require it . ”
+19:10:014:0	You have seen it , for You have beheld mischief and vexation to take it into Your hand . The unfortunate commits himself to You ; You have been the helper of the orphan .
+19:10:015:0	Break the arm of the wicked and the evildoer , Seek out his wickedness until You find none .
+19:10:016:0	The Lord is King forever and ever ; Nations have perished from His land .
+19:10:017:0	O Lord , You have heard the desire of the humble ; You will strengthen their heart , You will incline Your ear
+19:10:018:0	To vindicate the orphan and the oppressed , So that man who is of the earth will no longer cause terror .

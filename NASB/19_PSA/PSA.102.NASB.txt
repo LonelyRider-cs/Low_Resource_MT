@@ -1,0 +1,33 @@
+19:102:001:1	PSALM 102
+19:102:002:1	Prayer of an Afflicted Man for Mercy on Himself and on Zion .
+19:102:003:1	A Prayer of the Afflicted when he is faint and pours out his complaint before the L
+19:102:004:1	ord
+19:102:005:1	.
+19:102:001:0	Hear my prayer , O Lord ! And let my cry for help come to You .
+19:102:002:0	Do not hide Your face from me in the day of my distress ; Incline Your ear to me ; In the day when I call answer me quickly .
+19:102:003:0	For my days have been consumed in smoke , And my bones have been scorched like a hearth .
+19:102:004:0	My heart has been smitten like grass and has withered away , Indeed , I forget to eat my bread .
+19:102:005:0	Because of the loudness of my groaningMy bones cling to my flesh .
+19:102:006:0	I resemble a pelican of the wilderness ; I have become like an owl of the waste places .
+19:102:007:0	I lie awake , I have become like a lonely bird on a housetop .
+19:102:008:0	My enemies have reproached me all day long ; Those who deride me have used my name as a curse .
+19:102:009:0	For I have eaten ashes like breadAnd mingled my drink with weeping
+19:102:010:0	Because of Your indignation and Your wrath , For You have lifted me up and cast me away .
+19:102:011:0	My days are like a lengthened shadow , And I wither away like grass .
+19:102:012:0	But You , O Lord , abide forever , And Your name to all generations .
+19:102:013:0	You will arise and have compassion on Zion ; For it is time to be gracious to her , For the appointed time has come .
+19:102:014:0	Surely Your servants find pleasure in her stonesAnd feel pity for her dust .
+19:102:015:0	So the nations will fear the name of the LordAnd all the kings of the earth Your glory .
+19:102:016:0	For the Lord has built up Zion ; He has appeared in His glory .
+19:102:017:0	He has regarded the prayer of the destituteAnd has not despised their prayer .
+19:102:018:0	This will be written for the generation to come , That a people yet to be created may praise the Lord .
+19:102:019:0	For He looked down from His holy height ; From heaven the Lord gazed upon the earth ,
+19:102:020:0	To hear the groaning of the prisoner , To set free those who were doomed to death ,
+19:102:021:0	That men may tell of the name of the Lord in ZionAnd His praise in Jerusalem ,
+19:102:022:0	When the peoples are gathered together , And the kingdoms , to serve the Lord .
+19:102:023:0	He has weakened my strength in the way ; He has shortened my days .
+19:102:024:0	I say , “ O my God , do not take me away in the midst of my days , Your years are throughout all generations .
+19:102:025:0	Of old You founded the earth , And the heavens are the work of Your hands .
+19:102:026:0	Even they will perish , but You endure ; And all of them will wear out like a garment ; Like clothing You will change them and they will be changed .
+19:102:027:0	But You are the same , And Your years will not come to an end .
+19:102:028:0	The children of Your servants will continue , And their descendants will be established before You . ”

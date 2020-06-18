@@ -1,0 +1,24 @@
+12:12:001:1	Joash ( Jehoash ) Reigns over Judah
+12:12:001:0	In the seventh year of Jehu , Jehoash became king , and he reigned forty years in Jerusalem ; and his mother’s name was Zibiah of Beersheba .
+12:12:002:0	Jehoash did right in the sight of the Lord all his days in which Jehoiada the priest instructed him .
+12:12:002:1	The Temple to Be Repaired
+12:12:003:0	Only the high places were not taken away ; the people still sacrificed and burned incense on the high places .
+12:12:004:0	Then Jehoash said to the priests , “ All the money of the sacred things which is brought into the house of the Lord , in current money , both the money of each man’s assessment and all the money which any man’s heart prompts him to bring into the house of the Lord ,
+12:12:005:0	let the priests take it for themselves , each from his acquaintance ; and they shall repair the damages of the house wherever any damage may be found . ”
+12:12:006:0	But it came about that in the twenty-third year of King Jehoash the priests had not repaired the damages of the house .
+12:12:007:0	Then King Jehoash called for Jehoiada the priest , and for the other priests and said to them , “ Why do you not repair the damages of the house ? Now therefore take no more money from your acquaintances , but pay it for the damages of the house . ”
+12:12:008:0	So the priests agreed that they would take no more money from the people , nor repair the damages of the house .
+12:12:009:0	But Jehoiada the priest took a chest and bored a hole in its lid and put it beside the altar , on the right side as one comes into the house of the Lord ; and the priests who guarded the threshold put in it all the money which was brought into the house of the Lord .
+12:12:010:0	When they saw that there was much money in the chest , the king’s scribe and the high priest came up and tied it in bags and counted the money which was found in the house of the Lord .
+12:12:011:0	They gave the money which was weighed out into the hands of those who did the work , who had the oversight of the house of the Lord ; and they paid it out to the carpenters and the builders who worked on the house of the Lord ;
+12:12:012:0	and to the masons and the stonecutters , and for buying timber and hewn stone to repair the damages to the house of the Lord , and for all that was laid out for the house to repair it .
+12:12:013:0	But there were not made for the house of the Lord silver cups , snuffers , bowls , trumpets , any vessels of gold , or vessels of silver from the money which was brought into the house of the Lord ;
+12:12:014:0	for they gave that to those who did the work , and with it they repaired the house of the Lord .
+12:12:015:0	Moreover , they did not require an accounting from the men into whose hand they gave the money to pay to those who did the work , for they dealt faithfully .
+12:12:016:0	The money from the guilt offerings and the money from the sin offerings was not brought into the house of the Lord ; it was for the priests .
+12:12:017:0	Then Hazael king of Aram went up and fought against Gath and captured it , and Hazael set his face to go up to Jerusalem .
+12:12:003:1	Joash ( Jehoash ) Succeeded by Amaziah in Judah
+12:12:018:0	Jehoash king of Judah took all the sacred things that Jehoshaphat and Jehoram and Ahaziah , his fathers , kings of Judah , had dedicated , and his own sacred things and all the gold that was found among the treasuries of the house of the Lord and of the king’s house , and sent them to Hazael king of Aram . Then he went away from Jerusalem .
+12:12:019:0	Now the rest of the acts of Joash and all that he did , are they not written in the Book of the Chronicles of the Kings of Judah ?
+12:12:020:0	His servants arose and made a conspiracy and struck down Joash at the house of Millo as he was going down to Silla .
+12:12:021:0	For Jozacar the son of Shimeath and Jehozabad the son of Shomer , his servants , struck him and he died ; and they buried him with his fathers in the city of David , and Amaziah his son became king in his place .

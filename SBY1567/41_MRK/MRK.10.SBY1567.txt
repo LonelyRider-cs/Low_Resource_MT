@@ -1,0 +1,54 @@
+41:10:001:1	Pen . x .
+41:10:002:1	Am yscarieth . Y goludawc yn ymofyn a’ Christ . Gwobr yr ei a erlidir . Am veibion Zebedaeus . Agori llygaid Bartimaeus .
+41:10:001:0	AC ef a gyvodes o yno ac aeth i ffiniae Iudaia rhyd y tu hwnt i Iorddonen , a’r vintai a gyrchodd ataw drachefyn , ac val ydd oedd gynefin , ef y dyscai wy drachefyn .
+41:10:002:0	Yno y daeth y Pharisaieit a’ gofyn iddo a oedd rydd i wr roi ymaith ei wraic , gan yddyn ei demptio ef .
+41:10:003:0	Ac ef atepodd ac a ddyvot wrthynt , Peth a ’orchmynawdd Moysen y chwi ?
+41:10:004:0	Dywedesont wythe , Moysen a ’oddefawdd bot yscriueny llythyr yscar , a’ei rhoi hi ymaith .
+41:10:005:0	Yno ydd atepodd yr Iesu , ac y dyvot wrthynt , Am galedrwydd eich calon chvvi ydd escriuenawð ef y gorchymyn hwn ychwy .
+41:10:006:0	And yn‐dechreuat y creaduriacth y gwnaeth Duw hwy gwryw a’ benyw .
+41:10:007:0	Achos hyn y gad dyn ei dad a’ ei vam , ac a lyn wrth ei wreic .
+41:10:008:0	Ac wy ill dau a vyðant vn cnawd : yd nad ynt mwyach yn ddau ’namyn vn cnawd .
+41:10:009:0	Can’s yr hyn a gyssyllta Duw na ’ohanet dyn .
+41:10:010:0	Ac yn tuy y govynent ei ðiscipulon iðo drachefyn am y peth hwnw .
+41:10:011:0	Ac ef a ddyvot wrthynt , Pwy pynac y ddyr ’ymaith ei wraic a’ phriody vn arall , ef y wna ’odineb yn y herbyn hi .
+41:10:012:0	Ac a’s gwreic y ddyr ’ymaith hei gwr , a’ phriodi vn arall y mae hi gwneithy’r godinep .
+41:10:013:0	Yno y ducesant blant‐bychain ataw er iddo ei cyhwrdd : a’ei ddiscipulon a geryddent yr ei’ a ddaethei ac wynt .
+41:10:014:0	A’ phan ey gwelawdd yr Iesu sori a oruc ef , a’ dywedyt wrthynt , Gedwch i’r ei bychain ddyuot ata vi , ac na’w goherddwch : can ys o’r cyfryw y mae teyrnas Duw .
+41:10:015:0	Yn wir y dywedaf wrthych , Pwy pynac ny’s erbynia deyrnas Duw , megis bachcenyn , nyd a ef y mewn ddim yddi .
+41:10:016:0	Ac ef ei braicheidiawdd wy , ac a ’osodes ei ddwylo arnaddynt , ac a ei bendithiawdd .
+41:10:017:0	A’ gwedy iddo vyned allan i’r ffordd , y daeth vn yn rhedec , ac a benlinioð iddo , ac a vynawð yddaw , Athro da , beth a wnaf i , y gael meðiantu bywyt tragyvythawl ?
+41:10:018:0	A’r Iesu a ðyvot wrthaw , Paam y gelwy vi yn ða ? nyd da nebun anyd vn , ’sef Duw .
+41:10:019:0	ti ’wyddost y gorchmynion , Na wna odineb . Na ladd nep . Na ladrata . Na ffalstestolaytha . Na wna eniwed i neb . Anrydodda dy dad a’th vam .
+41:10:020:0	Yno ydd atepodd ef , ac y dyuot wrthaw , Athro , hyn oll a gedweis o’m ieunctit .
+41:10:021:0	A’r Iesu a e drychawdd arnaw , ac ei carawdd , ac a ddyuot wrthaw , Mae vn peth yn ol iti , Does a’ gwerth cymeint oll ac y sy yti , a’ dyrho i’r tlodion , a’ thi gai dresawr yn y nef , a debre , dilyn vi , a chyvot dy groc ar d’yscvvydd .
+41:10:022:0	A’ phruddhau gan yr ymadrodd hyn a wnaeth ef , a’ thynny y maith yn athrist : can vod iddo lawer o veddiantae :
+41:10:023:0	A’r Iesu a edrychawdd o ei amgylch , ac a ddyuot wrth ei ddiscipulon , Mor anhawdd yr a y sawl ys y a golud ar ei helw i vevvn y deyrnas Duw .
+41:10:024:0	A’ ei ðiscipulon a ddechrynesont wrth ei eiriae . A’r Iesu atepawdd dragefyn , ac a ddyuot wrthwynt , Ha veibion , mor anhawð yw ir ei a ymddiriedāt yn‐goludoeð , vyn’d y mewn teyrnas Duw .
+41:10:025:0	Hawsach yw i gamel vyn’d drwy grau ’r nodwydd , nag i ’oludawc vyn’d y mewn teyrnas Duw .
+41:10:026:0	Ac wythe ddechrynesont yn‐vwy‐o-lawer , gan ddywedyt writhyn ei hunain , A’ phwy a ddichon vod yn gatwedic ?
+41:10:027:0	A’r Iesu a edrychodd arnynt , ac a ðyuot , Gyd a dyniō ampossibl yvv hyn , and nyd gyd a Duw : can ys pop peth ’sy possibil gyd a Duw .
+41:10:028:0	Yno y dechreawdd Petr ddywedyt wrthaw , Nycha , ys gadawsam ni bop peth , ac ath ddilynesam di .
+41:10:029:0	Yr Iesu a atepodd ac a ddyuot , Yn wir y dywedaf i chwi , nyd oes nep ar adawodd duy , ’nei vroder , nei chwiorydd , neu dad , neu vam , neu wreic , neu blant , ne diroedd o’m pleid i a’r Euangel ,
+41:10:030:0	a’r ny’s derbyn ar y canvet yr awrhon y pryd hyn : tai , a’ broder , a’ chwioredd , a’ mamae , a’ phlant , a’ thiredd y gyd ac erlidiae , ac yn yr oes a ddaw vuchedd dragyvythawl .
+41:10:031:0	Eithr llawer ar ’sy yn cyntaf , a vyddant yn olaf , a’r ei olaf yn gyntaf .
+41:10:032:0	Ac ydd oeddent vvy ar y ffordd yn escend i Gaerusalem , a’r Iesu a ai o’i blaen , a’ dechryny a wnaethant , ac val ei dilynent , yr ofnesont , a’r Iesu a gymerth y dauddec drachefyn , ac a ddechreuawdd ddywedyt yddyn pa pethae a ddelei yddo ,
+41:10:033:0	gan ddyvvedyt , Nycha , ni yn escend i Gaerusalem a’ Map y dyn a roddir at yr Archoffeirieit , ac at y Gwyr‐llen , ac wynt y barnant ef i angae , ac y rhoddant ef at y Cenetloedd .
+41:10:034:0	Ac vvy y gwatworant ef , ac ei yscyrsiant , ac y boyrant arnaw , ac ei lladdant : eithyr y trydyð dydd y cyvyt ef drachefyn .
+41:10:035:0	Yno y daeth ataw Iaco ac Ioan meibion Zebedaeus , gan dywedyt , Athro , ni ’wyllesem wneythyr o hanot i ni yr hyn a ddeisyfem .
+41:10:036:0	Ac ef a ddyvot wrthynt , Beth a ’wyllysech i mi y wneythyd y chwi ?
+41:10:037:0	Wythe a ddywedesont wrthaw , Caniata i ni gael eistedd vn ar dy ddeheulavv , a’r llall ar dy lavv aseu yn dy ’ogoniant .
+41:10:038:0	A’r Iesu a ddynot wrthynt , Ny wyddoch pa beth a erchwch . A ellwch‐vvi yfed o’r cwppan yr yfa vi o hanavv , a’ch bedyddio a’r betydd y betyddier vi ?
+41:10:039:0	Ac wy dywetsont wrthaw , Gallwn . A’r Iesu a ddyvot wrthynt , Diau yr yfwch o’r cwppan yr yfa vi o honavv , ac ich betyddijr a’r betydd yn yr hwn im betyddier inef :
+41:10:040:0	anyd eistedd ar vy llavv ddeau ac ar fy llavv aseu , nyd yw vau ei roddy , anyd ei roi a vvnair ir ei y paratowyt .
+41:10:041:0	A’ phan glypu ’r dec ereillhyny , y dechreusont sory wrth Iaco ac Ioan .
+41:10:042:0	A’r Iesu y galwodd wy ataw , ac a ddyvot yddynt , Chvvi wyddoch mai yr ei ’sy hoff ganthynt lywodraethu ymplith y Cenedloedd y harglwyddiaethant wy , a’r sawl ’sy vawrion yn ey plith , a arverant o awdurtot arnaddynt .
+41:10:043:0	Eithyr nyd velly y bydd yn eich plith chwi : an’d pwy pynac a’ wyllysio vot yn vawr yn eich plith chwi , byddet wenidoc y chwy .
+41:10:044:0	A’ phwy pynac a ewyllisia vot yn benaf o hanochwy , byddet was pavvp oll .
+41:10:045:0	Can ys‐a’ Map y dyn ny ðaeth i gahel gweini iddo , anyd i weini , a’ rhoi ei einioes yn bridwerth dros lawer .
+41:10:046:0	Yno yd aethant i h Iericho : ac val yð oeð ef yn myned allan o h Iericho gyd ai ddiscipulon , a’ mintai vawr , Bartimaeus vap Timaeus dyn dall a eisteddai ar vin y ffordd yn cardota .
+41:10:047:0	A’ phan glypu mai ’r Iesu o Nazaret oedd yno , ef a ddechreuawdd lefain a’ dywedyt , Iesu vap Dauid trugarha wrthyf .
+41:10:048:0	A’ llawer y ceryddent ef , er iddo dewi : yntef a lefai yn vwy o lawer , Ha vap Dauid , trugarha , wrthyf .
+41:10:049:0	Yno gorsefyll o’r Iesu , a’ gorchmyn y ’alw ef : ac wy e alwasant y dall , gā ddywedyt wrthaw , Cymer gyssyr : cyfod , mae ef yn dy ’alw .
+41:10:050:0	Yno y tavlodd ef ei gochyl ymaith , ac a gyvodes ac a ddaeth at yr Iesu .
+41:10:051:0	A’r Iesu ’atepodd ac a ddyuot wrthaw , Beth a ewyllysy wneythyd o hanof yty ? A’r dall a ddyuot wrthaw , Arglwydd , cael o hanof vy-golwc .
+41:10:052:0	Yno y dyuot yr Iesu wrthaw , Dos ffwrdd , dy ffydd ath iachaodd , Ac yn y man y cafas ei ’olwc , ac y canlynodd ef yr Iesu rhyd y ffordd .

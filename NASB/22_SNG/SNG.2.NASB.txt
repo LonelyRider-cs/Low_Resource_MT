@@ -1,0 +1,18 @@
+22:2:001:1	The Bride’s Admiration
+22:2:001:0	“ I am the rose of Sharon , The lily of the valleys . ”
+22:2:002:0	“ Like a lily among the thorns , So is my darling among the maidens . ”
+22:2:003:0	“ Like an apple tree among the trees of the forest , So is my beloved among the young men . In his shade I took great delight and sat down , And his fruit was sweet to my taste .
+22:2:004:0	He has brought me to his banquet hall , And his banner over me is love .
+22:2:005:0	Sustain me with raisin cakes , Refresh me with apples , Because I am lovesick .
+22:2:006:0	Let his left hand be under my headAnd his right hand embrace me . ”
+22:2:007:0	“ I adjure you , O daughters of Jerusalem , By the gazelles or by the hinds of the field , That you do not arouse or awaken my loveUntil she pleases . ”
+22:2:008:0	“ Listen ! My beloved ! Behold , he is coming , Climbing on the mountains , Leaping on the hills !
+22:2:009:0	My beloved is like a gazelle or a young stag . Behold , he is standing behind our wall , He is looking through the windows , He is peering through the lattice .
+22:2:010:0	“ My beloved responded and said to me , ‘Arise , my darling , my beautiful one , And come along .
+22:2:011:0	For behold , the winter is past , The rain is over and gone .
+22:2:012:0	The flowers have already appeared in the land ; The time has arrived for pruning the vines , And the voice of the turtledove has been heard in our land .
+22:2:013:0	The fig tree has ripened its figs , And the vines in blossom have given forth their fragrance . Arise , my darling , my beautiful one , And come along ! ’ ”
+22:2:014:0	“ O my dove , in the clefts of the rock , In the secret place of the steep pathway , Let me see your form , Let me hear your voice ; For your voice is sweet , And your form is lovely . ”
+22:2:015:0	“ Catch the foxes for us , The little foxes that are ruining the vineyards , While our vineyards are in blossom . ”
+22:2:016:0	“ My beloved is mine , and I am his ; He pastures his flock among the lilies .
+22:2:017:0	Until the cool of the day when the shadows flee away , Turn , my beloved , and be like a gazelleOr a young stag on the mountains of Bether . ”

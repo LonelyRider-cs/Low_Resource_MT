@@ -1,0 +1,41 @@
+16:10:001:1	Signers of the Document
+16:10:001:0	Now on the sealed document were the names of : Nehemiah the governor , the son of Hacaliah , and Zedekiah ,
+16:10:002:0	Seraiah , Azariah , Jeremiah ,
+16:10:003:0	Pashhur , Amariah , Malchijah ,
+16:10:004:0	Hattush , Shebaniah , Malluch ,
+16:10:005:0	Harim , Meremoth , Obadiah ,
+16:10:006:0	Daniel , Ginnethon , Baruch ,
+16:10:007:0	Meshullam , Abijah , Mijamin ,
+16:10:008:0	Maaziah , Bilgai , Shemaiah . These were the priests .
+16:10:009:0	And the Levites : Jeshua the son of Azaniah , Binnui of the sons of Henadad , Kadmiel ;
+16:10:010:0	also their brothers Shebaniah , Hodiah , Kelita , Pelaiah , Hanan ,
+16:10:011:0	Mica , Rehob , Hashabiah ,
+16:10:012:0	Zaccur , Sherebiah , Shebaniah ,
+16:10:013:0	Hodiah , Bani , Beninu .
+16:10:014:0	The leaders of the people : Parosh , Pahath-moab , Elam , Zattu , Bani ,
+16:10:015:0	Bunni , Azgad , Bebai ,
+16:10:016:0	Adonijah , Bigvai , Adin ,
+16:10:017:0	Ater , Hezekiah , Azzur ,
+16:10:018:0	Hodiah , Hashum , Bezai ,
+16:10:019:0	Hariph , Anathoth , Nebai ,
+16:10:020:0	Magpiash , Meshullam , Hezir ,
+16:10:021:0	Meshezabel , Zadok , Jaddua ,
+16:10:022:0	Pelatiah , Hanan , Anaiah ,
+16:10:023:0	Hoshea , Hananiah , Hasshub ,
+16:10:024:0	Hallohesh , Pilha , Shobek ,
+16:10:025:0	Rehum , Hashabnah , Maaseiah ,
+16:10:026:0	Ahiah , Hanan , Anan ,
+16:10:002:1	Obligations of the Document
+16:10:027:0	Malluch , Harim , Baanah .
+16:10:028:0	Now the rest of the people , the priests , the Levites , the gatekeepers , the singers , the temple servants and all those who had separated themselves from the peoples of the lands to the law of God , their wives , their sons and their daughters , all those who had knowledge and understanding ,
+16:10:029:0	are joining with their kinsmen , their nobles , and are taking on themselves a curse and an oath to walk in God’s law , which was given through Moses , God’s servant , and to keep and to observe all the commandments of God our Lord , and His ordinances and His statutes ;
+16:10:030:0	and that we will not give our daughters to the peoples of the land or take their daughters for our sons .
+16:10:031:0	As for the peoples of the land who bring wares or any grain on the sabbath day to sell , we will not buy from them on the sabbath or a holy day ; and we will forego the crops the seventh year and the exaction of every debt .
+16:10:032:0	We also placed ourselves under obligation to contribute yearly one third of a shekel for the service of the house of our God :
+16:10:033:0	for the showbread , for the continual grain offering , for the continual burnt offering , the sabbaths , the new moon , for the appointed times , for the holy things and for the sin offerings to make atonement for Israel , and all the work of the house of our God .
+16:10:034:0	Likewise we cast lots for the supply of wood among the priests , the Levites and the people so that they might bring it to the house of our God , according to our fathers’ households , at fixed times annually , to burn on the altar of the Lord our God , as it is written in the law ;
+16:10:035:0	and that they might bring the first fruits of our ground and the first fruits of all the fruit of every tree to the house of the Lord annually ,
+16:10:036:0	and bring to the house of our God the firstborn of our sons and of our cattle , and the firstborn of our herds and our flocks as it is written in the law , for the priests who are ministering in the house of our God .
+16:10:037:0	We will also bring the first of our dough , our contributions , the fruit of every tree , the new wine and the oil to the priests at the chambers of the house of our God , and the tithe of our ground to the Levites , for the Levites are they who receive the tithes in all the rural towns .
+16:10:038:0	The priest , the son of Aaron , shall be with the Levites when the Levites receive tithes , and the Levites shall bring up the tenth of the tithes to the house of our God , to the chambers of the storehouse .
+16:10:039:0	For the sons of Israel and the sons of Levi shall bring the contribution of the grain , the new wine and the oil to the chambers ; there are the utensils of the sanctuary , the priests who are ministering , the gatekeepers and the singers . Thus we will not neglect the house of our God .

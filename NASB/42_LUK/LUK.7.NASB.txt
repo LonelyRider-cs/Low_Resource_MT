@@ -1,0 +1,53 @@
+42:7:001:1	Jesus Heals a Centurion’s Servant
+42:7:001:0	When He had completed all His discourse in the hearing of the people , He went to Capernaum .
+42:7:002:0	And a centurion’s slave , who was highly regarded by him , was sick and about to die .
+42:7:003:0	When he heard about Jesus , he sent some Jewish elders asking Him to come and save the life of his slave .
+42:7:004:0	When they came to Jesus , they earnestly implored Him , saying , “ He is worthy for You to grant this to him ;
+42:7:005:0	for he loves our nation and it was he who built us our synagogue . ”
+42:7:006:0	Now Jesus started on His way with them ; and when He was not far from the house , the centurion sent friends , saying to Him , “ Lord , do not trouble Yourself further , for I am not worthy for You to come under my roof ;
+42:7:007:0	for this reason I did not even consider myself worthy to come to You , but just say the word , and my servant will be healed .
+42:7:008:0	For I also am a man placed under authority , with soldiers under me ; and I say to this one , ‘Go ! ’ and he goes , and to another , ‘Come ! ’ and he comes , and to my slave , ‘Do this ! ’ and he does it . ”
+42:7:009:0	Now when Jesus heard this , He marveled at him , and turned and said to the crowd that was following Him , “ I say to you , not even in Israel have I found such great faith . ”
+42:7:010:0	When those who had been sent returned to the house , they found the slave in good health .
+42:7:011:0	Soon afterwards He went to a city called Nain ; and His disciples were going along with Him , accompanied by a large crowd .
+42:7:012:0	Now as He approached the gate of the city , a dead man was being carried out , the only son of his mother , and she was a widow ; and a sizeable crowd from the city was with her .
+42:7:013:0	When the Lord saw her , He felt compassion for her , and said to her , “ Do not weep . ”
+42:7:014:0	And He came up and touched the coffin ; and the bearers came to a halt . And He said , “ Young man , I say to you , arise ! ”
+42:7:015:0	The dead man sat up and began to speak . And Jesus gave him back to his mother .
+42:7:016:0	Fear gripped them all , and they began glorifying God , saying , “ A great prophet has arisen among us ! ” and , “ God has visited His people ! ”
+42:7:002:1	A Deputation from John
+42:7:017:0	This report concerning Him went out all over Judea and in all the surrounding district .
+42:7:018:0	The disciples of John reported to him about all these things .
+42:7:019:0	Summoning two of his disciples , John sent them to the Lord , saying , “ Are You the Expected One , or do we look for someone else ? ”
+42:7:020:0	When the men came to Him , they said , “ John the Baptist has sent us to You , to ask , ‘Are You the Expected One , or do we look for someone else ? ’ ”
+42:7:021:0	At that very time He cured many people of diseases and afflictions and evil spirits ; and He gave sight to many who were blind .
+42:7:022:0	And He answered and said to them , “ Go and report to John what you have seen and heard : , lame walk , lepers are cleansed , and deaf hear , dead are raised up , .
+42:7:023:0	Blessed is he who does not take offense at Me . ”
+42:7:024:0	When the messengers of John had left , He began to speak to the crowds about John , “ What did you go out into the wilderness to see ? A reed shaken by the wind ?
+42:7:025:0	But what did you go out to see ? A man dressed in soft clothing ? Those who are splendidly clothed and live in luxury are in royal palaces !
+42:7:026:0	But what did you go out to see ? A prophet ? Yes , I say to you , and one who is more than a prophet .
+42:7:027:0	This is the one about whom it is written , ‘B , I M Y , W Y Y . ’
+42:7:028:0	I say to you , among those born of women there is no one greater than John ; yet he who is least in the kingdom of God is greater than he . ”
+42:7:029:0	When all the people and the tax collectors heard this , they acknowledged God’s justice , having been baptized with the baptism of John .
+42:7:030:0	But the Pharisees and the lawyers rejected God’s purpose for themselves , not having been baptized by John .
+42:7:031:0	“ To what then shall I compare the men of this generation , and what are they like ?
+42:7:032:0	They are like children who sit in the market place and call to one another , and they say , ‘We played the flute for you , and you did not dance ; we sang a dirge , and you did not weep . ’
+42:7:033:0	For John the Baptist has come eating no bread and drinking no wine , and you say , ‘He has a demon ! ’
+42:7:034:0	The Son of Man has come eating and drinking , and you say , ‘Behold , a gluttonous man and a drunkard , a friend of tax collectors and sinners ! ’
+42:7:035:0	Yet wisdom is vindicated by all her children . ”
+42:7:036:0	Now one of the Pharisees was requesting Him to dine with him , and He entered the Pharisee’s house and reclined at the table .
+42:7:037:0	And there was a woman in the city who was a sinner ; and when she learned that He was reclining at the table in the Pharisee’s house , she brought an alabaster vial of perfume ,
+42:7:038:0	and standing behind Him at His feet , weeping , she began to wet His feet with her tears , and kept wiping them with the hair of her head , and kissing His feet and anointing them with the perfume .
+42:7:003:1	Parable of Two Debtors
+42:7:039:0	Now when the Pharisee who had invited Him saw this , he said to himself , “ If this man were a prophet He would know who and what sort of person this woman is who is touching Him , that she is a sinner . ”
+42:7:040:0	And Jesus answered him , “ Simon , I have something to say to you . ” And he replied , “ Say it , Teacher . ”
+42:7:041:0	“ A moneylender had two debtors : one owed five hundred denarii , and the other fifty .
+42:7:042:0	When they were unable to repay , he graciously forgave them both . So which of them will love him more ? ”
+42:7:043:0	Simon answered and said , “ I suppose the one whom he forgave more . ” And He said to him , “ You have judged correctly . ”
+42:7:044:0	Turning toward the woman , He said to Simon , “ Do you see this woman ? I entered your house ; you gave Me no water for My feet , but she has wet My feet with her tears and wiped them with her hair .
+42:7:045:0	You gave Me no kiss ; but she , since the time I came in , has not ceased to kiss My feet .
+42:7:046:0	You did not anoint My head with oil , but she anointed My feet with perfume .
+42:7:047:0	For this reason I say to you , her sins , which are many , have been forgiven , for she loved much ; but he who is forgiven little , loves little . ”
+42:7:048:0	Then He said to her , “ Your sins have been forgiven . ”
+42:7:049:0	Those who were reclining at the table with Him began to say to themselves , “ Who is this man who even forgives sins ? ”
+42:7:050:0	And He said to the woman , “ Your faith has saved you ; go in peace . ”

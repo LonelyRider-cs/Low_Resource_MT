@@ -1,0 +1,23 @@
+19:32:001:1	PSALM 32
+19:32:002:1	Blessedness of Forgiveness and of Trust in God .
+19:32:003:1	
+19:32:004:1	A Psalm
+19:32:005:1	of David . A
+19:32:006:1	Possibly
+19:32:007:1	Contemplative ,
+19:32:008:1	or
+19:32:009:1	Didactic ,
+19:32:010:1	or
+19:32:011:1	Skillful Psalm
+19:32:012:1	Maskil .
+19:32:001:0	How blessed is he whose transgression is forgiven , Whose sin is covered !
+19:32:002:0	How blessed is the man to whom the Lord does not impute iniquity , And in whose spirit there is no deceit !
+19:32:003:0	When I kept silent about my sin , my body wasted awayThrough my groaning all day long .
+19:32:004:0	For day and night Your hand was heavy upon me ; My vitality was drained away as with the fever heat of summer . Selah .
+19:32:005:0	I acknowledged my sin to You , And my iniquity I did not hide ; I said , “ I will confess my transgressions to the Lord ” ; And You forgave the guilt of my sin . Selah .
+19:32:006:0	Therefore , let everyone who is godly pray to You in a time when You may be found ; Surely in a flood of great waters they will not reach him .
+19:32:007:0	You are my hiding place ; You preserve me from trouble ; You surround me with songs of deliverance . Selah .
+19:32:008:0	I will instruct you and teach you in the way which you should go ; I will counsel you with My eye upon you .
+19:32:009:0	Do not be as the horse or as the mule which have no understanding , Whose trappings include bit and bridle to hold them in check , Otherwise they will not come near to you .
+19:32:010:0	Many are the sorrows of the wicked , But he who trusts in the Lord , lovingkindness shall surround him .
+19:32:011:0	Be glad in the Lord and rejoice , you righteous ones ; And shout for joy , all you who are upright in heart .

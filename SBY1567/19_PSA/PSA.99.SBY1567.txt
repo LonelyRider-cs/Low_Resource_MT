@@ -1,0 +1,11 @@
+19:99:001:1	Psalm . xcix .
+19:99:002:1	Dominus regnauit .
+19:99:001:0	YR Arglwydd ys y yn teyrnasu , crynant y populoedd : eistedd y mae ef [ rhwng] y Cerubieit , ymoder y ddaiar .
+19:99:002:0	Yr Arglwydd ys y vawr yn ySijon , a’ goruchel yw ef ar yr oll popul .
+19:99:003:0	Wy glodvorant dy Enw mawr ac ofnadwy ( [ can ys sanctaidd yw )
+19:99:004:0	A’ gallu y Brenhin , y gar varn : [ canys] darpareist vniondab : gwnaethost varn a’ chyfiawnder yn Iaco .
+19:99:005:0	Derchefwch yr Arglwydd ein Dew , ac ymestyngwch yd lawr rac bron ’stol ei draet : [ can ys] santaið yw ef .
+19:99:006:0	Moysen ac Aharón [ oedd] ymplith y Offeiriait ef , a’ Samuel ym-plith yr ei’ alwant ar ei Enw : galwodd y [ rheini] ar yr Arglwydd , ac ef ei gwrandawodd .
+19:99:007:0	Yn y colofn wybren y llavarawdd wrthynt : cadwcsant ei destolaethae a’r Ddeddyf [ y] roes ef ydd-wynt .
+19:99:008:0	Gwranðweist arnwynt Arglwyð ein Dew : Dew darbodus vuost’ yddwynt , cyd dialyt’ am ei gweithredeu .
+19:99:009:0	Darchefwch yr Arglwydd ein Dew , a syrthwch , i lawr ger bron ei vynydd sanctaidd : o bleit sanctaidd yw’r Arglwydd ein Dew .

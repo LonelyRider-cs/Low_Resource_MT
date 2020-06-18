@@ -1,0 +1,59 @@
+43:11:001:1	Pen . xj .
+43:11:002:1	Christ yn codi Lazarus o varw . Yr Archoffeirieit a’r Pharisaieit yn ymgygcori yn y erbyn ef . Caiaphas yn prophwyto . Christ yn tynuu o ddiar y ffordd .
+43:11:001:0	AC ydd oedd vn yn glaf , a elvvit Lazarus o’r Bethania ’sef tref Mair , a’ hi chwaer Martha .
+43:11:002:0	( A’r Mair oedd hi yr hon a iroð yr Arglwydd ac ireid gvvyrthfavvr , ac a sychawdd y draet ef a’ hi gwallt , yr hon oedd ei brawt Lazarus wedy clefychu . )
+43:11:003:0	Am hyny yd anvonawdd y chwioredd ef attaw gan ddywedyt , Arglwydd , wely , yr hwn a gery di , ’sy ’n glaf .
+43:11:004:0	Pan glybu ’r Iesu , y y dywedawdd , Nyd yw ’r clefyt hwn yd angeu , eithyr er gogoniant Duw , mal y gogonedder Map Duw trwy hyny .
+43:11:005:0	A’r Iesu a garei Vartha a’ ei chwaer , a’ Lazarus .
+43:11:006:0	A’ gwedy yddaw glywed y vot ef yn glaf , er hyny ef arosawdd ddau ddydd yn ’oystat yn y lle ydd ydoedd .
+43:11:007:0	Yno yn ol hyn , y dywedawdd wrth ei ddiscipulon , Awn i’r Iudaia drachefyn .
+43:11:008:0	Y discipulon a ddywedesont wrthaw . Athro , yn hwyr y ceisiawdd yr Iuddaeon dy lapyddiaw di , ac a ai di yno drachefyn ?
+43:11:009:0	Yr Iesu a atebawdd , Anyd oes deuddec awr o ddydd ? A’s rodia nep y dydd , ny thancwydda ef , can ydd‐aw weled goleuni y y byt hwn .
+43:11:010:0	Eithr a’s rhodia nep y nos , ef a drancwydda , can nad oes goleuni yndaw .
+43:11:011:0	Y pethe hyn a ddyvawt ef , ac wedy hyn ysyganei wrthynt , Y mae ein car Lazarus yn hunaw : eithyr yð wyf yn myned yw ddihunaw ef .
+43:11:012:0	Yno y dyvawt eu ddiscipulon , Arglwydd , ad yw ef yn hunaw e vyð holliach .
+43:11:013:0	A’r Iesu a ddywedesei am y angae ef : ac wythe a dybiesont mai am gysciat cynthun y dywedesei ef .
+43:11:014:0	Yno y dyvawt yr Iesu yddynt yn eglaer , E vu varw Lazarus .
+43:11:015:0	A’ llawen wyf er eich mwyn chwi , nad oeddwn yno , val y credoch : eithyr awn at‐aw .
+43:11:016:0	Yno y dyuot Thomas ( yr hwn a elwir Didimus ) wrth ei gydiscipulon , Awn nine hefyt , val y bom veirw gyd ac ef .
+43:11:017:0	Yno y daeth yr Iesu , ac ei cafas ef wedy ddody yn y beð ys pedwar diwarnot weithian ,
+43:11:018:0	( A’ Bethania oedd yn agos i Cairsalem , yn‐cylch pempthec stad o y wrthi . )
+43:11:019:0	A’ llawer o’r Iuddaeon a ddaethesent at Vartha a’ Mair yw confforddio hvvy am eu brawd .
+43:11:020:0	Yno Martha pan gigle he ddyvot o’r Iesu , aeth y gyvarvot ac ef : a’ Mair a eisteddawdd yn tuy yn vvastat .
+43:11:021:0	Yno y dyvot Martha wrth yr Iesu , Arglwydd , pe byesyti yma , ny besei varw vy‐brawd .
+43:11:022:0	Eithyr yr owrhon y gwn i hefyt , mai pa bethe pynac a erchych i Dduw y dyry Duw y‐ty .
+43:11:023:0	Yr Iesu a ddyvot wrthei , E gyfyt dy vrawt drachefyn .
+43:11:024:0	Martha a ddyvot wrthaw , Mi wn y cyvyt ef yn y cyvodiadigaeth yn y dydd dywethaf .
+43:11:025:0	Yr Iesu a ddyvot wrthei , Mi yw’r cyvodiadigaeth a’r bywyt : yr vn a gred yno vi , er y varw , byw vydd .
+43:11:026:0	A’ phwy pynac ’sy vyw ac a gred yn o vi , ny bydd marw byth . A wyt yn credu hyn ?
+43:11:027:0	Hi ddyweddoð wrthaw , Y rwyf , Arglwydd , mi gredaf mai ti yw’r Christ Map Duw , yr hwn oedd ar ddyvot i’r byt .
+43:11:028:0	A’ gwedy yddhi ddywedyt hyn , hi aeth ymaith , ac a’ alwodd Vair hi chwaer yn ddirgel , gan ddywedyt , E ddaeth y Dysciawdur ac y mae yn galw am danati .
+43:11:029:0	A’ phan clybu hithe , hi a godes yn ebrwydd , ac a ddaeth ataw ef .
+43:11:030:0	O bleit ny ddaethei ’r Iesu etwa ir dref , and ydd oedd ef yn y lle y cyfwrddesei Martha ac ef .
+43:11:031:0	Yno yr Iuddæon yr ei oeddent y gyd a hi yn tuy , ac y confforddient hi , pan welesont Vair , a’ chvyody o hanei ar ffrwst , a’ mynet allan , y dilinesōt hi , gan ðywedyt , Mae hi yn mynet i’r bedd , y wylaw yno .
+43:11:032:0	Yno gwedy dyvot Mair ir lle ’r oedd yr Iesu , a’ ei weled ef , hi a gwympawdd y lawr wrth y draet ef , gan ddywedyt wrthaw , Arglwydd , pe besyt’ yma , ny besei varw ve‐brawd .
+43:11:033:0	Can hynny pan welas yr Iesu hi yn wylaw , a’r Iuðaeon hefyd yn wylaw r’ ei ddaethei y gyd ac yhi , ef a griddvanodd yn yr yspryt , ac a ymgynnyrfodd ,
+43:11:034:0	ac a ddyvot , P’le y dodesoch ef ? Dywetsont wrthaw , Arglwydd , dyred a’ gwyl .
+43:11:035:0	A’r Iesu a wylawdd .
+43:11:036:0	Yna y dyvawd yr Iaddaeon , Wely , mal yr oedd e yn y garu ef .
+43:11:037:0	A’r ei o hanaddynt a ddywedent , Any allesei hwn a agorawð lygeit y dall , wneuthur hefyt , val na bysei hwn varw ?
+43:11:038:0	Yno ’r Iesu drachefyn a griddvanodd yntho yhun , ac a ddaeth i’r bedd . A’ gogof ydoedd , a’ llech a ðodesit arno .
+43:11:039:0	Dywedawdd yr Iesu , Cymerwch ymaith y llech . Martha chwaer hwn a veisei varw , a ddyvot wrthaw , Arglwydd , y mae ef weithian yn drewi : can ys e vu varvv er ys pedwar diernot ,
+43:11:040:0	Yr Iesu a ddyvot , wrthei , Any ddywedais y‐ty , pe a’s credyt , y gwelyt ’ogoniant Duw ?
+43:11:041:0	Yno y cymeresōt ymaith y llech or lle y dodesit y marw . A’r Iesu a dderchafawdd eu lygaid ac a ddyvot , Y Tat , ddwy’n diolvvch y‐ty , can darvot y‐ty vy clywet .
+43:11:042:0	Mi ’wn y clywyt vi bop amser , eithyr o bleit y popul ’sy yn sefyll o y amgylchyn y dywedaisym hynn , val y credant , mai tudi am danvonawð .
+43:11:043:0	A’ gwedy iddo ddywedyt y pethe hyn , ef a lefawdd a llef vchel , Lazarus dyre’d allan .
+43:11:044:0	Yno hwn a vesei varw , a ddaeth allan , wedy rwymo o traed a’ dwylo a rhwymyne , ai wynep a rwymesit a napkyn . Yr Iesu a ddyuot wrthynt , Gellyngwch ef yn rhydd , a’ gedwch iddo wyned ymaith .
+43:11:045:0	Yno llawer o’r Iuddaeon , y ddaethent at Vair , ac a welesont y pethe , ’rei wnaethoedd yr Iesu , a gredesont yndo ef .
+43:11:046:0	An’d ’rei o hanynt aethant ymaith at y Pharisaieit , ac a ddywedesont ydd‐wynt y pethe a wnaethoedd yr Iesu .
+43:11:047:0	Yno y cynullawð yr Archoffeiriait a’r Pharisaieit synneðr , ac ey dywedesōt , Pa beth a wnawn ; can ys y mae’r dyn hwn yn gwneythur llawer o wyrthiae .
+43:11:048:0	A’s gadwn yddo val hyn , pavvp oll a credant ynddo , ac yddaw y Ruueinwyr , ac a gymerant ymaith a’ ein lle , a’r genedl hefyt .
+43:11:049:0	Yno vn o hanaddynt a elvvit Caiaphas , vn oedd Archoffeiriat y vlwyðyn hono , a’ ddyuot wrthwyut . Nyd y‐chwi yn dyally dim oll ,
+43:11:050:0	ac nyd ych yn ystyried y llesa i ni , bot marw vn dyn tros y popul ac na chyfergoller yr oll genetl .
+43:11:051:0	Hyn a ddyvod ef nyd o hano yhun : eithyr can y vot yn Archoffeiriat y vlwyddyn hono y prophwytawdd ef y byddei ’r Iesu varw tros y genetl :
+43:11:052:0	ac nyd tros y genetl yn vnic , eithr ar vot yddaw gascly hefyt ynghyd yn vn blant Dew yr ei a ’oyscaresit .
+43:11:053:0	Yno or dydd hwnw allan y cyd ymgygcoresont , , yw ddienyddu ef .
+43:11:054:0	Iesu gan hyny ny rodiawdd mwyach yn gyoeddus ym‐plith yr Iuddæon , eithyr mynet o ddyno y wlat ysydd yn agos i’r diffaithvvch , y ddinas a elwir Ephraim , ac aros yno y gyd au’ ddiscipulon .
+43:11:055:0	A’r Pasc yr Iuddæon oedd yn agos , a’ llawer o’r wlat aeth y vynydd y Cairusalem o vlaen y Pasc , yr ymlanhay .
+43:11:056:0	Yno y ceisiesont vvy ’r Iesu , ac a ddywedent wrth y gylydd , ac wy yn sefyll yn y Templ , Beth a dybywchwi , can na ddaw ef ir wyl ?
+43:11:057:0	Ac e roesei ’r Archoffeirieit a’r Pharisaiait hefyt ’orchymyn , a’s gwyðiat neb p’le ydd oedd ef ar ddangos o hanaw , val y gallent y ddalha ef .

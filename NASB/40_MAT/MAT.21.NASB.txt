@@ -1,0 +1,52 @@
+40:21:001:1	The Triumphal Entry
+40:21:001:0	When they had approached Jerusalem and had come to Bethphage , at the Mount of Olives , then Jesus sent two disciples ,
+40:21:002:0	saying to them , “ Go into the village opposite you , and immediately you will find a donkey tied and a colt with her ; untie them and bring them to Me .
+40:21:003:0	If anyone says anything to you , you shall say , ‘The Lord has need of them , ’ and immediately he will send them . ”
+40:21:004:0	This took place to fulfill what was spoken through the prophet :
+40:21:005:0	“ Say to the daughter of Zion , ‘Behold your King is coming to you , Gentle , and mounted on a donkey , Even on a colt , the foal of a beast of burden . ’ ”
+40:21:006:0	The disciples went and did just as Jesus had instructed them ,
+40:21:007:0	and brought the donkey and the colt , and laid their coats on them ; and He sat on the coats .
+40:21:008:0	Most of the crowd spread their coats in the road , and others were cutting branches from the trees and spreading them in the road .
+40:21:009:0	The crowds going ahead of Him , and those who followed , were shouting , “ Hosanna to the Son of David ; Blessed is He who comes in the name of the Lord ; Hosanna in the highest ! ”
+40:21:010:0	When He had entered Jerusalem , all the city was stirred , saying , “ Who is this ? ”
+40:21:002:1	Cleansing the Temple
+40:21:011:0	And the crowds were saying , “ This is the prophet Jesus , from Nazareth in Galilee . ”
+40:21:012:0	And Jesus entered the temple and drove out all those who were buying and selling in the temple , and overturned the tables of the money changers and the seats of those who were selling doves .
+40:21:013:0	And He *said to them , “ It is written , ‘M’ ; but you are making it a ’ . ”
+40:21:014:0	And the blind and the lame came to Him in the temple , and He healed them .
+40:21:015:0	But when the chief priests and the scribes saw the wonderful things that He had done , and the children who were shouting in the temple , “ Hosanna to the Son of David , ” they became indignant
+40:21:016:0	and said to Him , “ Do You hear what these children are saying ? ” And Jesus *said to them , “ Yes ; have you never read , ‘O Y Y’ ? ”
+40:21:003:1	The Barren Fig Tree
+40:21:017:0	And He left them and went out of the city to Bethany , and spent the night there .
+40:21:018:0	Now in the morning , when He was returning to the city , He became hungry .
+40:21:019:0	Seeing a lone fig tree by the road , He came to it and found nothing on it except leaves only ; and He *said to it , “ No longer shall there ever be fruit from you . ” And at once the fig tree withered .
+40:21:020:0	Seeing this , the disciples were amazed and asked , “ How did the fig tree wither all at once ? ”
+40:21:021:0	And Jesus answered and said to them , “ Truly I say to you , if you have faith and do not doubt , you will not only do what was done to the fig tree , but even if you say to this mountain , ‘Be taken up and cast into the sea , ’ it will happen .
+40:21:004:1	Authority Challenged
+40:21:022:0	And all things you ask in prayer , believing , you will receive . ”
+40:21:023:0	When He entered the temple , the chief priests and the elders of the people came to Him while He was teaching , and said , “ By what authority are You doing these things , and who gave You this authority ? ”
+40:21:024:0	Jesus said to them , “ I will also ask you one thing , which if you tell Me , I will also tell you by what authority I do these things .
+40:21:025:0	The baptism of John was from what from heaven or from men ? ” And they began reasoning among themselves , saying , “ If we say , ‘From heaven , ’ He will say to us , ‘Then why did you not believe him ? ’
+40:21:026:0	But if we say , ‘From men , ’ we fear the people ; for they all regard John as a prophet . ”
+40:21:005:1	Parable of Two Sons
+40:21:027:0	And answering Jesus , they said , “ We do not know . ” He also said to them , “ Neither will I tell you by what authority I do these things .
+40:21:028:0	“ But what do you think ? A man had two sons , and he came to the first and said , ‘Son , go work today in the vineyard . ’
+40:21:029:0	And he answered , ‘I will not’ ; but afterward he regretted it and went .
+40:21:030:0	The man came to the second and said the same thing ; and he answered , ‘I sir’ ; but he did not go .
+40:21:031:0	Which of the two did the will of his father ? ” They *said , “ The first . ” Jesus *said to them , “ Truly I say to you that the tax collectors and prostitutes will get into the kingdom of God before you .
+40:21:006:1	Parable of the Landowner
+40:21:032:0	For John came to you in the way of righteousness and you did not believe him ; but the tax collectors and prostitutes did believe him ; and you , seeing did not even feel remorse afterward so as to believe him .
+40:21:033:0	“ Listen to another parable . There was a landowner who , , and rented it out to vine-growers and went on a journey .
+40:21:034:0	When the harvest time approached , he sent his slaves to the vine-growers to receive his produce .
+40:21:035:0	The vine-growers took his slaves and beat one , and killed another , and stoned a third .
+40:21:036:0	Again he sent another group of slaves larger than the first ; and they did the same thing to them .
+40:21:037:0	But afterward he sent his son to them , saying , ‘They will respect my son . ’
+40:21:038:0	But when the vine-growers saw the son , they said among themselves , ‘This is the heir ; come , let us kill him and seize his inheritance . ’
+40:21:039:0	They took him , and threw him out of the vineyard and killed him .
+40:21:040:0	Therefore when the owner of the vineyard comes , what will he do to those vine-growers ? ”
+40:21:041:0	They *said to Him , “ He will bring those wretches to a wretched end , and will rent out the vineyard to other vine-growers who will pay him the proceeds at the proper seasons . ”
+40:21:042:0	Jesus *said to them , “ Did you never read in the Scriptures , ‘T , T T L , A’ ?
+40:21:043:0	Therefore I say to you , the kingdom of God will be taken away from you and given to a people , producing the fruit of it .
+40:21:044:0	And he who falls on this stone will be broken to pieces ; but on whomever it falls , it will scatter him like dust . ”
+40:21:045:0	When the chief priests and the Pharisees heard His parables , they understood that He was speaking about them .
+40:21:046:0	When they sought to seize Him , they feared the people , because they considered Him to be a prophet .

@@ -1,0 +1,21 @@
+19:81:001:1	PSALM 81
+19:81:002:1	God’s Goodness and Israel’s Waywardness .
+19:81:003:1	For the choir director ; on the Gittith .
+19:81:004:1	A Psalm
+19:81:005:1	of Asaph .
+19:81:001:0	Sing for joy to God our strength ; Shout joyfully to the God of Jacob .
+19:81:002:0	Raise a song , strike the timbrel , The sweet sounding lyre with the harp .
+19:81:003:0	Blow the trumpet at the new moon , At the full moon , on our feast day .
+19:81:004:0	For it is a statute for Israel , An ordinance of the God of Jacob .
+19:81:005:0	He established it for a testimony in JosephWhen he went throughout the land of Egypt . I heard a language that I did not know :
+19:81:006:0	“ I relieved his shoulder of the burden , His hands were freed from the basket .
+19:81:007:0	You called in trouble and I rescued you ; I answered you in the hiding place of thunder ; I proved you at the waters of Meribah . Selah .
+19:81:008:0	Hear , O My people , and I will admonish you ; O Israel , if you would listen to Me !
+19:81:009:0	Let there be no strange god among you ; Nor shall you worship any foreign god .
+19:81:010:0	I , the Lord , am your God , Who brought you up from the land of Egypt ; Open your mouth wide and I will fill it .
+19:81:011:0	“ But My people did not listen to My voice , And Israel did not obey Me .
+19:81:012:0	So I gave them over to the stubbornness of their heart , To walk in their own devices .
+19:81:013:0	Oh that My people would listen to Me , That Israel would walk in My ways !
+19:81:014:0	I would quickly subdue their enemiesAnd turn My hand against their adversaries .
+19:81:015:0	Those who hate the Lord would pretend obedience to Him , And their time of punishment would be forever .
+19:81:016:0	But I would feed you with the finest of the wheat , And with honey from the rock I would satisfy you . ”

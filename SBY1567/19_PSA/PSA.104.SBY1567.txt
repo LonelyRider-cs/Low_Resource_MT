@@ -1,0 +1,37 @@
+19:104:001:1	Psalm . ciiij .
+19:104:002:1	Benedic anima .
+19:104:001:0	VY enait , mola [ di] yr Arglwydd : O Arglwydd vy-Dew tra mawr ytwyt , a ’gogoniant ac anrydedd yr ymwiscy .
+19:104:002:0	Yr hwn y wisc ’oleuni val dillat , ac ysy yn tayny y nefoedd val llen .
+19:104:003:0	Yr hwn a osot tuylathae ei ystafell yn y dyfredd , ac s’yn gwneythyd yr wybrae yn varchogva yddo , ac yn rhodiaw ar adanedd y gwynt .
+19:104:004:0	Yr hwn a awna yr ysprytion yn genadae yddo , a’ ei wenidogion [ o’r] tan poethflam .
+19:104:005:0	Seiliawdd ef y ddaiar ar ei h’ategion , mal nad yscoc byth bythoedd .
+19:104:006:0	Toeist yhi a gorddyfnder , mal a gwisc : ar vcha y mynydedd y saif y dyfredd .
+19:104:007:0	[ Ac] wrth dy gerydd di y ciliant : gan lais dy daran yr ymvrysiant ymaith .
+19:104:008:0	[ A’r] mynyddedd a escennant [ a’r] glynnoedd y ddescennant ir lle y sailiaist’ yddwynt .
+19:104:009:0	Eithr gosedeist yddwynt ddervyn , nid ant drostaw : nid ymchwelant y doi y ddaiar ,
+19:104:010:0	Ef’ sy ’n d’anvon ffynnoniae yn y glynnoedd , yr ei a gerddant rhyng ymynyddeu .
+19:104:011:0	O hanwynt yr yf oll vwystviloedd y maes , [ a’r] asennot gwylltion a dyr ei sychet .
+19:104:012:0	Wrth y [ ffynnonieu] hyn y preswyl ehediait y nefoedd , ac y lleisiant ymysc y cangae .
+19:104:013:0	Ef yddufrá y mynyddedd o’i estevyll , a’r ddaiar a gyflawnir offrwyth dy weithredeu .
+19:104:014:0	Efe ’syn peri ir gwellt dyfu ir yscrublieit , a’ llyse er mwyniant dyn , mal y duco vara o’r ddaiar ,
+19:104:015:0	A’ gwin [ rhwn] a lawená calon dyn , [ ac] oleo [ yr hwn] y wna ir wynep ddysclaerio , a’ bara [ rhwn] a gynnal galon dyn .
+19:104:016:0	Y preniae ardderchawc y gyflawnir , [ sef] cedriwydd Lebanón yr ei y blannawdd ef ,
+19:104:017:0	Mal y nytha yr adar ynaw : yr ederyn-cyfiawn y ffynidwydd yw ei duy .
+19:104:018:0	Y mynyddedd vchel [ ys ydd] ir geifr : y craigieu ysy lechva i’r cwnigot .
+19:104:019:0	Gwnaeth ef lleuat er amserae-nod : yr haul a edwyn ei vachlut .
+19:104:020:0	Gwnai di dywyllwch , a’ nos vydd hi , ynthei yr ymlusca oll vwystviloedd y coet .
+19:104:021:0	Y llewod y ruant am ei ysclyfiaeth , ac a gaisiant gan Ddew ei bwyt .
+19:104:022:0	Pan goto haul yr ymgasclant , ac y gorweddant yn ei trigleoedd .
+19:104:023:0	[ Yno] ydd aa dyn ymaith yw waith , ac y’w orchwyl yd yr hwyr .
+19:104:024:0	Arglwydd , mor lliosawc yw dy weithrededd ? wyntwy oll yn-doethinep y gwneythost : llawn yw y ddaiar oth veddianneu .
+19:104:025:0	[ Velly] mawr a’ llyddan [ yw] y mor : [ canys] yno [ y mae] ymluscieit yn aneirif , anifeilieit bychein a’ mawrion .
+19:104:026:0	Yno ydd a ’r llongae , [ a’r] Liuiathan hwnw , yr vn a wnaethost y chwareu ynthaw .
+19:104:027:0	Yr ei hyn oll ys y yn dysgwyl wrthyt , val y rhoddych vwyt yddwynt yn ei amser .
+19:104:028:0	Ti [ ei rhoi yddynt , ac wy ei casclant : agori dy law , [ ac] eu cyflawnir o [ betheu] da .
+19:104:029:0	Eithr a chuddy dy wynep , y cythrwblir hwy : a’s dugy ei hanadl , dervydd am danynt , ac y’w llwch yr ymchwelant .
+19:104:030:0	Drachefn a’s anvony dy yspryt , eu créir , ac yr adnewyddy wynep y ddaiar .
+19:104:031:0	Gogoniant ir Arglwydd yn dragyvyth : llawenáet yr Arglwydd yn ei ’weithredoedd .
+19:104:032:0	Ef a edrych ar y ddaiar , a hi ddychryn : ef a gyfwrdd ar mynyddedd , a’ hwy vygant .
+19:104:033:0	Canaf ir Arglwydd yn vy-bywyt : can-molaf vy-Dew tra vwy byw .
+19:104:034:0	Bid cymradwy gantho vy amadroð : vy llewenydd vyð yn yr Arglwydd .
+19:104:035:0	Divâer y pechaturieit o’r ddaiar , a’r andewolion val na byddant mwy : vy enait , mola di yr Arglwydd . Molwch yr Arglwydd .

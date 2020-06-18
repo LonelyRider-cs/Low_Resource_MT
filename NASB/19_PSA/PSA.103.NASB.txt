@@ -1,0 +1,31 @@
+19:103:001:1	PSALM 103
+19:103:002:1	Praise for the L
+19:103:003:1	ord
+19:103:004:1	’
+19:103:005:1	s
+19:103:006:1	Mercies .
+19:103:007:1	
+19:103:008:1	A Psalm
+19:103:009:1	of David .
+19:103:001:0	Bless the Lord , O my soul , And all that is within me , bless His holy name .
+19:103:002:0	Bless the Lord , O my soul , And forget none of His benefits ;
+19:103:003:0	Who pardons all your iniquities , Who heals all your diseases ;
+19:103:004:0	Who redeems your life from the pit , Who crowns you with lovingkindness and compassion ;
+19:103:005:0	Who satisfies your years with good things , So that your youth is renewed like the eagle .
+19:103:006:0	The Lord performs righteous deedsAnd judgments for all who are oppressed .
+19:103:007:0	He made known His ways to Moses , His acts to the sons of Israel .
+19:103:008:0	The Lord is compassionate and gracious , Slow to anger and abounding in lovingkindness .
+19:103:009:0	He will not always strive with us , Nor will He keep His anger forever .
+19:103:010:0	He has not dealt with us according to our sins , Nor rewarded us according to our iniquities .
+19:103:011:0	For as high as the heavens are above the earth , So great is His lovingkindness toward those who fear Him .
+19:103:012:0	As far as the east is from the west , So far has He removed our transgressions from us .
+19:103:013:0	Just as a father has compassion on his children , So the Lord has compassion on those who fear Him .
+19:103:014:0	For He Himself knows our frame ; He is mindful that we are but dust .
+19:103:015:0	As for man , his days are like grass ; As a flower of the field , so he flourishes .
+19:103:016:0	When the wind has passed over it , it is no more , And its place acknowledges it no longer .
+19:103:017:0	But the lovingkindness of the Lord is from everlasting to everlasting on those who fear Him , And His righteousness to children’s children ,
+19:103:018:0	To those who keep His covenantAnd remember His precepts to do them .
+19:103:019:0	The Lord has established His throne in the heavens , And His sovereignty rules over all .
+19:103:020:0	Bless the Lord , you His angels , Mighty in strength , who perform His word , Obeying the voice of His word !
+19:103:021:0	Bless the Lord , all you His hosts , You who serve Him , doing His will .
+19:103:022:0	Bless the Lord , all you works of His , In all places of His dominion ; Bless the Lord , O my soul !

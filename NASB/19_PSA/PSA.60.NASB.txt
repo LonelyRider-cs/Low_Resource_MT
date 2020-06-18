@@ -1,0 +1,18 @@
+19:60:001:1	PSALM 60
+19:60:002:1	Lament over Defeat in Battle , and Prayer for Help .
+19:60:003:1	For the choir director ; according to
+19:60:004:1	Lit
+19:60:005:1	The lily of testimony
+19:60:006:1	Shushan Eduth . A Mikhtam of David , to teach ; when he struggled with Aram-naharaim and with Aram-zobah , and Joab returned , and smote twelve thousand of Edom in the Valley of Salt .
+19:60:001:0	O God , You have rejected us . You have broken us ; You have been angry ; O , restore us .
+19:60:002:0	You have made the land quake , You have split it open ; Heal its breaches , for it totters .
+19:60:003:0	You have made Your people experience hardship ; You have given us wine to drink that makes us stagger .
+19:60:004:0	You have given a banner to those who fear You , That it may be displayed because of the truth . Selah .
+19:60:005:0	That Your beloved may be delivered , Save with Your right hand , and answer us !
+19:60:006:0	God has spoken in His holiness : “ I will exult , I will portion out Shechem and measure out the valley of Succoth .
+19:60:007:0	Gilead is Mine , and Manasseh is Mine ; Ephraim also is the helmet of My head ; Judah is My scepter .
+19:60:008:0	Moab is My washbowl ; Over Edom I shall throw My shoe ; Shout loud , O Philistia , because of Me ! ”
+19:60:009:0	Who will bring me into the besieged city ? Who will lead me to Edom ?
+19:60:010:0	Have not You Yourself , O God , rejected us ? And will You not go forth with our armies , O God ?
+19:60:011:0	O give us help against the adversary , For deliverance by man is in vain .
+19:60:012:0	Through God we shall do valiantly , And it is He who will tread down our adversaries .

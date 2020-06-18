@@ -1,8 +1,0 @@
-19:1:001:1	Book One
-19:1:002:1	( Psalms 1–41 )
-19:1:001:0	Oh , the joys of those who do notfollow the advice of the wicked , or stand around with sinners , or join in with mockers .
-19:1:002:0	But they delight in the law of the Lord , meditating on it day and night .
-19:1:003:0	They are like trees planted along the riverbank , bearing fruit each season.Their leaves never wither , and they prosper in all they do .
-19:1:004:0	But not the wicked ! They are like worthless chaff , scattered by the wind .
-19:1:005:0	They will be condemned at the time of judgment.Sinners will have no place among the godly .
-19:1:006:0	For the Lord watches over the path of the godly , but the path of the wicked leads to destruction .

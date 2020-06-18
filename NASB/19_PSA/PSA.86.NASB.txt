@@ -1,0 +1,20 @@
+19:86:001:1	PSALM 86
+19:86:002:1	A Psalm of Supplication and Trust .
+19:86:003:1	A Prayer of David .
+19:86:001:0	Incline Your ear , O Lord , and answer me ; For I am afflicted and needy .
+19:86:002:0	Preserve my soul , for I am a godly man ; O You my God , save Your servant who trusts in You .
+19:86:003:0	Be gracious to me , O Lord , For to You I cry all day long .
+19:86:004:0	Make glad the soul of Your servant , For to You , O Lord , I lift up my soul .
+19:86:005:0	For You , Lord , are good , and ready to forgive , And abundant in lovingkindness to all who call upon You .
+19:86:006:0	Give ear , O Lord , to my prayer ; And give heed to the voice of my supplications !
+19:86:007:0	In the day of my trouble I shall call upon You , For You will answer me .
+19:86:008:0	There is no one like You among the gods , O Lord , Nor are there any works like Yours .
+19:86:009:0	All nations whom You have made shall come and worship before You , O Lord , And they shall glorify Your name .
+19:86:010:0	For You are great and do wondrous deeds ; You alone are God .
+19:86:011:0	Teach me Your way , O Lord ; I will walk in Your truth ; Unite my heart to fear Your name .
+19:86:012:0	I will give thanks to You , O Lord my God , with all my heart , And will glorify Your name forever .
+19:86:013:0	For Your lovingkindness toward me is great , And You have delivered my soul from the depths of Sheol .
+19:86:014:0	O God , arrogant men have risen up against me , And a band of violent men have sought my life , And they have not set You before them .
+19:86:015:0	But You , O Lord , are a God merciful and gracious , Slow to anger and abundant in lovingkindness and truth .
+19:86:016:0	Turn to me , and be gracious to me ; Oh grant Your strength to Your servant , And save the son of Your handmaid .
+19:86:017:0	Show me a sign for good , That those who hate me may see it and be ashamed , Because You , O Lord , have helped me and comforted me .

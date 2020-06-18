@@ -1,0 +1,54 @@
+43:5:001:1	The Healing at Bethesda
+43:5:001:0	After these things there was a feast of the Jews , and Jesus went up to Jerusalem .
+43:5:002:0	Now there is in Jerusalem by the sheep gate a pool , which is called in Hebrew Bethesda , having five porticoes .
+43:5:003:0	In these lay a multitude of those who were sick , blind , lame , and withered , [ waiting for the moving of the waters ;
+43:5:004:0	for an angel of the Lord went down at certain seasons into the pool and stirred up the water ; whoever then first , after the stirring up of the water , stepped in was made well from whatever disease with which he was afflicted . ]
+43:5:005:0	A man was there who had been ill for thirty-eight years .
+43:5:006:0	When Jesus saw him lying there , and knew that he had already been a long time in that condition , He *said to him , “ Do you wish to get well ? ”
+43:5:007:0	The sick man answered Him , “ Sir , I have no man to put me into the pool when the water is stirred up , but while I am coming , another steps down before me . ”
+43:5:008:0	Jesus *said to him , “ Get up , pick up your pallet and walk . ”
+43:5:009:0	Immediately the man became well , and picked up his pallet and began to walk . Now it was the Sabbath on that day .
+43:5:010:0	So the Jews were saying to the man who was cured , “ It is the Sabbath , and it is not permissible for you to carry your pallet . ”
+43:5:011:0	But he answered them , “ He who made me well was the one who said to me , ‘Pick up your pallet and walk . ’ ”
+43:5:012:0	They asked him , “ Who is the man who said to you , ‘Pick up and walk’ ? ”
+43:5:013:0	But the man who was healed did not know who it was , for Jesus had slipped away while there was a crowd in that place .
+43:5:014:0	Afterward Jesus *found him in the temple and said to him , “ Behold , you have become well ; do not sin anymore , so that nothing worse happens to you . ”
+43:5:015:0	The man went away , and told the Jews that it was Jesus who had made him well .
+43:5:016:0	For this reason the Jews were persecuting Jesus , because He was doing these things on the Sabbath .
+43:5:002:1	Jesus’ Equality with God
+43:5:017:0	But He answered them , “ My Father is working until now , and I Myself am working . ”
+43:5:018:0	For this reason therefore the Jews were seeking all the more to kill Him , because He not only was breaking the Sabbath , but also was calling God His own Father , making Himself equal with God .
+43:5:019:0	Therefore Jesus answered and was saying to them , “ Truly , truly , I say to you , the Son can do nothing of Himself , unless something He sees the Father doing ; for whatever the Father does , these things the Son also does in like manner .
+43:5:020:0	For the Father loves the Son , and shows Him all things that He Himself is doing ; and will show Him greater works than these , so that you will marvel .
+43:5:021:0	For just as the Father raises the dead and gives them life , even so the Son also gives life to whom He wishes .
+43:5:022:0	For not even the Father judges anyone , but He has given all judgment to the Son ,
+43:5:023:0	so that all will honor the Son even as they honor the Father . He who does not honor the Son does not honor the Father who sent Him .
+43:5:003:1	Two Resurrections
+43:5:024:0	“ Truly , truly , I say to you , he who hears My word , and believes Him who sent Me , has eternal life , and does not come into judgment , but has passed out of death into life .
+43:5:025:0	Truly , truly , I say to you , an hour is coming and now is , when the dead will hear the voice of the Son of God , and those who hear will live .
+43:5:026:0	For just as the Father has life in Himself , even so He gave to the Son also to have life in Himself ;
+43:5:027:0	and He gave Him authority to execute judgment , because He is Son of Man .
+43:5:028:0	Do not marvel at this ; for an hour is coming , in which all who are in the tombs will hear His voice ,
+43:5:029:0	and will come forth ; those who did the good to a resurrection of life , those who committed the evil to a resurrection of judgment .
+43:5:030:0	“ I can do nothing on My own initiative . As I hear , I judge ; and My judgment is just , because I do not seek My own will , but the will of Him who sent Me .
+43:5:031:0	“ If I testify about Myself , My testimony is not true .
+43:5:004:1	Witness of John
+43:5:032:0	There is another who testifies of Me , and I know that the testimony which He gives about Me is true .
+43:5:033:0	You have sent to John , and he has testified to the truth .
+43:5:034:0	But the testimony which I receive is not from man , but I say these things so that you may be saved .
+43:5:005:1	Witness of Works
+43:5:035:0	He was the lamp that was burning and was shining and you were willing to rejoice for a while in his light .
+43:5:006:1	Witness of the Father
+43:5:036:0	But the testimony which I have is greater than John ; for the works which the Father has given Me to accomplish—the very works that I do—testify about Me , that the Father has sent Me .
+43:5:037:0	And the Father who sent Me , He has testified of Me . You have neither heard His voice at any time nor seen His form .
+43:5:007:1	Witness of the Scripture
+43:5:038:0	You do not have His word abiding in you , for you do not believe Him whom He sent .
+43:5:039:0	You search the Scriptures because you think that in them you have eternal life ; it is these that testify about Me ;
+43:5:040:0	and you are unwilling to come to Me so that you may have life .
+43:5:041:0	I do not receive glory from men ;
+43:5:042:0	but I know you , that you do not have the love of God in yourselves .
+43:5:043:0	I have come in My Father’s name , and you do not receive Me ; if another comes in his own name , you will receive him .
+43:5:044:0	How can you believe , when you receive glory from one another and you do not seek the glory that is from the only God ?
+43:5:045:0	Do not think that I will accuse you before the Father ; the one who accuses you is Moses , in whom you have set your hope .
+43:5:046:0	For if you believed Moses , you would believe Me , for he wrote about Me .
+43:5:047:0	But if you do not believe his writings , how will you believe My words ? ”

@@ -1,0 +1,35 @@
+26:33:001:1	The Watchman’s Duty
+26:33:001:0	And the word of the Lord came to me , saying ,
+26:33:002:0	“ Son of man , speak to the sons of your people and say to them , ‘If I bring a sword upon a land , and the people of the land take one man from among them and make him their watchman ,
+26:33:003:0	and he sees the sword coming upon the land and blows on the trumpet and warns the people ,
+26:33:004:0	then he who hears the sound of the trumpet and does not take warning , and a sword comes and takes him away , his blood will be on his own head .
+26:33:005:0	He heard the sound of the trumpet but did not take warning ; his blood will be on himself . But had he taken warning , he would have delivered his life .
+26:33:006:0	But if the watchman sees the sword coming and does not blow the trumpet and the people are not warned , and a sword comes and takes a person from them , he is taken away in his iniquity ; but his blood I will require from the watchman’s hand . ’
+26:33:007:0	“ Now as for you , son of man , I have appointed you a watchman for the house of Israel ; so you will hear a message from My mouth and give them warning from Me .
+26:33:008:0	When I say to the wicked , ‘O wicked man , you will surely die , ’ and you do not speak to warn the wicked from his way , that wicked man shall die in his iniquity , but his blood I will require from your hand .
+26:33:009:0	But if you on your part warn a wicked man to turn from his way and he does not turn from his way , he will die in his iniquity , but you have delivered your life .
+26:33:010:0	“ Now as for you , son of man , say to the house of Israel , ‘Thus you have spoken , saying , “ Surely our transgressions and our sins are upon us , and we are rotting away in them ; how then can we survive ? ” ’
+26:33:011:0	Say to them , ‘As I live ! ’ declares the Lord God , ‘I take no pleasure in the death of the wicked , but rather that the wicked turn from his way and live . Turn back , turn back from your evil ways ! Why then will you die , O house of Israel ? ’
+26:33:012:0	And you , son of man , say to your fellow citizens , ‘The righteousness of a righteous man will not deliver him in the day of his transgression , and as for the wickedness of the wicked , he will not stumble because of it in the day when he turns from his wickedness ; whereas a righteous man will not be able to live by his righteousness on the day when he commits sin . ’
+26:33:013:0	When I say to the righteous he will surely live , and he so trusts in his righteousness that he commits iniquity , none of his righteous deeds will be remembered ; but in that same iniquity of his which he has committed he will die .
+26:33:014:0	But when I say to the wicked , ‘You will surely die , ’ and he turns from his sin and practices justice and righteousness ,
+26:33:015:0	if a wicked man restores a pledge , pays back what he has taken by robbery , walks by the statutes which ensure life without committing iniquity , he shall surely live ; he shall not die .
+26:33:016:0	None of his sins that he has committed will be remembered against him . He has practiced justice and righteousness ; he shall surely live .
+26:33:017:0	“ Yet your fellow citizens say , ‘The way of the Lord is not right , ’ when it is their own way that is not right .
+26:33:018:0	When the righteous turns from his righteousness and commits iniquity , then he shall die in it .
+26:33:019:0	But when the wicked turns from his wickedness and practices justice and righteousness , he will live by them .
+26:33:002:1	Word of Jerusalem’s Capture
+26:33:020:0	Yet you say , ‘The way of the Lord is not right . ’ O house of Israel , I will judge each of you according to his ways . ”
+26:33:021:0	Now in the twelfth year of our exile , on the fifth of the tenth month , the refugees from Jerusalem came to me , saying , “ The city has been taken . ”
+26:33:022:0	Now the hand of the Lord had been upon me in the evening , before the refugees came . And He opened my mouth at the time they came to me in the morning ; so my mouth was opened and I was no longer speechless .
+26:33:023:0	Then the word of the Lord came to me saying ,
+26:33:024:0	“ Son of man , they who live in these waste places in the land of Israel are saying , ‘Abraham was only one , yet he possessed the land ; so to us who are many the land has been given as a possession . ’
+26:33:025:0	Therefore say to them , ‘Thus says the Lord God , “ You eat meat with the blood in it , lift up your eyes to your idols as you shed blood . Should you then possess the land ?
+26:33:026:0	You rely on your sword , you commit abominations and each of you defiles his neighbor’s wife . Should you then possess the land ? ” ’
+26:33:027:0	Thus you shall say to them , ‘Thus says the Lord God , “ As I live , surely those who are in the waste places will fall by the sword , and whoever is in the open field I will give to the beasts to be devoured , and those who are in the strongholds and in the caves will die of pestilence .
+26:33:028:0	I will make the land a desolation and a waste , and the pride of her power will cease ; and the mountains of Israel will be desolate so that no one will pass through .
+26:33:029:0	Then they will know that I am the Lord , when I make the land a desolation and a waste because of all their abominations which they have committed . ” ’
+26:33:030:0	“ But as for you , son of man , your fellow citizens who talk about you by the walls and in the doorways of the houses , speak to one another , each to his brother , saying , ‘Come now and hear what the message is which comes forth from the Lord . ’
+26:33:031:0	They come to you as people come , and sit before you as My people and hear your words , but they do not do them , for they do the lustful desires expressed by their mouth , and their heart goes after their gain .
+26:33:032:0	Behold , you are to them like a sensual song by one who has a beautiful voice and plays well on an instrument ; for they hear your words but they do not practice them .
+26:33:033:0	So when it comes to pass—as surely it will—then they will know that a prophet has been in their midst . ”

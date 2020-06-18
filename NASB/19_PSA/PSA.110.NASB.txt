@@ -1,0 +1,12 @@
+19:110:001:1	PSALM 110
+19:110:002:1	The L
+19:110:003:1	ord
+19:110:004:1	Gives Dominion to the King .
+19:110:005:1	A Psalm of David .
+19:110:001:0	The Lord says to my Lord : “ Sit at My right handUntil I make Your enemies a footstool for Your feet . ”
+19:110:002:0	The Lord will stretch forth Your strong scepter from Zion , saying , “ Rule in the midst of Your enemies . ”
+19:110:003:0	Your people will volunteer freely in the day of Your power ; In holy array , from the womb of the dawn , Your youth are to You as the dew .
+19:110:004:0	The Lord has sworn and will not change His mind , “ You are a priest foreverAccording to the order of Melchizedek . ”
+19:110:005:0	The Lord is at Your right hand ; He will shatter kings in the day of His wrath .
+19:110:006:0	He will judge among the nations , He will fill them with corpses , He will shatter the chief men over a broad country .
+19:110:007:0	He will drink from the brook by the wayside ; Therefore He will lift up His head .

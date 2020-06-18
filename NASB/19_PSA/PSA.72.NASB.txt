@@ -1,0 +1,25 @@
+19:72:001:1	PSALM 72
+19:72:002:1	The Reign of the Righteous King .
+19:72:003:1	
+19:72:004:1	A Psalm
+19:72:005:1	of Solomon .
+19:72:001:0	Give the king Your judgments , O God , And Your righteousness to the king’s son .
+19:72:002:0	May he judge Your people with righteousnessAnd Your afflicted with justice .
+19:72:003:0	Let the mountains bring peace to the people , And the hills , in righteousness .
+19:72:004:0	May he vindicate the afflicted of the people , Save the children of the needyAnd crush the oppressor .
+19:72:005:0	Let them fear You while the sun endures , And as long as the moon , throughout all generations .
+19:72:006:0	May he come down like rain upon the mown grass , Like showers that water the earth .
+19:72:007:0	In his days may the righteous flourish , And abundance of peace till the moon is no more .
+19:72:008:0	May he also rule from sea to seaAnd from the River to the ends of the earth .
+19:72:009:0	Let the nomads of the desert bow before him , And his enemies lick the dust .
+19:72:010:0	Let the kings of Tarshish and of the islands bring presents ; The kings of Sheba and Seba offer gifts .
+19:72:011:0	And let all kings bow down before him , All nations serve him .
+19:72:012:0	For he will deliver the needy when he cries for help , The afflicted also , and him who has no helper .
+19:72:013:0	He will have compassion on the poor and needy , And the lives of the needy he will save .
+19:72:014:0	He will rescue their life from oppression and violence , And their blood will be precious in his sight ;
+19:72:015:0	So may he live , and may the gold of Sheba be given to him ; And let them pray for him continually ; Let them bless him all day long .
+19:72:016:0	May there be abundance of grain in the earth on top of the mountains ; Its fruit will wave like the cedars of Lebanon ; And may those from the city flourish like vegetation of the earth .
+19:72:017:0	May his name endure forever ; May his name increase as long as the sun shines ; And let men bless themselves by him ; Let all nations call him blessed .
+19:72:018:0	Blessed be the Lord God , the God of Israel , Who alone works wonders .
+19:72:019:0	And blessed be His glorious name forever ; And may the whole earth be filled with His glory . Amen , and Amen .
+19:72:020:0	The prayers of David the son of Jesse are ended .

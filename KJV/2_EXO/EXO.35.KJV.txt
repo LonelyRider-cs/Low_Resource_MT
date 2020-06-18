@@ -1,0 +1,35 @@
+2:35:001:0	And Moses gathered all the congregation of the children of Israel together , and said unto them , These are the words which the Lord hath commanded , that ye should do them .
+2:35:002:0	Six days shall work be done , but on the seventh day there shall be to you an holy day , a sabbath of rest to the Lord : whosoever doeth work therein shall be put to death .
+2:35:003:0	Ye shall kindle no fire throughout your habitations upon the sabbath day .
+2:35:004:0	And Moses spake unto all the congregation of the children of Israel , saying , This is the thing which the Lord commanded , saying ,
+2:35:005:0	Take ye from among you an offering unto the Lord : whosoever is of a willing heart , let him bring it , an offering of the Lord ; gold , and silver , and brass ,
+2:35:006:0	And blue , and purple , and scarlet , and fine linen , and goats' hair ,
+2:35:007:0	And rams' skins dyed red , and badgers' skins , and shittim wood ,
+2:35:008:0	And oil for the light , and spices for anointing oil , and for the sweet incense ,
+2:35:009:0	And onyx stones , and stones to be set for the ephod , and for the breastplate .
+2:35:010:0	And every wise hearted among you shall come , and make all that the Lord hath commanded ;
+2:35:011:0	The tabernacle , his tent , and his covering , his taches , and his boards , his bars , his pillars , and his sockets ,
+2:35:012:0	The ark , and the staves thereof , with the mercy seat , and the veil of the covering ,
+2:35:013:0	The table , and his staves , and all his vessels , and the shewbread ,
+2:35:014:0	The candlestick also for the light , and his furniture , and his lamps , with the oil for the light ,
+2:35:015:0	And the incense altar , and his staves , and the anointing oil , and the sweet incense , and the hanging for the door at the entering in of the tabernacle ,
+2:35:016:0	The altar of burnt offering , with his brasen grate , his staves , and all his vessels , the laver and his foot ,
+2:35:017:0	The hangings of the court , his pillars , and their sockets , and the hanging for the door of the court ,
+2:35:018:0	The pins of the tabernacle , and the pins of the court , and their cords ,
+2:35:019:0	The cloths of service , to do service in the holy place , the holy garments for Aaron the priest , and the garments of his sons , to minister in the priest's office .
+2:35:020:0	And all the congregation of the children of Israel departed from the presence of Moses .
+2:35:021:0	And they came , every one whose heart stirred him up , and every one whom his spirit made willing , and they brought the Lord's offering to the work of the tabernacle of the congregation , and for all his service , and for the holy garments .
+2:35:022:0	And they came , both men and women , as many as were willing hearted , and brought bracelets , and earrings , and rings , and tablets , all jewels of gold : and every man that offered offered an offering of gold unto the Lord .
+2:35:023:0	And every man , with whom was found blue , and purple , and scarlet , and fine linen , and goats' hair , and red skins of rams , and badgers' skins , brought them .
+2:35:024:0	Every one that did offer an offering of silver and brass brought the Lord's offering : and every man , with whom was found shittim wood for any work of the service , brought it .
+2:35:025:0	And all the women that were wise hearted did spin with their hands , and brought that which they had spun , both of blue , and of purple , and of scarlet , and of fine linen .
+2:35:026:0	And all the women whose heart stirred them up in wisdom spun goats' hair .
+2:35:027:0	And the rulers brought onyx stones , and stones to be set , for the ephod , and for the breastplate ;
+2:35:028:0	And spice , and oil for the light , and for the anointing oil , and for the sweet incense .
+2:35:029:0	The children of Israel brought a willing offering unto the Lord , every man and woman , whose heart made them willing to bring for all manner of work , which the Lord had commanded to be made by the hand of Moses .
+2:35:030:0	And Moses said unto the children of Israel , See , the Lord hath called by name Bezaleel the son of Uri , the son of Hur , of the tribe of Judah ;
+2:35:031:0	And he hath filled him with the spirit of God , in wisdom , in understanding , and in knowledge , and in all manner of workmanship ;
+2:35:032:0	And to devise curious works , to work in gold , and in silver , and in brass ,
+2:35:033:0	And in the cutting of stones , to set them , and in carving of wood , to make any manner of cunning work .
+2:35:034:0	And he hath put in his heart that he may teach , both he , and Aholiab , the son of Ahisamach , of the tribe of Dan .
+2:35:035:0	Them hath he filled with wisdom of heart , to work all manner of work , of the engraver , and of the cunning workman , and of the embroiderer , in blue , and in purple , in scarlet , and in fine linen , and of the weaver , even of them that do any work , and of those that devise cunning work .

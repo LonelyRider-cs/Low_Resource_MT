@@ -1,0 +1,21 @@
+19:116:001:1	PSALM 116
+19:116:002:1	Thanksgiving for Deliverance from Death .
+19:116:001:0	I love the Lord , because He hearsMy voice and my supplications .
+19:116:002:0	Because He has inclined His ear to me , Therefore I shall call upon Him as long as I live .
+19:116:003:0	The cords of death encompassed meAnd the terrors of Sheol came upon me ; I found distress and sorrow .
+19:116:004:0	Then I called upon the name of the Lord : “ O Lord , I beseech You , save my life ! ”
+19:116:005:0	Gracious is the Lord , and righteous ; Yes , our God is compassionate .
+19:116:006:0	The Lord preserves the simple ; I was brought low , and He saved me .
+19:116:007:0	Return to your rest , O my soul , For the Lord has dealt bountifully with you .
+19:116:008:0	For You have rescued my soul from death , My eyes from tears , My feet from stumbling .
+19:116:009:0	I shall walk before the LordIn the land of the living .
+19:116:010:0	I believed when I said , “ I am greatly afflicted . ”
+19:116:011:0	I said in my alarm , “ All men are liars . ”
+19:116:012:0	What shall I render to the LordFor all His benefits toward me ?
+19:116:013:0	I shall lift up the cup of salvationAnd call upon the name of the Lord .
+19:116:014:0	I shall pay my vows to the Lord , Oh may it be in the presence of all His people .
+19:116:015:0	Precious in the sight of the LordIs the death of His godly ones .
+19:116:016:0	O Lord , surely I am Your servant , I am Your servant , the son of Your handmaid , You have loosed my bonds .
+19:116:017:0	To You I shall offer a sacrifice of thanksgiving , And call upon the name of the Lord .
+19:116:018:0	I shall pay my vows to the Lord , Oh may it be in the presence of all His people ,
+19:116:019:0	In the courts of the Lord’s house , In the midst of you , O Jerusalem . Praise the Lord !

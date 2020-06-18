@@ -1,0 +1,44 @@
+4:15:001:1	Laws for Canaan
+4:15:001:0	Now the Lord spoke to Moses , saying ,
+4:15:002:0	“ Speak to the sons of Israel and say to them , ‘When you enter the land where you are to live , which I am giving you ,
+4:15:003:0	then make an offering by fire to the Lord , a burnt offering or a sacrifice to fulfill a special vow , or as a freewill offering or in your appointed times , to make a soothing aroma to the Lord , from the herd or from the flock .
+4:15:004:0	The one who presents his offering shall present to the Lord a grain offering of one-tenth of an ephah of fine flour mixed with one-fourth of a hin of oil ,
+4:15:005:0	and you shall prepare wine for the drink offering , one-fourth of a hin , with the burnt offering or for the sacrifice , for each lamb .
+4:15:006:0	Or for a ram you shall prepare as a grain offering two-tenths of an ephah of fine flour mixed with one-third of a hin of oil ;
+4:15:007:0	and for the drink offering you shall offer one-third of a hin of wine as a soothing aroma to the Lord .
+4:15:008:0	When you prepare a bull as a burnt offering or a sacrifice , to fulfill a special vow , or for peace offerings to the Lord ,
+4:15:009:0	then you shall offer with the bull a grain offering of three-tenths of an ephah of fine flour mixed with one-half a hin of oil ;
+4:15:010:0	and you shall offer as the drink offering one-half a hin of wine as an offering by fire , as a soothing aroma to the Lord .
+4:15:011:0	‘Thus it shall be done for each ox , or for each ram , or for each of the male lambs , or of the goats .
+4:15:012:0	According to the number that you prepare , so you shall do for everyone according to their number .
+4:15:002:1	Law of the Sojourner
+4:15:013:0	All who are native shall do these things in this manner , in presenting an offering by fire , as a soothing aroma to the Lord .
+4:15:014:0	If an alien sojourns with you , or one who may be among you throughout your generations , and he wishes to make an offering by fire , as a soothing aroma to the Lord , just as you do so he shall do .
+4:15:015:0	As for the assembly , there shall be one statute for you and for the alien who sojourns with you , a perpetual statute throughout your generations ; as you are , so shall the alien be before the Lord .
+4:15:016:0	There is to be one law and one ordinance for you and for the alien who sojourns with you . ’ ”
+4:15:017:0	Then the Lord spoke to Moses , saying ,
+4:15:018:0	“ Speak to the sons of Israel and say to them , ‘When you enter the land where I bring you ,
+4:15:019:0	then it shall be , that when you eat of the food of the land , you shall lift up an offering to the Lord .
+4:15:020:0	Of the first of your dough you shall lift up a cake as an offering ; as the offering of the threshing floor , so you shall lift it up .
+4:15:021:0	From the first of your dough you shall give to the Lord an offering throughout your generations .
+4:15:022:0	‘But when you unwittingly fail and do not observe all these commandments , which the Lord has spoken to Moses ,
+4:15:023:0	even all that the Lord has commanded you through Moses , from the day when the Lord gave commandment and onward throughout your generations ,
+4:15:024:0	then it shall be , if it is done unintentionally , without the knowledge of the congregation , that all the congregation shall offer one bull for a burnt offering , as a soothing aroma to the Lord , with its grain offering and its drink offering , according to the ordinance , and one male goat for a sin offering .
+4:15:025:0	Then the priest shall make atonement for all the congregation of the sons of Israel , and they will be forgiven ; for it was an error , and they have brought their offering , an offering by fire to the Lord , and their sin offering before the Lord , for their error .
+4:15:026:0	So all the congregation of the sons of Israel will be forgiven , with the alien who sojourns among them , for it happened to all the people through error .
+4:15:027:0	‘Also if one person sins unintentionally , then he shall offer a one year old female goat for a sin offering .
+4:15:028:0	The priest shall make atonement before the Lord for the person who goes astray when he sins unintentionally , making atonement for him that he may be forgiven .
+4:15:029:0	You shall have one law for him who does anything unintentionally , for him who is native among the sons of Israel and for the alien who sojourns among them .
+4:15:030:0	But the person who does anything defiantly , whether he is native or an alien , that one is blaspheming the Lord ; and that person shall be cut off from among his people .
+4:15:003:1	Sabbath-breaking Punished
+4:15:031:0	Because he has despised the word of the Lord and has broken His commandment , that person shall be completely cut off ; his guilt will be on him . ’ ”
+4:15:032:0	Now while the sons of Israel were in the wilderness , they found a man gathering wood on the sabbath day .
+4:15:033:0	Those who found him gathering wood brought him to Moses and Aaron and to all the congregation ;
+4:15:034:0	and they put him in custody because it had not been declared what should be done to him .
+4:15:035:0	Then the Lord said to Moses , “ The man shall surely be put to death ; all the congregation shall stone him with stones outside the camp . ”
+4:15:036:0	So all the congregation brought him outside the camp and stoned him to death with stones , just as the Lord had commanded Moses .
+4:15:037:0	The Lord also spoke to Moses , saying ,
+4:15:038:0	“ Speak to the sons of Israel , and tell them that they shall make for themselves tassels on the corners of their garments throughout their generations , and that they shall put on the tassel of each corner a cord of blue .
+4:15:039:0	It shall be a tassel for you to look at and remember all the commandments of the Lord , so as to do them and not follow after your own heart and your own eyes , after which you played the harlot ,
+4:15:040:0	so that you may remember to do all My commandments and be holy to your God .
+4:15:041:0	I am the Lord your God who brought you out from the land of Egypt to be your God ; I am the Lord your God . ”

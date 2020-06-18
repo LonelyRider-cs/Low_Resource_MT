@@ -1,0 +1,16 @@
+19:21:001:1	PSALM 21
+19:21:002:1	Praise for Deliverance .
+19:21:003:1	For the choir director . A Psalm of David .
+19:21:001:0	O Lord , in Your strength the king will be glad , And in Your salvation how greatly he will rejoice !
+19:21:002:0	You have given him his heart’s desire , And You have not withheld the request of his lips . Selah .
+19:21:003:0	For You meet him with the blessings of good things ; You set a crown of fine gold on his head .
+19:21:004:0	He asked life of You , You gave it to him , Length of days forever and ever .
+19:21:005:0	His glory is great through Your salvation , Splendor and majesty You place upon him .
+19:21:006:0	For You make him most blessed forever ; You make him joyful with gladness in Your presence .
+19:21:007:0	For the king trusts in the Lord , And through the lovingkindness of the Most High he will not be shaken .
+19:21:008:0	Your hand will find out all your enemies ; Your right hand will find out those who hate you .
+19:21:009:0	You will make them as a fiery oven in the time of your anger ; The Lord will swallow them up in His wrath , And fire will devour them .
+19:21:010:0	Their offspring You will destroy from the earth , And their descendants from among the sons of men .
+19:21:011:0	Though they intended evil against You And devised a plot , They will not succeed .
+19:21:012:0	For You will make them turn their back ; You will aim with Your bowstrings at their faces .
+19:21:013:0	Be exalted , O Lord , in Your strength ; We will sing and praise Your power .

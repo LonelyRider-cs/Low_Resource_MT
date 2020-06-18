@@ -1,0 +1,16 @@
+19:85:001:1	PSALM 85
+19:85:002:1	Prayer for God’s Mercy upon the Nation .
+19:85:003:1	For the choir director . A Psalm of the sons of Korah .
+19:85:001:0	O Lord , You showed favor to Your land ; You restored the captivity of Jacob .
+19:85:002:0	You forgave the iniquity of Your people ; You covered all their sin . Selah .
+19:85:003:0	You withdrew all Your fury ; You turned away from Your burning anger .
+19:85:004:0	Restore us , O God of our salvation , And cause Your indignation toward us to cease .
+19:85:005:0	Will You be angry with us forever ? Will You prolong Your anger to all generations ?
+19:85:006:0	Will You not Yourself revive us again , That Your people may rejoice in You ?
+19:85:007:0	Show us Your lovingkindness , O Lord , And grant us Your salvation .
+19:85:008:0	I will hear what God the Lord will say ; For He will speak peace to His people , to His godly ones ; But let them not turn back to folly .
+19:85:009:0	Surely His salvation is near to those who fear Him , That glory may dwell in our land .
+19:85:010:0	Lovingkindness and truth have met together ; Righteousness and peace have kissed each other .
+19:85:011:0	Truth springs from the earth , And righteousness looks down from heaven .
+19:85:012:0	Indeed , the Lord will give what is good , And our land will yield its produce .
+19:85:013:0	Righteousness will go before HimAnd will make His footsteps into a way .

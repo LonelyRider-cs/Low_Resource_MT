@@ -1,0 +1,16 @@
+19:140:001:1	PSALM 140
+19:140:002:1	Prayer for Protection against the Wicked .
+19:140:003:1	For the choir director . A Psalm of David .
+19:140:001:0	Rescue me , O Lord , from evil men ; Preserve me from violent men
+19:140:002:0	Who devise evil things in their hearts ; They continually stir up wars .
+19:140:003:0	They sharpen their tongues as a serpent ; Poison of a viper is under their lips . Selah .
+19:140:004:0	Keep me , O Lord , from the hands of the wicked ; Preserve me from violent menWho have purposed to trip up my feet .
+19:140:005:0	The proud have hidden a trap for me , and cords ; They have spread a net by the wayside ; They have set snares for me . Selah .
+19:140:006:0	I said to the Lord , “ You are my God ; Give ear , O Lord , to the voice of my supplications .
+19:140:007:0	O God the Lord , the strength of my salvation , You have covered my head in the day of battle .
+19:140:008:0	Do not grant , O Lord , the desires of the wicked ; Do not promote his evil device , that they not be exalted . Selah .
+19:140:009:0	“ As for the head of those who surround me , May the mischief of their lips cover them .
+19:140:010:0	May burning coals fall upon them ; May they be cast into the fire , Into deep pits from which they cannot rise .
+19:140:011:0	May a slanderer not be established in the earth ; May evil hunt the violent man speedily . ”
+19:140:012:0	I know that the Lord will maintain the cause of the afflictedAnd justice for the poor .
+19:140:013:0	Surely the righteous will give thanks to Your name ; The upright will dwell in Your presence .

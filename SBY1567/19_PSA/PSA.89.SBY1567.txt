@@ -1,0 +1,54 @@
+19:89:001:1	Psalm . lxxxix .
+19:89:002:1	Misericordias Domini .
+19:89:001:0	TRugareddeu yr Arglwydd y ganaf byth : a’m genae y menagaf dy wirionedd o genedlaeth y genedlaeth .
+19:89:002:0	Can ys dywedais , Ys adaflir trugaredd yn tragyvyth : dy wirionedd y gadarnéy ys yn y nefoedd .
+19:89:003:0	Gwneythym ddygymbot am eholedic , tyngais wrth Ddauið vy-gwasnaethwr ,
+19:89:004:0	Dy had y ddarparaf yn tragyvyth , ath eisteddfa adailaf o genedlaeth y genedlaeth . Selah .
+19:89:005:0	Arglwydd , ys y nefoedd a glodvorant dy ryveddawt : ’sef dy wyrionedd yn-Cynnulleidfa y Sainct .
+19:89:006:0	Can ys pwy yn y nef’sy ogyfuwch ar Arglwydd , [ a’ phwy] sy gyffelyp ir Arglwydd ymplith meibion y dewieu ?
+19:89:007:0	Dew sy derribil yn Cynnulleidva y Sainct , a’ therribil goruwch yr oll ’r ei , [ ys y] o ei amgylch .
+19:89:008:0	Arglwydd Ddew y lluoedd , pwy mal tydi , y cadarn Ior , a’th wirionedd oth amgylch ?
+19:89:009:0	Ti ’sy yn llywiaw chwydd y môr : pan ymgoto ei doneu ti eu goystegy .
+19:89:010:0	Ti a drabaiddaist Raháb mal vn lladdedic : goyscereist dy ’elynion a braich dy gadernit .
+19:89:011:0	I ti y mae nefoedd , y ddaiar hefyt ys ydd yti : seiliaist y byt , a’i gyflawnder .
+19:89:012:0	Gogledd a’ Deau ti eu creaist : Thabór a’ cHermón a lawenechant yn dy Enw .
+19:89:013:0	Y mae yty vraich a chadernit : ys nerthol yw dy law , [ ac] vchel dy ddeheulaw .
+19:89:014:0	Iawnder ac vniondep yw trigva dy eisteddle : trugaredd a’ gwirionedd a racvlaenant dy wynep .
+19:89:015:0	Gwyn ei vyd y popul a wyr ymlawenhay [ ynot’] : rhodiant yn-goleuni dy wynepryd , Arglwydd .
+19:89:016:0	Yn dy Enw y bydd ei hyfrydwch , ac yn dy gyfiawnder y ymdderchavant .
+19:89:017:0	Can ys gogoniant y nerth hwy yw ti , a’chan dy ewyllys-da y derchefir ein cyrn .
+19:89:018:0	Can ys ar [ law] yr Arglwydd y mae ein tarian , ac y Sanct Israel [ y mae] ein Brenhin .
+19:89:019:0	Yno ymddiddeneist yn-gweledigaeth ath Sanct , ac y ddywedeist , Gosodeis cymporth ar vn galluawc : derchefeis vn etholedic o’r popul .
+19:89:020:0	Cefeis Ddauið vy-gwasanaetwr : ac oleo vy sancteiddrwydd yr enneiniais ef .
+19:89:021:0	Am hyny y ffyrféir vy llaw y gyd ac ef , a’m braich ei cyfnertha .
+19:89:022:0	Ny chaiff y gelyn ei orthrymu , na ’r mab enwir ei ddrygu .
+19:89:023:0	Eithr escutiaf ei elynion rac ei wyuep , a’ei gaseion a vaiddaf .
+19:89:024:0	Vy-gwirionedd hefyt am trugaredd [ vyð] gyd ac ef , ac yn vy Enw y derchefir ei gorn .
+19:89:025:0	A’ gosodaf ei law ar y môr , a’ei ddeheulaw yn y llifeirieint .
+19:89:026:0	Ef a ’ailw arnaf , Ti yw vy-tat , vy-Dew , a’ chraic vy iechyt .
+19:89:027:0	Hefyt mi ei gwnaf yn gyn-enit ymy , yn uwch na Brenhinedd y ddaiar .
+19:89:028:0	Cadwaf yddo vy-trugaredd yn tragyvyth am dygymbot vydd yn ffyddlawn yddo .
+19:89:029:0	A’gosodaf ei had yn dragyvyth , a’ei eisteddfa val dyddiae y nefoedd .
+19:89:030:0	[ Eithr] a’s ei blant a wrthddodant vy-Deddyf , ac ny rodiant yn vy-barnae :
+19:89:031:0	A’s torant vy cynneddfeu , a’ bod eb gadw vy-gorchymynion :
+19:89:032:0	Yno y govwyaf ei trawsedd a’r wialen , a’ei scelerder a ffonnodieu .
+19:89:033:0	Er hyny ny dducaf vy-trugaredd y arnaw , ac ny ffugiaf vy-gwirionedd .
+19:89:034:0	Ny thoraf vy-dygmbot , a’r hyn a ddaeth om gwefusae nid ysmutaf .
+19:89:035:0	Tyngais vnwaith ym Sanctawt , na ffugiaf y Ddauið , [ can ddywedyt] ,
+19:89:036:0	Ei had ef vydd yn tragyvyth , a’ei eisteddfa [ vydd] mal yr haul ger vy-bron .
+19:89:037:0	Mal y lleuat y saif ef yn tragywyth , ac [ mal] tyst ffyddlawn yn y nefoedd . Selah .
+19:89:038:0	A’ thi wrthðodeist ac a dremygeist , soreist wrth dy Enneiniawc .
+19:89:039:0	Toreist ddygymbot dy was , [ ac] a halogeist ei dalaith [ gan hei thavlu] ir llawr .
+19:89:040:0	Dryllieist ei oll vagwyrydd : dodeist ei amddyffynvae ef yn advail .
+19:89:041:0	Yr oll ’rei y ant rhyd y ffordd , y espeiliant ef : y mae ef yn warthrudd y ei gymydogion .
+19:89:042:0	Dyrchefeist ddeheulaw ei ’elynion , [ a’] llawenycheist ei oll wrthnepwyr .
+19:89:043:0	Dychweleist hefyt vin ei gleddyf , ac ny wnaethost’ yddo sefyll yn y rryvel .
+19:89:044:0	Pereist yw ardderchawgrwydd yspeidiaw , a’ei eisteddle ir llawr a davleist .
+19:89:045:0	Dyddiae ei ieuntit a vyréist , [ a’] thoeist ef a chywilydd . Selah .
+19:89:046:0	Arglwydd , pa hyd yr ymguddy , [ ai] byth ? ac a lysc dy lit val tan ?
+19:89:047:0	Cofia pa oes ysydd ymy : y ba beth y creyt’ yn over oll blant dynion
+19:89:048:0	Pa ddyn ’sy vyw , ac ny wyl angae ? [ a] wared ef ei eneit rac llaw y beddrod ? Selah .
+19:89:049:0	Arglwydd , p’le mae dy drugareddeu o’r blaen , [ yr] ei y dyngeist wrth Ddauið yn dy wirionedd ?
+19:89:050:0	Coffa , Arglwyð , warthruð dy weision , rhwn yr wyf yn ei ðwyn im monwes y gan yr oll bopuloedd mawrion .
+19:89:051:0	O bleit ith ’elynion [ dy] gablu , Arglwyð , can yddynt gablu ol traet dy Enneiniawc .
+19:89:052:0	Moler yr Arglwyð yn tragywyth . Velly y bo , ac velly y bo .

@@ -1,0 +1,32 @@
+1:1:001:1	The Creation
+1:1:001:0	In the beginning God created the heavens and the earth .
+1:1:002:0	The earth was formless and void , and darkness was over the surface of the deep , and the Spirit of God was moving over the surface of the waters .
+1:1:003:0	Then God said , “ Let there be light ” ; and there was light .
+1:1:004:0	God saw that the light was good ; and God separated the light from the darkness .
+1:1:005:0	God called the light day , and the darkness He called night . And there was evening and there was morning , one day .
+1:1:006:0	Then God said , “ Let there be an expanse in the midst of the waters , and let it separate the waters from the waters . ”
+1:1:007:0	God made the expanse , and separated the waters which were below the expanse from the waters which were above the expanse ; and it was so .
+1:1:008:0	God called the expanse heaven . And there was evening and there was morning , a second day .
+1:1:009:0	Then God said , “ Let the waters below the heavens be gathered into one place , and let the dry land appear ” ; and it was so .
+1:1:010:0	God called the dry land earth , and the gathering of the waters He called seas ; and God saw that it was good .
+1:1:011:0	Then God said , “ Let the earth sprout vegetation , plants yielding seed , and fruit trees on the earth bearing fruit after their kind with seed in them ” ; and it was so .
+1:1:012:0	The earth brought forth vegetation , plants yielding seed after their kind , and trees bearing fruit with seed in them , after their kind ; and God saw that it was good .
+1:1:013:0	There was evening and there was morning , a third day .
+1:1:014:0	Then God said , “ Let there be lights in the expanse of the heavens to separate the day from the night , and let them be for signs and for seasons and for days and years ;
+1:1:015:0	and let them be for lights in the expanse of the heavens to give light on the earth ” ; and it was so .
+1:1:016:0	God made the two great lights , the greater light to govern the day , and the lesser light to govern the night ; He made the stars also .
+1:1:017:0	God placed them in the expanse of the heavens to give light on the earth ,
+1:1:018:0	and to govern the day and the night , and to separate the light from the darkness ; and God saw that it was good .
+1:1:019:0	There was evening and there was morning , a fourth day .
+1:1:020:0	Then God said , “ Let the waters teem with swarms of living creatures , and let birds fly above the earth in the open expanse of the heavens . ”
+1:1:021:0	God created the great sea monsters and every living creature that moves , with which the waters swarmed after their kind , and every winged bird after its kind ; and God saw that it was good .
+1:1:022:0	God blessed them , saying , “ Be fruitful and multiply , and fill the waters in the seas , and let birds multiply on the earth . ”
+1:1:023:0	There was evening and there was morning , a fifth day .
+1:1:024:0	Then God said , “ Let the earth bring forth living creatures after their kind : cattle and creeping things and beasts of the earth after their kind ” ; and it was so .
+1:1:025:0	God made the beasts of the earth after their kind , and the cattle after their kind , and everything that creeps on the ground after its kind ; and God saw that it was good .
+1:1:026:0	Then God said , “ Let Us make man in Our image , according to Our likeness ; and let them rule over the fish of the sea and over the birds of the sky and over the cattle and over all the earth , and over every creeping thing that creeps on the earth . ”
+1:1:027:0	God created man in His own image , in the image of God He created him ; male and female He created them .
+1:1:028:0	God blessed them ; and God said to them , “ Be fruitful and multiply , and fill the earth , and subdue it ; and rule over the fish of the sea and over the birds of the sky and over every living thing that moves on the earth . ”
+1:1:029:0	Then God said , “ Behold , I have given you every plant yielding seed that is on the surface of all the earth , and every tree which has fruit yielding seed ; it shall be food for you ;
+1:1:030:0	and to every beast of the earth and to every bird of the sky and to every thing that moves on the earth which has life , I have given every green plant for food ” ; and it was so .
+1:1:031:0	God saw all that He had made , and behold , it was very good . And there was evening and there was morning , the sixth day .

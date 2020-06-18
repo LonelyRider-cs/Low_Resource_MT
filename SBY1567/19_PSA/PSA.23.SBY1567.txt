@@ -1,0 +1,8 @@
+19:23:001:1	Psalm . xxiij .
+19:23:002:1	¶ Dominus regit me .
+19:23:001:0	YR Arglwydd [ yw] vy-bugeil , ny bydd diffic arnaf .
+19:23:002:0	Ef a bair ym’ orphwys mewn porva brydverth , ac am tywys ger llaw dyfredd tawel .
+19:23:003:0	Ef y adver vy eneit , ac am arwein i rhyd llwybrae cyfiawnder er mwyn ei Enw .
+19:23:004:0	A’ phe rhodiwn rhyd glyn gwascot angae , nyd ofnaf ddrwc : can y ty vot gyd a mi : dy wialen ath ffon , hwy am diddanant .
+19:23:005:0	Ti arlwyy vort gar vy=bron , yn-gwydd vy-gwyrthnepwyr : ireist vy-pen ac oleo , [ a’]m phiol a orllenwir .
+19:23:006:0	Sef ddaoni , a’ thrugaredd am canlynant oll ddyddiae vy-bywyt , a’ phreswiliaf yn hir amser yn-tuy yr Arglwydd .

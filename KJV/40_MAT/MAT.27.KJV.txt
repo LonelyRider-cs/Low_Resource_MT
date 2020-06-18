@@ -1,0 +1,66 @@
+40:27:001:0	When the morning was come , all the chief priests and elders of the people took counsel against Jesus to put him to death :
+40:27:002:0	And when they had bound him , they led him away , and delivered him to Pontius Pilate the governor .
+40:27:003:0	Then Judas , which had betrayed him , when he saw that he was condemned , repented himself , and brought again the thirty pieces of silver to the chief priests and elders ,
+40:27:004:0	Saying , I have sinned in that I have betrayed the innocent blood . And they said , What is that to us ? see thou to that .
+40:27:005:0	And he cast down the pieces of silver in the temple , and departed , and went and hanged himself .
+40:27:006:0	And the chief priests took the silver pieces , and said , It is not lawful for to put them into the treasury , because it is the price of blood .
+40:27:007:0	And they took counsel , and bought with them the potter's field , to bury strangers in .
+40:27:008:0	Wherefore that field was called , The field of blood , unto this day .
+40:27:009:0	Then was fulfilled that which was spoken by Jeremiah the prophet , saying , And they took the thirty pieces of silver , the price of him that was valued , whom they of the children of Israel did value ;
+40:27:010:0	And gave them for the potter's field , as the Lord appointed me .
+40:27:011:0	And Jesus stood before the governor : and the governor asked him , saying , Art thou the King of the Jews ? And Jesus said unto him , Thou sayest .
+40:27:012:0	And when he was accused of the chief priests and elders , he answered nothing .
+40:27:013:0	Then said Pilate unto him , Hearest thou not how many things they witness against thee ?
+40:27:014:0	And he answered him to never a word ; insomuch that the governor marvelled greatly .
+40:27:015:0	Now at that feast the governor was wont to release unto the people a prisoner , whom they would .
+40:27:016:0	And they had then a notable prisoner , called Barabbas .
+40:27:017:0	Therefore when they were gathered together , Pilate said unto them , Whom will ye that I release unto you ? Barabbas , or Jesus which is called Christ ?
+40:27:018:0	For he knew that for envy they had delivered him .
+40:27:019:0	When he was set down on the judgment seat , his wife sent unto him , saying , Have thou nothing to do with that just man : for I have suffered many things this day in a dream because of him .
+40:27:020:0	But the chief priests and elders persuaded the multitude that they should ask Barabbas , and destroy Jesus .
+40:27:021:0	The governor answered and said unto them , Whether of the twain will ye that I release unto you ? They said , Barabbas .
+40:27:022:0	Pilate saith unto them , What shall I do then with Jesus which is called Christ ? They all say unto him , Let him be crucified .
+40:27:023:0	And the governor said , Why , what evil hath he done ? But they cried out the more , saying , Let him be crucified .
+40:27:024:0	When Pilate saw that he could prevail nothing , but that rather a tumult was made , he took water , and washed his hands before the multitude , saying , I am innocent of the blood of this just person : see ye to it .
+40:27:025:0	Then answered all the people , and said , His blood be on us , and on our children .
+40:27:026:0	Then released he Barabbas unto them : and when he had scourged Jesus , he delivered him to be crucified .
+40:27:027:0	Then the soldiers of the governor took Jesus into the common hall , and gathered unto him the whole band of soldiers .
+40:27:028:0	And they stripped him , and put on him a scarlet robe .
+40:27:029:0	And when they had platted a crown of thorns , they put it upon his head , and a reed in his right hand : and they bowed the knee before him , and mocked him , saying , Hail , King of the Jews !
+40:27:030:0	And they spit upon him , and took the reed , and smote him on the head .
+40:27:031:0	And after that they had mocked him , they took the robe off from him , and put his own raiment on him , and led him away to crucify him .
+40:27:032:0	And as they came out , they found a man of Cyrene , Simon by name : him they compelled to bear his cross .
+40:27:033:0	And when they were come unto a place called Golgotha , that is to say , a place of a skull ,
+40:27:034:0	They gave him vinegar to drink mingled with gall : and when he had tasted thereof , he would not drink .
+40:27:035:0	And they crucified him , and parted his garments , casting lots : that it might be fulfilled which was spoken by the prophet , They parted my garments among them , and upon my vesture did they cast lots .
+40:27:036:0	And sitting down they watched him there ;
+40:27:037:0	And set up over his head his accusation written , THIS IS JESUS THE KING OF THE JEWS .
+40:27:038:0	Then were there two thieves crucified with him , one on the right hand , and another on the left .
+40:27:039:0	And they that passed by reviled him , wagging their heads ,
+40:27:040:0	And saying , Thou that destroyest the temple , and buildest it in three days , save thyself . If thou be the Son of God , come down from the cross .
+40:27:041:0	Likewise also the chief priests mocking him , with the scribes and elders , said ,
+40:27:042:0	He saved others ; himself he cannot save . If he be the King of Israel , let him now come down from the cross , and we will believe him .
+40:27:043:0	He trusted in God ; let him deliver him now , if he will have him : for he said , I am the Son of God .
+40:27:044:0	The thieves also , which were crucified with him , cast the same in his teeth .
+40:27:045:0	Now from the sixth hour there was darkness over all the land unto the ninth hour .
+40:27:046:0	And about the ninth hour Jesus cried with a loud voice , saying , Eli , Eli , lama sabachthani ? that is to say , My God , my God , why hast thou forsaken me ?
+40:27:047:0	Some of them that stood there , when they heard that , said , This man calleth for Elias .
+40:27:048:0	And straightway one of them ran , and took a sponge , and filled it with vinegar , and put it on a reed , and gave him to drink .
+40:27:049:0	The rest said , Let be , let us see whether Elias will come to save him .
+40:27:050:0	Jesus , when he had cried again with a loud voice , yielded up the ghost .
+40:27:051:0	And , behold , the veil of the temple was rent in twain from the top to the bottom ; and the earth did quake , and the rocks rent ;
+40:27:052:0	And the graves were opened ; and many bodies of the saints which slept arose ,
+40:27:053:0	And came out of the graves after his resurrection , and went into the holy city , and appeared unto many .
+40:27:054:0	Now when the centurion , and they that were with him , watching Jesus , saw the earthquake , and those things that were done , they feared greatly , saying , Truly this was the Son of God .
+40:27:055:0	And many women were there beholding afar off , which followed Jesus from Galilee , ministering unto him :
+40:27:056:0	Among which was Mary Magdalene , and Mary the mother of James and Joses , and the mother of Zebedee's children .
+40:27:057:0	When the even was come , there came a rich man of Arimathaea , named Joseph , who also himself was Jesus' disciple :
+40:27:058:0	He went to Pilate , and begged the body of Jesus . Then Pilate commanded the body to be delivered .
+40:27:059:0	And when Joseph had taken the body , he wrapped it in a clean linen cloth ,
+40:27:060:0	And laid it in his own new tomb , which he had hewn out in the rock : and he rolled a great stone to the door of the sepulchre , and departed .
+40:27:061:0	And there was Mary Magdalene , and the other Mary , sitting over against the sepulchre .
+40:27:062:0	Now the next day , that followed the day of the preparation , the chief priests and Pharisees came together unto Pilate ,
+40:27:063:0	Saying , Sir , we remember that that deceiver said , while he was yet alive , After three days I will rise again .
+40:27:064:0	Command therefore that the sepulchre be made sure until the third day , lest his disciples come by night , and steal him away , and say unto the people , He is risen from the dead : so the last error shall be worse than the first .
+40:27:065:0	Pilate said unto them , Ye have a watch : go your way , make it as sure as ye can .
+40:27:066:0	So they went , and made the sepulchre sure , sealing the stone , and setting a watch .

@@ -1,0 +1,33 @@
+43:20:001:1	Pen . xx .
+43:20:002:1	Mair Magdalen yn dyvot ir bedd . Ac Petr ac Ioan . Y ddau Angel yn ymddangos . Christ yn ymddangos i Mair Magdalen . Ac y’w oll ddiscipulon . Ancrediniaeth a’ chyffess Thomas .
+43:20:001:0	AC ar y dydd cyntaf o’r wythnos y deuth Mair Magdalen , yn vorae ac y hi eto yn dywyll , ir vōwent , ac a weles y maen wedy’r dreiglo y ar y vonwent .
+43:20:002:0	Yno y rhedawð hi , ac hi deuth at Simon Petr , ac at y discipul arall yr hwn oeð hoff can yr Iesu , ac a ðyvot wrthwynt . Wy a ðugesont ymaith yr Arglwydd or vonwent , ac ny wyðam p’le y dodesont ef .
+43:20:003:0	Petr yno aeth allan , a’r discipul arall , ac a ðeuthan ir vonwent .
+43:20:004:0	Ac a redesont ill dau ar vnwaith , a’r discipul arall hwn a ragredodd o vlaen Petr , ac a ddeuth yn gyntaf ir vonwent .
+43:20:005:0	Ac ef a grymawdd , ac a ganvu y llieniae wedy’r ’osot : er hyny nyd aeth ef y mewn .
+43:20:006:0	Yno y deuth Simon Petr ar y ol ef , ac aeth i mewn i’r vonwent , ac a ganvu’r llieiniae wedy’r ’osot ,
+43:20:007:0	ar ffunen a vesei am ei ben , nid wedy’r ’osot gyd a’r llieiniae , anid wedy’r blygy ynghyt mewn lle o’r neilltuy .
+43:20:008:0	Yno yðaeth y mewn y discipul arall hefyt , yr hwn a ddeuthei yn gyntaf ir vonwent , ac ef ei gwelawdd , ac a gredawdd .
+43:20:009:0	Can ys yd hyn ny’s gwyddent vvy yr Strythur , y byddei raid yddaw gyfody drachefn o veirw ,
+43:20:010:0	A’r discipulon aethant ymaith y’w cartref ehunain .
+43:20:011:0	A’ Mair oedd yn sefyl’ allan wrth y bedd yn wylaw : ac val yr oedd hi yn wylaw , hi a ymostyngawdd ir bedd ,
+43:20:012:0	ac a welas ddau Angel yn‐gwynion , yn eistedd vn wrth y pen , ac arall wrth y traet , lle dodesit corph yr Iesu .
+43:20:013:0	A’ dywedesont wrthei , Ha wreic paam yr wyly ? Dywedawdd hi wrthynt , Wy a gymersont ymaith vy Arglwydd , ac ny wn p’le y dodesont ef .
+43:20:014:0	Gwedy dywedyt o hanei val hyn , hi a ymchwelodd trach hi chefn , ac a welawdd yr Iesu yn sefyll , ac ny wybu mai yr Iesu ydoedd .
+43:20:015:0	Dywedyt or Iesu wrthei , A‐wraic , pa wylo ydd wyt ? pwy ddwyt yn ei geisio ? Hithe yn tybiet mai ’r garddwr oedd ef , a ddyvot wrthaw , Arglwyð , a’s ti y duc ef ymaith , dyweit i mi p’le y dodeist efe , a’ mi y dugaf e ymaith .
+43:20:016:0	Dywedyt yr Iesu wrthei , Mair . Hithe a ymchweloð , ac a ddyvot wrthaw , Rabboni , yr hwn yw oei ddywedyt , Athro .
+43:20:017:0	Dywedyt o’r Iesu wrthei , Na chyfwrðam vi : can na’d escēnais i etwa at vy‐Tat , eithr dos at vy‐broder , a’ dywet wrthyn , Escennaf at vy‐Tat i , a’ch Tat chwi , ac at vy‐Duw i , a’ch Duw chwi .
+43:20:018:0	Daeth Mair Magdalen , ac a venagodd ir discipulon weled o hanei yr Arglwydd , a’ dywedyt o hanaw y pethe hyn wrthei . Yr Euangel y Sul cyntaf gwedyr Pasc .
+43:20:019:0	¶ Y dydd hwnw yn yr hwyr nos yr hwn oedd y dydd cyntaf or wythnos , ac a’r drysae yn gayad , lle ydd oedd y discipulon wedyr ymgynnull rac ofn yr Iuddaeon , y daeth yr Iesu ac y savawdd yn y cenawl , ac y dyvot wrthwynt , Tangweddyf ywch .
+43:20:020:0	A’ gwedy iddaw ddywedyt hyn , e ddangoses yddwynt ei ddwylaw , a’ ei ystlys . Yno y llawenychawð y discipulon wrth welet yr Arglwyð .
+43:20:021:0	Yno y dyvot yr Iesu wrthwynt drachefyn , Tangneðyf ywch , megis yd anvones vy‐Ta vyvi , velly yd anvona vi chwithae .
+43:20:022:0	Ac wedy iddaw ddywedyt hyny , ydd anhetlawdd ef arnwynt , ac a ðyvot wrthwynt Cymerwch yr yspryt glan .
+43:20:023:0	Pwy bynac y madaeoch ei pechatae , eu maddeuir yðynt a’r eiddo pwy pynac yr atalioch , eu a atalijr . Yr Euangel ar ddie gwyl Thomas .
+43:20:024:0	¶ Yno Thomas vn o’r deuðec , a elwit Didymus , nyd oeð y gyd a hwy pan ðaeth yr Iesu .
+43:20:025:0	Dywedyt o’r discipulon eraill gan hyny wrthaw . Gwelsam yr Arglwydd : ac yntef a ddyvot wrthyn , Any welaf yn ei ddwylo ol y cethri , a’ dodi vy‐bys yn ol y cethri , a’ dodi vy llaw yn eu ystlys , ny’s credwyf i ddim .
+43:20:026:0	Ac ar ben wyth diernot drachefyn ydd oedd eu ddiscipulon y mewn , a’ Thomas y gyd a hwy . Yno dyvot o’r Iesu a’r drysaw yn gayad , a’ sefyll yn y cenol , a’dywedyt , Tāgneðyf ywch
+43:20:027:0	Gwedy y dyvot ef wrth Thomas . Dod dy vys yma , a’ gwyl vy‐dwylo , ac esten dy law , a’ dod yn v’ystlys , ac na vydd ancrededyn amyn creddyn .
+43:20:028:0	Yno yr atepawdd Thomas , ac y ddyvot wrthaw , Ys ti yvv vy Arglwydd , a’m Duw .
+43:20:029:0	Yr Iesu a ðyvot wrthaw , Thomas , can yty vy‐gwelet , y credaist . Ys gwynvydedic yr ei ny welsant , ac a gredesant .
+43:20:030:0	A’ llawer hefyt o arwyddion eraill a wnaeth yr Iesu yn‐gwydd ei ddiscipulon , a’r nyd yw yn yscrivenedir yn y llyfer hwn .
+43:20:031:0	Eithyr y pethe hyn a escrivennir , val y credoch mai’r Iesu yw’r Christ y Map Duw , ac y chwi gan gredu gaffael bywyt trwy y Enw ef .

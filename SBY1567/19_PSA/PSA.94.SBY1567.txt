@@ -1,0 +1,25 @@
+19:94:001:1	Psalm . xciiij .
+19:94:002:1	Deus vltionum .
+19:94:001:0	ARglwydd Ddew y dialwr , Dew y dialwr , ymddangos-yn ddysclaer .
+19:94:002:0	Ymddercha , Varnwr y byt , [ a’] dod daliat ir beilchion .
+19:94:003:0	Arglwydd pa hyd y bydd ir andewolion , pa hyd yr ymorugan yr andewolion ?
+19:94:004:0	Siarad y wnant a’ dywedyt yn galet : ymvawrgu a wna oll weithredwyr enwiredd .
+19:94:005:0	Dy popul , Arglwydd , y vaiddant , ath etiveddiaeth y gystuddiant .
+19:94:006:0	Y weðw ar alltud y [ laðant] , ar amddyvait y liasant .
+19:94:007:0	A dywedynt , Ny wyl yr Arglwydd , ac ny ddeall Dew Iaco .
+19:94:008:0	Dyellwchwi andoethion ym plith y popul : a’r ynvydion pa bryd y dyellwch ?
+19:94:009:0	Yr hwn y blannawdd y glust , any chlyw ef ? neu yr hwn y ffyrfawdd , y llygat any wyl ef ?
+19:94:010:0	Ai yr hwn a gosp y cenedloedd , anyd argyoedda ef ? yr hwn y ddysc wybodaeth y ddyn , [ any wybydd ef] ?
+19:94:011:0	Yr Arglwydd y wyr veddyliae dyn , mae gwac ytynt .
+19:94:012:0	Gwyn ei vyd y gwr a gospych ti , Arglwydd , ac a ðyscych yn dy Ddeddyf ,
+19:94:013:0	Mal y rhoddy yddo ’orphwys rac dyddieu y drwc , tra gladdier pwll i’r andewiol .
+19:94:014:0	Can na edy yr Arglwydd ei bopul , a’ei etiueddiaeth ny’s gwrthddot ,
+19:94:015:0	Can ys y gyfiawnder yr ymchwel barn , ac ar ei ol [ y daw] yr oll rei vnion o galon .
+19:94:016:0	Pwy a gyvyt gyd a mi yn erbyn yr ei enwir ? [ a’] phwy a saif gyd a mi yn erbyn y gwerthredwyr enwiredd ?
+19:94:017:0	A ny bysei ir Arglwydd vy-cymporth , trigesei haiach vy eneit yn-goystec .
+19:94:018:0	Pan ddywedeis , Y mae vy-troet yn llithro , dy drugaredd , Arglwydd , am cynnaliawdd .
+19:94:019:0	Yn lliaws vy meddyliae ym mewn , dy ddiddaneu a lawenesont vy eneit .
+19:94:020:0	A oes y eisteddle enwiredd gymddeithas a thi , rhwn a ffurfa gam yn lle Cyfraith ?
+19:94:021:0	Ymgasclu a wnant yn erbyn eneit y cyfion , a’r gwaed gwirion y ddamnant ,
+19:94:022:0	Eithyr yr Arglwydd yw vy noddet , am Dew [ yw] nerth vy-gobeith .
+19:94:023:0	Ac ef a dal ydd-wynt ei h’anwiredd , ac ei destryw yn ei cynddrygedd ehunein , ys yr Arglwydd ein Dew ei destruwia .

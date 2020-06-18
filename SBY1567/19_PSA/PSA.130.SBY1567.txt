@@ -1,0 +1,10 @@
+19:130:001:1	Psalm . cxxx .
+19:130:002:1	De profundis clamaui .
+19:130:001:0	OR dwfn-leodd y llefais arnat , Arglwydd .
+19:130:002:0	Arglwydd clyw vy lleferydd : ystyriet dy glustieu wrth leferydd vy-gweddieu .
+19:130:003:0	A’s creffy [ di] Arglwydd , ar enwireddeu , o Arglwydd pwy a saif ?
+19:130:004:0	Eithr cenyt [ y mae ) trugaredd , mal ith ofner .
+19:130:005:0	Ys gwiliais , am yr Arglwydd , ys gwyliawdd vy eneit , ac yn ei ’air yr ymddiriedais .
+19:130:006:0	Vy eneit ysy yn dysgwyl am yr Arglwydd yn vwy na’ gwilwyr borae , yn gwiliaw am y borae .
+19:130:007:0	Ysgwilet Israel am yr Arglwydd : o bleit gyd ar Arglwydd [ y mae] trugaredd , a’ chydac ef [ y mae] mawr brynedigaeth .
+19:130:008:0	Ac ef a bryn Israel o ei oll enwireddeu .

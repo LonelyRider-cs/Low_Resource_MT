@@ -1,0 +1,20 @@
+66:13:001:1	Pen . xiij .
+66:13:002:1	1 , 8 : Y bestvil yn twyllo yr ei argyoeddus , 2 , 4 , 12 : Ac y gadarnheir gan vestvil arall . 17 Braint not y bestvil .
+66:13:001:0	AC mi weleis enifel yn cwny or mor , a’ seith pen gantho , a dec corn , ac ar y gyrn ef dec coron , ac ar y beney ef enw dirmigedic .
+66:13:002:0	Ar enifel rhwn y weleis i , oedd debic y lewpard , ae draed yn debic y draed arth , ae safn yn debic y safn llew : ar dreic y rroedd yddo ef y ’allu ae eisteddle , ac awdyrdod mawr .
+66:13:003:0	Ac mi weleis vn oe beney ef mal gwedy las yn varw , ae glwyf marfol ef y iachawd , ar’holl vyd y rryfeddoedd , ac aeth yn ol yr enifel .
+66:13:004:0	Ac hwy dddolasant y ddreic yr hwn rroedd gallu yr enifel , ac addolasant yr enifel , dan dwedyd , Pwy ysydd debic yr enifel , pwy ddychryn rryfely ac ef ?
+66:13:005:0	A’ geney y rroed yddo ef , y ddwedyd mawr eyriey , a dirmygon , a’ gallu yrroed yddo ef , y weithio doy vis a’ deigen .
+66:13:006:0	Ac ef agoroedd y eney mewn dirmic yn erbyn Dyw , y ddirmygy y Enw ef , ae dabernacl , ar rey trigadwy yny nef .
+66:13:007:0	A’rroi y wneythpwyd yddo ef rryfely ar Sainct ac y gortrechy y hwynt , a’ gallu y rroed yðo ef ar bob cenedl ac ieith , a’ nasion .
+66:13:008:0	A’ holl breswylwyr y ddayar , y addolasont ef , yrrein nad yw y henwey yn escrifenedic mewn Llyfr y bowyd yr Oen , yr hwn y las er dechreyad y y bud .
+66:13:009:0	Y sydd a chlyst gantho , gwrandawed .
+66:13:010:0	A’s tywys neb y gaethiwed , efo eiff y gathiwed : as lladd neb a chleddey , a chleddey y lleddir : llyma’r goddefeint , a’ ffydd y Sainct .
+66:13:011:0	Ac mi edrycheis ar enifel arall yn cwny or ðayar , a doy corn oedd gantho yn debic yr Oen , ond yn dwedyd yn debic yr dreic .
+66:13:012:0	Ac ef y wnaeth cwbl ar allei yr enifel cynta wneythyr oe vlaen , ac ef y wnaeth yr ddayar , ar rrey oyddent yn drygadwy yndi , y addoli yr enifel cynta , clwyf marolaythys yr hwn , y iachawd .
+66:13:013:0	Ac ef y wnaeth rryfeddodey mawr , ac y baroedd can y ddiscyn or nef yr ddayar , yn golwc y dynion .
+66:13:014:0	Ac ef a dwyllawdd ddeiled y ddaiar gan yr arwyddion , yrrei y oddefwyd yddo ef y gwneythyr gair bron yr enifel , dan ddwedyd wrthynt hwy y sawl oeyddent yn drigadwy ar y ddayar , am yddynt wneythyr ðelw yr enifel , yr hwn y glwyfwd a chleddey , ac y vy vyw .
+66:13:015:0	A’ goddef y wneythpwyd yddo ef rroi anadl y ddelw’r enifel , mal y galley ddelw’r enifel ddwedyd , a’ pheri lladd cynifer vn nad addoley ddelwr enifel .
+66:13:016:0	Ac ef y wnaeth y bawb , bychein a’ a mawr , cyfoethocion a thlawdion rryddion a chaethion , y ðerbyn nod yny dwylaw dehey ney yny talceni ,
+66:13:017:0	Ac na allei neb na phryny na gwerthy , ond y gymerth yr nod , ney enw’r enifel , ney rrif y enw ef .
+66:13:018:0	Ll’yma ddoethinep . Y sawl ysydd synhwyrys , cyfrifed rrif yr enifel : can ys rrif duyn ydiw , ae rif ydiw chwechant , a’ chwech a’ thrigen ,

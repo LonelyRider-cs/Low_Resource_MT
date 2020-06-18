@@ -1,0 +1,15 @@
+19:130:001:1	PSALM 130
+19:130:002:1	Hope in the L
+19:130:003:1	ord
+19:130:004:1	’
+19:130:005:1	s
+19:130:006:1	Forgiving Love .
+19:130:007:1	A Song of Ascents .
+19:130:001:0	Out of the depths I have cried to You , O Lord .
+19:130:002:0	Lord , hear my voice ! Let Your ears be attentiveTo the voice of my supplications .
+19:130:003:0	If You , Lord , should mark iniquities , O Lord , who could stand ?
+19:130:004:0	But there is forgiveness with You , That You may be feared .
+19:130:005:0	I wait for the Lord , my soul does wait , And in His word do I hope .
+19:130:006:0	My soul waits for the LordMore than the watchmen for the morning ; Indeed , more than the watchmen for the morning .
+19:130:007:0	O Israel , hope in the Lord ; For with the Lord there is lovingkindness , And with Him is abundant redemption .
+19:130:008:0	And He will redeem IsraelFrom all his iniquities .

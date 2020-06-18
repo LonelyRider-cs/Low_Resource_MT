@@ -1,0 +1,33 @@
+46:1:001:1	Appeal to Unity
+46:1:001:0	Paul , called as an apostle of Jesus Christ by the will of God , and Sosthenes our brother ,
+46:1:002:0	To the church of God which is at Corinth , to those who have been sanctified in Christ Jesus , saints by calling , with all who in every place call on the name of our Lord Jesus Christ , their Lord and ours :
+46:1:003:0	Grace to you and peace from God our Father and the Lord Jesus Christ .
+46:1:004:0	I thank my God always concerning you for the grace of God which was given you in Christ Jesus ,
+46:1:005:0	that in everything you were enriched in Him , in all speech and all knowledge ,
+46:1:006:0	even as the testimony concerning Christ was confirmed in you ,
+46:1:007:0	so that you are not lacking in any gift , awaiting eagerly the revelation of our Lord Jesus Christ ,
+46:1:008:0	who will also confirm you to the end , blameless in the day of our Lord Jesus Christ .
+46:1:009:0	God is faithful , through whom you were called into fellowship with His Son , Jesus Christ our Lord .
+46:1:010:0	Now I exhort you , brethren , by the name of our Lord Jesus Christ , that you all agree and that there be no divisions among you , but that you be made complete in the same mind and in the same judgment .
+46:1:011:0	For I have been informed concerning you , my brethren , by Chloe’s people , that there are quarrels among you .
+46:1:012:0	Now I mean this , that each one of you is saying , “ I am of Paul , ” and “ I of Apollos , ” and “ I of Cephas , ” and “ I of Christ . ”
+46:1:013:0	Has Christ been divided ? Paul was not crucified for you , was he ? Or were you baptized in the name of Paul ?
+46:1:014:0	I thank God that I baptized none of you except Crispus and Gaius ,
+46:1:015:0	so that no one would say you were baptized in my name .
+46:1:016:0	Now I did baptize also the household of Stephanas ; beyond that , I do not know whether I baptized any other .
+46:1:002:1	The Wisdom of God
+46:1:017:0	For Christ did not send me to baptize , but to preach the gospel , not in cleverness of speech , so that the cross of Christ would not be made void .
+46:1:018:0	For the word of the cross is foolishness to those who are perishing , but to us who are being saved it is the power of God .
+46:1:019:0	For it is written , “ I will destroy the wisdom of the wise , And the cleverness of the clever I will set aside . ”
+46:1:020:0	Where is the wise man ? Where is the scribe ? Where is the debater of this age ? Has not God made foolish the wisdom of the world ?
+46:1:021:0	For since in the wisdom of God the world through its wisdom did not come to know God , God was well-pleased through the foolishness of the message preached to save those who believe .
+46:1:022:0	For indeed Jews ask for signs and Greeks search for wisdom ;
+46:1:023:0	but we preach Christ crucified , to Jews a stumbling block and to Gentiles foolishness ,
+46:1:024:0	but to those who are the called , both Jews and Greeks , Christ the power of God and the wisdom of God .
+46:1:025:0	Because the foolishness of God is wiser than men , and the weakness of God is stronger than men .
+46:1:026:0	For consider your calling , brethren , that there were not many wise according to the flesh , not many mighty , not many noble ;
+46:1:027:0	but God has chosen the foolish things of the world to shame the wise , and God has chosen the weak things of the world to shame the things which are strong ,
+46:1:028:0	and the base things of the world and the despised God has chosen , the things that are not , so that He may nullify the things that are ,
+46:1:029:0	so that no man may boast before God .
+46:1:030:0	But by His doing you are in Christ Jesus , who became to us wisdom from God , and righteousness and sanctification , and redemption ,
+46:1:031:0	so that , just as it is written , “ Let him who boasts , boast in the Lord . ”

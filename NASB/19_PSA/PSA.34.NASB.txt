@@ -1,0 +1,29 @@
+19:34:001:1	PSALM 34
+19:34:002:1	The L
+19:34:003:1	ord
+19:34:004:1	, a Provider and Deliverer .
+19:34:005:1	
+19:34:006:1	A Psalm
+19:34:007:1	of David when he feigned madness before Abimelech , who drove him away and he departed .
+19:34:001:0	I will bless the Lord at all times ; His praise shall continually be in my mouth .
+19:34:002:0	My soul will make its boast in the Lord ; The humble will hear it and rejoice .
+19:34:003:0	O magnify the Lord with me , And let us exalt His name together .
+19:34:004:0	I sought the Lord , and He answered me , And delivered me from all my fears .
+19:34:005:0	They looked to Him and were radiant , And their faces will never be ashamed .
+19:34:006:0	This poor man cried , and the Lord heard himAnd saved him out of all his troubles .
+19:34:007:0	The angel of the Lord encamps around those who fear Him , And rescues them .
+19:34:008:0	O taste and see that the Lord is good ; How blessed is the man who takes refuge in Him !
+19:34:009:0	O fear the Lord , you His saints ; For to those who fear Him there is no want .
+19:34:010:0	The young lions do lack and suffer hunger ; But they who seek the Lord shall not be in want of any good thing .
+19:34:011:0	Come , you children , listen to me ; I will teach you the fear of the Lord .
+19:34:012:0	Who is the man who desires lifeAnd loves length of days that he may see good ?
+19:34:013:0	Keep your tongue from evilAnd your lips from speaking deceit .
+19:34:014:0	Depart from evil and do good ; Seek peace and pursue it .
+19:34:015:0	The eyes of the Lord are toward the righteousAnd His ears are open to their cry .
+19:34:016:0	The face of the Lord is against evildoers , To cut off the memory of them from the earth .
+19:34:017:0	The righteous cry , and the Lord hearsAnd delivers them out of all their troubles .
+19:34:018:0	The Lord is near to the brokenheartedAnd saves those who are crushed in spirit .
+19:34:019:0	Many are the afflictions of the righteous , But the Lord delivers him out of them all .
+19:34:020:0	He keeps all his bones , Not one of them is broken .
+19:34:021:0	Evil shall slay the wicked , And those who hate the righteous will be condemned .
+19:34:022:0	The Lord redeems the soul of His servants , And none of those who take refuge in Him will be condemned .

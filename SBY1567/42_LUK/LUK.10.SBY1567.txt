@@ -1,0 +1,44 @@
+42:10:001:1	Pen . x .
+42:10:002:1	Ef yn anfon y dec a’ thrueain oei vlaen i precethu , ac yn ei rhybuddiaw py wedd yr ymddugant . Ef yn bygwth yr ei ayhydyn . Ef yn diolwch yw Dad nefawl . Ef yn gwrthep y Gwr‐llē ai prorawd ef , Ac wrth exempl y Samarit y mae ef yn dangos pwy’n yw cymydawe dyn . Martha yn derbyn yr Arglwydd yw thuy . Bod Mair yn chwanoc y wrando y’ air ef .
+42:10:001:0	YN ol y pethac hyn yr ’ordeiniawð yr Arglwyð ðec a thr’ugain ereill , hefyt ac ei danvones wy pop ddau a’ dau geyr ei vron i pop dinas a’ lle , ac ydd oedd ef ar ddyvot iddo .
+42:10:002:0	Ac ef a ddyvot wrthwynt , Y cynayaf y sy ampl , a’r gweithwyr yn anaml : gwediwch gan hynny ar Arglwydd y cynayaf , ar ddanvon gweithwyr y’w gynayaf .
+42:10:003:0	Cerddwch ymaith : nycha mi ach danvonaf mal wyn ymysc bleiddiae .
+42:10:004:0	Na ddygwch vn god nac yscrepan , nac escidiae , ac na chyverchwch well i nep ar y ffordd .
+42:10:005:0	Ac i pa duy pynac ydd eloch , yn gyntaf dywedwch Tangneddyf ir tuy hwnn .
+42:10:006:0	Ac a’s bydd yno vn map tangneðyf , e a ’orphwys eich tangneðyf arno : ac anid ef , atoch yd adymchwel .
+42:10:007:0	Ac yn tuy hwnw aroswch yn ’oystat gan vwyta , ac yvet gyfryw bethrae a ddodant geir eich bronn : can ys teilwng ir gweithwr ei gyfloc . Na cherddwch o duy y‐duy .
+42:10:008:0	Ac y ba ddinas bynac yð eloch ymevvn , a’s wy a’ch derbyniāt , bwytewch cyfryw bethe ac a osoter geir eich bron ,
+42:10:009:0	ac iachewch y cleifion a vo ynddei , a’ dywedwch wrthynt , Nesaoð teyrnas Duw atoch .
+42:10:010:0	Eithr i ba ðinas bynac yd eloch ymyvvn , ac any ’ch derbyniant , ewch ymaith allā yw heolyð hi a’ dywedwch ,
+42:10:011:0	Ys ef y llwch , yr vn a ’lyn wrthym o’ch dinas , a ddysychwn o ddywrthym yn eich erbyn chvvi : er hyny gwybyddwch hyn , ddarvot i deyrnas Duw nesau atoch .
+42:10:012:0	Can ys dywedaf wrthych , mai esmwythach vydd yn y dydd hwnw ir ei o Sodoma , nac ir dinas hono .
+42:10:013:0	Gwae dydi Chorazin : gwae dydi Beth‐saida : can ys pe’s gwneythesit yn‐Tyrus a’ Sidon y gwyrthiae a wnaethpwyt yn y‐chwi , hwy gynt oll a ediveiriesent , gan eistedd mewn lliainsach a’ lluto .
+42:10:014:0	Am hyny y bydd esmwythach i Tyrus a’ Sidon , yn y varn , nag i chwi .
+42:10:015:0	A’ thi thef Capernaum , yr hon ath dderuchefir yd y nefoedd , a ddescendir i lawr yd yn yffern .
+42:10:016:0	Y nep a’ch clyw chvvi , a’m clyw i : a’r nep a’ch gommedd chvvi , a’m gommedd i ; a’r nep a’m gomedd i , a’ ommedd yr vn am danvnawdd i .
+42:10:017:0	A’r dec a’ thrucain a ddadymychwelesont y gyd a llewenydd , gan ddywedyt , Arglwydd , ys y cythraulieit a ddarystyngir i ni yn dy Enw di .
+42:10:018:0	Ac ef a ddyuot wrthynt , Mi welais Satan megis lluchet , yn cwympo y lavvr o’r nef .
+42:10:019:0	Nycha , vi yn roddy y‐chwy veddiant y sathru ar seirph ac y scorpionae , ac ar bop meddiant y gelyn , ac ny’s briw dim chwi .
+42:10:020:0	Eithyr , yn hyn na lawenhewch , can ys darystyngir ysprytion ychwi : and llawenhewch yn vwy , achos yscrivenwyt eich enwae yn y nefoedd .
+42:10:021:0	Ac yn yr awr hono yr ymlawenychawð yr Iesu yn yr yspryt , ac y dyuot , Cyffessaf yty , Dad , Arglwydd nef a’ dayar , can ys cuddiaist y pethae hynn rac y doethion , a’r ei dyallus , ac ei dadgudiaist ir ei bychain : do , Dad , can ys velly y rhyngei bodd i ti .
+42:10:022:0	Yno y troes ef at ei ddiscipulon , ac y dyuot , Oll pethe a roddwyt i mi y gan vy‐Tad : ac ny wyr nep pwy ’yw’r Map , oddyeithyr y Tat : na phwy ’n yw’r Tat , oddyeithr y Map , a’r hwn a ewyllysio’r Map y egluraw ef iddo . Yr Euangel y xiij . Sul gwedi Trintot .
+42:10:023:0	Ac ef a droes at ei ddiscipulon , ac a ddyuot yn ddirgel , Gwyn ei byt y llygait a welant y pethae a wel‐y-chwi .
+42:10:024:0	Can ys dywedaf y chwy , may llawer o Prophwyti a’ Brenhinedd a vysei dda gantynt weled y pethae a welw‐chwi , ac ny’s gwelsant : a’ chlywed y pethae a glywch , ac ny’s clywsant .
+42:10:025:0	Ac , vn o’r cyfreithwyr yn cody yn ei sefyll , ac yn y demtiaw ef , can ddywedyt , Athro , pa beth a wnaf cr etiveddu bywyt tragyvythawl ?
+42:10:026:0	Ac ef a ddyvot iddaw , Pa beth a escrivennwyt yn y Dddeðyf ? pa wedd y darlleny ?
+42:10:027:0	Ac ef atepoð ac a ðyvot , Car dy Arglwyð ðuw ath oll calō , ac ath oll enait , ac ath oll nerth , ac ath oll veddwl , ath cymmydawc mal tuhun .
+42:10:028:0	Yno y dyvot ef wrthaw , Atepeist yn vniawn : gwna hynn , a’ byw vyddy .
+42:10:029:0	Eithyr ef yn ewyllsiaw ymgyfyawnhay y hun , a ðyvot wrth yr Iesu , A’ phwy yw vyg‐cymydoc ?
+42:10:030:0	A’r Iesu a atepawdd ac a ddyvot , Ydd oedd ryw ðyn a ddescenawdd o Gaerusalem i Iericho , ac a syrthiawdd ymplith llatron , ac wy ei espeiliesant oei ddillat , ac ei archollesont ef , ac aethant ymaith , can ei ady yn lledvarw .
+42:10:031:0	Ac o ddamwain y daeth y wared y ffordd hono ryw Offeiriat , a’ gwedy iddaw ei ganvot , ef aeth heibiaw o’r tu arall .
+42:10:032:0	A’r vn modd y Leuit , gwedy ddyvot yn agos at y lle , aeth ac a edrychawdd arnavv , ac aeth heibiaw or tu arall .
+42:10:033:0	Yna ryw Samarit , wrth ymddaith , a ddeuth yn agos attaw , a’ phan ei canvu , e dosturiawdd wrthaw ,
+42:10:034:0	ac aeth attaw , ac a rwymoð ei archollion , ac a dywalldawdd ynthwynt oleo a’ gwin , ac ei dodawdd ar ei yscrupl ehun , ac ei duc y letuy‐cyffredin , ac ei ymgleddawdd .
+42:10:035:0	A’ thranoeth wrth vyned ymaith , ef a dynnawdd allan ddwy geiniawc , ac ei rhoddes ir lletuywr , ac a ddyvot wrthaw , Cymer ei gur ef , a ’pha beth pynac a draulych angwanec , pan ddelwyf drachefyn mi ei talaf y‐ty .
+42:10:036:0	Velly pwy vn o’r tri hynn , ith tyb di , oedd gymmydawc y hwn a syrthiawdd ymplith y llatron ?
+42:10:037:0	Ac ef a ddyvot , Hwn a wnaeth drugaredd ac ef . Yno ’r Iesu a ddyvot wrthaw , Cerdda , a’ gwna dithe yr vn ffynyt .
+42:10:038:0	Yno y darvu a hwy yn ymddaith ac ef aeth i ryw dref , a ryw wreic ai henw Martha y derbyniawdd ef y’w thuy .
+42:10:039:0	Ac yddi yr oedd chwaer a elwit Mair , yr hon hefyt a eisteddawdd wrth draet yr Iesu , ac a glywei i breceth ef .
+42:10:040:0	A’ Martha a drallodit yn cylch ampl wasanaeth , ac a ddeuth attaw , ac a ddyuot , Arglwydd , anyd oes nes gofal genyt , can im chwaer vy‐gadael vy hunan i wasanaethu ? Arch yddi gan hyny , yn y chymportho vi .
+42:10:041:0	A’r Iesu a atepawð ac a ðyuot wrthei Martha yddwyt yn gofalu ac ith tral’odir yn‐cylch llawer o pethae .
+42:10:042:0	Ac vn‐peth ’sy anghenreidiol , a’ Mair a ddetholes y rhan dda , yr hyn ny ddugir odd y arnei .

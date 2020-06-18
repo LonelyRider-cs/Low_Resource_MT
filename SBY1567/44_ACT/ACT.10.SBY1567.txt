@@ -1,0 +1,50 @@
+44:10:001:1	Pen . x .
+44:10:002:1	Rybuddio Cornelius gan yr Angel . Yd anuō y mae ef i Ioppa Gweledigaeth Petr . Py wedd ydd anvonwyd ef at Cornelius . Y Cenetloedd hefyt yn d’erbyn yr Yspryt , a’ ei batyddio .
+44:10:001:0	AC yð oeð nep gwr yn Caisareia a ei enw Cornelius capten y ddiadell y elwit diatell yr Ital ,
+44:10:002:0	gvvr devosionol ac vn yn ofny Dew , y gyd ei oll tuylvvyth , ac yn rhoi llawer o eleeseni ir popul ac yn gweddiaw ar Ddew yn ’oystat .
+44:10:003:0	Ef a welawdd drwy weledigaeth yn eglur ( yn cylch y nawvet awr o’r dyð ) Angel Dew yn dyvot ato , ac yn dywedyt wrthaw , Cornelius ,
+44:10:004:0	A’ phan edrychawdd arnaw , ofny a wnaeth , a’ dywedyt , Pa beth ytyw , Arglwydd ? Ac ef a ddyvot wrthaw , Dy weddiae ath eleesenae a escenesont yn‐cof geyr bron Dew .
+44:10:005:0	Ac yn awrhon anfon wyr i Ioppa , a’ galw am Simon a elwir Petr .
+44:10:006:0	Hwn ys ydd yn lletya gyd ac vn Simon barker , yr hwn ’sy ei dy wrth y mor : ef a ddywait yty pa beth y ddlei y wneythyd .
+44:10:007:0	Ac wedy ymady or Angel a ymddiddanawdd a’ Chornelius , ef a alwodd ar ddau oei weison , a’ milwr creddyfol , vn or ei oedd yn dylyn wrthaw ,
+44:10:008:0	ac a vanagawdd yddwynt pop peth , ac y danvonoð hwy i Ioppa .
+44:10:009:0	A’ thranoeth mal yð oeðent yn mynet y ymddaith , ac yn dynessay ir dinas , ydd escennawdd Petr ar vcha y tuy y weddiaw , amgylch y chwechet awr .
+44:10:010:0	Ac y ddaeth newyn arnaw , ac ewyllysiawdd gahel bwyt : ac wynt y paratoy ryvv beth yddavv , e ddygwyddawdd llewyc arno .
+44:10:011:0	Ac ef a welas y nef yn agoret , a’ rryw lestr yn descen ataw , mal llen‐lliain vawr , wedy rhwymo erwyð y pedair congyl , ac a ellyngwyt yd y waered yd y ddaiar ,
+44:10:012:0	yn yr hon ydd oedd pop ryw anifal pedwar carnol y ddaear , a’ bestviloedd , ac ymluscieit , ac ehediait y nef .
+44:10:013:0	Ac e ddaeth llef ataw , Cyvot Petr : lladd , a’ bwyta .
+44:10:014:0	A’ Phetr a ddyvot , Nage , Arglwydd : can na vwyteis erioed ddim cyffredin nai aflan .
+44:10:015:0	A’r llef a ddyvot wrthaw yr ailwaith , Y pethae a garthodd Dew , na chyffredina di .
+44:10:016:0	A hyn a wnaethpwyt teirgwaith : a’r llestr a gymerwyt drachefn i vynydd ir nef .
+44:10:017:0	Ac pan ytoedd Petr yn petrusaw ynthaw ehū pa beth ytoedd y weledigaeth hon y welsai , wele , y gwyr y ddanvonesit y gan Cornelius , a ymovynesent am duy Simon , ac a safent wrth y porth ,
+44:10:018:0	ac a ’alwasont , ac ’ovynesont , a ytoedd Simon a gyfenwyt yn Petr , yn lletuya ynaw .
+44:10:019:0	Ac mal ydd oedd Petr yn meðwl am y weledigaeth , y dyvot yr Yspryt wrthaw , Wele , tri‐gwyr yn dy geisiaw :
+44:10:020:0	cyvot can hyny , a’ descen , a’ dos gyd a hwy , ac na amhae , can ys mivi y danvoneis hwy .
+44:10:021:0	Yno Petr a ddescennawdd at y gwyr , ydd anvonesit ataw ywrth Cornelius , ac a ddyvot , Wele , mivi yw ’r hvvn ydd ych yn ei geisiaw : pa beth yw ’r achaws o ei bleit y daethoch yma ?
+44:10:022:0	A’hwy a ðywedent , Cornelius y captaen‐cannwr , gwr cyfiawn , ac vn yn ofny Dew , ac a gair da iddaw gan oll genedl yr Iuddaeon , a rybyddiwyt or nef y gan Angel sanct , y ddanvon am danat , y ei duy , ac y wrādaw ar dy ’airiae .
+44:10:023:0	Yno y galwodd ef wynt y mewn , ac ei lletyawdd : A’ thranoeth , ydd aeth Petr allan y gyd ac wynt , a’r ei o’r broder o Ioppa aeth y gyd a hwy .
+44:10:024:0	A’ thranoeth , ydd aethant y mewn y Cesareia . Ac Cornelius a arosawdd arnwynt , ac y galwesei ei gydgenedloedd , a’ ei annwyl gereint .
+44:10:025:0	Ac e ddarvu , val ydd oeð Petr yn dyvot y mewn , bot i Cornelius gyfarvot ac ef , a’ dygwyddaw wrth y draet ef a’ ei addoli .
+44:10:026:0	Ac Petr y cyvodes ef , gan ddywedyt , Cyvot y vynydd : a’ minef wyf ðyn .
+44:10:027:0	Ac wrth ymddiddan ac ef , y daeth y mewn , ac a gavas lawer wedy dyvot yn‐cyt ,
+44:10:028:0	ac ef a ddyvot wrthwynt , Chvvychwi wyddoch nad yw gyfreithlawn i wr o Iuddew ymwascy n’ai ddyvot at alltut : eithyr Dew a ddangosawdd i mi , yd na ’alwn vn dyn yn gyffredin , ai yn aflan :
+44:10:029:0	am hynny yd aethym atoch yn ddinag , pan ddanvonwyt am danaf . Erwydd pa bleit y ymofynaf , o ran pa achos yd anvonesoch am danaf ?
+44:10:030:0	Yno y dyvot Cornelius , Er es pedwar diernot a ddeddyvv amgylch yr awr hon , ydd oeddwn yn vmprydiaw , ac ar y nawvet awr y gweðiais , yn vy‐tuy , ac wele , y savoð gwr geir vy‐bron yn‐gwisc ddysclaer ,
+44:10:031:0	ac y dyvot , Cornelius , e glypwyt dy weði , ath eleesenae ynt yn‐coffa ger bron Dew .
+44:10:032:0	Yd anvon am hyny rei el i Ioppa , a’ galw am Simon , ys ydd ei gyfenw yn Petr ( efe ’sy yn lletya yn‐tuy Simon y barker yn‐glann y mor ) yr hwn pan ddel , a ymadroð wrthyt .
+44:10:033:0	Yno yd anvoneis i yn ebrwydd am danat , a’ thi wnaethost yn dda ar ddyvot . Yn awr gan hynny ydd ym ni yma oll yn gydrychiol ger bron Dew , er mvvyn gwrandaw pop peth y ’orchymynwyt yty gan Ddew . Yr Epistol ar ddie Llun Pasc , a’ ddie llun y Sul gwyn .
+44:10:034:0	Yno yð agores Petr ei enae , ac y dyvot , Yn wir ydd wyf yn dyall , nad ytyw Dew yn yn derbyn cyflwr neb .
+44:10:035:0	Eithyr ym‐pop cenedlaeth y neb y hofno ef , ac a wnel iawnder , ys yð gymradwy gantho .
+44:10:036:0	Chvvy vvyddoch y gair yr hwn a ddanvones Dew i plant yr Israel , gan precethy tangneddyf trwy Iesu Christ , yr hwn ys id Arglwydd pavvp oll .
+44:10:037:0	Ys ef y gair y ddaeth trwy’r oll Indaia , gan ddechrae yn‐Galilaia wedy y batyð a precethei Ioan ,
+44:10:038:0	nid amgen no darvot i Ddew enneiniaw Iesu o Nazaret a’r Yspryt glan , ac a nerth : yr hwn gerddawdd o yamgylch gan wneythy-gvveithredoedd‐da , ac iachay pawp rei oedd yn ’oarsengedic y gan ðiavol : can ys Dew oedd y gyd ac ef .
+44:10:039:0	Ac ydd ym ni yn testion o’r oll pethae a wnaeth ef yn‐tir yr Iuddaeon , ac yn‐Caerusalem : yr hwn a laddesont vvy , ac a grocesont ar bren .
+44:10:040:0	Hwn a gyvodes Dew y vyny y trydydd dydd , ac a barawð bot ei ddangos ef yn amlwc :
+44:10:041:0	nid ir oll popul , amyn ir testion etholedic or blaē gan Ddew , ys ef y nyni yr ei vuam yn cydvwyta ac yn cydyvet ac ef , gwedy iddo gyvody o veirw .
+44:10:042:0	Ac ef orchymynoð y ni precethy ir popul , a’ thestolaethy , mae ef yw hwnw a ordeiniwyt gan Ddew yn varnwr bywion a’ meirw .
+44:10:043:0	Ac y gyd hwnn y mae yr oll Prophwyti yn testiaw , mae trwy yr Enw ef , y byð i pwy bynac a creto ynthaw ef , dd’erbyn maddeuant pechatae .
+44:10:044:0	Tra ytoedd Petr eto yn dywedyt y geiriae hynn , y dygwyddawð yr Yspryt glā ar yr ei oll a glywsant y gair .
+44:10:045:0	Ac wyntwy o’r enwaediat a’r oeddent yn credy , a sannasant , cynniuer ac a ddaethent y gyd a Phetr , can ys darvot hefyt ar y Cenetloedd diney dawn yr Yspryt glan .
+44:10:046:0	Can ys yddynt y clybot wy yn ymadrodd a thavodae , ac yn mawrygy Dew . Yno ydd atebawdd Petr ,
+44:10:047:0	A all neb ’ohardd ddwfr , yd na vatyddier yr ei hynn , a dderbyniesont yr Yspryt glan yn gystal a nineu ?
+44:10:048:0	Ac velly ef ’orchymynawdd y patyddio hwy yn Enw yr Arglwydd : Yno y damunasant arno aros gyd a hvvy niver o ddyddiae .

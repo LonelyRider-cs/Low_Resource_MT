@@ -1,0 +1,36 @@
+44:28:001:1	Pen . xxviij .
+44:28:002:1	Paul a’ei gydymðeithion yn cahel yr estron genedl yn vwyn ac yn gymmwynasgar . Bot y
+44:28:003:1	*
+44:28:004:1	neidr
+44:28:005:1	wiper eb wneythur eniwed iddo . Ef e yn Iachay tad Publius ac ereill , a’ gwedy iddo gael ei ddiwally ganthwynt o bethe angenreidiol , tynny a wnaeth i Ruuein . Ac yno wedy dderbyn gan y broder , y mae yn dangos ei negesae . Ac yno yn precetha yspait dwy vlynedd .
+44:28:001:0	AC wedy yddwynt ddianc yn‐iach , yno y gwybuant mae Melita y gelwit yr ynys .
+44:28:002:0	A’r Barbarieit a ðangosesant yni hawðgarwch nid‐bychan : can ys wy a gynneuson dan , ac an derbyniesant y gyd oll , o bleit y gawat gynnyrchiol , ac o bleit yr oervel .
+44:28:003:0	A’ gwedy casclu o Paul talm o vriwyð , a’ ei dody ar y tan , e ddaeth gwiper allan o’r gwres , ac a ruthrawð y ei law .
+44:28:004:0	A’ phan welawdd y Barbarieit y bwystvil yn‐crog wrth ei law , y dywedent yn ei plith ehunain , Yn sicr lleiddiat yw’r dyn hwn , yr hwn cyd diangawdd or mor , ny’s gad dialedd i vyw .
+44:28:005:0	Ac ef e a yscytwodd y bwystvil y wrtho ir tan ac ny bu arno ddim eniwed .
+44:28:006:0	Eithyr wyntvvy a ddysgwilient gantaw am chwyddo , nai dygwyddo y lawr yn ddysyvyt yn varw : ac wynt yn hir o amser yn edrych , ac eb welet dim ancyflwr yn dygwyð iddaw , troi ei meddwl a wnaethant , a’ dywedyt , Mae Dew ytoedd ef .
+44:28:007:0	Yn y cyfleoedd hyny , ydd oeð tiredd i bennaeth yr ynys , ( aei enw oedd ef Publius ) yr hwn an erbyniawdd , ac ’an lletyawdd dros dri‐die yn anwyl .
+44:28:008:0	At e dderyw , bot tad Publius yn gorwedd yn glaf o gryd , a’ darymred gwaedlyt ; ac attaw ydd aeth Paul y mewn , a’ gwedy iddo weddiaw , y dodes ei ddwylo arnaw , ac yr iachaodd ef .
+44:28:009:0	A’ gwedy gwneythyd hynn , yr‐eill hefyt or ynys , ar oedd heintiae arnynt , a ðaeth attaw , ac eu iachawyt :
+44:28:010:0	yr ei an parchasont yn vawr iawn : ac wrth longi o hanam , in llwythesant a phethae angenreidiol .
+44:28:011:0	Ac ar ben y trimis ir aetham ir mor mewn llong o Alexandria , yr hon y vesei yn gaeafy yn yr ynys a’i harwyð hi oeð Castor ac Pollux .
+44:28:012:0	Ac wedy ein dyvot i Syracusa y trigesam yno dri‐die :
+44:28:013:0	Ac odd yno y cyrchasam amgylch , ac y daetham i Rhegium : ac yn ol vn dydd , y chwythawdd Dehauwynt , ac y daetham yr ail dydd i Puteoli ,
+44:28:014:0	lle causam vroder , ac in deisyfwyt i drigo gyd ac wynt saith diernot , ac velly ydd aetham parth a Ruuein .
+44:28:015:0	Ac o ddyno , pan glybu yr broder oddywrthym , y daethant y gyfarvot a ni yd ym‐Marchnat Appius , a’r Tair tavarn , yr ei pan welawdd Paul , diolvvch i Ddeo a wnaeth , a bot yn hyderus .
+44:28:016:0	Ac vel’y wedy ein dyvot i Ruuein , y rhoðes y Cāwriat y carcharoriou at y Captaen‐goruchaf : eithyr Paul y adwyt y drigo vvrtho ehun y gyda milwr oedd y ei gadw .
+44:28:017:0	Ac ar ben y tridie , y galwoð Paul bēnaethieit yr Iuðeon yn‐cyt : Ac wedy ei dyvot , y dywedawdd wrthwynt , Ha‐wyr vroder , cyd na wneythym ddim yn erbyn y popul , nai Cyfreithiae yrtadae eto , im rroðwyt i yn garcharawr o Gaerusalem i ðwylo y Ruueinwyr ,
+44:28:018:0	y r ei wedy darvot yð wynt vy holi , a vynesent vy‐gellwng ymaith , can nad oedd ðim achos angae ynof .
+44:28:019:0	Eithyr can vot yr Iuðaeon yn gwrthðywedyt , im cympellwyt i appelo ar Caisar , nid o herwydd bot genyf ddim y achwyn ar vy‐cenedl .
+44:28:020:0	Ac or achos hyn y galweis am danoch , y eich gwelet , ac y gydgympwyl’ a chvvi : er mvvyn gobaith yr Israel im cylchynir a’r catwin hon .
+44:28:021:0	Ac wythe a ðywedesōt wrtho . Ny wnaetham ni na chael l’ythyre o Iuðaia am danat , na dyvot neb o’r broder a venegoð nei a ddyvot dim anvad am danat .
+44:28:022:0	Eithyr ni wyllysē glywet genyt’ pa beth a synny : can ys am y sect hon , y mae yn wybodedic genym , vot ym‐pop lle yn ei gwrthðywedyt .
+44:28:023:0	A’ gwedy gosot diernot iddo , e daeth llaweredd attaw ir hospyty , i ba rei yd esponiodd ac testolaethawdd ef deyrnas Dew , ac a precethawð yddwynt am yr Iesu ac o Ddeddyf Moysen ac or Prophwyti , o’r borae yd ’osper .
+44:28:024:0	A’r ei a gydsynient a’r y pethae , ry ðywedesit , a’r ei ny chredent .
+44:28:025:0	A’ phryt nad oedden yn cydcordio yn ei plith ei hunain , ymadael a wnaethant , gwedy dywedyt o Paul vn gair , nid amgen , Da y llavarawdd yr Yspryt glan trwy Esaias y Prophet wrth ein tadae ,
+44:28:026:0	gan ddywedyt , Cerdda at y popul hyn , a’ dyweit , Yn clywet y clywch , ac ny ðeallwch , ac yn gwelet y gwelwch , ac ny chanvyddwch .
+44:28:027:0	Can ys calon y popul hynn a vrassawyt , ac aei clustiae ys pwl y clywant , a’ei llygait a gaeasont , rac bot yddwynt welet a ei llygait , a’ chlywet a ei clustiae , a’ deall a ei calonae , ac ymchwelyt y n yd iachawn i hwy .
+44:28:028:0	Gwybodedic gan hyny vo ychwy , mae yr iechydvvrieth hwn gan Ddew a ðanvonwyt ir Genetloedd , ac wyntvvy ei clywant .
+44:28:029:0	A’ phan ddyvot ef y pethae hyn , ydd aeth yr Iuddaeon ymaith , gan vot ymresymy mawr ganthwynt yn ei plith ehunain .
+44:28:030:0	Ac Paul a drigawdd ddwy vlynedd yn ei duy ardrethol , ac a dderbyniawdd bawp oll a ddaeth y mewn attaw ,
+44:28:031:0	gan pregethy teyrnas Ddew , a dyscy cyfryw bethae , ac a ’sydd herwyð yr Arglwydd Iesu Christ , yn gwbyl hyderus , ac eb nep yn gohardd .

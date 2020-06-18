@@ -1,0 +1,11 @@
+19:149:001:1	Psalm . cxlix .
+19:149:002:1	Cantate Domino .
+19:149:001:0	CEnwch ir Arglwydd ganiat newydd : [ clywer] y vawl ef yn-cynulleidfa y Sainct .
+19:149:002:0	Llawenaet Israel yn yr hwn y ei gwnaeth , a’ bid hyfryd plant tSijon yn ei Brēhin .
+19:149:003:0	Molent eu Enw a’r bibell : can-molant ef a’r tympan a’r delyn .
+19:149:004:0	Can ys hoff gan yr Arglwydd ei bopul : ac efa brydvertha yr ei gwar gan ymwared .
+19:149:005:0	Ymlawenaét y Sainct a gogoniant : a’ chanant yn llavar ar ei gwelyeu .
+19:149:006:0	Bit ardderchoc-weithrededd Dew yn ei geneu , a’ chleddyf dau vinioc yn ei dwylaw ,
+19:149:007:0	Y wneuthur dial ar y cenedloedd , [ a’] chospion yn y populoedd :
+19:149:008:0	I rwymo ei Brenhinedd yn-catwynae , a’ei pendevigion a’ gefynnae haijrn ,
+19:149:009:0	Y wneuthur arnynt y varn yscrivennedic : yr anrydeð hyn vydd yw oll Sainct ef . Molwch yr Arglwydd .

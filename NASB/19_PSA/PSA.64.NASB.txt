@@ -1,0 +1,13 @@
+19:64:001:1	PSALM 64
+19:64:002:1	Prayer for Deliverance from Secret Enemies .
+19:64:003:1	For the choir director . A Psalm of David .
+19:64:001:0	Hear my voice , O God , in my complaint ; Preserve my life from dread of the enemy .
+19:64:002:0	Hide me from the secret counsel of evildoers , From the tumult of those who do iniquity ,
+19:64:003:0	Who have sharpened their tongue like a sword . They aimed bitter speech as their arrow ,
+19:64:004:0	To shoot from concealment at the blameless ; Suddenly they shoot at him , and do not fear .
+19:64:005:0	They hold fast to themselves an evil purpose ; They talk of laying snares secretly ; They say , “ Who can see them ? ”
+19:64:006:0	They devise injustices , saying , “ We are ready with a well-conceived plot ” ; For the inward thought and the heart of a man are deep .
+19:64:007:0	But God will shoot at them with an arrow ; Suddenly they will be wounded .
+19:64:008:0	So they will make him stumble ; Their own tongue is against them ; All who see them will shake the head .
+19:64:009:0	Then all men will fear , And they will declare the work of God , And will consider what He has done .
+19:64:010:0	The righteous man will be glad in the Lord and will take refuge in Him ; And all the upright in heart will glory .

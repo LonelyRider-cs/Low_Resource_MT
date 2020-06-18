@@ -1,0 +1,31 @@
+19:118:001:1	Psal . cxviii .
+19:118:002:1	Confitemini Domino .
+19:118:001:0	CLodvorwch yr Arglwydd can ys da ytiw : o bleit ei drugaredd [ a bery , yn tragyvyth .
+19:118:002:0	Dywedet yr owrhon Israel , Bot y drugaredd ef [ yn parhau] yn tragyvyth .
+19:118:003:0	Dywedet yr owrhon tuy Aharon Bot y drugaredd ef [ yn paráu] yn tragywyth .
+19:118:004:0	Dywedēt yr owrhon yr ei ofnant yr Arglwydd , Bot y drugared ef [ yn paráu] yn tragywyth .
+19:118:005:0	Yn yr ing y gelweis ar yr Arglwydd , ac im clybu yr Arglwydd , [ ac im gesodes] mewn ehengder .
+19:118:006:0	Yr Arglwydd ys y gyd a’ mi : [ am hyny] nyd ofnaf pa wnel dyn y my .
+19:118:007:0	Yr Arglwydd ’sydd gyd a mi ymplith yr ei ’sydd im cymporth : [ am hyny] y caf welet [ vy-gwynvyd] ar vy caseion .
+19:118:008:0	Gwell yw ymddyriet yn yr Arglwyð , na rhoi coel ar [ nep ryw] ddyn .
+19:118:009:0	Gwell yw ymddiriet yn yr Arglwydd , na rhoi coel ar dywysogion .
+19:118:010:0	Oll genetloedd am cylchynesont : eithr yn Enw yr Arglwydd y destrywiaf hwy .
+19:118:011:0	Cylchynelsynt vi , ys cylchynesont vi : eithr yn Enw yr Arglwydd ei destwywiaf hwy .
+19:118:012:0	Amgylchynesont vi mal gwenyn , ac eu dyffoðwyt mal tán drain : can ys yn Enw yr Arglwyð y destrywiaf hwy .
+19:118:013:0	Gwthiest vi yn ddirvawr , im cwympo : a’r Arglwydd am cymporthawdd .
+19:118:014:0	Vy-grym am cân yw’r Arglwydd , can ys ef a vu vy’mwared .
+19:118:015:0	Llef gorvoleð ac ymwaret , a vyð ym-pepyll yr ei cyfion , [ gan ðywedyt] , Deheulaw yr Arglwydd a wnaeth rym .
+19:118:016:0	Deeulaw yr Arglwydd y ðerchavwyt : deeulaw yr Arglwydd y wnaeth ’rym .
+19:118:017:0	Ny byddaf varw , eithyr byw , a’ manegy gweithrededd yr Arglwydd .
+19:118:018:0	Yr Arglwydd am cospawdd yn ddirvawr , ac ni’m rhoddes y angae .
+19:118:019:0	Agorwch ymy byrth iawnder mal ydd elwyf y mewn yddwynt , [ a’] chlodvori yr Arglwydd .
+19:118:020:0	Hwn yw porth yr Arglwydd : yr ei cyfiawn y ant y mewn iddaw .
+19:118:021:0	Clodvoraf dydy : can ys im gwrandeweist , a’buost ymy yn ymwaret .
+19:118:022:0	Y maen yr hwn y wrthodawdd yr adeilwyr , yw penn y gongl .
+19:118:023:0	Gwaith yr Arglwydd ytoedd hyn , [ a’] rhyvedd yw yn ein llygait .
+19:118:024:0	Hwn [ ywr] dydd y wnaeth yr Arglwydd : byddwn lawen a’ hyfryt ynthaw .
+19:118:025:0	Atolwc , Arglwydd , ymwared yr owrhon : atolwc yr awrhon , Arglwydd , par lwyddo .
+19:118:026:0	Bendiget [ vo yr hwn] a ddel yn Enw yr Arglwydd : bendiethiesam chwi o duy yr Arglwydd .
+19:118:027:0	Ys cadarn yw’r Arglwydd yr hwn a oleuawdd y ni : rhwymwch yr aberth a’ rhaffae wrth gonglae yr allor .
+19:118:028:0	Vy-Dew ytwyt , ac ith glodvoraf , [ ys] vy-Dew : am hyny ith dderchafaf .
+19:118:029:0	Clodvorwch yr Arglwydd can ysda ytyw : a’ ei drugaredd [ a bery] yn dragywyth .

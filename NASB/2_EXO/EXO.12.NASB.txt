@@ -1,0 +1,56 @@
+2:12:001:1	The Passover Lamb
+2:12:001:0	Now the Lord said to Moses and Aaron in the land of Egypt ,
+2:12:002:0	“ This month shall be the beginning of months for you ; it is to be the first month of the year to you .
+2:12:003:0	Speak to all the congregation of Israel , saying , ‘On the tenth of this month they are each one to take a lamb for themselves , according to their fathers’ households , a lamb for each household .
+2:12:004:0	Now if the household is too small for a lamb , then he and his neighbor nearest to his house are to take one according to the number of persons in them ; according to what each man should eat , you are to divide the lamb .
+2:12:005:0	Your lamb shall be an unblemished male a year old ; you may take it from the sheep or from the goats .
+2:12:006:0	You shall keep it until the fourteenth day of the same month , then the whole assembly of the congregation of Israel is to kill it at twilight .
+2:12:007:0	Moreover , they shall take some of the blood and put it on the two doorposts and on the lintel of the houses in which they eat it .
+2:12:008:0	They shall eat the flesh that same night , roasted with fire , and they shall eat it with unleavened bread and bitter herbs .
+2:12:009:0	Do not eat any of it raw or boiled at all with water , but rather roasted with fire , both its head and its legs along with its entrails .
+2:12:010:0	And you shall not leave any of it over until morning , but whatever is left of it until morning , you shall burn with fire .
+2:12:011:0	Now you shall eat it in this manner : with your loins girded , your sandals on your feet , and your staff in your hand ; and you shall eat it in haste—it is the Lord’s Passover .
+2:12:012:0	For I will go through the land of Egypt on that night , and will strike down all the firstborn in the land of Egypt , both man and beast ; and against all the gods of Egypt I will execute judgments—I am the Lord .
+2:12:002:1	Feast of Unleavened Bread
+2:12:013:0	The blood shall be a sign for you on the houses where you live ; and when I see the blood I will pass over you , and no plague will befall you to destroy you when I strike the land of Egypt .
+2:12:014:0	‘Now this day will be a memorial to you , and you shall celebrate it as a feast to the Lord ; throughout your generations you are to celebrate it as a permanent ordinance .
+2:12:015:0	Seven days you shall eat unleavened bread , but on the first day you shall remove leaven from your houses ; for whoever eats anything leavened from the first day until the seventh day , that person shall be cut off from Israel .
+2:12:016:0	On the first day you shall have a holy assembly , and another holy assembly on the seventh day ; no work at all shall be done on them , except what must be eaten by every person , that alone may be prepared by you .
+2:12:017:0	You shall also observe the Feast of Unleavened Bread , for on this very day I brought your hosts out of the land of Egypt ; therefore you shall observe this day throughout your generations as a permanent ordinance .
+2:12:018:0	In the first month , on the fourteenth day of the month at evening , you shall eat unleavened bread , until the twenty-first day of the month at evening .
+2:12:019:0	Seven days there shall be no leaven found in your houses ; for whoever eats what is leavened , that person shall be cut off from the congregation of Israel , whether he is an alien or a native of the land .
+2:12:020:0	You shall not eat anything leavened ; in all your dwellings you shall eat unleavened bread . ’ ”
+2:12:021:0	Then Moses called for all the elders of Israel and said to them , “ Go and take for yourselves lambs according to your families , and slay the Passover lamb .
+2:12:003:1	A Memorial of Redemption
+2:12:022:0	You shall take a bunch of hyssop and dip it in the blood which is in the basin , and apply some of the blood that is in the basin to the lintel and the two doorposts ; and none of you shall go outside the door of his house until morning .
+2:12:023:0	For the Lord will pass through to smite the Egyptians ; and when He sees the blood on the lintel and on the two doorposts , the Lord will pass over the door and will not allow the destroyer to come in to your houses to smite you .
+2:12:024:0	And you shall observe this event as an ordinance for you and your children forever .
+2:12:025:0	When you enter the land which the Lord will give you , as He has promised , you shall observe this rite .
+2:12:026:0	And when your children say to you , ‘What does this rite mean to you ? ’
+2:12:027:0	you shall say , ‘It is a Passover sacrifice to the Lord who passed over the houses of the sons of Israel in Egypt when He smote the Egyptians , but spared our homes . ’ ” And the people bowed low and worshiped .
+2:12:028:0	Then the sons of Israel went and did so ; just as the Lord had commanded Moses and Aaron , so they did .
+2:12:029:0	Now it came about at midnight that the Lord struck all the firstborn in the land of Egypt , from the firstborn of Pharaoh who sat on his throne to the firstborn of the captive who was in the dungeon , and all the firstborn of cattle .
+2:12:030:0	Pharaoh arose in the night , he and all his servants and all the Egyptians , and there was a great cry in Egypt , for there was no home where there was not someone dead .
+2:12:031:0	Then he called for Moses and Aaron at night and said , “ Rise up , get out from among my people , both you and the sons of Israel ; and go , worship the Lord , as you have said .
+2:12:004:1	Exodus of Israel
+2:12:032:0	Take both your flocks and your herds , as you have said , and go , and bless me also . ”
+2:12:033:0	The Egyptians urged the people , to send them out of the land in haste , for they said , “ We will all be dead . ”
+2:12:034:0	So the people took their dough before it was leavened , with their kneading bowls bound up in the clothes on their shoulders .
+2:12:035:0	Now the sons of Israel had done according to the word of Moses , for they had requested from the Egyptians articles of silver and articles of gold , and clothing ;
+2:12:036:0	and the Lord had given the people favor in the sight of the Egyptians , so that they let them have their request . Thus they plundered the Egyptians .
+2:12:037:0	Now the sons of Israel journeyed from Rameses to Succoth , about six hundred thousand men on foot , aside from children .
+2:12:038:0	A mixed multitude also went up with them , along with flocks and herds , a very large number of livestock .
+2:12:039:0	They baked the dough which they had brought out of Egypt into cakes of unleavened bread . For it had not become leavened , since they were driven out of Egypt and could not delay , nor had they prepared any provisions for themselves .
+2:12:040:0	Now the time that the sons of Israel lived in Egypt was four hundred and thirty years .
+2:12:005:1	Ordinance of the Passover
+2:12:041:0	And at the end of four hundred and thirty years , to the very day , all the hosts of the Lord went out from the land of Egypt .
+2:12:042:0	It is a night to be observed for the Lord for having brought them out from the land of Egypt ; this night is for the Lord , to be observed by all the sons of Israel throughout their generations .
+2:12:043:0	The Lord said to Moses and Aaron , “ This is the ordinance of the Passover : no foreigner is to eat of it ;
+2:12:044:0	but every man’s slave purchased with money , after you have circumcised him , then he may eat of it .
+2:12:045:0	A sojourner or a hired servant shall not eat of it .
+2:12:046:0	It is to be eaten in a single house ; you are not to bring forth any of the flesh outside of the house , nor are you to break any bone of it .
+2:12:047:0	All the congregation of Israel are to celebrate this .
+2:12:048:0	But if a stranger sojourns with you , and celebrates the Passover to the Lord , let all his males be circumcised , and then let him come near to celebrate it ; and he shall be like a native of the land . But no uncircumcised person may eat of it .
+2:12:049:0	The same law shall apply to the native as to the stranger who sojourns among you . ”
+2:12:050:0	Then all the sons of Israel did so ; they did just as the Lord had commanded Moses and Aaron .
+2:12:051:0	And on that same day the Lord brought the sons of Israel out of the land of Egypt by their hosts .

@@ -1,0 +1,44 @@
+12:15:001:1	Series of Kings : Azariah ( Uzziah ) over Judah
+12:15:001:0	In the twenty-seventh year of Jeroboam king of Israel , Azariah son of Amaziah king of Judah became king .
+12:15:002:0	He was sixteen years old when he became king , and he reigned fifty-two years in Jerusalem ; and his mother’s name was Jecoliah of Jerusalem .
+12:15:003:0	He did right in the sight of the Lord , according to all that his father Amaziah had done .
+12:15:004:0	Only the high places were not taken away ; the people still sacrificed and burned incense on the high places .
+12:15:005:0	The Lord struck the king , so that he was a leper to the day of his death . And he lived in a separate house , while Jotham the king’s son was over the household , judging the people of the land .
+12:15:006:0	Now the rest of the acts of Azariah and all that he did , are they not written in the Book of the Chronicles of the Kings of Judah ?
+12:15:002:1	Zechariah over Israel
+12:15:007:0	And Azariah slept with his fathers , and they buried him with his fathers in the city of David , and Jotham his son became king in his place .
+12:15:008:0	In the thirty-eighth year of Azariah king of Judah , Zechariah the son of Jeroboam became king over Israel in Samaria for six months .
+12:15:009:0	He did evil in the sight of the Lord , as his fathers had done ; he did not depart from the sins of Jeroboam the son of Nebat , which he made Israel sin .
+12:15:010:0	Then Shallum the son of Jabesh conspired against him and struck him before the people and killed him , and reigned in his place .
+12:15:011:0	Now the rest of the acts of Zechariah , behold they are written in the Book of the Chronicles of the Kings of Israel .
+12:15:012:0	This is the word of the Lord which He spoke to Jehu , saying , “ Your sons to the fourth generation shall sit on the throne of Israel . ” And so it was .
+12:15:013:0	Shallum son of Jabesh became king in the thirty-ninth year of Uzziah king of Judah , and he reigned one month in Samaria .
+12:15:014:0	Then Menahem son of Gadi went up from Tirzah and came to Samaria , and struck Shallum son of Jabesh in Samaria , and killed him and became king in his place .
+12:15:015:0	Now the rest of the acts of Shallum and his conspiracy which he made , behold they are written in the Book of the Chronicles of the Kings of Israel .
+12:15:003:1	Menahem over Israel
+12:15:016:0	Then Menahem struck Tiphsah and all who were in it and its borders from Tirzah , because they did not open to him ; therefore he struck it and ripped up all its women who were with child .
+12:15:017:0	In the thirty-ninth year of Azariah king of Judah , Menahem son of Gadi became king over Israel and reigned ten years in Samaria .
+12:15:018:0	He did evil in the sight of the Lord ; he did not depart all his days from the sins of Jeroboam the son of Nebat , which he made Israel sin .
+12:15:019:0	Pul , king of Assyria , came against the land , and Menahem gave Pul a thousand talents of silver so that his hand might be with him to strengthen the kingdom under his rule .
+12:15:020:0	Then Menahem exacted the money from Israel , even from all the mighty men of wealth , from each man fifty shekels of silver to pay the king of Assyria . So the king of Assyria returned and did not remain there in the land .
+12:15:021:0	Now the rest of the acts of Menahem and all that he did , are they not written in the Book of the Chronicles of the Kings of Israel ?
+12:15:004:1	Pekahiah over Israel
+12:15:022:0	And Menahem slept with his fathers , and Pekahiah his son became king in his place .
+12:15:023:0	In the fiftieth year of Azariah king of Judah , Pekahiah son of Menahem became king over Israel in Samaria , and reigned two years .
+12:15:024:0	He did evil in the sight of the Lord ; he did not depart from the sins of Jeroboam son of Nebat , which he made Israel sin .
+12:15:025:0	Then Pekah son of Remaliah , his officer , conspired against him and struck him in Samaria , in the castle of the king’s house with Argob and Arieh ; and with him were fifty men of the Gileadites , and he killed him and became king in his place .
+12:15:005:1	Pekah over Israel
+12:15:026:0	Now the rest of the acts of Pekahiah and all that he did , behold they are written in the Book of the Chronicles of the Kings of Israel .
+12:15:027:0	In the fifty-second year of Azariah king of Judah , Pekah son of Remaliah became king over Israel in Samaria , and reigned twenty years .
+12:15:028:0	He did evil in the sight of the Lord ; he did not depart from the sins of Jeroboam son of Nebat , which he made Israel sin .
+12:15:029:0	In the days of Pekah king of Israel , Tiglath-pileser king of Assyria came and captured Ijon and Abel-beth-maacah and Janoah and Kedesh and Hazor and Gilead and Galilee , all the land of Naphtali ; and he carried them captive to Assyria .
+12:15:030:0	And Hoshea the son of Elah made a conspiracy against Pekah the son of Remaliah , and struck him and put him to death and became king in his place , in the twentieth year of Jotham the son of Uzziah .
+12:15:006:1	Jotham over Judah
+12:15:031:0	Now the rest of the acts of Pekah and all that he did , behold , they are written in the Book of the Chronicles of the Kings of Israel .
+12:15:032:0	In the second year of Pekah the son of Remaliah king of Israel , Jotham the son of Uzziah king of Judah became king .
+12:15:033:0	He was twenty-five years old when he became king , and he reigned sixteen years in Jerusalem ; and his mother’s name was Jerusha the daughter of Zadok .
+12:15:034:0	He did what was right in the sight of the Lord ; he did according to all that his father Uzziah had done .
+12:15:035:0	Only the high places were not taken away ; the people still sacrificed and burned incense on the high places . He built the upper gate of the house of the Lord .
+12:15:036:0	Now the rest of the acts of Jotham and all that he did , are they not written in the Book of the Chronicles of the Kings of Judah ?
+12:15:037:0	In those days the Lord began to send Rezin king of Aram and Pekah the son of Remaliah against Judah .
+12:15:038:0	And Jotham slept with his fathers , and he was buried with his fathers in the city of David his father ; and Ahaz his son became king in his place .

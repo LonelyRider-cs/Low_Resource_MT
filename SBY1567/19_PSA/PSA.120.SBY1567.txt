@@ -1,0 +1,9 @@
+19:120:001:1	Psalm . cxx .
+19:120:002:1	Ad Dominum cum tribularer .
+19:120:001:0	AR yr Arglwydd yn vy ing y galwais , ac ef am gwrandaodd .
+19:120:002:0	Arglwydd gwared vy eneit rac gwesusae celwyddawc , [ a’] rrac tavot dichellgar .
+19:120:003:0	Pa [ beth] a ddwc dy davot dichellgar yty ? neu pa les a wna yty ?
+19:120:004:0	Tebic yw y saetheu [ blaenllymion gwr cadarn , a’ megis marwor y meryw .
+19:120:005:0	Gwae vi vy-bot yn trigo ym -Mésech : a’phreswiliaw ym-pepyll Kedár .
+19:120:006:0	Ryhir y trigawdd vy eneit gyd a hwn oedd yn casau tangneddyf .
+19:120:007:0	[ Gwr] tangneddyf yw vi , a phan gympwyllwyf [ am danaw] mae hwythe [ a’i bryd] ar ryvel .

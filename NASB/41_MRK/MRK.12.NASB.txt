@@ -1,0 +1,47 @@
+41:12:001:1	Parable of the Vine-growers
+41:12:001:0	And He began to speak to them in parables : “ A man , , and rented it out to vine-growers and went on a journey .
+41:12:002:0	At the time he sent a slave to the vine-growers , in order to receive of the produce of the vineyard from the vine-growers .
+41:12:003:0	They took him , and beat him and sent him away empty-handed .
+41:12:004:0	Again he sent them another slave , and they wounded him in the head , and treated him shamefully .
+41:12:005:0	And he sent another , and that one they killed ; and many others , beating some and killing others .
+41:12:006:0	He had one more a beloved son ; he sent him last to them , saying , ‘They will respect my son . ’
+41:12:007:0	But those vine-growers said to one another , ‘This is the heir ; come , let us kill him , and the inheritance will be ours ! ’
+41:12:008:0	They took him , and killed him and threw him out of the vineyard .
+41:12:009:0	What will the owner of the vineyard do ? He will come and destroy the vine-growers , and will give the vineyard to others .
+41:12:010:0	Have you not even read this Scripture : ‘T , T
+41:12:011:0	T L , A’ ? ”
+41:12:002:1	Jesus Answers the Pharisees , Sadducees and Scribes
+41:12:012:0	And they were seeking to seize Him , and yet they feared the people , for they understood that He spoke the parable against them . And so they left Him and went away .
+41:12:013:0	Then they *sent some of the Pharisees and Herodians to Him in order to trap Him in a statement .
+41:12:014:0	They *came and *said to Him , “ Teacher , we know that You are truthful and defer to no one ; for You are not partial to any , but teach the way of God in truth . Is it lawful to pay a poll-tax to Caesar , or not ?
+41:12:015:0	Shall we pay or shall we not pay ? ” But He , knowing their hypocrisy , said to them , “ Why are you testing Me ? Bring Me a denarius to look at . ”
+41:12:016:0	They brought one . And He *said to them , “ Whose likeness and inscription is this ? ” And they said to Him , “ Caesar’s . ”
+41:12:017:0	And Jesus said to them , “ Render to Caesar the things that are Caesar’s , and to God the things that are God’s . ” And they were amazed at Him .
+41:12:018:0	Some Sadducees ( who say that there is no resurrection ) *came to Jesus , and began questioning Him , saying ,
+41:12:019:0	“ Teacher , Moses wrote for us that if a man’s brother dies and leaves behind a wife and leaves no child , his brother should marry the wife and raise up children to his brother .
+41:12:020:0	There were seven brothers ; and the first took a wife , and died leaving no children .
+41:12:021:0	The second one married her , and died leaving behind no children ; and the third likewise ;
+41:12:022:0	and so all seven left no children . Last of all the woman died also .
+41:12:023:0	In the resurrection , when they rise again , which one’s wife will she be ? For all seven had married her . ”
+41:12:024:0	Jesus said to them , “ Is this not the reason you are mistaken , that you do not understand the Scriptures or the power of God ?
+41:12:025:0	For when they rise from the dead , they neither marry nor are given in marriage , but are like angels in heaven .
+41:12:026:0	But regarding the fact that the dead rise again , have you not read in the book of Moses , in the about bush , how God spoke to him , saying , ‘I G A , G I , G J’ ?
+41:12:027:0	He is not the God of the dead , but of the living ; you are greatly mistaken . ”
+41:12:028:0	One of the scribes came and heard them arguing , and recognizing that He had answered them well , asked Him , “ What commandment is the foremost of all ? ”
+41:12:029:0	Jesus answered , “ The foremost is , ‘H , O I ! T L G L ;
+41:12:030:0	L G , , , . ’
+41:12:031:0	The second is this , ‘Y . ’ There is no other commandment greater than these . ”
+41:12:032:0	The scribe said to Him , “ Right , Teacher ; You have truly stated that He is One , and there is no one else besides Him ;
+41:12:033:0	and to love Him with all the heart and with all the understanding and with all the strength , and to love one’s neighbor as himself , is much more than all burnt offerings and sacrifices . ”
+41:12:034:0	When Jesus saw that he had answered intelligently , He said to him , “ You are not far from the kingdom of God . ” After that , no one would venture to ask Him any more questions .
+41:12:035:0	And Jesus began to say , as He taught in the temple , “ How the scribes say that the Christ is the son of David ?
+41:12:036:0	David himself said in the Holy Spirit , ‘T L L , “ S M , U I Y Y . ” ’
+41:12:037:0	David himself calls Him ‘Lord’ ; so in what sense is He his son ? ” And the large crowd enjoyed listening to Him .
+41:12:038:0	In His teaching He was saying : “ Beware of the scribes who like to walk around in long robes , and respectful greetings in the market places ,
+41:12:039:0	and chief seats in the synagogues and places of honor at banquets ,
+41:12:003:1	The Widow’s Mite
+41:12:040:0	who devour widows’ houses , and for appearance’s sake offer long prayers ; these will receive greater condemnation . ”
+41:12:041:0	And He sat down opposite the treasury , and began observing how the people were putting money into the treasury ; and many rich people were putting in large sums .
+41:12:042:0	A poor widow came and put in two small copper coins , which amount to a cent .
+41:12:043:0	Calling His disciples to Him , He said to them , “ Truly I say to you , this poor widow put in more than all the contributors to the treasury ;
+41:12:044:0	for they all put in out of their surplus , but she , out of her poverty , put in all she owned , all she had to live on . ”

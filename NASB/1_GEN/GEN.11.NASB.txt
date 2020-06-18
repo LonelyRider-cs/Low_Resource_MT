@@ -1,0 +1,34 @@
+1:11:001:1	Universal Language , Babel , Confusion
+1:11:001:0	Now the whole earth used the same language and the same words .
+1:11:002:0	It came about as they journeyed east , that they found a plain in the land of Shinar and settled there .
+1:11:003:0	They said to one another , “ Come , let us make bricks and burn them thoroughly . ” And they used brick for stone , and they used tar for mortar .
+1:11:004:0	They said , “ Come , let us build for ourselves a city , and a tower whose top will reach into heaven , and let us make for ourselves a name , otherwise we will be scattered abroad over the face of the whole earth . ”
+1:11:005:0	The Lord came down to see the city and the tower which the sons of men had built .
+1:11:006:0	The Lord said , “ Behold , they are one people , and they all have the same language . And this is what they began to do , and now nothing which they purpose to do will be impossible for them .
+1:11:007:0	Come , let Us go down and there confuse their language , so that they will not understand one another’s speech . ”
+1:11:008:0	So the Lord scattered them abroad from there over the face of the whole earth ; and they stopped building the city .
+1:11:002:1	Descendants of Shem
+1:11:009:0	Therefore its name was called Babel , because there the Lord confused the language of the whole earth ; and from there the Lord scattered them abroad over the face of the whole earth .
+1:11:010:0	These are the records of the generations of Shem . Shem was one hundred years old , and became the father of Arpachshad two years after the flood ;
+1:11:011:0	and Shem lived five hundred years after he became the father of Arpachshad , and he had other sons and daughters .
+1:11:012:0	Arpachshad lived thirty-five years , and became the father of Shelah ;
+1:11:013:0	and Arpachshad lived four hundred and three years after he became the father of Shelah , and he had other sons and daughters .
+1:11:014:0	Shelah lived thirty years , and became the father of Eber ;
+1:11:015:0	and Shelah lived four hundred and three years after he became the father of Eber , and he had other sons and daughters .
+1:11:016:0	Eber lived thirty-four years , and became the father of Peleg ;
+1:11:017:0	and Eber lived four hundred and thirty years after he became the father of Peleg , and he had other sons and daughters .
+1:11:018:0	Peleg lived thirty years , and became the father of Reu ;
+1:11:019:0	and Peleg lived two hundred and nine years after he became the father of Reu , and he had other sons and daughters .
+1:11:020:0	Reu lived thirty-two years , and became the father of Serug ;
+1:11:021:0	and Reu lived two hundred and seven years after he became the father of Serug , and he had other sons and daughters .
+1:11:022:0	Serug lived thirty years , and became the father of Nahor ;
+1:11:023:0	and Serug lived two hundred years after he became the father of Nahor , and he had other sons and daughters .
+1:11:024:0	Nahor lived twenty-nine years , and became the father of Terah ;
+1:11:025:0	and Nahor lived one hundred and nineteen years after he became the father of Terah , and he had other sons and daughters .
+1:11:026:0	Terah lived seventy years , and became the father of Abram , Nahor and Haran .
+1:11:027:0	Now these are the records of the generations of Terah . Terah became the father of Abram , Nahor and Haran ; and Haran became the father of Lot .
+1:11:028:0	Haran died in the presence of his father Terah in the land of his birth , in Ur of the Chaldeans .
+1:11:029:0	Abram and Nahor took wives for themselves . The name of Abram’s wife was Sarai ; and the name of Nahor’s wife was Milcah , the daughter of Haran , the father of Milcah and Iscah .
+1:11:030:0	Sarai was barren ; she had no child .
+1:11:031:0	Terah took Abram his son , and Lot the son of Haran , his grandson , and Sarai his daughter-in-law , his son Abram’s wife ; and they went out together from Ur of the Chaldeans in order to enter the land of Canaan ; and they went as far as Haran , and settled there .
+1:11:032:0	The days of Terah were two hundred and five years ; and Terah died in Haran .

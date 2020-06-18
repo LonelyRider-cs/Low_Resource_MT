@@ -1,0 +1,37 @@
+19:22:001:1	PSALM 22
+19:22:002:1	A Cry of Anguish and a Song of Praise .
+19:22:003:1	For the choir director ; upon
+19:22:004:1	Lit
+19:22:005:1	the hind of the morning
+19:22:006:1	Aijeleth Hashshahar . A Psalm of David .
+19:22:001:0	My God , my God , why have You forsaken me ? Far from my deliverance are the words of my groaning .
+19:22:002:0	O my God , I cry by day , but You do not answer ; And by night , but I have no rest .
+19:22:003:0	Yet You are holy , O You who are enthroned upon the praises of Israel .
+19:22:004:0	In You our fathers trusted ; They trusted and You delivered them .
+19:22:005:0	To You they cried out and were delivered ; In You they trusted and were not disappointed .
+19:22:006:0	But I am a worm and not a man , A reproach of men and despised by the people .
+19:22:007:0	All who see me sneer at me ; They separate with the lip , they wag the head , saying ,
+19:22:008:0	“ Commit yourself to the Lord ; let Him deliver him ; Let Him rescue him , because He delights in him . ”
+19:22:009:0	Yet You are He who brought me forth from the womb ; You made me trust when upon my mother’s breasts .
+19:22:010:0	Upon You I was cast from birth ; You have been my God from my mother’s womb .
+19:22:011:0	Be not far from me , for trouble is near ; For there is none to help .
+19:22:012:0	Many bulls have surrounded me ; Strong bulls of Bashan have encircled me .
+19:22:013:0	They open wide their mouth at me , As a ravening and a roaring lion .
+19:22:014:0	I am poured out like water , And all my bones are out of joint ; My heart is like wax ; It is melted within me .
+19:22:015:0	My strength is dried up like a potsherd , And my tongue cleaves to my jaws ; And You lay me in the dust of death .
+19:22:016:0	For dogs have surrounded me ; A band of evildoers has encompassed me ; They pierced my hands and my feet .
+19:22:017:0	I can count all my bones . They look , they stare at me ;
+19:22:018:0	They divide my garments among them , And for my clothing they cast lots .
+19:22:019:0	But You , O Lord , be not far off ; O You my help , hasten to my assistance .
+19:22:020:0	Deliver my soul from the sword , My only life from the power of the dog .
+19:22:021:0	Save me from the lion’s mouth ; From the horns of the wild oxen You answer me .
+19:22:022:0	I will tell of Your name to my brethren ; In the midst of the assembly I will praise You .
+19:22:023:0	You who fear the Lord , praise Him ; All you descendants of Jacob , glorify Him , And stand in awe of Him , all you descendants of Israel .
+19:22:024:0	For He has not despised nor abhorred the affliction of the afflicted ; Nor has He hidden His face from him ; But when he cried to Him for help , He heard .
+19:22:025:0	From You comes my praise in the great assembly ; I shall pay my vows before those who fear Him .
+19:22:026:0	The afflicted will eat and be satisfied ; Those who seek Him will praise the Lord . Let your heart live forever !
+19:22:027:0	All the ends of the earth will remember and turn to the Lord , And all the families of the nations will worship before You .
+19:22:028:0	For the kingdom is the Lord’sAnd He rules over the nations .
+19:22:029:0	All the prosperous of the earth will eat and worship , All those who go down to the dust will bow before Him , Even he who cannot keep his soul alive .
+19:22:030:0	Posterity will serve Him ; It will be told of the Lord to the coming generation .
+19:22:031:0	They will come and will declare His righteousnessTo a people who will be born , that He has performed it .

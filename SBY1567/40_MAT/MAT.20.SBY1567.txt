@@ -1,0 +1,40 @@
+40:20:001:1	Pen . xx .
+40:20:002:1	Christ yn dyscy drwy gyffelyprwydd , nad yw Duw yn dled neb , a’ei vod ef yn ’oystad yn galw dynion yw waith ef . Ef yn y rhybyddiaw hwy am ei ddyoddefaint . Yn dyscy yr eiddaw ef i ymoglyd nac
+40:20:003:1	20 : 0
+40:20:004:1	*
+40:20:005:1	rhyvic rhvvyf
+40:20:006:1	rhwysc . Christ yn taly ein ranswm a’n prynedigaeth . Ef yn rhoi ei golwc i ddau ddall .
+40:20:001:0	CAnys teyrnas nefoedd ’sy debic y berchen tuy , yr hwn aeth allan a’ hi yn dyðhay i gyflogy gweithwyr y’w ’winllan .
+40:20:002:0	Ac ef a gytunawð a’r gweithwyr er ceiniawc y dydd , ac y danvonoð hwy yw winllan .
+40:20:003:0	Ac ef aeth al’an ynghylch y drydedd awr , ac a weles eraill yn sefyll yn segur yn y varchnat , ac aðyvot wrthwynt .
+40:20:004:0	Ewch chwithe hefyt i ’m gwinllan , a’ pheth bynac a vo cyfiawn mi ei rhof y chwy . Ac wynt aethāt ymaith .
+40:20:005:0	Trachefyn yddaeth ef allan ynghylch y chwechet a’r nawet awr , ac a wnaeth yr vn moð ,
+40:20:006:0	Ac ef aeth allan yn‐cylch yr vnved awr arðec , ac a gafas ereill yn sefyll yn segur , ac a ddyvot wrthynt . Paam ydd y chwi yn sefyll yma yn hyd y dydd yn segur ?
+40:20:007:0	Dywedesont wrtho , Am nad oedd nep in cyflogy . Ef a ddyvot wrththynt , Ewch chwithae hefyt i’m gwinllan , a’ pheth bynac a vo cyfiawn , chwi ei cewch .
+40:20:008:0	A’ phan aeth hi yn hwyr , y dyvot Arglwydd y winllan wrth ei ’orchwiliwr , Galw yr gweithwyr , a’ dyro yddynt ei cyfloc , can ddaechrae or hei dywethaf yd yr ei cyntaf .
+40:20:009:0	A’ phan ðeuth yr ei a gyflogesit yn‐cylch yr vnvet awr arddec , cahel a wnacth pop vn geinioc .
+40:20:010:0	A’ phan ddeuth yr ei cyntaf , wy dybiesōt y cahēt vwy , eithr hwythae hefyt a gawsant bob‐vn geiniawc .
+40:20:011:0	A’ gwedy yddwynt gahel , grwgnach a wnaethant wrth wr y tuy ,
+40:20:012:0	gan ddywedyt , Ny weithiodd yr ei olaf hyn anid vn awr , a’ thi ei gwnaethost yn gystal a ninae r’ ei a ddygesam bwys y dydd a’r tes .
+40:20:013:0	Ac ef a atebawdd i vn o hanwynt ac addyvot , Y carwr , nid wyf yn gwnaethy dim cam a thi : Anid er ceiniawc y cytuneist a mi ?
+40:20:014:0	cymer y peth ’sydd i ti , a’ dos ymaith : mi a ewllysiaf roddy ir olaf hwn , megis ac y tithef ,
+40:20:015:0	Anid iawn i mi wneythyd a vynwyf am y s’y i mi vyhun ? a ytyw dy lygat ti yn ddrwc am vy‐bot i yn dda ?
+40:20:016:0	Velly y bydd yr ei olaf yn vlaenaf , ar ei blaenaf yn olaf : can ys llawer a alwyt , ac ychydigion a ddetholwyt .
+40:20:017:0	A’r Iesu aeth i vynydd i Gaerusalem , ac a gymerth y deuddec discipulon o’r nailltuy ar y fforð ac a ddyvot wrthyn ,
+40:20:018:0	Nycha nyny yn myned i vynydd i Gaerusalem , a’ Map y dyn a roddir i’r Anchoffeirieit ac i’r Gwyr‐llen , ac wy y barnan ef i angae ,
+40:20:019:0	ac y roddant ef i’r Cenedloedd er yddyn watwor , a’ei yscyrsiaw , a’ ei grogi : a’r trydyð dydd y cyfyd ef drachefyn . Yr Euangel ar ddydd S . Iaco Apostol
+40:20:020:0	¶ Yno y deuth ataw mam plant Zebedeus y gyd a hei meibion , can ei addoli , ac erchy ryw beth ganto .
+40:20:021:0	Ac ef a ddyvot wrthei , Peth a vynny ? Y hi a ddyvot wrthaw , Caniata ir ei hynn vy‐deu vaip gahel eistedd , vn ar dy ddeheulaw , ar llall ar dy law aswy yn dy deyrnas .
+40:20:022:0	A’r Iesu a atepawð ac a ddyvot , Ny wyðoch beth y archwch . A ellwch yvet o’r cwpan ydd yfwy vi o hanavv a’ch batyðiaw a’r batydd y batyddier vi ? Dywedesont wrthaw Gallwn .
+40:20:023:0	Ac ef a ddyvot wrthwynt . Diogel ydd yfwch o’m cwpan ac ich batyddier , a’r batydd i’m batydier i gantavv , eithyr eistedd ar vy‐deheulaw ac ar vy llaw aswy , nid yw i mi y roi : eithyr e roddir i’r sawl y darparwyt y ganvy‐Tat .
+40:20:024:0	A’ phā gigleu ’r dec ereill hyn , sory awnaethant wrth y ddau vroder .
+40:20:025:0	Can hyny yr Iesu ei galwodd wynt ataw , ac a ddyvot , Ys gwydoch mae penaetheit y Cenetloedd a arglwyðiant arnaðwynt , a’r gwyr mawrion , ae gwrthlywiant wy .
+40:20:026:0	Ac nid velly y byð yn ych plith chwi , anid pwy pynac a vynno vot yn wr mawr yn eich plith chwi , byddet yn wasanaethwr y chwy ,
+40:20:027:0	a’ phwy pynac a vynno bot yn pennaf yn eich plith , bit e yn was y’wch ,
+40:20:028:0	megis , ac y deuth Map y dyn nyd y’w wasanaethy , ’namyn er gwasanaethu , ac y roddy ei vywyt yn bryniant tros lawer .
+40:20:029:0	Ac wyntwy yn myned yffordd o Iericho , y dilynodd tyrfa vawr ef .
+40:20:030:0	A’ nycha , ddau ddeillion yn eistedd ar vin y ffordd , pan glywesont vot yr Iesu yn myned heibio , y llefesont , gan ddywedyt , Arglwydd vap Dauid trugara wrthym .
+40:20:031:0	A’r dyrfa y ceryddawddvvy , yn y thawent a son : wythe a lefason yn vwy , gan ddywedyt , Arglwydd vap Dauid trugara , wrthym .
+40:20:032:0	Yno y safodd yr Iesu , ac y galwadd wy ac a ddyvot , Beth a ewyllisiwch imi y wneythyd ywch’ ?
+40:20:033:0	Dywedesont wrthaw , Arglwydd , bod agori ein llygait .
+40:20:034:0	A’r Iesu gan dosturiaw a gyhyrddodd a ei llygait : ac yn y van y cymerth ey llygait olwc , ac vvy y dylynesont ef .

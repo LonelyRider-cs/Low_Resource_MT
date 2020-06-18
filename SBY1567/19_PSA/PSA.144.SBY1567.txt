@@ -1,0 +1,17 @@
+19:144:001:1	Psalm . cxliiij .
+19:144:002:1	Benedictus Dominus .
+19:144:001:0	BEndigeit [ vo] yr Arglwydd vy nerth , yr hwn y ddysc vy-dwylo y ymladd , [ a’m bysedd i vrwydr .
+19:144:002:0	Efe yw vy-trugaredd a’ ymddeffenva , vy-twr [ am] gwaredwr , vy-bronddor , ac ynthaw y ym diriedaf , yr hwn sy yn darestwng vy-popul y danaf .
+19:144:003:0	Arglwyð , pa beth yw dyn pan adnabyddych ef ? nei vap dyn pan veddylych am danaw ?
+19:144:004:0	Dyn ysy debic y wagedd : ei ddyðiae [ ysy] megis gwascawt , y ddivlanna .
+19:144:005:0	Arglwydd , plyc y lawr dy nefoedd , a’ descen : cyhwrdd a’r mynyddedd a’ mugant .
+19:144:006:0	Melltenha y lluchet a’ diva hwy : saetha dy saethae , a’ thervysca hwy .
+19:144:007:0	Anvon dy law o dducho : gwaret vi , a’ dwc vi o’r dyfreð mawrion , [ ac] o law plant estran ,
+19:144:008:0	Yr ei y son ei geneu am wagedd , a’i deheulaw ysy ddeheulaw ffalsedd .
+19:144:009:0	Dew , canaf yty ganiat newydd , [ ac] ar y , nabel , [ a’r] dectant y canaf y-ty .
+19:144:010:0	[ Efe] yw yr hwn ’sy yn rhoi ymwared y Vrenhinedd , ac yn achup Dauid ei was rac y cleddyf anvad .
+19:144:011:0	Achup vi , a’dianc vi y wrth plant estran , yr ei y siarat ei genae wagedd , a’ei deheulaw , ys y] ðeheulaw ffalsedd :
+19:144:012:0	Mal [ y bo] ein meibion megis y planwyð yn tyvu yn ei hieunctit , a’n merchet meis y conglvain wedi ei tori ar wedd llys :
+19:144:013:0	Mal [ y bo] ein conglae yn gyflawn , [ ac] yn aml o amryw wedd , a’ bot y ein deueit ddwyn miloedd a’ myrdd yn ei ol heolydd :
+19:144:014:0	Mal y bo ein , ychen yn gryfion y lavurio : na bo dim bwlch na myned allan , na dim gwaeddi yn ein heolyð .
+19:144:015:0	Gwyn ei vyt y popul , y vo velly , ys gwynwydedic y popul , y bo yr Arglwydd yn Ddeo yddwynt .

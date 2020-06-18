@@ -1,0 +1,24 @@
+5:24:001:1	Law of Divorce
+5:24:001:0	“ When a man takes a wife and marries her , and it happens that she finds no favor in his eyes because he has found some indecency in her , and he writes her a certificate of divorce and puts it in her hand and sends her out from his house ,
+5:24:002:0	and she leaves his house and goes and becomes another man’s wife ,
+5:24:003:0	and if the latter husband turns against her and writes her a certificate of divorce and puts it in her hand and sends her out of his house , or if the latter husband dies who took her to be his wife ,
+5:24:004:0	then her former husband who sent her away is not allowed to take her again to be his wife , since she has been defiled ; for that is an abomination before the Lord , and you shall not bring sin on the land which the Lord your God gives you as an inheritance .
+5:24:002:1	Sundry Laws
+5:24:005:0	“ When a man takes a new wife , he shall not go out with the army nor be charged with any duty ; he shall be free at home one year and shall give happiness to his wife whom he has taken .
+5:24:006:0	“ No one shall take a handmill or an upper millstone in pledge , for he would be taking a life in pledge .
+5:24:007:0	“ If a man is caught kidnapping any of his countrymen of the sons of Israel , and he deals with him violently or sells him , then that thief shall die ; so you shall purge the evil from among you .
+5:24:008:0	“ Be careful against an infection of leprosy , that you diligently observe and do according to all that the Levitical priests teach you ; as I have commanded them , so you shall be careful to do .
+5:24:009:0	Remember what the Lord your God did to Miriam on the way as you came out of Egypt .
+5:24:010:0	“ When you make your neighbor a loan of any sort , you shall not enter his house to take his pledge .
+5:24:011:0	You shall remain outside , and the man to whom you make the loan shall bring the pledge out to you .
+5:24:012:0	If he is a poor man , you shall not sleep with his pledge .
+5:24:013:0	When the sun goes down you shall surely return the pledge to him , that he may sleep in his cloak and bless you ; and it will be righteousness for you before the Lord your God .
+5:24:014:0	“ You shall not oppress a hired servant who is poor and needy , whether he is one of your countrymen or one of your aliens who is in your land in your towns .
+5:24:015:0	You shall give him his wages on his day before the sun sets , for he is poor and sets his heart on it ; so that he will not cry against you to the Lord and it become sin in you .
+5:24:016:0	“ Fathers shall not be put to death for their sons , nor shall sons be put to death for their fathers ; everyone shall be put to death for his own sin .
+5:24:017:0	“ You shall not pervert the justice due an alien or an orphan , nor take a widow’s garment in pledge .
+5:24:018:0	But you shall remember that you were a slave in Egypt , and that the Lord your God redeemed you from there ; therefore I am commanding you to do this thing .
+5:24:019:0	“ When you reap your harvest in your field and have forgotten a sheaf in the field , you shall not go back to get it ; it shall be for the alien , for the orphan , and for the widow , in order that the Lord your God may bless you in all the work of your hands .
+5:24:020:0	When you beat your olive tree , you shall not go over the boughs again ; it shall be for the alien , for the orphan , and for the widow .
+5:24:021:0	“ When you gather the grapes of your vineyard , you shall not go over it again ; it shall be for the alien , for the orphan , and for the widow .
+5:24:022:0	You shall remember that you were a slave in the land of Egypt ; therefore I am commanding you to do this thing .

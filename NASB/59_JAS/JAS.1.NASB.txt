@@ -1,0 +1,28 @@
+59:1:001:1	Testing Your Faith
+59:1:001:0	James , a bond-servant of God and of the Lord Jesus Christ , To the twelve tribes who are dispersed abroad : Greetings .
+59:1:002:0	Consider it all joy , my brethren , when you encounter various trials ,
+59:1:003:0	knowing that the testing of your faith produces endurance .
+59:1:004:0	And let endurance have its perfect result , so that you may be perfect and complete , lacking in nothing .
+59:1:005:0	But if any of you lacks wisdom , let him ask of God , who gives to all generously and without reproach , and it will be given to him .
+59:1:006:0	But he must ask in faith without any doubting , for the one who doubts is like the surf of the sea , driven and tossed by the wind .
+59:1:007:0	For that man ought not to expect that he will receive anything from the Lord ,
+59:1:008:0	being a double-minded man , unstable in all his ways .
+59:1:009:0	But the brother of humble circumstances is to glory in his high position ;
+59:1:010:0	and the rich man is to glory in his humiliation , because like flowering grass he will pass away .
+59:1:011:0	For the sun rises with a scorching wind and withers the grass ; and its flower falls off and the beauty of its appearance is destroyed ; so too the rich man in the midst of his pursuits will fade away .
+59:1:012:0	Blessed is a man who perseveres under trial ; for once he has been approved , he will receive the crown of life which the Lord has promised to those who love Him .
+59:1:013:0	Let no one say when he is tempted , “ I am being tempted by God ” ; for God cannot be tempted by evil , and He Himself does not tempt anyone .
+59:1:014:0	But each one is tempted when he is carried away and enticed by his own lust .
+59:1:015:0	Then when lust has conceived , it gives birth to sin ; and when sin is accomplished , it brings forth death .
+59:1:016:0	Do not be deceived , my beloved brethren .
+59:1:017:0	Every good thing given and every perfect gift is from above , coming down from the Father of lights , with whom there is no variation or shifting shadow .
+59:1:018:0	In the exercise of His will He brought us forth by the word of truth , so that we would be a kind of first fruits among His creatures .
+59:1:019:0	This you know , my beloved brethren . But everyone must be quick to hear , slow to speak and slow to anger ;
+59:1:020:0	for the anger of man does not achieve the righteousness of God .
+59:1:021:0	Therefore , putting aside all filthiness and all that remains of wickedness , in humility receive the word implanted , which is able to save your souls .
+59:1:022:0	But prove yourselves doers of the word , and not merely hearers who delude themselves .
+59:1:023:0	For if anyone is a hearer of the word and not a doer , he is like a man who looks at his natural face in a mirror ;
+59:1:024:0	for once he has looked at himself and gone away , he has immediately forgotten what kind of person he was .
+59:1:025:0	But one who looks intently at the perfect law , the law of liberty , and abides by it , not having become a forgetful hearer but an effectual doer , this man will be blessed in what he does .
+59:1:026:0	If anyone thinks himself to be religious , and yet does not bridle his tongue but deceives his own heart , this man’s religion is worthless .
+59:1:027:0	Pure and undefiled religion in the sight of our God and Father is this : to visit orphans and widows in their distress , and to keep oneself unstained by the world .

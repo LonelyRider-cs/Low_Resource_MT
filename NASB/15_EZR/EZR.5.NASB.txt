@@ -1,0 +1,19 @@
+15:5:001:1	Temple Work Resumed
+15:5:001:0	When the prophets , Haggai the prophet and Zechariah the son of Iddo , prophesied to the Jews who were in Judah and Jerusalem in the name of the God of Israel , who was over them ,
+15:5:002:0	then Zerubbabel the son of Shealtiel and Jeshua the son of Jozadak arose and began to rebuild the house of God which is in Jerusalem ; and the prophets of God were with them supporting them .
+15:5:003:0	At that time Tattenai , the governor of the province beyond the River , and Shethar-bozenai and their colleagues came to them and spoke to them thus , “ Who issued you a decree to rebuild this temple and to finish this structure ? ”
+15:5:004:0	Then we told them accordingly what the names of the men were who were reconstructing this building .
+15:5:002:1	Adversaries Write to Darius
+15:5:005:0	But the eye of their God was on the elders of the Jews , and they did not stop them until a report could come to Darius , and then a written reply be returned concerning it .
+15:5:006:0	This is the copy of the letter which Tattenai , the governor of the province beyond the River , and Shethar-bozenai and his colleagues the officials , who were beyond the River , sent to Darius the king .
+15:5:007:0	They sent a report to him in which it was written thus : “ To Darius the king , all peace .
+15:5:008:0	Let it be known to the king that we have gone to the province of Judah , to the house of the great God , which is being built with huge stones , and beams are being laid in the walls ; and this work is going on with great care and is succeeding in their hands .
+15:5:009:0	Then we asked those elders and said to them thus , ‘Who issued you a decree to rebuild this temple and to finish this structure ? ’
+15:5:010:0	We also asked them their names so as to inform you , and that we might write down the names of the men who were at their head .
+15:5:011:0	Thus they answered us , saying , ‘We are the servants of the God of heaven and earth and are rebuilding the temple that was built many years ago , which a great king of Israel built and finished .
+15:5:012:0	But because our fathers had provoked the God of heaven to wrath , He gave them into the hand of Nebuchadnezzar king of Babylon , the Chaldean , who destroyed this temple and deported the people to Babylon .
+15:5:013:0	However , in the first year of Cyrus king of Babylon , King Cyrus issued a decree to rebuild this house of God .
+15:5:014:0	Also the gold and silver utensils of the house of God which Nebuchadnezzar had taken from the temple in Jerusalem , and brought them to the temple of Babylon , these King Cyrus took from the temple of Babylon and they were given to one whose name was Sheshbazzar , whom he had appointed governor .
+15:5:015:0	He said to him , “ Take these utensils , go and deposit them in the temple in Jerusalem and let the house of God be rebuilt in its place . ”
+15:5:016:0	Then that Sheshbazzar came and laid the foundations of the house of God in Jerusalem ; and from then until now it has been under construction and it is not yet completed . ’
+15:5:017:0	Now if it pleases the king , let a search be conducted in the king’s treasure house , which is there in Babylon , if it be that a decree was issued by King Cyrus to rebuild this house of God at Jerusalem ; and let the king send to us his decision concerning this matter . ”

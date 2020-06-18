@@ -1,0 +1,13 @@
+19:121:001:1	PSALM 121
+19:121:002:1	The L
+19:121:003:1	ord
+19:121:004:1	the Keeper of Israel .
+19:121:005:1	A Song of Ascents .
+19:121:001:0	I will lift up my eyes to the mountains ; From where shall my help come ?
+19:121:002:0	My help comes from the Lord , Who made heaven and earth .
+19:121:003:0	He will not allow your foot to slip ; He who keeps you will not slumber .
+19:121:004:0	Behold , He who keeps IsraelWill neither slumber nor sleep .
+19:121:005:0	The Lord is your keeper ; The Lord is your shade on your right hand .
+19:121:006:0	The sun will not smite you by day , Nor the moon by night .
+19:121:007:0	The Lord will protect you from all evil ; He will keep your soul .
+19:121:008:0	The Lord will guard your going out and your coming inFrom this time forth and forever .

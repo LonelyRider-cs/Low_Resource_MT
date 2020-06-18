@@ -1,0 +1,27 @@
+40:1:001:1	The Genealogy of Jesus the Messiah
+40:1:001:0	The record of the genealogy of Jesus the Messiah , the son of David , the son of Abraham :
+40:1:002:0	Abraham was the father of Isaac , Isaac the father of Jacob , and Jacob the father of Judah and his brothers .
+40:1:003:0	Judah was the father of Perez and Zerah by Tamar , Perez was the father of Hezron , and Hezron the father of Ram .
+40:1:004:0	Ram was the father of Amminadab , Amminadab the father of Nahshon , and Nahshon the father of Salmon .
+40:1:005:0	Salmon was the father of Boaz by Rahab , Boaz was the father of Obed by Ruth , and Obed the father of Jesse .
+40:1:006:0	Jesse was the father of David the king . David was the father of Solomon by Bathsheba who had been the wife of Uriah .
+40:1:007:0	Solomon was the father of Rehoboam , Rehoboam the father of Abijah , and Abijah the father of Asa .
+40:1:008:0	Asa was the father of Jehoshaphat , Jehoshaphat the father of Joram , and Joram the father of Uzziah .
+40:1:009:0	Uzziah was the father of Jotham , Jotham the father of Ahaz , and Ahaz the father of Hezekiah .
+40:1:010:0	Hezekiah was the father of Manasseh , Manasseh the father of Amon , and Amon the father of Josiah .
+40:1:011:0	Josiah became the father of Jeconiah and his brothers , at the time of the deportation to Babylon .
+40:1:012:0	After the deportation to Babylon : Jeconiah became the father of Shealtiel , and Shealtiel the father of Zerubbabel .
+40:1:013:0	Zerubbabel was the father of Abihud , Abihud the father of Eliakim , and Eliakim the father of Azor .
+40:1:014:0	Azor was the father of Zadok , Zadok the father of Achim , and Achim the father of Eliud .
+40:1:015:0	Eliud was the father of Eleazar , Eleazar the father of Matthan , and Matthan the father of Jacob .
+40:1:016:0	Jacob was the father of Joseph the husband of Mary , by whom Jesus was born , who is called the Messiah .
+40:1:002:1	Conception and Birth of Jesus
+40:1:017:0	So all the generations from Abraham to David are fourteen generations ; from David to the deportation to Babylon , fourteen generations ; and from the deportation to Babylon to the Messiah , fourteen generations .
+40:1:018:0	Now the birth of Jesus Christ was as follows : when His mother Mary had been betrothed to Joseph , before they came together she was found to be with child by the Holy Spirit .
+40:1:019:0	And Joseph her husband , being a righteous man and not wanting to disgrace her , planned to send her away secretly .
+40:1:020:0	But when he had considered this , behold , an angel of the Lord appeared to him in a dream , saying , “ Joseph , son of David , do not be afraid to take Mary as your wife ; for the Child who has been conceived in her is of the Holy Spirit .
+40:1:021:0	She will bear a Son ; and you shall call His name Jesus , for He will save His people from their sins . ”
+40:1:022:0	Now all this took place to fulfill what was spoken by the Lord through the prophet :
+40:1:023:0	“ Behold , the virgin shall be with child and shall bear a Son , and they shall call His name Immanuel , ” which translated means , “ God with us . ”
+40:1:024:0	And Joseph awoke from his sleep and did as the angel of the Lord commanded him , and took Mary as his wife ,
+40:1:025:0	but kept her a virgin until she gave birth to a Son ; and he called His name Jesus .

@@ -1,0 +1,52 @@
+19:18:001:1	Psalm . xviij .
+19:18:002:1	Diligam te Domine .
+19:18:001:0	MI ath caraf-yn-gu Arglwydd , vy=cadernit .
+19:18:002:0	Yr Arglwydd yw vy [ cadarn] graic , am amddeffen , a’m gwaredwr , vy=Dew [ a’]m nerth : yntho ymddiriedaf , vy=tarian , a’chorn vy iechydwrieth , [ a-]m noddfa .
+19:18:003:0	Galwaf ar yr Arglwydd mo- [ liann]adwy : ac im cedwir rac vy=gelynion .
+19:18:004:0	Can ys gofidion angae am cylchenesont , a llifddeirieint y vall am ofnesont .
+19:18:005:0	Govidion y bedd am gogylchent , hoynynae angae am goddiweddynt .
+19:18:006:0	Eithr yn vy=trallawt y galwais ar yr Arglwydd , ac y llefais wrth vy=Dew : ef a glybu vy llef o’i Templ , a’m llefain a ddaeth rac ei vron ef , [ ac] y’w glustiae .
+19:18:007:0	Yno y cynnyrvodd y ddaiar , ac y crynawdd , a’ seiliae y mynyðeð a ymodwyt , ac escutwyt erwydd yðo ef ddigio .
+19:18:008:0	E ddeuth y mwc allan o’i ffroeneu , a’ thân bwyteic o ei’enae : glo a enynei ganthaw .
+19:18:009:0	Ef a ostyngawdd y nefoedd hefyt ac a ddescennawdd , a’ thywyllwch oedd y dan ei draed .
+19:18:010:0	Ac ef a varchocáwdd ar [ y] Cherub ac ehedawdd , ys ehedawdd ef ar adanedd y gwynt .
+19:18:011:0	E wnaeth y tywyllwch yn ðirgelfa yddaw , [ a’]i babell oei amgylch , ’sef tywyllwch dwfredd , [ ac] wybrennae yr awyr .
+19:18:012:0	Gan ddysclaerdap ei gydrycholdep ef yr aeth ei wybrennae , cenllysc a marwar tan- [ llyt . ]
+19:18:013:0	Yr Arglwydd hefyd a daranawdd yny nef , a’r Goruchaf y roddes ei leferydd , cenllysc a’ marwar tan- [ llyt . ]
+19:18:014:0	Yno yd anvones ei saithae ac ei goyscarawdd hwy , ac ef a amláodd ei vellt ac ei dinistriawdd hwy .
+19:18:015:0	Ac eigiawn y dyfredd a welwyt , a’ sailieu y byt a ddynoethwyt gan dy goddiat , Arglwydd , y gan chwythat anhetl dy ffroeneu .
+19:18:016:0	E ddanvonawdd y lawr o ðuchot [ ac] a’m cymerawð : ef am tynnawdd o lawer o lawer o ddyfredd .
+19:18:017:0	Ef am gwaredawdd rac vy=gelyn cadarn , a’ rhac vy-dygaseion : can ys trech oeddent na myvi .
+19:18:018:0	Achubesant vy-blaen yn dydd vy gorthrymder : a’r Arglwydd oedd vy=cynhaliat .
+19:18:019:0	Ac ef am duc y ehengder : e am gwaredawdd can yddo vy hoffy .
+19:18:020:0	Yr Arglwydd am gobrwyawdd yn ol vy=cyfiawnder : yn ol glendit vy=dwylaw y talawdd y=my .
+19:18:021:0	Can ys cedweis ffyrdd yr Arglwydd , ac ny wneuthym enwaredd yn erbyn vy-Dew .
+19:18:022:0	Can ys [ bot] ei oll Gyfraithieu ef ger vy=bron , ac na vwriais ei orchymynae y-maith y wrthyf .
+19:18:023:0	Ac ys bum yn berfaith y gyd ac ef , ac a ymgedwais rac vy enwiredd ,
+19:18:024:0	Am hynny i’m gobrwyawdd yr Arglwydd yn ol vy cyfiawnder , [ ac] yn ol purdep vy=dwylaw yn y olwc ef .
+19:18:025:0	Y gyd a’r duwiol , duwiol vyddy : y gyd a’r gwr perfeith perfeith vyddy .
+19:18:026:0	Y gyd a’r glan , glan vyddy , ac y gyd a’r cyndyn cyndyn vyddy .
+19:18:027:0	Can ys ti a waredy y bopul dlodion , ac y ’ostyngy ’olygon vchel .
+19:18:028:0	Ys ti oleui vy=canwyll : yr Arglwydd vy=Dew a lewycha vy-tywyllwch .
+19:18:029:0	O bleit can y ti y torais trwy ’r byðin : a’thrwy [ nerth] vy=Dew y naidiais dros y vagwyr .
+19:18:030:0	Fordd Ddew [ ys y ffordd] ddihaloc : gair Dew ys ydd wedy ei goethi [ yn y tan] : tarian yw ef y bawp a ymddirietant ynthaw ,
+19:18:031:0	Can ys pwy yw Dew eb law yr Arglwydd ? a’ phwy ys y gadarn anid ein Dew [ ni] ?
+19:18:032:0	Sef Dew am gwregysawdd a nerth , ac a wnaeth vy ffordd yn perfaith .
+19:18:033:0	E wnaeth vy-traet val [ traet] ewigod , ac ar yr vcheloedd im gesodawdd .
+19:18:034:0	E ’s’yn dyscu vy-dwylaw y ryvela : ac a ddryllir bwa efydd y gan ve=breichieu .
+19:18:035:0	A’ rhoddeist ymy darian dy iechyt : ath ddeheulaw am cynnalyawdd , a’th hawddgarwch a’m lliosocawdd .
+19:18:036:0	Ehengaist vy=cerddediat y danaf , ac ny lithrawdd vy sodleu .
+19:18:037:0	Erlidiais vy=gelynion ac eu daliais , ac nyd ymchwelais tragefyn nes ym’ ei diva .
+19:18:038:0	Archollais hwy val na allent efsyll : cwympesont y dan vy=traet .
+19:18:039:0	Can ys gwregeseist vi a nerth i ryvel : yr ei a godawð yn v’erbyn darostngeist y danaf .
+19:18:040:0	A rhoðeist ymy warreu vy=gelynion y’n y ðestruwiwn y rei am casaant .
+19:18:041:0	Llefain a wnaethant , ac nyd [ oedd] a ei gwaredai , [ ’sef] ar yr Arglwydd , ac nyd atepawdd yddynt .
+19:18:042:0	A’ [ mi] ei bayðais cyn vanet a’r llwch o vlaen y gwynt : myssengais wy mal pridd yr heolydd .
+19:18:043:0	Gwaredaist vi rac cynnennae y popul : gesodaist vi yn ben [ ar] y cenedloedd . Popul , nyd adnabuum , am gwasanaethant .
+19:18:044:0	Cy gynted y clywant , yr vfyddánt y my : plant estrō [ genedyl] a ddarostyngir ymy .
+19:18:045:0	Estronieit a ddyfrgollant , ac a ofnant yn ei carchareu .
+19:18:046:0	Byw vo ’r Arglwydd , a’ bendithier vy nerth , a’ derchafer Dew vy iechyt .
+19:18:047:0	[ Ys ef] Dew [ ysy yn rhoi y mi allu] ymðial , ac y ddarestwng y popul y danaf .
+19:18:048:0	Vy gwaredwr rac vy=gelynion , ys ti am derchefaist y wrth yr ei a gyvodent im erbyn : gwaredaist vi rac y gwr craulon .
+19:18:049:0	Am hyny y diolchaf yty , Arglwydd , ymplith y cenedloedd , ac y canaf ith Enw .
+19:18:050:0	Ys mawr waredau a rydd ef y’w Vrenhin , ac yn gwneuthur trugared y’w enneiniawc , ’sef y Ddauid , ac y’w had yn tragyvyth .

@@ -1,0 +1,12 @@
+19:98:001:1	Psalm . xcviij .
+19:98:002:1	Cantate Domino .
+19:98:001:0	CEnwch ir Arglwydd ganiat newyð : can ys gwnaeth ef bethae ryfedd .
+19:98:002:0	Ei ddeheulaw a’ei vraich sanctaidd a barawdd yddaw yr oruchafieth .
+19:98:003:0	Espesawdd yr Arglwyð ei iechyt : ei gyfiawnder a eglurawdd yn-golwc y cenedloedd .
+19:98:004:0	Coffaodd ef ei drugaredd a’ei wirionedd i dy Israel : gwelawdd oll dervynae y ddaiar iechyt eyn Dew .
+19:98:005:0	Yr oll ddaiar cenwch yn llavar ir Arglwydd : llefwch ac ymlawenéwch , a’ chan-molwch .
+19:98:006:0	Can-molwch yr Arglwydd ar y delyn , [ sef] ar y delyn a llef canu .
+19:98:007:0	Ar yr vtcyrn a’ sain trompet , cenwch yn llavar rac bron yr Arglwydd Vrenhin .
+19:98:008:0	Ruet y mor , ac oll ys ydd ynthaw , y byt , ar ei ys yn preswilio ynthaw .
+19:98:009:0	Curet y llifddyfreint ei dwy]law , [ a’] chyt ymlawenáet y mynyddedd
+19:98:010:0	Rac bron yr Arglwydd : can ys daeth ef y varnu y ddaiar : ac iawnder y barn ef y byt , a’r bopuloedd ac vniondap .

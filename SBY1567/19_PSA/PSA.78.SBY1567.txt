@@ -1,0 +1,74 @@
+19:78:001:1	Psalm . lxxviij .
+19:78:002:1	Attendite popule meus .
+19:78:001:0	CLyw vy deddyf , vy-popul : gestyngwch eich clustiae at ’eiriae vy-genae .
+19:78:002:0	Agoraf vy-genae mewn dameg : datcanaf amadroddion or cynvyt .
+19:78:003:0	Yr ei y glywsam ac a wybuam , ac a venegawdd ein tadae y-ni .
+19:78:004:0	[ Yr ei] ny chudiwn rac y plāt hwy , [ ac] ir genedlaeth rhacllaw y datcanwn volianneu yr Arglwydd , a’ ei gedernit , a’ ei ryveddodae y wnaethoedd :
+19:78:005:0	Val’y gesodawð ef ddygymbod yn Iaco , ac y dodawdd Ddeðyf yn Israel , yr hyn a orchymynawdd ef in tadae , y’w dyscu y’w plant :
+19:78:006:0	Mal y gallei y genedlaeth ar ol gahel [ ei] gwybot , [ ac] ir plant a enit , gyvodi , a’i datcan y’w plant [ wythau] :
+19:78:007:0	Er dodi ei gobeith yn-Dew , ac nad ebrvygent weithredoedd Dew , eithr cadw ei ’orchymynnion :
+19:78:008:0	Ac nid bot val ei tadeu , yn genedlaeth gyldynus ac anuvyð : yn genedlaeth nyd vnionawdd hei chalon , ac nyd ymffyddiawdd hei yspryt a Dew .
+19:78:009:0	Plant Ephráim yn arvoc ac yn saethu a bwa , a droesont [ ei cefneu] yn-dydd cad .
+19:78:010:0	Ny chatwasant ddygymbot Dew , ac yn ei Ddeddyf ny vynent rodiaw ,
+19:78:011:0	A’ gellwng dros gof y weithredoeð ef , a’i ryveðodae y dangosesei ydd-wynt .
+19:78:012:0	Ef a wnaethoeð ryveddodion gerbron [ ei] tadae yn-tir yr Aipht : [ ys] ym-maes tSóan .
+19:78:013:0	Ef a ohanawdd y môr ac ef y trawenawd hwy : ac ef a wnaeth ir dwfr sefyll val pentwr .
+19:78:014:0	A’r dyð y tywysawdd ef wy ac wybren , ac yn hyd y nos a llewych tân .
+19:78:015:0	Ef a holltawdd y craicieu yn y diffeith , ac a roes yddwynt ddiot [ mal] o ddyfndereu dirvawr .
+19:78:016:0	Ef a dduc hefyt lifddyfredd allan o’r graic [ ddilen] , val-y gwnaeth ef i’r dyfredd ddescen mal avonedd .
+19:78:017:0	Er hyny wy bechent rhac llaw yn ei erbyn , gan annoc y Goruchaf yn y dyffeith ,
+19:78:018:0	A’ themtiesant Ddew yn ei colonae : gan erchy bwyt wrth ei puchet .
+19:78:019:0	Llavarent hefyt yn erbyn Dew , gan ddywedyt , All Dew arlwy bord yn y dyffeithwch ?
+19:78:020:0	Nachaf , ef a drawodd y graic , val y pistilliawdd y dyfred , ac y ffrydiawdd yr avonydd : a all ef roddy bara-hefeid [ neu] ddarpar cic y ’w bopul ?
+19:78:021:0	Yno y clybu yr Arglwydd ac y dygiawð , a’r tan y gynnewyt yn Iaco , ac yr escennawð digoveint ar Israel :
+19:78:022:0	Can na chredasant wy yn-Dew : ac nad amðiriedesont yn ei gymporth .
+19:78:023:0	Er hyny ef ’orchmynesei yr wybrae o ðuchot , ac agoresei ddrysae , y nefoedd ,
+19:78:024:0	A’ glawiesei ef [ y] man arnynt y [ ei] vwyta , ac a roddesei yddwynt y gwenith o’r nefoedd .
+19:78:025:0	Bara’r Angelion a vwytaodd dyn : anvonawdd yddwynt vwyt ddigon .
+19:78:026:0	Ef a wnaeth ir Dwyreinwynt vyned yn y nefoedd , a’ thrwy ei nerth y duc ef y Deeuwynt .
+19:78:027:0	A’ glawiodd ef gic arnynt mal llwch , ac ehediait adainioc mal tyvot moroedd .
+19:78:028:0	Ac [ eu] gwnaeth y syrthio yn-cenol eu pepylleu , [ s’ef] yn amgylch-ogylch ei cyvaneddeu .
+19:78:029:0	Yno y bwytesant ac y diwallwyt yn ddigonol , can ys rhoes yddwynt ei dysyfiat .
+19:78:030:0	Ny throesont y wrth ei deisyf , [ ac] eto [ ydd oedd] y bwyt yn ei genae ,
+19:78:031:0	Pan escennoð diglloneð Dew arnynt , a lladd yr ei cryfaf o hanwynt , ac a drabayddodd etholedigion Israel .
+19:78:032:0	Er hyn ol’ y pechint yn wastat ac ny chredēt ei ryfeðodeu .
+19:78:033:0	Am hyny y treuliawð ef y dyðiae hwy yn-gwageð , a’ ei blyddynedd yn echryn .
+19:78:034:0	Pan oeð ef yn y llað hwy y ceisient ef , ac yr ymchwelent , ac y geisiesont Ddew yn voreu .
+19:78:035:0	Ac y gofiesont mae Dew [ oeð] ei nerth , a’r Dew goruchaf ei prynwr .
+19:78:036:0	Ethr ymtewyð a wnaent ac ef ai geneu , a ffuantu wrthaw ai tavot .
+19:78:037:0	Can nad oeð ei calon yn vnion] gyd ac ef , ac nid oeddent ffydlon yn ei ddygymbot .
+19:78:038:0	Er hyny efe mor drugarawc y vaddeuawdd [ ei] camweddae , ac ny’s dinistrawdd , a’ llawer gwaith y trodd heibio ei soriant ac ny chyvodawd ei oll ddigoveint .
+19:78:039:0	Canys ef a gofiawdd mae cnawt oeðynt : [ sef] gwynt yn mynet ac eb ymchwelyt .
+19:78:040:0	Pa sawl gwaith y digiesont ef yn y ddiffeith ? [ ac] y tristesont ef yn yr anialwch ?
+19:78:041:0	A’ hwy ymchoelesant ac a temptesont Ddew , ac Sanct Israel a dervynent .
+19:78:042:0	Ny chofient ei law [ na’r] dydd y gwaredawdd ef hwy rac y gelyn :
+19:78:043:0	[ Na hwn] y osodawdd ei arwyddion yn yr Aipht , aei ryveddodae ym-maes tSoan :
+19:78:044:0	Ac ef a droes y avonydd hwy yn waet , ai llifddyfredd val na allent yfed .
+19:78:045:0	E ddanvonawð pop ryw adnoc yn ei plith , yr ei eu hysawdd , a’ llyffaint yr ei divethent .
+19:78:046:0	E roes hefyt y ffrwythae hwy ir lindys , a ei llafur i’r ceilioc-rhedyn .
+19:78:047:0	Lladdodd ef ei gwinwyð a chenllysc , a’ei gwyllt fficuswydd a’chessair .
+19:78:048:0	Ef a roes hefyt y h’yscryblieit i’r cenllysc , a’ei perchenogeth i’r lluchet .
+19:78:049:0	Anvonawdd arnynt gynddareð ei lit , irlonedd a’bar , ac ing gan ddanvon Angelion anvat .
+19:78:050:0	Ef a wnaeth ffordd y’w ddigoveint : nyd arbedawdd ef ei henaid rac angae , [ and] rhoi ei bywyt ir cornwyt :
+19:78:051:0	Ac e drawodd bop cynenit yn yr Aipht , [ ys] dechreuait y nerth hwy yn lluestai Cham .
+19:78:052:0	Ac e wnaeth y’w bopul ymddaith mal deveit , ac h’arwenawdd yn y diffaith val gyr .
+19:78:053:0	Ys ef y duc hwy allan yn ddiogel , ac nyd ofnesont , a’r mor a guddiawdd ei gelynion .
+19:78:054:0	Ac e a ddaeth a hwy y gyffinydd ei Gyssecr : [ sef] ir mynyth hwn , [ y] a orescennawdd ei ddeeulaw .
+19:78:055:0	Ef a vwriawdd hefyd y cenedloedd allan yn y gwydd hwy ac a wnaeth y ddynt syrthio yn rhann [ ei] etifeddiaeth , ac a barawdd y lwytheu Israel drigio yn y pepyll hwy .
+19:78:056:0	Er hynny wy temtiesont ac a ddigiesont y goruchaf Ddew , a’ ei destiolaetheu ny-chatwesant :
+19:78:057:0	Eithr ymchwelyt , a’ gwneuthur ar gam val eu tadeu : [ ac] ymdroi val bwa twyllodrus .
+19:78:058:0	A’ digiesant ef a’ ei gwyðvaeu , ac y cyffroesōt ef y lidio a’ ei delwae-cerviedic .
+19:78:059:0	Clybu Dew [ hyn] ac e ðigiawð , ac a e dremygawdd yn ddirvawr Israel :
+19:78:060:0	Val y gadawdd ef breswyl Shilo , [ sef] y babell [ lle] preswiliawdd ef ym-plith dynion ,
+19:78:061:0	Ac e roddes ei veddiant yn-caethiwet , a ei brydverthwch yn llaw ’r gelyn .
+19:78:062:0	Ac e roddes ei bopul ir cleddyf , ac a lidiawdd wrth ei etiveddiaeth .
+19:78:063:0	Y dewis-wyr hwy a ysawdd y tân , a’i gweryfon ny volwyt .
+19:78:064:0	Ei hOffeiriait y gwympodd gan y cleðyf , a’i gwrageð-gweddwon nyd wylesont .
+19:78:065:0	A’r Arglwydd a ddeffroes val vn o guscu , [ ac] mal gwr-cadr gwedy gwin yn bloeddio ,
+19:78:066:0	Ac e drawodd ei ’elynion ar y tu ol , ac eu rhoðes yn-gwradwydd tragyvythawl .
+19:78:067:0	Ac ef a wrthodes luest’ Ioseph , a’llwyth Ephraim ny’ ddetholawdd .
+19:78:068:0	Ac ef a ddetholes lwyth Iudáh , [ a’] mynyth Tsijon yr hwn a garawdd .
+19:78:069:0	Ac ef y adeilawdd ei Gyssecr mal [ llys] vchel , mal y ddaiar , rhon y sailiawdd ef yn tragyvyth .
+19:78:070:0	E ddetholes hefyd Ddauid ei was , ac ei cymerth o’r corlanae deueit .
+19:78:071:0	Ys o ol y [ deveit] cyfebron y daeth ac ef y borthi ei bopul yn Iaco , a’i etiueddiaeth yn Israel .
+19:78:072:0	Ac ef y porthei wy yn ol gwiriondep ei galon , ac eu ’harwenawdd wrth ddyall ei ddwyllaw .

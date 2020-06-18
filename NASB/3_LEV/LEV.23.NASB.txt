@@ -1,0 +1,46 @@
+3:23:001:1	Laws of Religious Festivals
+3:23:001:0	The Lord spoke again to Moses , saying ,
+3:23:002:0	“ Speak to the sons of Israel and say to them , ‘The Lord’s appointed times which you shall proclaim as holy convocations—My appointed times are these :
+3:23:003:0	‘For six days work may be done , but on the seventh day there is a sabbath of complete rest , a holy convocation . You shall not do any work ; it is a sabbath to the Lord in all your dwellings .
+3:23:004:0	‘These are the appointed times of the Lord , holy convocations which you shall proclaim at the times appointed for them .
+3:23:005:0	In the first month , on the fourteenth day of the month at twilight is the Lord’s Passover .
+3:23:006:0	Then on the fifteenth day of the same month there is the Feast of Unleavened Bread to the Lord ; for seven days you shall eat unleavened bread .
+3:23:007:0	On the first day you shall have a holy convocation ; you shall not do any laborious work .
+3:23:008:0	But for seven days you shall present an offering by fire to the Lord . On the seventh day is a holy convocation ; you shall not do any laborious work . ’ ”
+3:23:009:0	Then the Lord spoke to Moses , saying ,
+3:23:010:0	“ Speak to the sons of Israel and say to them , ‘When you enter the land which I am going to give to you and reap its harvest , then you shall bring in the sheaf of the first fruits of your harvest to the priest .
+3:23:011:0	He shall wave the sheaf before the Lord for you to be accepted ; on the day after the sabbath the priest shall wave it .
+3:23:012:0	Now on the day when you wave the sheaf , you shall offer a male lamb one year old without defect for a burnt offering to the Lord .
+3:23:013:0	Its grain offering shall then be two-tenths of an ephah of fine flour mixed with oil , an offering by fire to the Lord for a soothing aroma , with its drink offering , a fourth of a hin of wine .
+3:23:014:0	Until this same day , until you have brought in the offering of your God , you shall eat neither bread nor roasted grain nor new growth . It is to be a perpetual statute throughout your generations in all your dwelling places .
+3:23:015:0	‘You shall also count for yourselves from the day after the sabbath , from the day when you brought in the sheaf of the wave offering ; there shall be seven complete sabbaths .
+3:23:016:0	You shall count fifty days to the day after the seventh sabbath ; then you shall present a new grain offering to the Lord .
+3:23:017:0	You shall bring in from your dwelling places two loaves of bread for a wave offering , made of two-tenths of an ephah ; they shall be of a fine flour , baked with leaven as first fruits to the Lord .
+3:23:018:0	Along with the bread you shall present seven one year old male lambs without defect , and a bull of the herd and two rams ; they are to be a burnt offering to the Lord , with their grain offering and their drink offerings , an offering by fire of a soothing aroma to the Lord .
+3:23:019:0	You shall also offer one male goat for a sin offering and two male lambs one year old for a sacrifice of peace offerings .
+3:23:020:0	The priest shall then wave them with the bread of the first fruits for a wave offering with two lambs before the Lord ; they are to be holy to the Lord for the priest .
+3:23:021:0	On this same day you shall make a proclamation as well ; you are to have a holy convocation . You shall do no laborious work . It is to be a perpetual statute in all your dwelling places throughout your generations .
+3:23:022:0	‘When you reap the harvest of your land , moreover , you shall not reap to the very corners of your field nor gather the gleaning of your harvest ; you are to leave them for the needy and the alien . I am the Lord your God . ’ ”
+3:23:023:0	Again the Lord spoke to Moses , saying ,
+3:23:024:0	“ Speak to the sons of Israel , saying , ‘In the seventh month on the first of the month you shall have a rest , a reminder by blowing of trumpets , a holy convocation .
+3:23:002:1	The Day of Atonement
+3:23:025:0	You shall not do any laborious work , but you shall present an offering by fire to the Lord . ’ ”
+3:23:026:0	The Lord spoke to Moses , saying ,
+3:23:027:0	“ On exactly the tenth day of this seventh month is the day of atonement ; it shall be a holy convocation for you , and you shall humble your souls and present an offering by fire to the Lord .
+3:23:028:0	You shall not do any work on this same day , for it is a day of atonement , to make atonement on your behalf before the Lord your God .
+3:23:029:0	If there is any person who will not humble himself on this same day , he shall be cut off from his people .
+3:23:030:0	As for any person who does any work on this same day , that person I will destroy from among his people .
+3:23:031:0	You shall do no work at all . It is to be a perpetual statute throughout your generations in all your dwelling places .
+3:23:032:0	It is to be a sabbath of complete rest to you , and you shall humble your souls ; on the ninth of the month at evening , from evening until evening you shall keep your sabbath . ”
+3:23:033:0	Again the Lord spoke to Moses , saying ,
+3:23:034:0	“ Speak to the sons of Israel , saying , ‘On the fifteenth of this seventh month is the Feast of Booths for seven days to the Lord .
+3:23:035:0	On the first day is a holy convocation ; you shall do no laborious work of any kind .
+3:23:036:0	For seven days you shall present an offering by fire to the Lord . On the eighth day you shall have a holy convocation and present an offering by fire to the Lord ; it is an assembly . You shall do no laborious work .
+3:23:037:0	‘These are the appointed times of the Lord which you shall proclaim as holy convocations , to present offerings by fire to the Lord—burnt offerings and grain offerings , sacrifices and drink offerings , each day’s matter on its own day—
+3:23:038:0	besides those of the sabbaths of the Lord , and besides your gifts and besides all your votive and freewill offerings , which you give to the Lord .
+3:23:039:0	‘On exactly the fifteenth day of the seventh month , when you have gathered in the crops of the land , you shall celebrate the feast of the Lord for seven days , with a rest on the first day and a rest on the eighth day .
+3:23:040:0	Now on the first day you shall take for yourselves the foliage of beautiful trees , palm branches and boughs of leafy trees and willows of the brook , and you shall rejoice before the Lord your God for seven days .
+3:23:041:0	You shall thus celebrate it as a feast to the Lord for seven days in the year . It shall be a perpetual statute throughout your generations ; you shall celebrate it in the seventh month .
+3:23:042:0	You shall live in booths for seven days ; all the native-born in Israel shall live in booths ,
+3:23:043:0	so that your generations may know that I had the sons of Israel live in booths when I brought them out from the land of Egypt . I am the Lord your God . ’ ”
+3:23:044:0	So Moses declared to the sons of Israel the appointed times of the Lord .

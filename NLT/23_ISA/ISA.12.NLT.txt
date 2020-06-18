@@ -1,7 +1,0 @@
-23:12:001:1	Songs of Praise for Salvation
-23:12:001:0	In that day you will sing : “ I will praise you , O Lord ! You were angry with me , but not any more.Now you comfort me .
-23:12:002:0	See , God has come to save me.I will trust in him and not be afraid.The Lord God is my strength and my song ; he has given me victory . ”
-23:12:003:0	With joy you will drink deeplyfrom the fountain of salvation !
-23:12:004:0	In that wonderful day you will sing : “ Thank the Lord ! Praise his name ! Tell the nations what he has done.Let them know how mighty he is !
-23:12:005:0	Sing to the Lord , for he has done wonderful things.Make known his praise around the world .
-23:12:006:0	Let all the people of Jerusalem shout his praise with joy ! For great is the Holy One of Israel who lives among you . ”

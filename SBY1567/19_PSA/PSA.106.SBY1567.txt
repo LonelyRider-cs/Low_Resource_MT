@@ -1,0 +1,50 @@
+19:106:001:1	Psalm . cvj .
+19:106:002:1	Confitemini Domino .
+19:106:001:0	CLodvorwch yr Arglwydd can ys da yw ef , o bleit ei drugaredd [ a bery] byth .
+19:106:002:0	Pwy a venaic alluoedd yr Arglwydd , [ ac] a ddatcan ei oll voliant ?
+19:106:003:0	Gwynvydedic [ yw’r] ei a gatwāt varn , ac a wnant iawnder bop amser .
+19:106:004:0	Coffa vi Arglwydd , y gyd ac ewyllys-da dy bopul : ymwel a mi ath iechydwrieth ,
+19:106:005:0	Mal y gwelwyf ddedwyddit dy ddetholedigion , ac y llawenáwyf yn llewenydd dy popul , a’ bot vy-gorvoledd y gyd ath etiueddiaeth .
+19:106:006:0	Pechasam y gyd a’n tadae , gwneytham enwiredd , [ a’] buam andewiol .
+19:106:007:0	Ein tadae ny ddeallesont dy ryveddodae yn yr Aipht , ac ny chofiesont liosawgrwydd dy drugareddeu , eithyr cildynnu wrth y mor , [ sef] yn y mor coch .
+19:106:008:0	Er hyny ef y diangawð hwy er mwyn ei Enw , er peri adnabot ei gedernit .
+19:106:009:0	Ceryddawdd ef y mor coch , ac ef a ddysychawdd , ac e ei h’arwenawdd yn yr eigiawn val yn y diffeith .
+19:106:010:0	A’ chadwað ef hwy rac llaw y dygasoc , ac ei gwaredawdd o law ’r gelyn .
+19:106:011:0	A’ thoawdd y dyfredd ei gorthrymwyr : ny’s gadwyt vn yn-gweddill .
+19:106:012:0	Yno y credesont ei ’eiriae , [ a’] chanesont voliant yðaw .
+19:106:013:0	Ac yn y van yr angofiesont ei weithrededd : ny ddysgwiliesont wrrh ei gycor ,
+19:106:014:0	Eithyr chwenychu a’ thrachwāt yn y diffeith , a’ thempto Dew yn yr anialwch .
+19:106:015:0	A’ rhoddes ef yddwynt ei damunet : eithr anvonawdd ef guli yn ei henait .
+19:106:016:0	Cynvigennent hefyt wrth Voysen yn y pepyll , [ ac] Aaron sanct yr Arglwydd .
+19:106:017:0	Am hyny yr agorawdd y ddaiar ac a lyncawdd Ddathán , a thowadd hi gynnulleidfa Abirám .
+19:106:018:0	A’ chynneuawdd y tan yn ei cymmynva : lloscawð y fflam yr andewiolion .
+19:106:019:0	Llo á wnaethant yn cHoreb , ac addolasant y ddelw-dawdd .
+19:106:020:0	Mal hyn yr ysmutasant ei gogoniant yn llun bustach , a bawr welltglas .
+19:106:021:0	Ancofient Ddew ei h’ Iachawdr y wnaethesei bethae mawrion yn yr Aipht ,
+19:106:022:0	Ryveddodeu yn-tir cHam , a’ phethae ofnadwy wrth y mor coch .
+19:106:023:0	Am hyny y meddyliawdd eu destruwiaw , pe na safesei Moysen y ddetholedic ef yn y tor ger ei vron y ddychwelyt ymaith y var ef , rac iddo [ eu] dinystriaw .
+19:106:024:0	A’ thremygu a wnaethant y tir pryverth [ hwnw] , ac ny chredesont y ’air ef ,
+19:106:025:0	Eithr murmuro yn ei lluestai , ac ny wrandawent ar lef yr Arglwydd .
+19:106:026:0	Am hyny y derchavoð ef ei law yn h’erbyn , y’w dinistro yn y diffeithwch ,
+19:106:027:0	A’ dinistro y had hwy ym-plith y cenedloedd , a’ ei goyscary rhyd y gwledydd .
+19:106:028:0	Ymwascasant hefyt a’ Baal-peor , a’ bwytesont ebyrth y meirw .
+19:106:029:0	Mal hyn y digiesont [ ef] a’ei dychymygion y unain , a’ thrawodd pla yn eu cyfrwng .
+19:106:030:0	Yno y savawdd Phineas-y-vyny , ac a iawn-varnawð , ac y goharddwyt y pla .
+19:106:031:0	Ac eu gyfrifwydd yddo yn gyfiawnder , o genedleth y genedleth yn tragyvyth .
+19:106:032:0	A’ hwy digiesont ef wrth ðufreð Meribah , val y drygwyt Moysen o ei pleit hwy ,
+19:106:033:0	Can yddynt gythruddo ei yspryt , a’ cham-ddywedawdd ef a ei wefusae .
+19:106:034:0	Ac ny ddestruwiesont wy y bobuloedd yr ei orchymynesei’r Arglwydd yddwynt ,
+19:106:035:0	Eithyr ymgymyscy a’r cenedloedd , a’ dyscu ei gweithredoedd .
+19:106:036:0	A gwasanaethy y hidolon hwy , yr hyn vu yddwynt yn drancwydd .
+19:106:037:0	Ac aberthesont ei meibion , a’ ei merchet ir cythraulieit
+19:106:038:0	A’ gorddinesont waed gwirion , [ ’sef] gwaet ei meibion , a’ ei merchet , yr ei aberthesont y idolon Canaan , a’r tir a halogwyt gan waet .
+19:106:039:0	Mal hyn yr ymhalogent yn ei gweithrededd y unain , ac y putunient yn ei dychymygion y unain .
+19:106:040:0	Am hyn y cynneuawdd llit yr Arglwydd yn erbyn ei bopul , ac y ffieiddiawdd ei etiueddiaeth y hun .
+19:106:041:0	A’ rhoddes ef wy yn llaw y cenetloeð , ar sawl ei casaent ei h’arglwyddiaethent .
+19:106:042:0	Ei gelynion hefyt ei gorthryment , ac ei darostyngwyt y dan ei llaw .
+19:106:043:0	Llawer gwaith y gwareðawdd ef wy , a’hwytheu y cyffroent ef a’ ei cygorion : am hyny eu cystuddiwyt gan ei h’enwiredd .
+19:106:044:0	Er hyny ef a welawdd pan oedd ing arnynt , ac a wrandawodd [ ar] ei llefain .
+19:106:045:0	A’ chofiawdd ef ei ddygymbot erddynt , ac a edivarâodd erwydd llyosogrwydd ei drugareddae ,
+19:106:046:0	Ac e roes hwy yn dosturi ger bron yr ol’ rei ai caethiwesēt
+19:106:047:0	Ymwared ni Arglwydd ein Dew , a chynnull ni o blith y cenedloedd , val y clodvorom dy Enw sanctaidd , ac ymlawenáu yn dy voliant .
+19:106:048:0	Bendiget [ vo] Arglwydd Ddew ’r Israel yn oes oesoedd a’ dywedet yr oll popul , Velly y bo . Molwch yr Arglwydd .

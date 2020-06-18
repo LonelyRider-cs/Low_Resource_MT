@@ -1,0 +1,27 @@
+48:1:001:1	Introduction
+48:1:001:0	Paul , an apostle ( not sent from men nor through the agency of man , but through Jesus Christ and God the Father , who raised Him from the dead ) ,
+48:1:002:0	and all the brethren who are with me , To the churches of Galatia :
+48:1:003:0	Grace to you and peace from God our Father and the Lord Jesus Christ ,
+48:1:004:0	who gave Himself for our sins so that He might rescue us from this present evil age , according to the will of our God and Father ,
+48:1:002:1	Perversion of the Gospel
+48:1:005:0	to whom be the glory forevermore . Amen .
+48:1:006:0	I am amazed that you are so quickly deserting Him who called you by the grace of Christ , for a different gospel ;
+48:1:007:0	which is really not another ; only there are some who are disturbing you and want to distort the gospel of Christ .
+48:1:008:0	But even if we , or an angel from heaven , should preach to you a gospel contrary to what we have preached to you , he is to be accursed !
+48:1:009:0	As we have said before , so I say again now , if any man is preaching to you a gospel contrary to what you received , he is to be accursed !
+48:1:003:1	Paul Defends His Ministry
+48:1:010:0	For am I now seeking the favor of men , or of God ? Or am I striving to please men ? If I were still trying to please men , I would not be a bond-servant of Christ .
+48:1:011:0	For I would have you know , brethren , that the gospel which was preached by me is not according to man .
+48:1:012:0	For I neither received it from man , nor was I taught it , but I received it through a revelation of Jesus Christ .
+48:1:013:0	For you have heard of my former manner of life in Judaism , how I used to persecute the church of God beyond measure and tried to destroy it ;
+48:1:014:0	and I was advancing in Judaism beyond many of my contemporaries among my countrymen , being more extremely zealous for my ancestral traditions .
+48:1:015:0	But when God , who had set me apart even from my mother’s womb and called me through His grace , was pleased
+48:1:016:0	to reveal His Son in me so that I might preach Him among the Gentiles , I did not immediately consult with flesh and blood ,
+48:1:017:0	nor did I go up to Jerusalem to those who were apostles before me ; but I went away to Arabia , and returned once more to Damascus .
+48:1:018:0	Then three years later I went up to Jerusalem to become acquainted with Cephas , and stayed with him fifteen days .
+48:1:019:0	But I did not see any other of the apostles except James , the Lord’s brother .
+48:1:020:0	( Now in what I am writing to you , I assure you before God that I am not lying . )
+48:1:021:0	Then I went into the regions of Syria and Cilicia .
+48:1:022:0	I was still unknown by sight to the churches of Judea which were in Christ ;
+48:1:023:0	but only , they kept hearing , “ He who once persecuted us is now preaching the faith which he once tried to destroy . ”
+48:1:024:0	And they were glorifying God because of me .

@@ -1,0 +1,33 @@
+1:10:001:1	Descendants of Noah
+1:10:001:0	Now these are the records of the generations of Shem , Ham , and Japheth , the sons of Noah ; and sons were born to them after the flood .
+1:10:002:0	The sons of Japheth were Gomer and Magog and Madai and Javan and Tubal and Meshech and Tiras .
+1:10:003:0	The sons of Gomer were Ashkenaz and Riphath and Togarmah .
+1:10:004:0	The sons of Javan were Elishah and Tarshish , Kittim and Dodanim .
+1:10:005:0	From these the coastlands of the nations were separated into their lands , every one according to his language , according to their families , into their nations .
+1:10:006:0	The sons of Ham were Cush and Mizraim and Put and Canaan .
+1:10:007:0	The sons of Cush were Seba and Havilah and Sabtah and Raamah and Sabteca ; and the sons of Raamah were Sheba and Dedan .
+1:10:008:0	Now Cush became the father of Nimrod ; he became a mighty one on the earth .
+1:10:009:0	He was a mighty hunter before the Lord ; therefore it is said , “ Like Nimrod a mighty hunter before the Lord . ”
+1:10:010:0	The beginning of his kingdom was Babel and Erech and Accad and Calneh , in the land of Shinar .
+1:10:011:0	From that land he went forth into Assyria , and built Nineveh and Rehoboth-Ir and Calah ,
+1:10:012:0	and Resen between Nineveh and Calah ; that is the great city .
+1:10:013:0	Mizraim became the father of Ludim and Anamim and Lehabim and Naphtuhim
+1:10:014:0	and Pathrusim and Casluhim ( from which came the Philistines ) and Caphtorim .
+1:10:015:0	Canaan became the father of Sidon , his firstborn , and Heth
+1:10:016:0	and the Jebusite and the Amorite and the Girgashite
+1:10:017:0	and the Hivite and the Arkite and the Sinite
+1:10:018:0	and the Arvadite and the Zemarite and the Hamathite ; and afterward the families of the Canaanite were spread abroad .
+1:10:019:0	The territory of the Canaanite extended from Sidon as you go toward Gerar , as far as Gaza ; as you go toward Sodom and Gomorrah and Admah and Zeboiim , as far as Lasha .
+1:10:020:0	These are the sons of Ham , according to their families , according to their languages , by their lands , by their nations .
+1:10:021:0	Also to Shem , the father of all the children of Eber , and the older brother of Japheth , children were born .
+1:10:022:0	The sons of Shem were Elam and Asshur and Arpachshad and Lud and Aram .
+1:10:023:0	The sons of Aram were Uz and Hul and Gether and Mash .
+1:10:024:0	Arpachshad became the father of Shelah ; and Shelah became the father of Eber .
+1:10:025:0	Two sons were born to Eber ; the name of the one was Peleg , for in his days the earth was divided ; and his brother’s name was Joktan .
+1:10:026:0	Joktan became the father of Almodad and Sheleph and Hazarmaveth and Jerah
+1:10:027:0	and Hadoram and Uzal and Diklah
+1:10:028:0	and Obal and Abimael and Sheba
+1:10:029:0	and Ophir and Havilah and Jobab ; all these were the sons of Joktan .
+1:10:030:0	Now their settlement extended from Mesha as you go toward Sephar , the hill country of the east .
+1:10:031:0	These are the sons of Shem , according to their families , according to their languages , by their lands , according to their nations .
+1:10:032:0	These are the families of the sons of Noah , according to their genealogies , by their nations ; and out of these the nations were separated on the earth after the flood .

@@ -1,0 +1,10 @@
+19:142:001:1	PSALM 142
+19:142:002:1	Prayer for Help in Trouble .
+19:142:003:1	Maskil of David , when he was in the cave . A Prayer .
+19:142:001:0	I cry aloud with my voice to the Lord ; I make supplication with my voice to the Lord .
+19:142:002:0	I pour out my complaint before Him ; I declare my trouble before Him .
+19:142:003:0	When my spirit was overwhelmed within me , You knew my path . In the way where I walkThey have hidden a trap for me .
+19:142:004:0	Look to the right and see ; For there is no one who regards me ; There is no escape for me ; No one cares for my soul .
+19:142:005:0	I cried out to You , O Lord ; I said , “ You are my refuge , My portion in the land of the living .
+19:142:006:0	Give heed to my cry , For I am brought very low ; Deliver me from my persecutors , For they are too strong for me .
+19:142:007:0	Bring my soul out of prison , So that I may give thanks to Your name ; The righteous will surround me , For You will deal bountifully with me . ”

@@ -1,0 +1,32 @@
+44:11:001:1	Peter Reports at Jerusalem
+44:11:001:0	Now the apostles and the brethren who were throughout Judea heard that the Gentiles also had received the word of God .
+44:11:002:0	And when Peter came up to Jerusalem , those who were circumcised took issue with him ,
+44:11:003:0	saying , “ You went to uncircumcised men and ate with them . ”
+44:11:004:0	But Peter began speaking and proceeded to explain to them in orderly sequence , saying ,
+44:11:005:0	“ I was in the city of Joppa praying ; and in a trance I saw a vision , an object coming down like a great sheet lowered by four corners from the sky ; and it came right down to me ,
+44:11:006:0	and when I had fixed my gaze on it and was observing it I saw the four-footed animals of the earth and the wild beasts and the crawling creatures and the birds of the air .
+44:11:007:0	I also heard a voice saying to me , ‘Get up , Peter ; kill and eat . ’
+44:11:008:0	But I said , ‘By no means , Lord , for nothing unholy or unclean has ever entered my mouth . ’
+44:11:009:0	But a voice from heaven answered a second time , ‘What God has cleansed , no longer consider unholy . ’
+44:11:010:0	This happened three times , and everything was drawn back up into the sky .
+44:11:011:0	And behold , at that moment three men appeared at the house in which we were staying , having been sent to me from Caesarea .
+44:11:012:0	The Spirit told me to go with them without misgivings . These six brethren also went with me and we entered the man’s house .
+44:11:013:0	And he reported to us how he had seen the angel standing in his house , and saying , ‘Send to Joppa and have Simon , who is also called Peter , brought here ;
+44:11:014:0	and he will speak words to you by which you will be saved , you and all your household . ’
+44:11:015:0	And as I began to speak , the Holy Spirit fell upon them just as He did upon us at the beginning .
+44:11:016:0	And I remembered the word of the Lord , how He used to say , ‘John baptized with water , but you will be baptized with the Holy Spirit . ’
+44:11:017:0	Therefore if God gave to them the same gift as He gave to us also after believing in the Lord Jesus Christ , who was I that I could stand in God’s way ? ”
+44:11:002:1	The Church at Antioch
+44:11:018:0	When they heard this , they quieted down and glorified God , saying , “ Well then , God has granted to the Gentiles also the repentance that leads to life . ”
+44:11:019:0	So then those who were scattered because of the persecution that occurred in connection with Stephen made their way to Phoenicia and Cyprus and Antioch , speaking the word to no one except to Jews alone .
+44:11:020:0	But there were some of them , men of Cyprus and Cyrene , who came to Antioch and began speaking to the Greeks also , preaching the Lord Jesus .
+44:11:021:0	And the hand of the Lord was with them , and a large number who believed turned to the Lord .
+44:11:022:0	The news about them reached the ears of the church at Jerusalem , and they sent Barnabas off to Antioch .
+44:11:023:0	Then when he arrived and witnessed the grace of God , he rejoiced and began to encourage them all with resolute heart to remain true to the Lord ;
+44:11:024:0	for he was a good man , and full of the Holy Spirit and of faith . And considerable numbers were brought to the Lord .
+44:11:025:0	And he left for Tarsus to look for Saul ;
+44:11:026:0	and when he had found him , he brought him to Antioch . And for an entire year they met with the church and taught considerable numbers ; and the disciples were first called Christians in Antioch .
+44:11:027:0	Now at this time some prophets came down from Jerusalem to Antioch .
+44:11:028:0	One of them named Agabus stood up and began to indicate by the Spirit that there would certainly be a great famine all over the world . And this took place in the reign of Claudius .
+44:11:029:0	And in the proportion that any of the disciples had means , each of them determined to send a contribution for the relief of the brethren living in Judea .
+44:11:030:0	And this they did , sending it in charge of Barnabas and Saul to the elders .
