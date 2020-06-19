@@ -204,7 +204,7 @@ def menu(argv):
     TOKENIZER = None
 
     #graps command line arguments inputed from user
-    options, remainder =  getopt.gnu_getopt(argv[1:], 'al:r:eoh', ['all_bibles', 'list=', 'range=', 'english_token', 'other_token', '--help'])
+    options, remainder =  getopt.gnu_getopt(argv[1:], 'al:r:s:eoh', ['all_bibles', 'list=', 'range=', 'single=', 'english_token', 'other_token', '--help'])
 
     for opt, arg in options:
         if opt in ('-a', '--all_bibles'):
@@ -222,6 +222,10 @@ def menu(argv):
             start = int(bible_range[0])
             stop = int(bible_range[1]) + 1
             BIBLE_LIST.append((start,stop))
+        if opt in ('-s', '--single'):
+            start = int(arg)
+            stop = int(arg) + 1
+            BIBLE_LIST.append((start,stop))
         if opt in ('-e', '--english_token'):
             TOKENIZER = 'ENGLISH'
         if opt in ('-o', '--other_token'):
@@ -236,6 +240,7 @@ def menu(argv):
             print(" -a         scrapes and stores all 2524 bibles")
             print(" -l NUM     comma seperated list of specified bibles you want")
             print(" -r NUM     two comma seperated values for a range of bibles to grab")
+            print(" -s NUM     only grabs a single bible specified")
             print(" -e         tokenizes words based off of english grammar")
             print(" -o         standardized rule set for tokenizing any language")
             print(" -h         help")
@@ -243,8 +248,8 @@ def menu(argv):
 
     print(BIBLE_LIST)
     print(TOKENIZER)
-    for b in BIBLE_LIST:
-        driver(b[0], b[1], TOKENIZER)
+    #for b in BIBLE_LIST:
+    #    driver(b[0], b[1], TOKENIZER)
 
 
 if __name__ == '__main__':
