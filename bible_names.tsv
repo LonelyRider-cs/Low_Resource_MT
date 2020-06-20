@@ -1,1426 +1,1427 @@
-font	has_audio	has_text	id	iso_639_1	iso_639_3	language_tag	local_name	name	text_direction	total_versions
-	False	True	1069		kud	kud	'Auhelawa	'Auhelawa	ltr	1
-	False	True	1015		aau	aau	Abau	Abau	ltr	1
-	False	True	1418		aca	aca	Achagua	Achagua	ltr	1
-	True	True	3		acr	acr	Achi	Achi	ltr	3
-	True	True	4		acu	acu	Achuar	Achuar-Shiwiar	ltr	2
-	False	True	2265		ada	ada	Adangme	Adangme	ltr	2
-	False	True	2185		adh	adh	Adhola	Adhola	ltr	2
-	False	True	1530		adi	adi	Adi	Adi	ltr	1
-	False	True	2019		wsg	wsg	Adilabad Gondi	Adilabad Gondi	ltr	1
-	True	True	1462		adj	adj	Adjukru	Adioukrou	ltr	1
-	False	True	2157		ady	ady	Adyghe	Adyghe	ltr	1
-	False	True	1229		adz	adz	Adzera	Adzera	ltr	1
-	True	True	6	af	afr	afr	Afrikaans	Afrikaans	ltr	5
-	False	True	935		agd	agd	Agarabi	Agarabi	ltr	1
-	False	True	2080		agx	agx	Aghul	Aghul	ltr	1
-	True	True	515		agr	agr	Aguaruna	Aguaruna	ltr	1
-	False	True	979		msm	msm	Agusan Manobo	Agusan Manobo	ltr	1
-	True	True	1124		agn	agn	Agutaynen	Agutaynen	ltr	1
-	False	True	1533		aim	aim	Aimol	Aimol	ltr	1
-	False	True	1944		ain	ain	Ainu (Japan)	Ainu (Japan)	ltr	1
-	False	True	579		cpc	cpc	Ajyíninka Apurucayali	Ajyíninka Apurucayali	ltr	1
-	True	True	308		ake	ake	Akawaio	Akawaio	ltr	1
-	True	True	1722		ahk	ahk	Akha	Akha	ltr	2
-	True	True	336		bss	bss	Akoose	Akoose	ltr	1
-	False	True	1823		spm	spm	Akɨghɨman Akam	Akukem	ltr	1
-	False	True	2439		mim	mim	Alacatlatzala Mixtec	Alacatlatzala Mixtec	ltr	1
-	False	True	986		amp	amp	Alamblak	Alamblak	ltr	1
-	False	True	954		gah	gah	Alekano	Alekano	ltr	1
-	False	True	1487		ald	ald	Alladian	Alladian	ltr	1
-	True	True	323		alp	alp	Alune	Alune	ltr	1
-	False	True	991		amm	amm	Ama (Papua New Guinea)	Ama (Papua New Guinea)	ltr	1
-	False	True	980		amn	amn	Amanab	Amanab	ltr	1
-	False	True	511		amr	amr	Amarakaeri	Amarakaeri	ltr	1
-	False	True	1320		aaz	aaz	Amarasi	Amarasi	ltr	1
-	False	True	1176		amk	amk	Ambai	Ambai	ltr	1
-	True	True	1769		qva	qva	Ambo-Pasco Quechua	Ambo-Pasco Quechua	ltr	1
-	False	True	927		abt	abt	Ambulas	Ambulas	ltr	2
-	False	True	978		aey	aey	Amele	Amele	ltr	1
-	True	True	1356		ifa	ifa	Amganad Ifugao	Amganad Ifugao	ltr	1
-	False	True	1535		ajz	ajz	Amri Karbi	Amri Karbi	ltr	1
-	False	True	229		amu	amu	Amuzgo	Guerrero Amuzgo	ltr	1
-	False	True	1858		anm	anm	Anal	Anal	ltr	1
-	False	True	1011		aby	aby	Aneme Wake	Aneme Wake	ltr	1
-	False	True	981		agm	agm	Angaataha	Angaataha	ltr	1
-	False	True	988		akh	akh	Angal Heneng	Angal Heneng	ltr	1
-	False	True	338		njm	njm	Angami	Angami Naga	ltr	1
-	False	True	589		agw	agw	Anganiwai	Kahua	ltr	2
-	False	True	1001		agg	agg	Angor	Angor	ltr	1
-	False	True	487		alq	alq	Anicinabemowin	Algonquin	ltr	1
-	True	True	936		boj	boj	Anjam	Anjam	ltr	2
-	False	True	985		aak	aak	Ankave	Ankave	ltr	1
-	True	True	1450		ify	ify	Antipolo Ifugao	Keley-I Kallahan	ltr	1
-	False	True	2168		cko	cko	Anufo	Anufo	ltr	1
-	False	True	1413		aui	aui	Anuki	Anuki	ltr	1
-	True	True	1731		any	any	Anyin	Anyin	ltr	1
-	False	True	1008		njo	njo	Ao Naga	Ao Naga	ltr	1
-	False	True	865		apy	apy	Apalaí	Apalaí	ltr	1
-	False	True	1529		apt	apt	Apatani	Apatani	ltr	1
-	False	True	514		apn	apn	Apinayé	Apinayé	ltr	1
-	False	True	864		apu	apu	Apurinã	Apurinã	ltr	1
-	False	True	501		shu	shu_rom	Arabe tchadien	Chadian Arabic (Roman script)	ltr	1
-	False	True	519		arl	arl	Arabela	Arabela	ltr	1
-	False	True	1369		arp	arp	Arapaho	Arapaho	ltr	1
-	False	True	1404		mwc	mwc	Are	Are	ltr	1
-	False	True	407		aai	aai	Arifama-Miniafia	Arifama-Miniafia	ltr	1
-	False	True	2341		luc	luc	Aringa	Aringa	ltr	1
-	True	True	1559		rup	rup	Armãneashti/Arumanisht	Aromanian	ltr	2
-	True	True	1409		apr	apr	Arop-Lokep	Arop-Lokep	ltr	1
-	True	True	1639		aia	aia	Arosi	Arosi	ltr	1
-	True	True	913		msy	msy	Aruamu	Aruamu	ltr	1
-	True	True	575		cni	cni	Asháninka	Asháninka	ltr	1
-	False	True	568		cjo	cjo	Ashéninka Pajonal	Ashéninka Pajonal	ltr	1
-	False	True	2136		prq	prq	Ashéninka Perené	Ashéninka Perené	ltr	1
-	False	True	238		cpu	cpu	Ashéninka Pichis	Pichis Ashéninka	ltr	1
-	False	True	1003		atd	atd	Ata Manobo	Ata Manobo	ltr	1
-	True	True	851		mib	mib	Atatláhuca Mixtec	Atatláhuca Mixtec	ltr	1
-	False	True	2342		atj	atj	Atikamekw	Atikamekw	ltr	1
-	False	True	967		avt	avt	Au	Au	ltr	1
-	False	True	2547		auu	auu	Auye	Auye	ltr	1
-	False	True	2086		ava	ava	Avaric	Avaric	ltr	1
-	False	True	1982		avn	avn	Avatime	Avatime	ltr	1
-	True	True	1766		avu	avu	Avokaya	Avokaya	ltr	1
-	True	True	932		awb	awb	Awa (Papua New Guinea)	Awa (Papua New Guinea)	ltr	1
-	True	True	1092		kwi	kwi	Awa-Cuaiquer	Awa-Cuaiquer	ltr	1
-	False	True	1335		awx	awx	Awara	Awara	ltr	1
-	False	True	845		auy	auy	Awiyaana	Awiyaana	ltr	1
-	False	True	556		quy	quy	Ayacucho Quechua	Ayacucho Quechua	ltr	3
-	True	True	655		vmy	vmy	Ayautla Mazatec	Ayautla Mazatec	ltr	1
-	True	True	293		ayr	ayr	Aymar	Central Aymara	ltr	3
-	False	True	2466		abp	abp	Ayta, Abellen	Ayta, Abellen	ltr	1
-	True	True	1659		miy	miy	Ayutla Mixtec	Ayutla Mixtec	ltr	1
-	False	True	2324		azj	azj	Azərbaycanca	Azerbaijani	ltr	1
-	False	True	1138		bba	bba	Baatonum	Baatonum	ltr	1
-	False	True	1983		bbk	bbk	Babanki	Babanki	ltr	1
-	False	True	1901		bvd	bvd	Baeggu	Baeggu	ltr	1
-	True	True	876		ksf	ksf	Bafia	Bafia	ltr	1
-	True	True	2147		bfd	bfd	Bafut	Bafut	ltr	1
-	False	True	1557		bsp	bsp	Baga Sitemu	Baga Sitemu	ltr	1
-	True	True	306	id	ind	ind	Bahasa Indonesia	Indonesian	ltr	4
-	False	True	402	ms	msa	msa	Bahasa Melayu	Malay	ltr	4
-	False	True	2137		bdq	bdq	Bahnar	Bahnar	ltr	1
-	False	True	1563		bdh	bdh	Baka (Sudan)	Baka (Sudan)	ltr	1
-	False	True	408		bkq	bkq	Bakairí	Bakairí	ltr	1
-	False	True	2420		bki	bki	Baki	Baki	ltr	1
-	False	True	1115		blw	blw	Balangao	Balangao	ltr	1
-	False	True	337		blz	blz	Balantak	Balantak	ltr	1
-	False	True	2513		bcn	bcn	Bali (Nigeria)	Bali (Nigeria)	ltr	1
-	True	True	302		ban	ban	Bali, basa	Balinese	ltr	1
-	True	True	1500		bcc	bcc_rom	Balóchi	Balochi	ltr	1
-	False	True	2348		bmo	bmo	Bambalang	Bambalang	ltr	1
-	True	True	1147		ptu	ptu	Bambam	Bambam	ltr	1
-	True	True	1767		bcw	bcw	Bana	Bana	ltr	1
-	False	True	1300		bqj	bqj	Bandial	Bandial	ltr	1
-	False	True	2228		bjn	bjn	Banjar	Banjar	ltr	1
-	False	True	2174		bno	bno	Bantoanon	Bantoanon	ltr	1
-	False	True	1643		bci	bci	Baoulé	Baoulé	ltr	1
-	False	True	970		bbb	bbb	Barai	Barai	ltr	1
-	False	True	571		bsn	bsn	Barasana-Eduria	Barasana-Eduria	ltr	1
-	False	True	1084		mlp	mlp	Bargam	Bargam	ltr	1
-	False	True	960		bch	bch	Bariai	Bariai	ltr	1
-	False	True	994		byr	byr	Baruya	Baruya	ltr	1
-	True	True	248	jv	jav	jav	Basa Jawa	Javanese	ltr	1
-	True	True	250		jvn	jvn	Basa Jawa Suriname	Caribbean Javanese	ltr	1
-	False	True	2230		ifb	ifb	Batad Ifugao	Batad Ifugao	ltr	1
-	True	True	35		btx	btx	Batak Karo	Batak Karo	ltr	1
-	True	True	34		bts	bts	Batak Simalungun	Batak Simalungun	ltr	1
-	False	True	17		bbc	bbc	Batak Toba	Batak Toba	ltr	1
-	False	True	1945		bgr	bgr	Bawm	Bawm Chin	ltr	1
-	False	True	2441		beo	beo	Beami	Beami	ltr	1
-	False	True	1019		bef	bef	Benabena	Benabena	ltr	1
-	False	True	1591		bom	bom	Berom	Berom	ltr	1
-	True	True	362		cax	cax	Besiro (Chiquitano)	Chiquitano	ltr	2
-	False	True	2172		kap	kap	Bezhta	Bezhta	ltr	1
-	False	True	965		big	big	Biangai	Biangai	ltr	1
-	False	True	18		bth	bth	Biatah Bidayuh	Biatah Bidayuh	ltr	1
-	False	True	1532		biu	biu	Biate	Biete	ltr	1
-	True	True	409		bzj	bzj	Bileez Kriol	Belize Creole English	ltr	1
-	False	True	1281		bhl	bhl	Bimin	Bimin	ltr	1
-	True	True	1748		bim	bim	Bimoba	Bimoba	ltr	2
-	False	True	1407		bhg	bhg	Binandere	Binandere	ltr	1
-	False	True	975		bon	bon	Bine	Bine	ltr	1
-	False	True	413		smk	smk	Binu-Bolinao	Bolinao	ltr	1
-	False	True	1117		bkd	bkd	Binukid	Binukid	ltr	1
-	False	True	842		bjr	bjr	Binumarien	Binumarien	ltr	1
-	False	True	1923		bis	bis	Bislama	Bislama	ltr	1
-	True	True	1751		bib	bib	Bissa	Bissa	ltr	1
-	False	True	1705		bzi	bzi	Bisu	Bisu	ltr	1
-	False	True	1121		mux	mux	Bo-Ung	Bo-Ung	ltr	1
-	False	True	1155		bqc	bqc	Boko	Boko (Benin)	ltr	1
-	False	True	333		bnp	bnp	Bola Bakovi	Bola	ltr	1
-	True	True	578		boa	boa	Bora	Bora	ltr	1
-	True	True	610		kvn	kvn	Border Kuna	Border Kuna	ltr	1
-	False	True	1382		ksr	ksr	Borong	Borong	ltr	1
-	False	True	2518		bor	bor	Borôro	Borôro	ltr	1
-	False	True	172		dtp	dtp	Boros Dusun	Kadazan Dusun	ltr	1
-	True	True	1343		sbl	sbl	Botolan Sambal	Botolan Sambal	ltr	1
-	False	True	1231	br	bre	bre	Brezhoneg	Breton	ltr	3
-	False	True	234		bzd	bzd	Bribri	Bribri	ltr	1
-	True	True	1358		plw	plw	Brooke's Point Palawano	Brooke's Point Palawano	ltr	1
-	False	True	1039		buk	buk	Bugawac	Bugawac	ltr	1
-	False	True	1900		bgt	bgt	Bughotu	Bughotu	ltr	1
-	True	True	671		sab	sab	Buglere	Buglere	ltr	1
-	False	True	2445		bgg	bgg	Bugun	Bugun	ltr	1
-	False	True	934		ape	ape	Bukiyip	Bukiyip	ltr	2
-	False	True	2176		bwu	bwu	Buli (Ghana)	Buli (Ghana)	ltr	1
-	False	True	856		bum	bum	Bulu (Cameroon)	Bulu (Cameroon)	ltr	1
-	False	True	2175		bmv	bmv	Bum	Bum	ltr	1
-	False	True	2160		aon	aon	Bumbita Arapesh	Bumbita Arapesh	ltr	1
-	False	True	1007		bdd	bdd	Bunama	Bunama	ltr	1
-	False	True	2338		bns	bns	Bundeli	Bundeli	ltr	1
-	True	True	1657		cmo	cmo	Bunong	Bunong	ltr	2
-	False	True	2536		bwr	bwr	Bura-Pabir	Bura-Pabir	ltr	1
-	False	True	1291		bvr	bvr	Burarra	Burarra	ltr	1
-	False	True	2304		bds	bds	Burunge	Burunge	ltr	1
-	True	True	243		djk	djk	Businenge Tongo	Eastern Maroon Creole	ltr	1
-	False	True	2381		kyb	kyb	Butbut Kalinga	Butbut Kalinga	ltr	1
-	True	True	381		box	box	Bwamu	Buamu	ltr	1
-	False	True	1220		tte	tte	Bwanabwana	Bwanabwana	ltr	1
-	True	True	777		cbv	cbv	Cacua	Cacua	ltr	2
-	True	True	648		qvc	qvc	Cajamarca Quechua	Cajamarca Quechua	ltr	1
-	False	True	462		zad	zad	Cajonos Zapotec	Cajonos Zapotec	ltr	1
-	False	True	1438		tbk	tbk	Calamian Tagbanwa	Calamian Tagbanwa	ltr	1
-	False	True	1128		clu	clu	Caluyanun	Caluyanun	ltr	1
-	False	True	2226		mcu	mcu	Cameroon Mambila	Cameroon Mambila	ltr	1
-	False	True	1085		kbh	kbh	Camsá	Camsá	ltr	1
-	True	True	213		cbu	cbu	Candoshi-Shapra	Candoshi-Shapra	ltr	1
-	False	True	586		kaq	kaq	Capanahua	Capanahua	ltr	1
-	False	True	566		cot	cot	Caquinte	Caquinte	ltr	1
-	False	True	1060		caq	caq	Car Nicobarese	Car Nicobarese	ltr	1
-	True	True	533		cbc	cbc	Carapana	Carapana	ltr	1
-	True	True	237		car	car	Carib	Galibi Carib	ltr	1
-	True	True	593		hns	hns	Caribbean Hindustani	Caribbean Hindustani	ltr	1
-	False	True	603		crx	crx	Carrier	Carrier	ltr	1
-	True	True	541		cbr	cbr	Cashibo-Cacataibo	Cashibo-Cacataibo	ltr	1
-	True	True	540		cbs	cbs	Cashinahua	Cashinahua	ltr	2
-	False	True	1170		dgc	dgc	Casiguran Dumagat Agta	Casiguran Dumagat Agta	ltr	1
-	False	True	335	ca	cat	cat	Català	Catalan	ltr	2
-	False	True	538		cav	cav	Cavineña	Cavineña	ltr	1
-	True	True	9		ceb	ceb	Cebuano	Cebuano	ltr	4
-	False	True	2379		cam	cam	Cemuhî	Cemuhî	ltr	1
-	True	True	890		bcl	bcl	Central Bikol	Central Bikol	ltr	1
-	False	True	1157		lbk	lbk	Central Bontok	Central Bontok	ltr	1
-	False	True	1244		agt	agt	Central Cagayan Agta	Central Cagayan Agta	ltr	1
-	False	True	751		nch	nch	Central Huasteca Nahuatl	Central Huasteca Nahuatl	ltr	1
-	True	True	846		maz	maz	Central Mazahua	Central Mazahua	ltr	1
-	False	True	2394		sml	sml	Central Sama	Central Sama	ltr	1
-	False	True	1325		syb	syb	Central Subanen	Central Subanen	ltr	1
-	True	True	1086		tuf	tuf	Central Tunebo	Central Tunebo	ltr	1
-	True	True	379		cme	cme	Cerma	Cerma	ltr	1
-	True	True	15	cs	ces	ces	Čeština	Czech	ltr	4
-	False	True	535		cbi	cbi	Chachi	Chachi	ltr	1
-	False	True	235		cao	cao	Chácobo	Chácobo	ltr	1
-	False	True	1539		nri	nri	Chakhesang Chokri	Chokri Naga	ltr	1
-	False	True	961		nbc	nbc	Chang Naga	Chang Naga	ltr	1
-	False	True	1129		cbk	cbk	Chavacano	Chavacano	ltr	1
-	False	True	544		cbt	cbt	Chayahuita	Chayahuita	ltr	1
-	False	True	793		mih	mih	Chayuco Mixtec	Chayuco Mixtec	ltr	1
-	True	True	1630		hne	hne	Chhattisgarhi	Chhattisgarhi	ltr	1
-	True	True	1097		bem	bem	Chibemba	Bemba (Zambia)	ltr	1
-	True	True	1068	ny	nya	nya	Chichewa	Nyanja	ltr	3
-	False	True	739		zpv	zpv	Chichicapan Zapotec	Chichicapan Zapotec	ltr	1
-	True	True	915		ruf	ruf	Chilughuru	Luguru	ltr	1
-	False	True	2375		kde	kde	Chimakonde	Makonde	ltr	1
-	False	True	326		csy	csy	Chin: Siyin	Siyin Chin	ltr	1
-	True	True	368		ctd	ctd	Chin: Tedim	Tedim Chin	ltr	1
-	True	True	217		cle	cle	Chinantec Lealao	Lealao Chinantec	ltr	1
-	True	True	219		cpa	cpa	Chinantec Palantla	Palantla Chinantec	ltr	1
-	True	True	1125		cwe	cwe	Ching'hwele	Kwere	ltr	1
-	False	True	735		maq	maq	Chiquihuitlán Mazatec	Chiquihuitlán Mazatec	ltr	1
-	False	True	32	sn	sna	sna	chiShona	Shona	ltr	6
-	False	True	984		toi	toi	chiTonga	Tonga (Zambia)	ltr	1
-	True	True	1221		vid	vid	Chividunda	Vidunda	ltr	1
-	True	True	746		zpc	zpc	Choapan Zapotec	Choapan Zapotec	ltr	1
-	False	True	1927		cho	cho	Choctaw	Choctaw	ltr	1
-	False	True	2546		cjk	cjk	Chokwe	Chokwe	ltr	1
-	False	True	795		ctu	ctu	Chol	Chol	ltr	5
-	False	True	371		crt	crt	Chorote	Iyojwa'ja Chorote	ltr	1
-	True	True	524		caa	caa	Chortí	Chortí	ltr	1
-	False	True	1541		nct	nct	Chothe	Chothe Naga	ltr	1
-	False	True	2497		cje	cje	Chru	Chru	ltr	1
-	False	True	995		cjv	cjv	Chuave	Chuave	ltr	1
-	True	True	492		cac	cac	Chuj	Chuj	ltr	2
-	True	True	437		ncu	ncu	Chumburung	Chumburung	ltr	1
-	True	True	564		nse	nse	Cinsenga	Nsenga	ltr	2
-	False	True	1293		asg	asg	Cishingini	Cishingini	ltr	1
-	True	True	857		zca	zca	Coatecas Altas Zapotec	Coatecas Altas Zapotec	ltr	1
-	False	True	713		miz	miz	Coatzospan Mixtec	Coatzospan Mixtec	ltr	1
-	True	True	567		con	con	Cofán	Cofán	ltr	1
-	True	True	1505		kog	kog	Cogui	Cogui	ltr	1
-	True	True	565		cof	cof	Colorado	Colorado	ltr	1
-	True	True	738		cco	cco	Comaltepec Chinantec	Comaltepec Chinantec	ltr	1
-	False	True	2133		zoc	zoc	Copainalá Zoque	Copainalá Zoque	ltr	1
-	False	True	742		trc	trc	Copala Triqui	Copala Triqui	ltr	1
-	True	True	239		crn	crn	Cora El Nayar	El Nayar Cora	ltr	1
-	False	True	2291		cos	cos	Corsican	Corsican	ltr	1
-	False	True	1316		mta	mta	Cotabato Manobo	Cotabato Manobo	ltr	1
-	True	True	752		toc	toc	Coyutla Totonac	Coyutla Totonac	ltr	1
-	True	True	2065		crl	crl	Cree, Northern East	Cree, Northern East	ltr	1
-	False	True	358		cub	cub	Cubeo	Cubeo	ltr	1
-	True	True	1036		cui	cui	Cuiba	Cuiba	ltr	1
-	True	True	1446		cul	cul	Culina	Culina	ltr	1
-	False	True	394	cy	cym	cym	Cymraeg	Welsh	ltr	9
-	False	True	2189		dsh	dsh	Daasanach	Daasanach	ltr	1
-	False	True	1153		mps	mps	Dadibi	Dadibi	ltr	1
-	False	True	977		dgz	dgz	Daga	Daga	ltr	1
-	False	True	2268		dga	dga	Dagaare	Southern Dagaare	ltr	1
-	False	True	2264		dag	dag	Dagbani	Dagbani	ltr	2
-	False	True	2446		dij	dij	Dai	Dai	ltr	1
-	True	True	1830		daf	daf	Dan	Dan	ltr	1
-	True	True	1831		dnj	dnj	Dan (Blowo)	Dan	ltr	1
-	False	True	1664		bea	bea	Dane-zaa	Beaver (Canada)	ltr	2
-	True	True	354		daa	daa	Dangaléat	Dangaléat	ltr	1
-	False	True	993		aso	aso	Dano	Dano	ltr	1
-	True	True	20	da	dan	dan	Dansk	Danish	ltr	2
-	False	True	1514		tcc	tcc	Datooga	Datooga	ltr	1
-	False	True	1017		dww	dww	Dawawa	Dawawa	ltr	1
-	True	True	342		dwr	dwr	Dawro	Dawro	ltr	3
-	False	True	983		ded	ded	Dedua	Dedua	ltr	2
-	False	True	2012		mzw	mzw	Deg	Deg	ltr	1
-	False	True	1795		ntr	ntr	Delo	Delo	ltr	1
-	True	True	343		anv	anv	Denya	Denya	ltr	1
-	True	True	1583		des	des	Desano	Desano	ltr	1
-	True	True	73	de	deu	deu	Deutsch	German	ltr	11
-	False	True	1374		dhg	dhg	Dhangu	Dhangu-Djangu	ltr	1
-	False	True	1402		nfa	nfa	Dhao	Dhao	ltr	1
-	False	True	471		dhm	dhm	Dhimba (Zemba, Oludhimba)	Zemba	ltr	1
-	True	True	2134		div	div	Dhivehi	Dhivehi	rtl	1
-	False	True	1810		luo	luo	Dholuo	Luo (Kenya and Tanzania)	ltr	1
-	False	True	2404		dwy	dwy	Dhuwaya	Dhuwaya	ltr	1
-	False	True	1326		mbd	mbd	Dibabawon Manobo	Dibabawon Manobo	ltr	1
-	False	True	839		gud	gud	Dida	Yocoboué Dida	ltr	1
-	True	True	1890		did	did	Didinga	Didinga	ltr	1
-	False	True	2289		zpg	zpg	didz-rieꞌ	Guevea De Humboldt Zapotec	ltr	1
-	False	True	1511		dur	dur	Dii	Dii	ltr	1
-	False	True	1010		dis	dis	Dimasa	Dimasa	ltr	1
-	False	True	1800		dks	dks	Dinka Bor	Dinka, Southeastern	ltr	2
-	True	True	242		dik	dik	Dinka Rek	Dinka Southwestern	ltr	1
-	False	True	2391		quz	quz	Diospa simin qelqa	Cusco Quechua	ltr	2
-	True	True	719		xtd	xtd	Diuxi-Tilantongo Mixtec	Diuxi-Tilantongo Mixtec	ltr	1
-	False	True	244		djr	djr	Djambarrpuyngu	Djambarrpuyngu	ltr	1
-	False	True	2403		dji	dji	Djinang	Djinang	ltr	1
-	False	True	926		dob	dob	Dobu	Dobu	ltr	1
-	False	True	1033		kqc	kqc	Doromu-Koki	Doromu-Koki	ltr	1
-	True	True	880		dow	dow	Doyayo	Doyayo	ltr	1
-	False	True	1312		duo	duo	Dupaninan Agta	Dupaninan Agta	ltr	1
-	True	True	2199		dug	dug	Duruma	Duruma	ltr	1
-	False	True	1728		dyu	dyu	Dyula	Dyula	ltr	2
-	False	True	1522		rad	rad	E-De	Rade	ltr	1
-	False	True	2077		omb	omb	East Ambae	East Ambae	ltr	1
-	False	True	1012		kjs	kjs	East Kewa	East Kewa	ltr	1
-	True	True	667		qve	qve	Eastern Apurímac Quechua	Eastern Apurímac Quechua	ltr	1
-	False	True	1746		aer	aer	Eastern Arrernte	Eastern Arrernte	ltr	1
-	False	True	1114		ebk	ebk	Eastern Bontok	Eastern Bontok	ltr	1
-	False	True	833		otm	otm	Eastern Highland Otomi	Eastern Highland Otomi	ltr	1
-	False	True	1941		xrb	xrb	Eastern Karaboro	Eastern Karaboro	ltr	1
-	False	True	2539		igb	igb	Ebira	Ebira	ltr	1
-	False	True	1297		etr	etr	Edolo	Edolo	ltr	1
-	False	True	309	et	est	est	Eesti keel	Estonian	ltr	1
-	True	True	889		etu	etu	Ejagham	Ejagham	ltr	1
-	True	True	1154		eka	eka	Ekajuk	Ekajuk	ltr	1
-	True	True	111	en	eng	eng	English	English	ltr	61
-	True	True	1476		leg	leg	Enhlit (Enhlet)	Lengua Norte (Paraguay)	ltr	1
-	False	True	1480		enx	enx	Enxet	Lengua Sur (Paraguay)	ltr	2
-	True	True	270		sja	sja	Epena	Epena	ltr	2
-	True	True	1004		mcq	mcq	Ese	Ese	ltr	1
-	False	True	576		ese	ese	Ese Ejja	Ese Ejja	ltr	1
-	True	True	149	es	spa	spa	Español (América Latina)	Spanish	ltr	23
-	False	True	210	es	spa	spa_es	Español (España)	Spanish (Spain)	ltr	5
-	False	True	841	eo	epo	epo	Esperanto	Esperanto	ltr	1
-	False	True	829		ots	ots	Estado de México Otomi	Estado de México Otomi	ltr	1
-	False	True	56	eu	eus	eus	Euskara	Basque	ltr	3
-	False	True	1199		nou	nou	Ewage-Notu	Ewage-Notu	ltr	1
-	False	True	1854		ewo	ewo	Ewondo	Ewondo	ltr	1
-	False	True	1600		eza	eza	Ezaa	Ezaa	ltr	1
-	False	True	2259	ee	ewe	ewe	eʋegbe	Éwé	ltr	2
-	False	True	1428		fai	fai	Faiwol	Faiwol	ltr	2
-	False	True	389		cfm	cfm	Falam	Falam Chin	ltr	2
-	False	True	1427		bjp	bjp	Fanamaket	Fanamaket	ltr	1
-	True	True	1323		gur	gur	Farefare	Farefare	ltr	1
-	False	True	956		faa	faa	Fasu	Fasu	ltr	1
-	False	True	1902		far	far	Fataleka	Fataleka	ltr	1
-	True	True	399	tl	tgl	tgl	Filipino	Tagalog	ltr	7
-	False	True	1184		ppo	ppo	Folopa	Folopa	ltr	1
-	False	True	813		fon	fon	Fon	Fon	ltr	2
-	False	True	2178		frd	frd	Fordata	Fordata	ltr	1
-	False	True	973		for	for	Fore	Fore	ltr	1
-	True	True	133	fr	fra	fra	Français	French	ltr	13
-	True	True	784		zos	zos	Francisco León Zoque	Francisco León Zoque	ltr	1
-	True	True	905		fub	fub	Fulfulde (Adamawa)	Fulfulde (Adamawa)	ltr	2
-	False	True	1032		fuh	fuh	Fulfulde (Burkina Faso)	Fulfulde	ltr	2
-	True	True	1373		fuq	fuq	Fulfulde (Central-Eastern Niger)	Fulfulde (Central-Eastern Niger)	ltr	1
-	True	True	1175		ffm	ffm	Fulfulde (Maasinankoore)	Maasina Fulfulde	ltr	1
-	True	True	1159		fuv	fuv	Fulfulde Caka Nigeria	Fulani	ltr	1
-	False	True			fuv	fuv_ar	Fulfulde Caka Nigeria Arabic Script	Fulani	rtl	1
-	False	True	2355		flr	flr	Fuliiru	Fuliiru	ltr	1
-	False	True	374	fo	fao	fao	Føroyskt	Faroese	ltr	1
-	False	True	1436		gdg	gdg	Ga'dang	Ga'dang	ltr	1
-	False	True	884	ga	gle	gle	Gaeilge	Irish Gaelic	ltr	3
-	False	True	1366	gv	glv	glv	Gaelg	Manx Gaelic	ltr	8
-	False	True	599	sm	smo	smo	Gagana fa'a Sāmoa	Samoan	ltr	3
-	False	True	1531	gd	gla	gla	Gàidhlig	Scots Gaelic	ltr	10
-	False	True	1534		adl	adl	Galo	Galo	ltr	1
-	True	True	434		gmv	gmv	Gamo	Gamo	ltr	1
-	False	True	1013		gnb	gnb	Gangte	Gangte	ltr	1
-	True	True	1504		aeu	aeu	Gaolkheel	Akeu	ltr	1
-	False	True	1180		pwg	pwg	Gapapaiwa	Gapapaiwa	ltr	1
-	False	True	1372		wrk	wrk	Garrwa	Garrwa	ltr	1
-	False	True	1621		gbr	gbr	Gbagyi	Gbagyi	ltr	1
-	False	True	2522		krs	krs	Gbaya (Sudan)	Gbaya (Sudan)	ltr	1
-	False	True	1906		nlg	nlg	Gela	Gela	ltr	1
-	False	True	1709		ghe	ghe	Ghale	Southern Ghale	ltr	1
-	False	True	1102		bmk	bmk	Ghayavi	Ghayavi	ltr	1
-	False	True	907		bbj	bbj	Ghomálá'	Ghomálá'	ltr	1
-	False	True	1120		gid	gid	Gidar	Gidar	ltr	1
-	True	True	1741		acd	acd	Gikyode	Gikyode	ltr	1
-	False	True	1892		gil	gil	Gilbertese	Gilbertese	ltr	1
-	False	True	982		bbr	bbr	Girawa	Girawa	ltr	1
-	False	True	2207		nyf	nyf	Giryama	Giryama	ltr	1
-	False	True	2520		gol	gol	Gola	Gola	ltr	1
-	False	True	940		gvf	gvf	Golin	Golin	ltr	1
-	False	True	1729		gjn	gjn	Gonja	Gonja	ltr	1
-	True	True	435		gof	gof	Goofa	Gofa	ltr	3
-	True	True	1173		gqr	gqr	Gor	Gor	ltr	1
-	True	True	1055		guh	guh	Guahibo	Guahibo	ltr	1
-	True	True	613		gub	gub	Guajajára	Guajajára	ltr	1
-	True	True	1037		gum	gum	Guambiano	Guambiano	ltr	1
-	True	True	1056		gvc	gvc	Guanano	Guanano	ltr	1
-	True	True	66		gug	gug	Guaraní paraguayo	Avañe'e	ltr	3
-	True	True	590		gui	gui	Guaraní: Ava (Bolivia)	Eastern Bolivian Guarani	ltr	2
-	True	True	606		gnw	gnw	Guaraní: Simba	Western Bolivian Guarani	ltr	2
-	True	True	359		gyr	gyr	Guarayu	Guarayu	ltr	3
-	True	True	499		guo	guo	Guayabero	Guayabero	ltr	1
-	True	True	1778		gde	gde	Gude	Gude	ltr	1
-	False	True	1641		nrf	nrf	Guernésiais	Guernsey Norman French	ltr	1
-	True	True	749		ngu	ngu	Guerrero Nahuatl	Guerrero Nahuatl	ltr	2
-	False	True	953		ghs	ghs	Guhu-Samane	Guhu-Samane	ltr	1
-	False	True	815		gvl	gvl	Gulay	Gulay	ltr	1
-	False	True	585		gul	gul	Gullah	Sea Island Creole English	ltr	1
-	False	True	2006		gnn	gnn	Gumatj	Gumatj	ltr	1
-	False	True	2405		guw	guw	Gun-Alada	Gun	ltr	1
-	False	True	1837		rub	rub	Gungu	Gungu	ltr	1
-	False	True	2417		gue	gue	Gurinji	Gurinji	ltr	1
-	False	True	2468		gvr	gvr	Gurung	Gurung	ltr	1
-	True	True	939		dah	dah	Gwahatike	Gwahatike	ltr	1
-	False	True	2299		gwr	gwr	Gwere	Gwere	ltr	1
-	True	True	600		gwi	gwi	Gwichʼin	Gwichʼin	ltr	1
-	True	True	2428		ayh	ayh	Hadrami Arabic	Hadrami Arabic	rtl	1
-	True	True	327		cnh	cnh	Hakha	Hakha Chin	ltr	2
-	False	True	1806		hak	hak_rom	Hakkafa (Roman script)	Chinese, Hakka	ltr	1
-	False	True	955		hla	hla	Halia	Halia	ltr	1
-	True	True	1499		hag	hag	Hanga	Hanga	ltr	1
-	False	True	1570		tmd	tmd	Haruai	Haruai	ltr	1
-	False	True	71	ha	hau	hau	Hausa	Hausa	ltr	2
-	False	True	76		hwc	hwc	Hawaii Pidgin	Hawaii Creole English	ltr	1
-	True	True	1149		xed	xed	Hdi	Hdi	ltr	1
-	False	True	1045		heg	heg	Helong	Helong	ltr	1
-	False	True	721		chd	chd	Highland Oaxaca Chontal	Highland Oaxaca Chontal	ltr	1
-	True	True	781		azz	azz	Highland Puebla Nahuatl	Highland Puebla Nahuatl	ltr	1
-	False	True	10		hil	hil	Hiligaynon	Hiligaynon	ltr	3
-	False	True	820		hin	hin_ro	Hindi (Roman Script)	Hindi (Roman script)	ltr	1
-	False	True	587		hix	hix	Hixkaryána	Hixkaryána	ltr	1
-	False	True	1863		hmr	hmr	Hmar	Hmar	ltr	2
-	False	True	1269		mww	mww	Hmong	Hmong Daw	ltr	2
-	True	True	1216		hnj	hnj	Hmong Hoa	Hmong Njua	ltr	2
-	False	True	595		hop	hop	Hopi	Hopi	ltr	1
-	False	True	1026		hot	hot	Hote	Hote	ltr	1
-	False	True	1018		hra	hra	Hrangkhol	Hrangkhol	ltr	1
-	False	True	2512		hre	hre	Hre	Hre	ltr	1
-	False	True	2475	hr	hrv	hrv	Hrvatski	Croatian	ltr	3
-	True	True	1088		qub	qub	Huallaga Huánuco Quechua	Huallaga Huánuco Quechua	ltr	1
-	True	True	670		qvh	qvh	Huamalíes-Dos de Mayo Huánuco Quechua	Huamalíes-Dos de Mayo Huánuco Quechua	ltr	1
-	True	True	720		hub	hub	Huambisa	Huambisa	ltr	1
-	False	True	1347		var	var	Huarijio	Huarijio	ltr	1
-	True	True	698		hus	hus	Huastec	Huastec	ltr	2
-	False	True	834		mau	mau	Huautla Mazatec	Huautla Mazatec	ltr	1
-	True	True	734		qwh	qwh	Huaylas Ancash Quechua	Huaylas Ancash Quechua	ltr	2
-	True	True	268		qxn	qxn	Huaylay	Northern Conchucos Ancash Quechua	ltr	1
-	False	True	849		tee	tee	Huehuetla Tepehua	Huehuetla Tepehua	ltr	1
-	False	True	830		hch	hch	Huichol	Huichol	ltr	1
-	False	True	2521		jab	jab	Hyam	Hyam	ltr	1
-	False	True	1027		yml	yml	Iamalele	Iamalele	ltr	1
-	False	True	968		ian	ian	Iatmul	Iatmul	ltr	1
-	False	True	2434		ibl	ibl	Ibaloi	Ibaloi	ltr	1
-	False	True	171		iba	iba	Iban	Iban	ltr	1
-	False	True	1322		ivb	ivb	Ibatan	Ibatan	ltr	1
-	True	True	947		lam	lam	Ichilamba	Lamba	ltr	1
-	False	True	2537		idu	idu	Idoma	Idoma	ltr	1
-	False	True	1235		viv	viv	Iduna	Iduna	ltr	1
-	True	True	1759		ife	ife	Ifè	Ifè	ltr	1
-	False	True	77	ig	ibo	ibo	Igbo	Igbo	ltr	2
-	False	True	2538		ige	ige	Igede	Igede	ltr	1
-	False	True	1296		ikk	ikk	Ika	Ika	ltr	1
-	True	True	241		huv	huv	Ikootz	San Mateo Del Mar Huave	ltr	1
-	False	True	1190		ikw	ikw	Ikwere	Ikwere	ltr	1
-	False	True	1599		iqw	iqw	Ikwo	Ikwo	ltr	1
-	True	True	888		ilb	ilb	Ila	Ila	ltr	1
-	False	True	1310		mbi	mbi	Ilianen Manobo	Ilianen Manobo	ltr	1
-	False	True	782		ilo	ilo	Iloko	Iloko	ltr	2
-	False	True	1009		imo	imo	Imbongu	Imbongu	ltr	1
-	False	True	1091		abx	abx	Inabaknon	Inabaknon	ltr	1
-	True	True	1103		inb	inb	Inga	Inga	ltr	1
-	False	True	951		ino	ino	Inoke-Yate	Inoke-Yate	ltr	1
-	True	True	1946		crj	crj	Īnū Ayimūn	Southern East Cree	ltr	2
-	False	True	1988		ikt	ikt	Inuinnaqtun	Inuinnaqtun	ltr	1
-	True	True	1415		esi	esi	Iñupiaq	North Alaskan Inupiatun	ltr	1
-	True	True	304		esk	esk	Inupiatun Northwest Alaska	Northwest Alaska Inupiatun	ltr	1
-	False	True	803		ike	ike_lab	Inuttitut: Labrador	Inuktitut Labrador	ltr	1
-	True	True	1020		ipi	ipi	Ipili	Ipili	ltr	1
-	False	True	1626	nd	nde	nde	isiNdebele	Ndebele	ltr	1
-	False	True	450	nr	nbl	nbl	isiNdebele	South Ndebele	ltr	1
-	False	True	281	xh	xho	xho	isiXhosa	Xhosa	ltr	2
-	False	True	286	zu	zul	zul	isiZulu	Zulu	ltr	1
-	True	True	1451		icr	icr	Islander Creole English	Islander Creole English	ltr	1
-	True	True	1915	is	isl	isl	Íslenska	Icelandic	ltr	2
-	False	True	1331		isd	isd	Isnag	Isnag	ltr	1
-	True	True	740		mir	mir	Isthmus Mixe	Isthmus Mixe	ltr	1
-	True	True	824		zai	zai	Isthmus Zapotec	Isthmus Zapotec	ltr	1
-	True	True	1654		nhx	nhx	Isthmus-Mecayapan Nahuatl	Isthmus-Mecayapan Nahuatl	ltr	2
-	True	True	122	it	ita	ita	Italiano	Italian	ltr	6
-	False	True	1315		ivv	ivv	Ivatan	Ivatan	ltr	1
-	False	True	1073		kbm	kbm	Iwal	Iwal	ltr	1
-	False	True	2413		mzi	mzi	Ixcatlán Mazatec	Ixcatlán Mazatec	ltr	1
-	True	True	247		ixl	ixl	Ixil	Ixil	ltr	3
-	False	True	1146		nca	nca	Iyo	Iyo	ltr	1
-	False	True	2070		izr	izr	Izere	Izere	ltr	1
-	False	True	1601		izz	izz	Izii	Izii	ltr	1
-	False	True	854		maj	maj	Jalapa De Díaz Mazatec	Jalapa De Díaz Mazatec	ltr	1
-	False	True	1903		jaa	jaa	Jamamadí	Jamamadí	ltr	1
-	True	True	476		jam	jam	Jamiekan	Jamaican Creole English	ltr	1
-	True	True	775		mxt	mxt	Jamiltepec Mixtec	Jamiltepec Mixtec	ltr	1
-	False	True	1973		jra	jra	Jarai	Jarai	ltr	2
-	False	True	2396		jib	jib	Jibu	Jibu	ltr	1
-	False	True	348		kac	kac	Jingpho	Kachin	ltr	1
-	False	True	2238		jit	jit	Jita	Jita	ltr	1
-	True	True	1549		csk	csk	Jola-Kasa	Jola-Kasa	ltr	1
-	True	True	1744		bex	bex	Jur Modo	Jur Modo	ltr	1
-	True	True	490		quc	quc	K'iche'	K'iche'	ltr	3
-	False	True	2023		gna	gna	Kaansa	Kaansa	ltr	1
-	False	True	2173		kbd	kbd	Kabardian	Kabardian	ltr	1
-	False	True	1485		ksp	ksp	Kabba	Kaba	ltr	1
-	True	True	555		kbp	kbp	Kabiyè	Kabiyè	ltr	1
-	False	True	584		kbc	kbc	Kadiwéu	Kadiwéu	ltr	1
-	True	True	1126		cgc	cgc	Kagayanen	Kagayanen	ltr	1
-	True	True	1508		kki	kki	Kagulu	Kagulu	ltr	1
-	False	True	629		kgp	kgp	Kaingang	Kaingang	ltr	1
-	False	True	611		kgk	kgk	Kaiwá	Kaiwá	ltr	1
-	False	True	1100		kqf	kqf	Kakabai	Kakabai	ltr	1
-	True	True	216		cak	cak	Kakchikel	Kaqchikel	ltr	9
-	True	True	1768		kkj	kkj	Kako	Kako	ltr	1
-	False	True	1399		mwp	mwp	Kala Lagaw Ya	Kala Lagaw Ya	ltr	1
-	False	True	2540		ijn	ijn	Kalabari	Kalabari	ltr	1
-	True	True	1357		kqe	kqe	Kalagan	Kalagan	ltr	2
-	False	True	950		kmh	kmh	Kalam	Kalam	ltr	2
-	True	True	860		kck	kck	Kalanga	Kalanga	ltr	1
-	False	True	1586		kln	kln	Kalenjin	Kalenjin	ltr	2
-	False	True	2089		xal	xal	Kalmyk	Kalmyk	ltr	1
-	False	True	1298		bco	bco	Kaluli	Kaluli	ltr	1
-	False	True	1236		kbq	kbq	Kamano	Kamano	ltr	1
-	False	True	971		kms	kms	Kamasau	Kamasau	ltr	1
-	False	True	1410		xla	xla	Kamula	Kamula	ltr	1
-	False	True	1198		soq	soq	Kanasi	Kanasi	ltr	1
-	False	True	1252		kqw	kqw	Kandas	Kandas	ltr	1
-	False	True	1137		gam	gam	Kandawo	Kandawo	ltr	1
-	True	True	1653		moh	moh	Kanien’kéha	Mohawk	ltr	3
-	False	True	1473		wat	wat	Kaninuwa	Kaninuwa	ltr	1
-	False	True	987		kmu	kmu	Kanite	Kanite	ltr	1
-	True	True	1329		kne	kne	Kankanaey	Kankanaey	ltr	1
-	False	True	1354		kpg	kpg	Kapingamarangi	Kapingamarangi	ltr	2
-	False	True	1107		leu	leu	Kara (Papua New Guinea)	Kara (Papua New Guinea)	ltr	2
-	False	True	2317		krc	krc	Karachay-Balkar	Karachay-Balkar	ltr	1
-	False	True	725		kpj	kpj	Karajá	Karajá	ltr	1
-	False	True	997		mjw	mjw	Karbi	Karbi	ltr	1
-	False	True	521		cab	cab	Karif	Garifuna	ltr	1
-	False	True	998		yuj	yuj	Karkar-Yuri	Karkar-Yuri	ltr	1
-	False	True	2018		krx	krx	Karon	Karon	ltr	1
-	True	True	1303		xsm	xsm	Kasem	Kasem	ltr	1
-	False	True	1566		khs	khs	Kasua	Kasua	ltr	1
-	False	True	2356		kgd	kgd	Kataang	Kataang	ltr	1
-	False	True	2494		xtc	xtc	Katcha-Kadugli-Miri	Katcha-Kadugli-Miri	ltr	1
-	True	True	345		kyu	kyu	Kaya Western	Western Kayah	ltr	2
-	True	True	616		kyz	kyz	Kayabí	Kayabí	ltr	1
-	True	True	691		txu	txu	Kayapó	Kayapó	ltr	1
-	False	True	966		khz	khz	Keapara	Keapara	ltr	1
-	False	True	942		bmh	bmh	Kein	Kein	ltr	1
-	True	True	628		kek	kek	Kekchí	Kekchí	ltr	3
-	False	True	2052		kbo	kbo	Keliko	Keliko	ltr	1
-	True	True	1158		kyq	kyq	Kenga	Kenga	ltr	1
-	True	True	388		ken	ken	Kenyang	Kenyang	ltr	1
-	True	True	1079	kw	cor	cor	Kernewek	Cornish	ltr	2
-	False	True	1105		kyg	kyg	Keyagana	Keyagana	ltr	1
-	False	True	2495		kjl	kjl	Kham, Western Parbate	Kham, Western Parbate	ltr	1
-	True	True	1865		kha	kha	Khasi	Khasi	ltr	1
-	False	True	1058		kix	kix	Khiamniungan Naga	Khiamniungan Naga	ltr	1
-	False	True	548		naq	naq	Khoekhoegowab	Khoekhoe	ltr	1
-	False	True	1958		cnk	cnk	Khumi Chin	Khumi Chin	ltr	1
-	False	True	1827		kql	kql	Kiañiŋ Balaŋ	Kyenele	ltr	1
-	False	True	812		beq	beq	KiBeembe	Beembe (Congo)	ltr	1
-	False	True	262		qug	qug	Kichwa: Chaupi urcucuna	Chimborazo Highland Quichua	ltr	2
-	False	True	264		qvi	qvi	Kichwa: Imbabura	Imbabura Highland Quichua	ltr	1
-	False	True	261		qxr	qxr	Kichwa: Ura urcucuna	Cañar Highland Quichua	ltr	1
-	True	True	1815		heh	heh	Kihehe	Hehe	ltr	1
-	True	True	1201	ki	kik	kik	Kikuyu	Kikuyu	ltr	3
-	False	True	1491		ktu	ktu	Kikwango	Kituba (Democratic Republic of Congo)	ltr	1
-	False	True	810		kia	kia	Kim	Kim	ltr	2
-	True	True	1612		kqp	kqp	Kimré	Kimré	ltr	1
-	True	True	1489		krj	krj	Kinaray-A	Kinaray-A	ltr	1
-	True	True	1226		kdc	kdc	King'hutu	Kutu	ltr	1
-	False	True	2312		zga	zga	Kinga	Kinga	ltr	1
-	False	True	1813		nim	nim	Kĩnilyamba	Nilamba	ltr	1
-	True	True	387	rw	kin	kin	Kinyarwanda	Rwandan	ltr	4
-	False	True	1371		geb	geb	Kire	Kire	ltr	1
-	False	True	2328	ky	kir	kir	Kirghiz	Kyrghyz	ltr	1
-	False	True	2542		okr	okr	Kirike	Kirike	ltr	1
-	True	True	301		rim	rim	Kirimi	Nyaturu	ltr	1
-	False	True	948		kje	kje	Kisar	Kisar	ltr	1
-	False	True	1811		ksb	ksb	Kishambala	Shambala	ltr	1
-	False	True	2241		kss	kss	Kisi	Southern Kisi	ltr	1
-	False	True	1394		kqs	kqs	Kisiei	Kissi	ltr	1
-	True	True	74	sw	swh	swh	Kiswahili	Swahili	ltr	8
-	False	True	1920		tul	tul	Ki̱tule	Tula	ltr	1
-	False	True	1812		vun	vun	Kivunjo	Vunjo	ltr	1
-	False	True	1617		yom	yom	Kiyombi	Yombe	ltr	1
-	False	True	1576		kpw	kpw	Kobon	Kobon	ltr	1
-	False	True	2045		kfa	kfa	Kodava	Kodava	ltr	1
-	False	True	2350		kpm	kpm	Koho	Koho	ltr	1
-	False	True	1540		trp	trp	Kokborok	Kok Borok	ltr	1
-	True	True	1774		kmy	kmy	Koma	Koma	ltr	1
-	False	True	1292		xbi	xbi	Kombio	Kombio	ltr	2
-	False	True	1542		kmm	kmm	Komrem	Kom (India)	ltr	1
-	False	True	1567		kxw	kxw	Konai	Konai	ltr	1
-	False	True	2423		kfc	kfc	Konda-Dora	Konda-Dora	ltr	1
-	True	True	1866		gom	gom	Konkani	Goan Konkani	ltr	1
-	True	True	1150		xon	xon	Konkomba	Konkomba	ltr	2
-	False	True	2421		kma	kma	Konni	Konni	ltr	1
-	False	True	933		nbe	nbe	Konyak Naga	Konyak Naga	ltr	1
-	False	True	2388		ozm	ozm	Koonzime	Koonzime	ltr	2
-	False	True	1072		kpr	kpr	Korafe-Yegha	Korafe-Yegha	ltr	2
-	True	True	1571		coe	coe	Koreguaje	Koreguaje	ltr	1
-	True	True	925		bpr	bpr	Koronadal Blaan	Koronadal Blaan	ltr	1
-	False	True	1109		kze	kze	Kosena	Kosena	ltr	1
-	True	True	1139		kyf	kyf	Kouya	Kouya	ltr	1
-	False	True	1393		gkp	gkp	Kpèlèè	Guinea Kpelle	ltr	3
-	False	True	1479		xpe	xpe	Kpelle Liberia	Liberia Kpelle	ltr	1
-	True	True	1957	ht	hat	hat	Kreyòl Ayisyen	Haitian Creole	ltr	2
-	False	True	1362		rop	rop	Kriol	Australian Creole	ltr	2
-	False	True	1301		kgf	kgf	Kube	Kube	ltr	1
-	False	True	1375		gvn	gvn	Kuku-Yalanji	Kuku-Yalanji	ltr	1
-	True	True	1441		kdi	kdi	Kumam	Kumam	ltr	1
-	True	True	1334		kue	kue	Kuman	Kuman (Papua New Guinea)	ltr	1
-	True	True	240		cuk	cuk	Kuna San Blas	San Blas Kuna	ltr	2
-	False	True	2240		kdn	kdn	Kunda	Kunda	ltr	1
-	False	True	2085		kvg	kvg	Kuni-Boazi	Kuni-Boazi	ltr	1
-	False	True	1067		kup	kup	Kunimaipa	Kunimaipa	ltr	1
-	False	True	2256		gup	gup	Kunwinjku	Gunwinggu	ltr	1
-	True	True	1178		xuo	xuo	Kuo	Kuo	ltr	1
-	False	True	996		kto	kto	Kuot	Kuot	ltr	1
-	False	True	1287		mkn	mkn	Kupang Malay	Kupang Malay	ltr	1
-	False	True	2335		key	key	Kupia	Kupia	ltr	1
-	False	True	1814		kuj	kuj	Kuria	Kuria	ltr	1
-	False	True	251		kmr	kmr	Kurmancî	Kurmanji Kurdish	ltr	2
-	False	True	1644		ktm	ktm	Kurti	Kurti	ltr	1
-	False	True	1867		kru	kru	Kurux	Kurukh	ltr	1
-	False	True	2209		kus	kus	Kusaal	Kusaal	ltr	1
-	False	True	2071		kub	kub	Kutep	Kutep	ltr	1
-	False	True	1248		kwd	kwd	Kwaio	Kwaio	ltr	1
-	True	True	1447		tnk	tnk	Kwamera	Kwamera	ltr	1
-	False	True	1164		kwj	kwj	Kwanga	Kwanga	ltr	1
-	False	True	1904		kwf	kwf	Kwara'ae	Kwara'ae	ltr	1
-	False	True	990		kmo	kmo	Kwoma	Kwoma	ltr	1
-	False	True	1396		lbb	lbb	Label	Label	ltr	1
-	False	True	786		lac	lac	Lacandon	Lacandon	ltr	1
-	True	True	458		zpl	zpl	Lachixío Zapotec	Lachixío Zapotec	ltr	1
-	False	True	1458		lbj	lbj	ladakhspa	Ladakhi	ltr	1
-	True	True	91		lhu	lhu	Ladhof	Lahu	ltr	1
-	False	True	1603		lhi	lhi	Lahu Shi	Lahu Shi	ltr	1
-	False	True	2067		lap	lap	Laka (Chad)	Laka (Chad)	ltr	1
-	False	True	2451		leb	leb	Lala-Bisa	Lala-Bisa	ltr	1
-	False	True	836		cnl	cnl	Lalana Chinantec	Lalana Chinantec	ltr	1
-	False	True	2334		sco	sco	Lallans	Scots	ltr	1
-	True	True	650		quf	quf	Lambayeque Quechua	Lambayeque Quechua	ltr	1
-	True	True	1607		lai	lai	Lambya	Lambya	ltr	1
-	False	True	1024		lmk	lmk	Lamkang	Lamkang	ltr	1
-	True	True	472		laj	laj	Lango	Lango (Uganda)	ltr	2
-	False	True	2470		lro	lro	Laro	Laro	ltr	1
-	False	True	390		lsi	lsi	Lashi	Lashi	ltr	1
-	False	True	823	la	lat	lat	Latina	Latin	ltr	1
-	False	True	318	lv	lav	lav	Latviešu Valoda	Latvian	ltr	4
-	False	True	2545		brb	brb	Lave	Lave	ltr	1
-	True	True	2476		lzz	lzz	Laz	Laz	ltr	1
-	False	True	1070	to	ton	ton	lea fakatonga	Tonga (Tonga Islands)	ltr	2
-	False	True	2352		lew	lew	Ledo Kaili	Ledo Kaili	ltr	1
-	False	True	1497		lgm	lgm	Lega-Mwenga	Lega-Mwenga	ltr	1
-	False	True	2442		lef	lef	Lelemi	Lelemi	ltr	1
-	False	True	1853		cek	cek	Lemi	Eastern Khumi Chin	ltr	1
-	False	True	552		leh	leh	Lenje	Lenje	ltr	1
-	False	True	1606		lww	lww	Lewo	Lewo	ltr	1
-	False	True	2193		lez	lez	Lezghian	Lezghian	ltr	1
-	True	True	356		mhx	mhx	Lhao Vo	Maru	ltr	1
-	True	True	109		nia	nia	Li Niha	Nias	ltr	1
-	False	True	1537		njn	njn	Liangmai Naga	Liangmai Naga	ltr	1
-	False	True	420	lt	lit	lit	Lietuvių	Lithuanian	ltr	4
-	False	True	2382		lik	lik	Lika	Lika	ltr	1
-	False	True	1460		kpf	kpf	Likɔɔnl	Komba	ltr	1
-	False	True	252		lif	lif	Limbu	Limbu	ltr	1
-	True	True	364		lif	lif_dev	Limbu (Devanagari)	Limbu (Devanagari)	ltr	1
-	False	True	1240		lmp	lmp	Limbum	Limbum	ltr	1
-	False	True	1274		kmk	kmk	Limos Kalinga	Limos Kalinga	ltr	1
-	False	True	1964	ln	lin	lin	Lingala	Lingala	ltr	1
-	False	True	1294		loq	loq	Lobala	Lobala	ltr	1
-	True	True	1834		log	log	Logo	Logoti	ltr	1
-	False	True	1496		khy	khy	Lokele	Kele (Democratic Republic of Congo)	ltr	1
-	False	True	1456		lom	lom	Loma (Liberia)	Loma (Liberia)	ltr	1
-	False	True	1492		nxd	nxd	Longando	Ngando (Democratic Republic of Congo)	ltr	1
-	False	True	1255		uvl	uvl	Lote	Lote	ltr	1
-	False	True	787		tac	tac	Lowland Tarahumara	Lowland Tarahumara	ltr	1
-	False	True	825		loz	loz	Lozi	Lozi	ltr	1
-	True	True	1169		lex	lex	Luang	Luang	ltr	1
-	False	True	1494		sop	sop	Luba-Kalebwe	Songe	ltr	1
-	False	True	2233		knb	knb	Lubuagan Kalinga	Lubuagan Kalinga	ltr	1
-	True	True	1423	lg	lug	lug	Luganda	Ganda	ltr	4
-	False	True	2493		lmd	lmd	Lumun	Lumun	ltr	1
-	True	True	1783		lwo	lwo	Luwo	Luwo	ltr	1
-	True	True	559		ach	ach	Lwo	Acholi (Acoli)	ltr	1
-	False	True	1772		lee	lee	Lyélé	Lyélé	ltr	1
-	False	True	1380		tod	tod	Lɔɠɔma	Toma	ltr	1
-	True	True	1689		mdy	mdy	Maale	Maale	ltr	2
-	False	True	1816		mas	mas	Maasai	Masai	ltr	1
-	True	True	324		yua	yua	Màaya	Yucateco	ltr	1
-	True	True	1108		mca	mca	Maca	Maca	ltr	1
-	False	True	633		mcb	mcb	Machiguenga	Machiguenga	ltr	1
-	True	True	1090		myy	myy	Macuna	Macuna	ltr	1
-	False	True	618		mbc	mbc	Macushi	Macushi	ltr	1
-	False	True	1802		mda	mda	Mada	Mada (Nigeria)	ltr	1
-	False	True	1099		mmx	mmx	Madak	Madak	ltr	1
-	True	True	908		maf	maf	Mafa	Mafa	ltr	1
-	True	True	1282		sgb	sgb	Mag-antsi Ayta	Mag-antsi Ayta	ltr	1
-	False	True	847		xtm	xtm	Magdalena Peñasco Mixtec	Magdalena Peñasco Mixtec	ltr	1
-	True	True	84	hu	hun	hun	Magyar	Hungarian	ltr	6
-	False	True	2398		ayz	ayz	Mai Brat	Mai Brat	ltr	1
-	False	True	1406		mzz	mzz	Maiadomu	Maiadomu	ltr	1
-	True	True	1302		mai	mai	Maithili	Maithili	ltr	1
-	False	True	360		mti	mti	Maiwa (Papua New Guinea)	Maiwa (Papua New Guinea)	ltr	1
-	True	True	1143		mcp	mcp	Makaa	Makaa	ltr	1
-	True	True	1673		mgh	mgh	Makua	Makhuwa-Meetto	ltr	1
-	True	True	396		plt	plt	Malagasy (Madagascar)	Malgache	ltr	6
-	False	True	2505		mlt	mlt	Maltese	Maltese	ltr	1
-	True	True	654		mam	mam	Mam	Mam	ltr	5
-	False	True	1327		mmn	mmn	Mamanwa	Mamanwa	ltr	1
-	True	True	1140		myk	myk	Mamara Senoufo	Mamara Senoufo	ltr	1
-	False	True	383		mqj	mqj	Mamasa	Mamasa	ltr	1
-	False	True	1756		mgr	mgr	Mambwe-Lungu	Mambwe (ichi-): Lungu	ltr	1
-	True	True	1784		maw	maw	Mampruli	Mampruli	ltr	1
-	False	True	1232		mva	mva	Manam	Manam	ltr	1
-	False	True	2074		kby	kby	Manga Kanuri	Manga Kanuri	ltr	1
-	False	True	1089		mmo	mmo	Mangga Buang	Mangga Buang	ltr	1
-	True	True	761		mqy	mqy	Manggarai	Manggarai	ltr	1
-	False	True	1122		mbh	mbh	Mangseng	Mangseng	ltr	1
-	True	True	1214		knf	knf	Mankanya	Mankanya	ltr	1
-	False	True	1246		msk	msk	Mansaka	Mansaka	ltr	1
-	False	True	2551		kxf	kxf	Manumanaw	Manumanaw	ltr	1
-	False	True	94	mi	mri	mri	Māori	Maori	ltr	1
-	False	True	1847		rar	rar	Māori Kūki 'Āirani	Cook Islands Maori (Rarotongan)	ltr	2
-	False	True	1386		mlh	mlh	Mape	Mape	ltr	1
-	False	True	945		bzh	bzh	Mapos Buang	Mapos Buang	ltr	1
-	False	True	355		arn	arn	Mapudungun	Mapudungun	ltr	2
-	False	True	1023		nma	nma	Maram Naga	Maram Naga	ltr	1
-	False	True	855		mpg	mpg	Marba	Marba	ltr	1
-	False	True	349		dad	dad	Marik	Marik	ltr	1
-	False	True	1544		nng	nng	Maring Naga	Maring Naga	ltr	1
-	False	True	2437		mzr	mzr	Marúbo	Marúbo	ltr	1
-	False	True	2183		myx	myx	Masaaba	Masaaba	ltr	2
-	True	True	557		mcn	mcn	Masana	Masana	ltr	1
-	False	True	1222		msb	msb	Masbatenyo	Masbatenyo	ltr	1
-	False	True	1247		klv	klv	Maskelynes	Maskelynes	ltr	2
-	False	True	2205		mfh	mfh	Matal	Matal	ltr	1
-	True	True	1002		mbt	mbt	Matigsalug Manobo	Matigsalug Manobo	ltr	1
-	False	True	2360		met	met	Mato	Mato	ltr	1
-	False	True	631		mcf	mcf	Matsés	Matsés	ltr	1
-	False	True	2489		hlt	hlt	Matu Chin	Matu Chin	ltr	1
-	False	True	2363		mgw	mgw	Matumbi	Matumbi	ltr	1
-	False	True	1376		mph	mph	Maung	Maung	ltr	1
-	False	True	1405		mhl	mhl	Mauwake	Mauwake	ltr	1
-	False	True	612		mbl	mbl	Maxakalí	Maxakalí	ltr	1
-	False	True	285		yan	yan	Mayangna	Mayangna	ltr	1
-	True	True	1348		mfy	mfy	Mayo	Mayo	ltr	1
-	True	True	1330		ifu	ifu	Mayoyao Ifugao	Mayoyao Ifugao	ltr	1
-	False	True	444		myb	myb	Mbay	Mbay	ltr	1
-	False	True	1779		gai	gai	Mborena Kam	Borei	ltr	1
-	True	True	456		mqb	mqb	Mbuko	Mbuko	ltr	1
-	False	True			mbu	mbu	Mbula	Mbula-Bwazza	ltr	1
-	False	True	1340		mna	mna	Mbula	Mbula	ltr	1
-	False	True	627		mck	mck	Mbunda	Mbunda	ltr	1
-	False	True	1066		gun	gun	Mbyá Guaraní	Guaraní: Mbyá	ltr	1
-	False	True	1336		mek	mek	Mekeo	Mekeo	ltr	1
-	False	True	1000		med	med	Melpa	Melpa	ltr	1
-	False	True	1345		sim	sim	Mende (Papua New Guinea)	Mende (Papua New Guinea)	ltr	1
-	False	True	1031		mee	mee	Mengen	Mengen	ltr	1
-	True	True	1168		meq	meq	Merey	Merey	ltr	1
-	False	True	2179		mgo	mgo	Meta'	Meta'	ltr	1
-	False	True	1790		mxv	mxv	Metlatónoc Mixtec	Metlatónoc Mixtec	ltr	1
-	False	True	2549		tpx	tpx	Me’phaa, Acatepec	Me’phaa, Acatepec	ltr	1
-	False	True	802		mic	mic	Mi'kmaq	Mi'kmaq	ltr	1
-	False	True	861		zam	zam	Miahuatlán Zapotec	Miahuatlán Zapotec	ltr	1
-	False	True	1167		mpt	mpt	Mian	Mian	ltr	1
-	False	True	737		ncl	ncl	Michoacán Nahuatl	Michoacán Nahuatl	ltr	1
-	False	True	870		mpp	mpp	Migabac	Migabac	ltr	1
-	False	True	2236		gej	gej	Mina	Gen	ltr	1
-	False	True	1261		mvn	mvn	Minaveha	Minaveha	ltr	1
-	True	True	1061		hto	hto	Minica Huitoto	Minica Huitoto	ltr	1
-	False	True	1764		mwl	mwl	Mirandês	Mirandese	ltr	1
-	False	True	1482		mpx	mpx	Misima-Panaeati	Misima-Panaeati	ltr	1
-	False	True	1078		mrg	mrg	Mising	Mising	ltr	1
-	True	True	298		miq	miq	Miskito	Mískito	ltr	2
-	True	True	774		zaw	zaw	Mitla Zapotec	Mitla Zapotec	ltr	1
-	True	True	826		mco	mco	Mixe: Coatlán	Coatlán Mixe	ltr	1
-	False	True	768		mxq	mxq	Mixe: Juquila	Juquila Mixe	ltr	1
-	False	True	357		mzl	mzl	Mixe: Mazatlán	Mazatlán Mixe	ltr	1
-	False	True	2130		pxm	pxm	Mixe: Quezaltepec	Mixe: Quezaltepec	ltr	1
-	False	True	723		mto	mto	Mixe: Totontepec	Totontepec Mixe	ltr	1
-	False	True	254		mks	mks	Mixtec Silacayoapan	Silacayoapan Mixtec	ltr	1
-	False	True	745		zpm	zpm	Mixtepec Zapotec	Mixtepec Zapotec	ltr	1
-	False	True	1104		soy	soy	Miyobe	Miyobe	ltr	1
-	True	True	253		lus	lus	Mizo ṭawng	Lushai	ltr	2
-	False	True	2237		mfq	mfq	Moba	Moba	ltr	1
-	False	True	332		moc	moc	Mocoví	Mocoví	ltr	1
-	True	True	1785		mif	mif	Mofu-Gudur	Mofu-Gudur	ltr	1
-	False	True	2049		mfg	mfg	Mogofin	Mogofin	ltr	1
-	False	True	1034		mkl	mkl	Mokole	Mokole	ltr	1
-	True	True	1257		mox	mox	Molima	Molima	ltr	1
-	False	True	1495		lol	lol	Mongo-Nkundu	Mongo	ltr	1
-	False	True	1868		nmh	nmh	Monsang Naga	Monsang Naga	ltr	1
-	True	True	630		mop	mop	Mopán Maya	Mopán Maya	ltr	1
-	False	True	344		mfe	mfe	Morisyen	Mauritian	ltr	1
-	False	True	1377		mgc	mgc	Morokodo	Morokodo	ltr	1
-	False	True	1217		mos	mos	Mossi	Mossi	ltr	1
-	False	True	1074		kpx	kpx	Mountain Koiali	Mountain Koiali	ltr	1
-	True	True	245		ign	ign	Moxos	Ignaciano	ltr	2
-	False	True	1046		nmo	nmo	Moyon Naga	Moyon Naga	ltr	1
-	False	True	2473		cmr	cmr	Mro-Khimi Chin	Mro-Khimi Chin	ltr	1
-	False	True	952		aoj	aoj	Mufian	Mufian	ltr	2
-	False	True	523		bmr	bmr	Muinane	Muinane	ltr	1
-	False	True	2433		moz	moz	Mukulu	Mukulu	ltr	1
-	False	True	2076		kqa	kqa	Mum	Mum	ltr	1
-	False	True	2069		mzm	mzm	Mumuye	Mumuye	ltr	1
-	False	True	863		mua	mua	Mundang	Mundang	ltr	1
-	False	True	2208		mnf	mnf	Mundani	Mundani	ltr	1
-	False	True	1792		muh	muh	Mündü	Mündü	ltr	1
-	False	True	662		myu	myu	Mundurukú	Mundurukú	ltr	1
-	False	True	2383		mur	mur	Murle	Murle	ltr	1
-	True	True	596		huu	huu	Murui Huitoto	Murui Huitoto	ltr	1
-	False	True	99		tih	tih	Murut Timugon	Timugon Murut	ltr	1
-	False	True	1130		mse	mse	Musey	Musey	ltr	1
-	True	True	1855		mug	mug	Musgu	Mousgoum	ltr	1
-	False	True	1123		emi	emi	Mussau-Emira	Mussau-Emira	ltr	1
-	False	True	470		tuc	tuc	Mutu	Mutu	ltr	2
-	True	True	1142		muy	muy	Muyang	Muyang	ltr	1
-	False	True	1342		myw	myw	Muyuw	Muyuw	ltr	1
-	True	True	1789		moa	moa	Mwan	Mwan	ltr	1
-	True	True	1148		wmw	wmw	Mwani	Mwani	ltr	1
-	False	True	2370		mwe	mwe	Mwera (Chimwera)	Mwera (Chimwera)	ltr	1
-	False	True	1338		nas	nas	Naasioi	Naasioi	ltr	1
-	False	True	1132		naf	naf	Nabak	Nabak	ltr	1
-	False	True	452		mbj	mbj	Nadëb	Nadëb	ltr	1
-	True	True	225		nhe	nhe	Nahuat Eastern Huasteca	Eastern Huasteca Nahuatl	ltr	2
-	True	True	1725		nsu	nsu	Nahuatl	Sierra Negra Nahuatl	ltr	1
-	True	True	366		nhi	nhi	Nahuatl Zacatlán-Ahuacatlán-Tepetzintla	Zacatlán-Ahuacatlán-Tepetzintla Nahuatl	ltr	1
-	False	True	1133		nak	nak	Nakanai	Nakanai	ltr	1
-	True	True	1113		ojb	ojb	Nakawēmowin	Northwestern Ojibwa	ltr	2
-	False	True	1453		nss	nss	Nali	Nali	ltr	1
-	False	True	1181		nvm	nvm	Namiae	Namiae	ltr	1
-	True	True	331		bjv	bjv	Nangnda	Bedjond	ltr	2
-	True	True	1136		nhr	nhr	Naro	Naro	ltr	1
-	True	True	2496		nsk	nsk	Naskapi	Naskapi	ltr	1
-	False	True	1908		ntu	ntu	Natqgu	Natügu	ltr	1
-	False	True	1098	nv	nav	nav	Navajo	Navajo	ltr	1
-	False	True	1836		naw	naw	Nawuri	Nawuri	ltr	1
-	False	True	2523		ndh	ndh	Ndali	Ndali	ltr	1
-	True	True	1038		ndj	ndj	Ndamba	Ndamba	ltr	1
-	False	True	1493		nnb	nnb	Ndandi	Nande	ltr	2
-	True	True	1694		ndc	ndc	Ndau	Ndau	ltr	1
-	True	True	1793		ndz	ndz	Ndogo	Ndogo	ltr	1
-	True	True	75	nl	nld	nld	Nederlands	Dutch	ltr	6
-	False	True	428		nsn	nsn	Nehan	Nehan	ltr	1
-	False	True	483		crm	crm	Nēhinawēwin	Cree: Moose	ltr	1
-	False	True	1448		nif	nif	Nek	Nek	ltr	1
-	False	True	2267		anh	anh	Nend	Nend	ltr	1
-	True	True	601		gym	gym	Ngäbere	Ngäbere	ltr	1
-	False	True	516		sba	sba	Ngambay	Ngambay	ltr	1
-	True	True	474		gng	gng	Ngangam	Ngangam	ltr	1
-	False	True	2487		cnw	cnw	Ngawn Chin	Ngawn Chin	ltr	1
-	True	True	1674		nnq	nnq	Ngindo	Ngindo	ltr	1
-	False	True	1431		niy	niy	Ngiti	Ngiti	ltr	1
-	False	True	373		acn	acn	Ngochang	Achang	ltr	1
-	False	True	1490		ngc	ngc	Ngombe	Ngombe (Democratic Republic of Congo)	ltr	1
-	False	True	1805		dru	dru	Ngudradrekai	Rukai	ltr	1
-	True	True	1043		ngp	ngp	Ngulu	Ngulu	ltr	1
-	False	True	299		nnh	nnh	Ngyemboon (Ngiemboon)	Ngiemboon	ltr	1
-	False	True	134		pne	pne	Nibong	Western Penan	ltr	1
-	False	True	1151		nii	nii	Nii	Nii	ltr	1
-	False	True	1648		nmw	nmw	Nimoa	Nimoa	ltr	1
-	False	True			nin	nin	Ninzo	Ninzo	ltr	1
-	True	True	1486		cag	cag	Niwaklé	Nivaclé (Paraguay)	ltr	2
-	False	True	255		nko	nko	Nkonya	Nkonya	ltr	1
-	False	True	943		gaw	gaw	Nobonob	Nobonob	ltr	1
-	False	True	1051		njb	njb	Nocte Naga	Nocte Naga	ltr	1
-	True	True	1775		lem	lem	Nomaande	Nomaande	ltr	1
-	True	True	647		not	not	Nomatsiguenga	Nomatsiguenga	ltr	1
-	False	True	1646		snf	snf	Noon	Noon	ltr	1
-	True	True	461		nhu	nhu	Noone	Noone	ltr	1
-	False	True	1249		cya	cya	Nopala Chatino	Nopala Chatino	ltr	1
-	False	True	102	nb	nob	nob	Norsk: bokmål	Norwegian Bokmål	ltr	7
-	False	True	120	nn	nno	nno	Norsk: nynorsk	Norwegian Nynorsk	ltr	3
-	True	True	646		qul	qul	North Bolivian Quechua	North Bolivian Quechua	ltr	2
-	True	True	663		qvn	qvn	North Junín Quechua	North Junín Quechua	ltr	1
-	False	True	551		mfk	mfk	North Mofu	North Mofu	ltr	1
-	False	True	867		tbg	tbg	North Tairora	North Tairora	ltr	1
-	True	True	1228		tnn	tnn	North Tanna	North Tanna	ltr	1
-	False	True	2152		dip	dip	Northeastern Dinka	Northeastern Dinka	ltr	1
-	True	True	353		emp	emp	Northern Emberá	Northern Emberá	ltr	1
-	False	True	2498		hdn	hdn	Northern Haida	Northern Haida	ltr	1
-	False	True	1344		xnn	xnn	Northern Kankanay	Northern Kankanay	ltr	1
-	False	True	2075		ncq	ncq	Northern Katang	Northern Katang	ltr	1
-	True	True	712		nhy	nhy	Northern Oaxaca Nahuatl	Northern Oaxaca Nahuatl	ltr	1
-	True	True	658		pao	pao	Northern Paiute	Northern Paiute	ltr	1
-	True	True	718		qvz	qvz	Northern Pastaza Quichua	Northern Pastaza Quichua	ltr	1
-	True	True	783		ncj	ncj	Northern Puebla Nahuatl	Northern Puebla Nahuatl	ltr	1
-	False	True	764		ntp	ntp	Northern Tepehuan	Northern Tepehuan	ltr	1
-	True	True	1907		nod	nod	Northern Thai	Northern Thai	ltr	1
-	False	True	1561		xtn	xtn	Northern Tlaxiaco Mixtec	Northern Tlaxiaco Mixtec	ltr	1
-	False	True	868		gya	gya	Northwest Gbaya	Northwest Gbaya	ltr	2
-	False	True	2235		bud	bud	Ntcham	Ntcham	ltr	1
-	False	True	2155		nus	nus	Nuer	Nuer	ltr	1
-	False	True	937		klt	klt	Nukna	Nukna	ltr	1
-	False	True	2543		nuq	nuq	Nukumanu	Nukumanu	ltr	1
-	False	True	801		nop	nop	Numanggang	Numanggang	ltr	1
-	False	True	1333		nuy	nuy	Nunggubuyu	Nunggubuyu	ltr	1
-	False	True	2386		nwb	nwb	Nyabwa	Nyabwa	ltr	1
-	False	True	2326		nyy	nyy	Nyakyusa-Ngonde	Nyakyusa-Ngonde	ltr	2
-	True	True	1434		nyn	nyn	Nyankole	Nyankole	ltr	1
-	False	True	1106		lid	lid	Nyindrou	Nyindrou	ltr	1
-	False	True	1536		njz	njz	Nyishi	Nyishi	ltr	2
-	False	True	2332		nuj	nuj	Nyole	Nyole	ltr	1
-	True	True	2252		nys	nys	Nyoongar	Nyunga	ltr	1
-	True	True	2515		nyo	nyo	Nyoro	Nyoro	ltr	1
-	False	True	2347		nyu	nyu	Nyungwe	Nyungwe	ltr	1
-	True	True	425		obo	obo	Obo Manobo	Obo Manobo	ltr	1
-	False	True	1587		ann	ann	Obolo	Obolo	ltr	2
-	True	True	785		mie	mie	Ocotepec Mixtec	Ocotepec Mixtec	ltr	1
-	False	True	766		zac	zac	Ocotlán Zapotec	Ocotlán Zapotec	ltr	1
-	False	True	1749		ory	ory	ODIA	Oriya	ltr	3
-	False	True	1408		kkc	kkc	Odoodee	Odoodee	ltr	1
-	False	True	2269		odu	odu	Odual	Odual	ltr	1
-	False	True	1671		eri	eri	Ogea	Ogea	ltr	1
-	False	True	2127		chj	chj	Ojitlán Chinantec	Ojitlán Chinantec	ltr	1
-	True	True	350		atg	atg	Okphela	Ivbie North-Okpela-Arhe	ltr	1
-	False	True	1183		opm	opm	Oksapmin	Oksapmin	ltr	1
-	False	True	1187		ong	ong	Olo	Olo	ltr	1
-	False	True	931		aom	aom	Ömie	Ömie	ltr	1
-	True	True	1556		bsc	bsc	Oniyan	Oniyan	ltr	1
-	False	True	1569		ons	ons	Ono	Ono	ltr	1
-	False	True	1179		okv	okv	Orokaiva	Orokaiva	ltr	1
-	False	True	2177		ury	ury	Orya Papua	Orya Papua	ltr	1
-	False	True	469	kj	kua	kua	Oshikwanyama (Kwanyama)	Kuanyama	ltr	1
-	False	True	372	ng	ndo	ndo	OshiNdonga	Ndonga	ltr	1
-	False	True	2422		oss	oss	Ossetian	Ossetian	ltr	1
-	True	True	259		otq	otq	Otom Querétaro	Querétaro Otomi	ltr	1
-	True	True	258		ote	ote	Otomi Mezquital	Mezquital Otomi	ltr	1
-	False	True	2154		lot	lot	Otuho	Otuho	ltr	1
-	False	True	707		zao	zao	Ozolotepec Zapotec	Ozolotepec Zapotec	ltr	1
-	True	True	710		chz	chz	Ozumacín Chinantec	Ozumacín Chinantec	ltr	1
-	True	True	1730		uzn	uzn	Oʻzbekcha (Ўзбекча)	Uzbek	ltr	2
-	False	True	1435		pma	pma	Paama	Paama	ltr	2
-	False	True	1978		sig	sig	Paasaal	Paasaal	ltr	1
-	False	True	2276		pac	pac	Pacoh	Pacoh	ltr	1
-	True	True	1349		pbb	pbb	Páez	Páez	ltr	1
-	False	True	486		pri	pri	Paicî	Paicî	ltr	1
-	False	True	1870		pck	pck	Paite	Paite Chin	ltr	1
-	False	True	1165		plu	plu	Palikúr	Palikúr	ltr	2
-	False	True	1141		pam	pam	Pampanga	Pampanga	ltr	1
-	False	True	1131		att	att	Pamplona Atta	Pamplona Atta	ltr	1
-	True	True	457		qxh	qxh	Panao Huánuco Quechua	Panao Huánuco Quechua	ltr	1
-	False	True	1166		pag	pag	Pangasinan	Pangasinan	ltr	2
-	False	True	2302		slm	slm	Pangutaran Sama	Pangutaran Sama	ltr	1
-	False	True	779		top	top	Papantla Totonac	Papantla Totonac	ltr	1
-	False	True	818		pap	pap	Papiamentu	Papiamento	ltr	2
-	True	True	438		prf	prf	Paranan	Paranan	ltr	1
-	True	True	651		pab	pab	Parecís	Parecís	ltr	1
-	False	True	2510		pbu	pbu	Pashto, Northern	Pashto, Northern	rtl	1
-	False	True	1182		ptp	ptp	Patep	Patep	ltr	1
-	False	True	1014		gfk	gfk	Patpatar	Patpatar	ltr	1
-	True	True	260		pad	pad	Paumarí	Paumarí	ltr	1
-	False	True	1237		pfe	pfe	Peere	Peere	ltr	1
-	False	True	969		ata	ata	Pele-Ata	Pele-Ata	ltr	1
-	False	True	1455		pdc	pdc	Pennsilfaanisch Deitsch	Pennsylvania German	ltr	1
-	True	True	792		mil	mil	Peñoles Mixtec	Peñoles Mixtec	ltr	1
-	False	True	1050		nph	nph	Phom Naga	Phom Naga	ltr	1
-	False	True	226		pio	pio	Piapoco	Piapoco	ltr	1
-	False	True	2516		pcm	pcm	Pidgin, Nigerian	Pidgin, Nigerian	ltr	1
-	False	True	614		pis	pis	Pijin	Solomon Islands Pidgin	ltr	2
-	False	True	443		plg	plg	Pilagá	Pilagá	ltr	1
-	True	True	776		mio	mio	Pinotepa Nacional Mixtec	Pinotepa Nacional Mixtec	ltr	1
-	True	True	2159		pny	pny	Pinyin	Pinyin	ltr	1
-	True	True	661		pir	pir	Piratapuyo	Piratapuyo	ltr	1
-	True	True	1610		tpp	tpp	Pisaflores Tepehua	Pisaflores Tepehua	ltr	1
-	False	True	1737		pjt	pjt	Pitjantjatjara	Pitjantjatjara	ltr	1
-	True	True	2082		crk	crk	Plains Cree	Plains Cree	ltr	3
-	True	True	1518		ktj	ktj	Plapo Krumen	Plapo Krumen	ltr	1
-	True	True	563		pdt	pdt	Plautdietsch	Low German (Plattdeutsch)	ltr	2
-	False	True	1546		npo	npo	Pochuri	Pochuri Naga	ltr	1
-	False	True	2222		pkb	pkb	Pokomo	Pokomo	ltr	1
-	True	True	2095	pl	pol	pol	Polski	Polish	ltr	5
-	True	True	1645		pps	pps	Popoloca, San Luís Temalacayuca	San Luís Temalacayuca Popoloca	ltr	1
-	True	True	227		poi	poi	Popoluca Highland	Highland Popoluca	ltr	1
-	True	True	724		jac	jac	Popti'	Popti'	ltr	1
-	True	True	412		poh	poh	Poqomchi'	Poqomchi'	ltr	2
-	True	True	211	pt	por	por	Português (Brasil)	Portuguese (Brazil)	ltr	9
-	True	True	228	pt	por	por_pt	Português (Portugal)	Portuguese (Portugal)	ltr	4
-	False	True	135		pot	pot	Potawatomi	Potawatomi	ltr	1
-	False	True	1049		pmx	pmx	Poumei Naga	Poumei Naga	ltr	1
-	True	True	1515		kvj	kvj	Psikye	Psikye	ltr	1
-	True	True	1798		fuf	fuf	Pular	Pular	ltr	1
-	True	True	236		cap	cap	Puquina	Chipaya	ltr	2
-	False	True	1736		pww	pww	Pwo Northern Karen	Pwo Northern Karen	ltr	1
-	False	True	2480		pwo	pwo	Pwo Western Karen	Pwo Western Karen	ltr	1
-	True	True	493		kjb	kjb	Q'anjob'al	Q'anjob'al	ltr	1
-	True	True	518		agu	agu	Qa'yol	Aguacateco	ltr	2
-	False	True	1030		byx	byx	Qaqet	Qaqet	ltr	1
-	True	True	1732		kaa	kaa	Qaraqalpaqsha (Қарақалпақша)	Karakalpak	ltr	1
-	True	True	267		qvw	qvw	Quechua Huaylla Wanca	Huaylla Wanca Quechua	ltr	1
-	True	True	265		qvm	qvm	Quechua Margos-Yarowilca-Lauricocha	Margos-Yarowilca-Lauricocha Quechua	ltr	1
-	True	True	266		qvs	qvs	Quechua San Martín	San Martín Quechua	ltr	1
-	True	True	290		qxo	qxo	Quechua Southern Conchucos Ancash	Southern Conchucos Ancash Quechua	ltr	1
-	False	True	581		ztq	ztq	Quioquitani-Quierí Zapotec	Quioquitani-Quierí Zapotec	ltr	1
-	False	True	771		chq	chq	Quiotepec Chinantec	Quiotepec Chinantec	ltr	1
-	False	True	1186		rai	rai	Ramoaaina	Ramoaaina	ltr	1
-	False	True	1871		rnl	rnl	Ranglong	Ranglong	ltr	1
-	False	True	2164		rap	rap	Rapanui	Rapanui	ltr	1
-	False	True	1314		rwo	rwo	Rawa	Rawa	ltr	3
-	False	True	2277		rel	rel	Rendille	Rendille	ltr	1
-	False	True	1872		nre	nre	Rengma Naga	Southern Rengma Naga	ltr	1
-	False	True	1873		nnl	nnl	Rengma Naga (North)	Northern Rengma Naga	ltr	1
-	False	True	2524		mnv	mnv	Rennell-Bellona	Rennell-Bellona	ltr	1
-	False	True	1059		ria	ria	Riang (India)	Riang (India)	ltr	1
-	False	True	1832		iri	iri	Rigwe	Irigwe	ltr	1
-	False	True	669		rkb	rkb	Rikbaktsa	Rikbaktsa	ltr	1
-	True	True	191	ro	ron	ron	Română	Romanian	ltr	10
-	False	True	1658		rml	rml	Romani: Baltic	Romani: Baltic	ltr	1
-	False	True	1412		rmq	rmq	Romaní: Caló (Iberia)	Romani: Calo (Iberia)	ltr	2
-	True	True	1560		rmn	rmn_arl	Romani: Gurbeti Arlija	Romani: Gurbeti Arlija	ltr	3
-	False	True	1425		rmy	rmy_fr	Romani: Kalderaš/căldărari	Romani: Kalderash	ltr	2
-	False	True	1611		rmy	rmy_lov	Romani: Lovari	Romani Lovari	ltr	2
-	False	True	992		rmc	rmc	Romani: Romanes (Karpatský)	Carpathian Romani	ltr	2
-	False	True	1604		rmo	rmo	Romani: Sinte	Romani, Sinte	ltr	2
-	True	True	391		rmy	rmy_ch	Romani: Vlax chileana	Vlax Romani - Chile	ltr	1
-	False	True	1360		rmy	rmy	Romani: Vlax Ursari	Romani: Vlax Ursari	ltr	1
-	False	True	1044		rme	rme	Romany: Angloromani	Romany	ltr	4
-	False	True	2244		rol	rol	Romblomanon	Romblomanon	ltr	1
-	False	True	1874		nbu	nbu	Rongmei Naga	Rongmei Naga	ltr	1
-	False	True	1185		roo	roo	Rotokas	Rotokas	ltr	1
-	True	True	1909		rug	rug	Roviana	Roviana	ltr	1
-	False	True	2320		rut	rut	Rutul	Rutul	ltr	1
-	False	True	2467		ksw	ksw	S'gaw Karen	S'gaw Karen	ltr	1
-	False	True	1666		apb	apb	Sa'a	Sa'a	ltr	1
-	False	True	2443		sav	sav	Saafi-Saafi	Saafi-Saafi	ltr	1
-	True	True	272		srm	srm	Saamáka	Saramaccan	ltr	1
-	False	True	2366		lsm	lsm	Saamia	Saamia	ltr	2
-	False	True	957		apz	apz	Safeyoka	Safeyoka	ltr	1
-	False	True	510		acf	acf	Saint Lucian Creole French	Saint Lucian Creole French	ltr	1
-	False	True	2454		sch	sch	Sakachep	Sakachep	ltr	1
-	False	True	1770		qxl	qxl	Salasakaguna	Salasaca Highland Quichua	ltr	1
-	False	True	1452		sbe	sbe	Saliba	Saliba	ltr	1
-	False	True	1193		sll	sll	Salt-Yui	Salt-Yui	ltr	1
-	False	True	1118		ndi	ndi	Samba Leko	Samba Leko	ltr	1
-	False	True	1318		xsb	xsb	Sambal	Sambal	ltr	1
-	True	True	1875		san	san	Saṃskṛtam	Sanskrit	ltr	23
-	True	True	832		maa	maa	San Jerónimo Tecóatl Mazatec	San Jerónimo Tecóatl Mazatec	ltr	1
-	False	True	765		poe	poe	San Juan Atzingo Popoloca	San Juan Atzingo Popoloca	ltr	2
-	False	True	732		mjc	mjc	San Juan Colorado Mixtec	San Juan Colorado Mixtec	ltr	1
-	True	True	770		pls	pls	San Marcos Tlacoyalco Popoloca	San Marcos Tlacoyalco Popoloca	ltr	2
-	False	True	2284		trq	trq	San Martín Itunyoso Triqui	San Martín Itunyoso Triqui	ltr	1
-	False	True	858		mig	mig	San Miguel El Grande Mixtec	San Miguel El Grande Mixtec	ltr	1
-	True	True	727		azg	azg	San Pedro Amuzgos Amuzgo	San Pedro Amuzgos Amuzgo	ltr	1
-	True	True	1398		zpt	zpt	San Vicente Coatlán Zapotec	San Vicente Coatlán Zapotec	ltr	1
-	False	True	1285	sg	sag	sag	Sängö	Sango	ltr	1
-	False	True	1052		nsa	nsa	Sangtam Naga	Sangtam Naga	ltr	1
-	False	True	1210		sny	sny	Saniyo-Hiyewe	Saniyo-Hiyewe	ltr	1
-	False	True	1555		msc	msc	Sankaran	Sankaran Maninka	ltr	1
-	True	True	460		zpi	zpi	Santa María Quiegolani Zapotec	Santa María Quiegolani Zapotec	ltr	1
-	True	True	1385		mza	mza	Santa María Zacatepec Mixtec	Santa María Zacatepec Mixtec	ltr	1
-	True	True	1701		cok	cok	Santa Teresa Cora	Santa Teresa Cora	ltr	1
-	False	True	1538		sat	sat	Santali	Santali	ltr	1
-	True	True	459		zas	zas	Santo Domingo Albarradas Zapotec	Santo Domingo Albarradas Zapotec	ltr	1
-	False	True	1271		sps	sps	Saposa	Saposa	ltr	1
-	False	True	445		mwm	mwm	Sar	Sar	ltr	2
-	True	True	1245		bps	bps	Sarangani Blaan	Sarangani Blaan	ltr	1
-	False	True	1243		mbs	mbs	Sarangani Manobo	Sarangani Manobo	ltr	1
-	False	True	619		mav	mav	Sateré-Mawé	Sateré-Mawé	ltr	1
-	False	True	2129		pos	pos	Sayula Popoluca	Sayula Popoluca	ltr	1
-	False	True	664		sey	sey	Secoya	Secoya	ltr	1
-	False	True	626		ssg	ssg	Seimat	Seimat	ltr	1
-	True	True	1773		lip	lip	Sekpele	Sekpele	ltr	1
-	False	True	2511		slu	slu	Selaru	Selaru	ltr	1
-	True	True	1796		snw	snw	Selee	Selee	ltr	1
-	False	True	1227		spl	spl	Selepet	Selepet	ltr	1
-	False	True	1378		seh	seh	Sena	Sena	ltr	1
-	True	True	1598		dyi	dyi	Sénoufo, Djimini	Djimini Senoufo	ltr	1
-	False	True	2526		set	set	Sentani	Sentani	ltr	1
-	False	True	922		iws	iws	Sepik Iwam	Sepik Iwam	ltr	1
-	False	True	1053		crs	crs	Seselwa Creole French	Seselwa Creole French	ltr	2
-	False	True	273	st	sot	sot	Sesotho	Southern Sotho	ltr	2
-	False	True	124		nso	nso	Sesotho sa Leboa	Pedi	ltr	2
-	False	True	185	tn	tsn	tsn	Setswana	Tswana	ltr	2
-	True	True	1290		shn	shn	Shan	Shan	ltr	1
-	True	True	522		mcd	mcd	Sharanahua	Sharanahua	ltr	1
-	False	True	2131		shj	shj	Shatt	Shatt	ltr	1
-	True	True	1337		xsr	xsr	Sherpa	Sherpa	ltr	1
-	False	True	2156		shk	shk	Shilluk	Shilluk	ltr	1
-	True	True	1174		kde	kde_mz	Shimakonde	Makonde	ltr	1
-	False	True	673		shp	shp	Shipibo-Conibo	Shipibo-Conibo	ltr	1
-	True	True	944		poy	poy	Shipogoro	Pogolo	ltr	1
-	True	True	7	sq	sqi	sqi	Shqip	Albanian	ltr	7
-	False	True	597		jiv	jiv	Shuar	Shuar	ltr	1
-	False	True	1194		snp	snp	Siane	Siane	ltr	2
-	True	True	852		zaa	zaa	Sierra de Juárez Zapotec	Sierra de Juárez Zapotec	ltr	1
-	False	True	1897		bla	bla	Siksika	Siksika (Blackfoot)	ltr	2
-	False	True	1876		smt	smt	Simte	Simte	ltr	1
-	False	True	1346		snc	snc	Sinaugoro	Sinaugoro	ltr	1
-	False	True	974		xsi	xsi	Sio	Sio	ltr	1
-	False	True	271		snn	snn	Siona	Siona	ltr	1
-	True	True	1075		sri	sri	Siriano	Siriano	ltr	1
-	False	True	705		srq	srq	Sirionó	Sirionó	ltr	1
-	False	True	1280		ssd	ssd	Siroi	Siroi	ltr	1
-	False	True	604	ss	ssw	ssw	siSwati	Swazi	ltr	1
-	False	True	1738		akp	akp	Siwu	Siwu	ltr	1
-	True	True	464	sk	slk	slk	Slovenčina	Slovak	ltr	4
-	False	True	2319	sl	slv	slv	Slovenščina	Slovenian	ltr	8
-	False	True	1925		urw	urw	Sob Dora	Sop	ltr	1
-	True	True	750		cso	cso	Sochiapam Chinantec	Sochiapam Chinantec	ltr	1
-	False	True	1256		xog	xog	Soga	Soga	ltr	1
-	True	True	2447		sby	sby	Soli	Soli	ltr	1
-	False	True	963		bmu	bmu	Somba-Siawari	Somba-Siawari	ltr	1
-	True	True	1465		ses	ses	Songhai de Gao	Koyraboro Senni Songhai	ltr	1
-	True	True	87	so	som	som	Soomaali	Somali	ltr	1
-	True	True	893		sus	sus	Sosoxui	Susu (Roman script)	ltr	2
-	False	True	550		giz	giz	South Giziga	South Giziga	ltr	1
-	False	True	2330		nxl	nxl	South Nuaulu	South Nuaulu	ltr	1
-	False	True	1188		omw	omw	South Tairora	South Tairora	ltr	1
-	False	True	1350		cpy	cpy	South Ucayali Ashéninka	South Ucayali Ashéninka	ltr	1
-	False	True	1254		tvk	tvk	Southeast Ambrym	Southeast Ambrym	ltr	1
-	True	True	424		npl	npl	Southeastern Puebla Nahuatl	Southeastern Puebla Nahuatl	ltr	1
-	True	True	708		stp	stp	Southeastern Tepehuan	Southeastern Tepehuan	ltr	1
-	True	True	2148		biv	biv	Southern Birifor	Southern Birifor	ltr	1
-	False	True	1328		ksc	ksc	Southern Kalinga	Southern Kalinga	ltr	1
-	False	True	660		nab	nab	Southern Nambikuára	Southern Nambikuára	ltr	1
-	True	True	1808		nnw	nnw	Southern Nuni	Southern Nuni	ltr	1
-	True	True	645		qup	qup	Southern Pastaza Quechua	Southern Pastaza Quechua	ltr	1
-	True	True	796		mit	mit	Southern Puebla Mixtec	Southern Puebla Mixtec	ltr	1
-	False	True	736		zsr	zsr	Southern Rincon Zapotec	Southern Rincon Zapotec	ltr	1
-	False	True	1311		wib	wib	Southern Toussian	Southern Toussian	ltr	1
-	False	True	1367		gso	gso	Southwest Gbaya	Southwest Gbaya	ltr	1
-	False	True	485		nwi	nwi	Southwest Tanna	Southwest Tanna	ltr	1
-	True	True	674		srn	srn	Sranan Tongo	Sranan Tongo	ltr	1
-	False	True	484		sxb	sxb	Suba	Suba	ltr	1
-	True	True	1649		tgo	tgo	Sudest	Sudest	ltr	1
-	False	True	1206		sue	sue	Suena	Suena	ltr	1
-	False	True	1517		suk	suk	Sukuma	Sukuma	ltr	2
-	False	True	1208		sua	sua	Sulka	Sulka	ltr	1
-	False	True	1877		nsm	nsm	Sumi Naga	Sumi Naga	ltr	1
-	True	True	2410		sun	sun	Sundanese	Sundanese	ltr	1
-	False	True	330	fi	fin	fin	Suomi	Finnish	ltr	5
-	True	True	1145		spp	spp	Supyire Senoufo	Supyire Senoufo	ltr	1
-	False	True	441		sgz	sgz	Sursurunga	Sursurunga	ltr	2
-	True	True	154	sv	swe	swe	Svenska	Swedish	ltr	10
-	False	True	1918		syl	syl	Sylheti	Sylheti	ltr	3
-	False	True	772		zat	zat	Tabaa Zapotec	Tabaa Zapotec	ltr	1
-	False	True	797		chf	chf	Tabasco Chontal	Tabasco Chontal	ltr	1
-	False	True	2081		tab	tab	Tabassaran	Tabassaran	ltr	1
-	False	True	959		knv	knv	Tabo	Tabo	ltr	2
-	True	True	681		tna	tna	Tacana	Tacana	ltr	1
-	False	True	1116		bgs	bgs	Tagabawa	Tagabawa	ltr	1
-	False	True	1935		tbw	tbw	Tagbanwa	Tagbanwa	ltr	1
-	False	True	2448		tgj	tgj	Tagin	Tagin	ltr	1
-	False	True	2424		thv	thv	Tahaggart Tamahaq	Tahaggart Tamahaq	ltr	1
-	False	True	910		taw	taw	Tai	Tai	ltr	1
-	False	True	2544		blt	blt	Tai Dam	Tai Dam	ltr	1
-	False	True	2138		dav	dav	Taita	Taita	ltr	1
-	True	True	1468		tbc	tbc	Takia	Takia	ltr	1
-	False	True	1552		nho	nho	Takuu	Takuu	ltr	1
-	False	True	1426		tke	tke	Takwane	Takwane	ltr	1
-	False	True	1797		tlj	tlj	Talinga-Bwisi	Talinga-Bwisi	ltr	1
-	True	True	1144		taq	taq	Tamasheq	Tamasheq	ltr	1
-	False	True	1804		tpm	tpm	Tampulma	Tampulma	ltr	1
-	False	True	1545		nmf	nmf	Tangkhul	Tangkhul Naga (India)	ltr	1
-	False	True	1225		tgp	tgp	Tangoa	Tangoa	ltr	1
-	False	True	1543		nst	nst	Tangsa	Tase Naga	ltr	2
-	False	True	1110		tnc	tnc	Tanimuca-Retuarã	Tanimuca-Retuarã	ltr	1
-	False	True	1878		tro	tro	Tarao	Tarao Naga	ltr	1
-	False	True	773		cta	cta	Tataltepec Chatino	Tataltepec Chatino	ltr	1
-	False	True	1087		tav	tav	Tatuyo	Tatuyo	ltr	1
-	False	True	1258		tpa	tpa	Taupota	Taupota	ltr	1
-	False	True	1319		tsg	tsg	Tausug	Tausug	ltr	1
-	False	True	1213		tbo	tbo	Tawala	Tawala	ltr	1
-	False	True	1309		ttq	ttq	Tawallammat Tamajaq	Tuareg	ltr	2
-	False	True	2432		tyz	tyz	Tày	Tày	ltr	1
-	False	True	288		tbl	tbl	Tboli	Tboli	ltr	1
-	False	True	1680		kqo	kqo	Tchien Krahn	Eastern Krahn	ltr	1
-	True	True	689		ttc	ttc	Tektiteko	Tektiteko	ltr	1
-	False	True	1230		tlf	tlf	Telefol	Telefol	ltr	1
-	False	True	1384		kdh	kdh	Tem	Tem	ltr	1
-	False	True	850		otn	otn	Tenango Otomi	Tenango Otomi	ltr	1
-	False	True	659		pah	pah	Tenharim	Tenharim	ltr	1
-	True	True	726		cnt	cnt	Tepetotutla Chinantec	Tepetotutla Chinantec	ltr	1
-	False	True	831		cux	cux	Tepeuxila Cuicatec	Tepeuxila Cuicatec	ltr	1
-	False	True	1317		ted	ted	Tepo Krumen	Tepo Krumen	ltr	1
-	True	True	703		ter	ter	Tereno	Tereno	ltr	1
-	True	True	682		tfr	tfr	Teribe	Teribe	ltr	1
-	True	True	436		teo	teo	Teso	Teso	ltr	1
-	False	True	767		nhg	nhg	Tetelcingo Nahuatl	Tetelcingo Nahuatl	ltr	1
-	False	True	1401		tet	tet	Tetum	Tetum	ltr	1
-	False	True	843		cut	cut	Teutila Cuicatec	Teutila Cuicatec	ltr	1
-	False	True	1215		tew	tew	Tewa (USA)	Tewa (USA)	ltr	1
-	True	True	728		zpz	zpz	Texmelucan Zapotec	Texmelucan Zapotec	ltr	1
-	True	True	711		mxb	mxb	Tezoatlán Mixtec	Tezoatlán Mixtec	ltr	1
-	True	True	1879		tcz	tcz	Thadou Kuki	Thado Chin	ltr	1
-	False	True	1880		nki	nki	Thangkhal	Thangal Naga	ltr	1
-	False	True	2206		thk	thk	Tharaka	Tharaka	ltr	1
-	True	True	289		tca	tca	Ticuna	Ticuna	ltr	1
-	True	True	151	vi	vie	vie	tiếng Việt	Vietnamese	ltr	6
-	False	True	1647		tif	tif	Tifal	Tifal	ltr	1
-	False	True	1989		nza	nza	Tigon Mbembe	Tigon Mbembe	ltr	1
-	False	True	1554		txq	txq	Tii	Tii	ltr	1
-	False	True	1211		tim	tim	Timbe	Timbe	ltr	1
-	False	True	1218		tpz	tpz	Tinputz	Tinputz	ltr	1
-	False	True	1266		tiy	tiy	Tiruray	Tiruray	ltr	1
-	True	True	709		tpt	tpt	Tlachichilco Tepehua	Tlachichilco Tepehua	ltr	1
-	False	True	743		mxp	mxp	Tlahuitoltepec Mixe	Tlahuitoltepec Mixe	ltr	1
-	False	True	574		tob	tob	Toba Qom	Toba	ltr	4
-	False	True	257		ood	ood	Tohono O'odham	Tohono O'odham	ltr	1
-	False	True	844		toj	toj	Tojolabal	Tojolabal	ltr	2
-	True	True	249		jic	jic	Tol	Tol	ltr	1
-	False	True	159		sda	sda	Toraja-Sa'dan	Toraja-Sa'dan	ltr	1
-	False	True	1400		tcs	tcs	Torres Strait Creole	Torres Strait Creole	ltr	1
-	True	True	276		tos	tos	Totonac Highland	Highland Totonac	ltr	1
-	False	True	280	ve	ven	ven	Tshivenḓa	Venda	ltr	1
-	False	True	426		kdl	kdl	Tsikimba	Tsikimba	ltr	1
-	False	True	429		tsw	tsw	Tsishingini	Tsishingini	ltr	1
-	False	True	2362		tsu	tsu	Tsou	Tsou	ltr	1
-	True	True	694		tuo	tuo	Tucano	Tucano	ltr	2
-	True	True	866		iou	iou	Tuma-Irumu	Tuma-Irumu	ltr	1
-	False	True	1961		tum	tum	Tumbuka	Tumbuka	ltr	1
-	False	True	999		lcm	lcm	Tungag	Tungag	ltr	1
-	False	True	892		tui	tui	Tupuri	Tupuri	ltr	1
-	True	True	170	tr	tur	tur	Türkçe	Turkish	ltr	4
-	False	True	1851	tk	tuk	tuk	Türkmençe	Turkmen	ltr	2
-	False	True	2449		tvt	tvt	Tutsa Naga	Tutsa Naga	ltr	1
-	False	True	2440		tvl	tvl	Tuvalu	Tuvalu	ltr	1
-	False	True	2123		ifk	ifk	Tuwali Ifugao	Tuwali Ifugao	ltr	1
-	True	True	1752		bov	bov	Tuwuli	Tuwuli	ltr	1
-	True	True	686		tue	tue	Tuyuca	Tuyuca	ltr	1
-	True	True	1461	tw	twi	twi	Twi	Twi	ltr	4
-	False	True	1921		kcg	kcg	Tyap	Tyap	ltr	1
-	True	True	687		tzj	tzj	Tz'utujil	Tz'utujil	ltr	2
-	True	True	363		tzh	tzh	Tzeltal	Tzeltal	ltr	3
-	False	True	334		tzo	tzo	Tzotzil	Tzotzil	ltr	5
-	True	True	800		dgr	dgr	Tłı̨chǫ Yatıì	Dogrib (Tlinchon)	ltr	1
-	False	True	1750		ksj	ksj	Uare	Uare	ltr	1
-	False	True	1242		ubr	ubr	Ubir	Ubir	ltr	1
-	False	True	569		cpb	cpb	Ucayali-Yurúa Ashéninka	Ucayali-Yurúa Ashéninka	ltr	1
-	True	True	2499		udi	udi	Udi	Udi	ltr	1
-	False	True	917		udu	udu	Uduk	Uduk	ltr	1
-	False	True	885		sco	sco_uls	Ullans	Ulster Scots	ltr	1
-	False	True	962		gdn	gdn	Umanakaina	Umanakaina	ltr	1
-	False	True	1417		ubu	ubu	Umbu-Ungu	Umbu-Ungu	ltr	3
-	False	True	1339		due	due	Umiray Dumaget Agta	Umiray Dumaget Agta	ltr	1
-	False	True	1670		mtg	mtg	Una	Una	ltr	1
-	False	True	729		tku	tku	Upper Necaxa Totonac	Upper Necaxa Totonac	ltr	1
-	True	True	263		quh	quh	Uralan Buliwya runasimi	South Bolivian Quechua	ltr	4
-	True	True	692		ura	ura	Urarina	Urarina	ltr	1
-	False	True	1475		urt	urt	Urat	Urat	ltr	1
-	False	True	1553		urd	urd_rom	Urdū	Urdu (Roman)	ltr	2
-	False	True	1650		uvh	uvh	Uri	Uri	ltr	1
-	False	True	1478		uri	uri	Urim	Urim	ltr	1
-	False	True	525		upv	upv	Uripiv-Wala-Rano-Atchin	Uripiv-Wala-Rano-Atchin	ltr	1
-	False	True	688		urb	urb	Urubú-Kaapor	Urubú-Kaapor	ltr	1
-	False	True	1474		wnu	wnu	Usan	Usan	ltr	1
-	False	True	1233		usa	usa	Usarufa	Usarufa	ltr	1
-	True	True	769		cuc	cuc	Usila Chinantec	Usila Chinantec	ltr	1
-	True	True	684		usp	usp	Uspanteco	Uspanteco	ltr	1
-	True	True	1977		dud	dud	u̱t-Hun	Hun-Saare	ltr	1
-	False	True	1938		vag	vag	Vagla	Vagla	ltr	1
-	False	True	1062		vap	vap	Vaiphei	Vaiphei	ltr	1
-	True	True	1422		bru	bru	Van Kieu	Eastern Bru	ltr	1
-	False	True	1742		bav	bav	Vengo	Vengo	ltr	1
-	False	True	2056		vol	vol	Volapük	Volapük	ltr	1
-	True	True	508	fj	fij	fij	Vosa Vakaviti	Fijian	ltr	3
-	False	True	887		vut	vut	Vute	Vute	ltr	1
-	False	True	2395		wbi	wbi	Vwanji	Vwanji	ltr	1
-	False	True	325		wbm	wbm	Wa	Wa	ltr	1
-	False	True	924		aji	aji	Waawilûû	Ajië	ltr	1
-	False	True	1253		waj	waj	Waffa	Waffa	ltr	1
-	False	True	1565		fad	fad	Wagi	Wagi	ltr	1
-	False	True	918		whk	whk	Wahau Kenyah	Wahau Kenyah	ltr	1
-	False	True	1472		rro	rro	Waima	Waima	ltr	1
-	True	True	231		bao	bao	Waimaha	Waimaha	ltr	1
-	False	True	1905		lgl	lgl	Wala	Wala	ltr	1
-	False	True	1430		wmt	wmt	Walmajarri	Walmajarri	ltr	1
-	False	True	2254		cou	cou	Wamey	Wamey	ltr	1
-	False	True	1064		nnp	nnp	Wancho Naga	Wancho Naga	ltr	1
-	False	True	1788		mfi	mfi	Wandala	Wandala	ltr	1
-	False	True	1470		wnc	wnc	Wantoat	Wantoat	ltr	1
-	False	True	230		auc	auc	Waorani	Waorani	ltr	1
-	True	True	451		wap	wap	Wapishana	Wapishana	ltr	1
-	False	True	2198		war	war	Waray (Philippines)	Waray (Philippines)	ltr	1
-	False	True	1469		wrs	wrs	Waris	Waris	ltr	1
-	False	True	1355		wbp	wbp	Warlpiri	Warlpiri	ltr	1
-	False	True	1352		oym	oym	Wayampi	Wayampi	ltr	1
-	True	True	1584		guc	guc	Wayuu	Wayuu	ltr	1
-	False	True	1940		wob	wob	Wè Northern	Wè Northern	ltr	1
-	False	True	1414		wed	wed	Wedau	Wedau	ltr	2
-	False	True	1289		wer	wer	Weri	Weri	ltr	1
-	False	True	929		kew	kew	West Kewa	West Kewa	ltr	1
-	False	True	573		apw	apw	Western Apache	Western Apache	ltr	1
-	True	True	1313		mbb	mbb	Western Bukidnon Manobo	Western Bukidnon Manobo	ltr	2
-	False	True	730		ctp	ctp	Western Highland Chatino	Western Highland Chatino	ltr	1
-	False	True	549		pua	pua	Western Highland Purepecha	Western Highland Purepecha	ltr	1
-	True	True	748		nhw	nhw	Western Huasteca Nahuatl	Western Huasteca Nahuatl	ltr	1
-	True	True	623		knj	knj	Western Kanjobal	Western Kanjobal	ltr	1
-	False	True	2435		krw	krw	Western Krahn	Western Krahn	ltr	1
-	False	True	2093		lcp	lcp	Western Lawa	Western Lawa	ltr	1
-	False	True	1324		suc	suc	Western Subanon	Western Subanon	ltr	1
-	False	True	1420		tnp	tnp	Whitesands	Whitesands	ltr	1
-	False	True	528		mzh	mzh	Wichí	Wichí Lhamtés Güisnay	ltr	1
-	True	True	560		mtp	mtp	Wichí Lhamtés Nocten	Wichí Lhamtés Nocten	ltr	1
-	False	True	1332		wim	wim	Wik-Mungkan	Wik-Mungkan	ltr	1
-	False	True	946		gdr	gdr	Wipi	Wipi	ltr	1
-	False	True	1286		wiu	wiu	Wiru	Wiru	ltr	1
-	True	True	1081		noa	noa	Woun Meu	Woun Meu	ltr	2
-	False	True	1288		wuv	wuv	Wuvulu-Aua	Wuvulu-Aua	ltr	1
-	False	True	683		xav	xav	Xavánte	Xavánte	ltr	1
-	False	True	780		too	too	Xicotepec De Juárez Totonac	Xicotepec De Juárez Totonac	ltr	1
-	False	True	184	ts	tso	tso	Xitsonga	Tsonga	ltr	3
-	True	True	680		yad	yad	Yagua	Yagua	ltr	1
-	True	True	1388		yka	yka	Yakan	Yakan	ltr	1
-	False	True	731		zpu	zpu	Yalálag Zapotec	Yalálag Zapotec	ltr	1
-	True	True	620		yal	yal	Yalunka	Yalunka	ltr	1
-	True	True	1160		yam	yam	Yamba	Yamba	ltr	1
-	False	True	2257		yat	yat	Yambeta	Yambeta	ltr	1
-	False	True	2364		tao	tao	Yami	Yami	ltr	1
-	True	True	679		yaa	yaa	Yaminahua	Yaminahua	ltr	1
-	True	True	512		ame	ame	Yanesha'	Yanesha'	ltr	1
-	False	True	2400		jao	jao	Yanyuwa	Yanyuwa	ltr	1
-	False	True	938		yre	yre	Yaouré	Yaouré	ltr	1
-	False	True	1919		yap	yap	Yapese	Yapese	ltr	1
-	False	True	799		yaq	yaq	Yaqui	Yaqui	ltr	1
-	False	True	1025		yrb	yrb	Yareba	Yareba	ltr	1
-	True	True	1353		zae	zae	Yareni Zapotec	Yareni Zapotec	ltr	1
-	False	True	755		zty	zty	Yatee Zapotec	Yatee Zapotec	ltr	1
-	False	True	828		zav	zav	Yatzachi Zapotec	Yatzachi Zapotec	ltr	1
-	True	True	475		yva	yva	Yawa	Yawa	ltr	1
-	False	True	1387		yby	yby	Yaweyuha	Yaweyuha	ltr	1
-	True	True	1437		yao	yao	Yawo (Yaawo)	Yao	ltr	1
-	False	True	1241		yle	yle	Yele	Yele	ltr	1
-	False	True	1093		yss	yss	Yessan-Mayo	Yessan-Mayo	ltr	1
-	False	True	1063		yim	yim	Yimchungru Naga	Yimchungru Naga	ltr	1
-	False	True	2402		yij	yij	Yindjibarndi	Yindjibarndi	ltr	1
-	True	True	652		pib	pib	Yine	Yine	ltr	1
-	False	True	1471		yon	yon	Yongkom	Yongkom	ltr	1
-	False	True	468		yut	yut	Yopno	Yopno	ltr	1
-	True	True	207	yo	yor	yor	Yorùbá	Yoruba	ltr	2
-	True	True	741		mpm	mpm	Yosondúa Mixtec	Yosondúa Mixtec	ltr	1
-	True	True	1101		ycn	ycn	Yucuna	Yucuna	ltr	1
-	False	True	1390		esu	esu	Yup'ik	Central Yupik	ltr	1
-	True	True	976		atb	atb	Zaiwa	Zaiwa (Atsi)	ltr	2
-	False	True	291		zpo	zpo	Zapotec Amatlán	Amatlán Zapotec	ltr	1
-	False	True	284		zar	zar	Zapotec Rincón	Rincón Zapotec	ltr	1
-	True	True	283		zab	zab	Zapotec San Juan Guelavía	Western Tlacolula Valley Zapotec	ltr	1
-	True	True	2373		zaj	zaj	Zaramo / Zalamo	Zaramo / Zalamo	ltr	1
-	False	True	1071		nzm	nzm	Zeme Naga	Zeme Naga	ltr	1
-	False	True	1656		zyb	zyb	Zhuang, Yongbei	Zhuang, Yongbei	ltr	1
-	False	True	625		zia	zia	Zia	Zia	ltr	1
-	True	True	1035		ziw	ziw	Zigula	Zigula	ltr	1
-	False	True	208	zo	zom	zom	Zo	Zou	ltr	3
-	True	True	744		zpq	zpq	Zoogocho Zapotec	Zoogocho Zapotec	ltr	1
-	False	True	1959		czt	czt	Zotung Chin	Zotung Chin	ltr	1
-	False	True	930		zyp	zyp	Zyphe	Zyphe Chin	ltr	1
-	True	True	173	el	ell	ell	Ελληνικά	Modern Greek	ltr	4
-	True	True	182		grc	grc	Ελληνιστική Κοινή	Koine Greek	ltr	5
-	True	True	1850		alt	alt	Алтай тил	Southern Altai	ltr	1
-	False	True	1929		bak	bak	Башҡортча	Bashkir	ltr	2
-	False	True	1723	be	bel	bel	беларуская	Belarusian	ltr	2
-	False	True	1881		bxr	bxr	буряад	Russia Buriat	ltr	2
-	True	True	23	bg	bul	bul	български	Bulgarian	ltr	8
-	True	True	1503		kum	kum	къумукъ	Kumyk	ltr	1
-	True	True	1550		crh	crh	Къырымтатарджа	Crimean Tatar	ltr	1
-	True	True	1501	mk	mkd	mkd	Македонски	Macedonian	ltr	6
-	True	True	1590	mn	khk	khk	Монгол	Mongolian	ltr	2
-	True	True	1524		nog	nog	Ногай тили	Nogai	ltr	1
-	False	True	1513	ce	che	che	Нохчийн мотт	Chechen	ltr	1
-	True	True	400	ru	rus	rus	Русский	Russian	ltr	11
-	False	True	1888		sah	sah	Саха тыла	Yakut	ltr	1
-	False	True	1969	sr	srp	srp	Српски Srpski	Serbian	ltr	4
-	True	True	1502	tt	tat	tat	Татарча	Tatar	ltr	1
-	True	True	1152	tg	tgk	tgk	тоҷикӣ	Tajiki	ltr	2
-	False	True	1520		tyv	tyv	Тыва дыл	Tuvinian	ltr	1
-	True	True	1224	ug	uig	uig_cyr	Уйғурчә	Uyghur Cyrillic	ltr	1
-	False	True	186	uk	ukr	ukr	Українська	Ukrainian	ltr	4
-	False	True	1523		kjh	kjh	Хакас тілі	Khakas	ltr	1
-	False	True	1803		chv	chv	Чӑвашла	Chuvash	ltr	1
-	False	True	1507		eve	eve	Эвэды төрэн	Even	ltr	1
-	False	True			hye	hye	հայերեն (արևելահայերեն)	Armenian (Eastern)	ltr	1
-	False	True	194		hyw	hyw	հայերէն (Արեւմտահայերէն)	Armenian (Western)	ltr	3
-	True	True	380	he	heb	heb	עברית	Hebrew	rtl	5
-	False	True	904		hbo	hbo	עִבְרִית קְלַסִית‎	Ancient Hebrew	rtl	1
-	True	True	1161		azb	azb	آذری	Azeri (Persian script)	rtl	1
-	True	True	189	ur	urd	urd	اردو	Urdu	rtl	3
-	True	True	558		ary	ary	الدارجة المغربية	Moroccan Arabic	rtl	1
-	False	True	502		shu	shu	العربي الدارجي هنا تشاد	Chadian Arabic	rtl	1
-	True	True	101	ar	arb	arb	العربية	Arabic (Standard)	rtl	11
-	False	True	1304		aeb	aeb	العربية التونسية	Tunisian Arabic	rtl	1
-	True	True	1714		arz	arz	اللغة المصرية العامية	Egyptian Arabic	rtl	1
-	True	True	1498		bcc	bcc	بلوچی‎	Balochi	rtl	1
-	True	True	1719	tk	tuk	tuk_arb	ترکمن	Iranian Turkmen	rtl	1
-	True	True	341		prs	prs	دری‎	Dari	rtl	1
-	True	True	1379		sus	sus_ar	سٌسٌ	Susu (Arabic Script)	rtl	1
-	False	True	722	sd	snd	snd	سنڌي	Sindhi	rtl	1
-	True	True	118	fa	pes	pes	فارسی	Farsi (Persian)	rtl	4
-	True	True	453	ug	uig	uig	ئۇيغۇر تىلى‎	Uyghur	rtl	1
-	False	True	1707		fub	fub_ar	ڢُلْڢُلْدٜ عَدَمَوَ	Adamawa Fulfulde	rtl	1
-	True	True	503	ku_IQ	ckb	ckb	کوردیی سۆرانی	Sorani Kurdish	rtl	2
-	True	True	1094		glk	glk	گیلکی	Gilaki	rtl	1
-	False	True	1080		aii	aii	ܐܬܘܪܝܐ ܣܘܪܝܝܐ	Assyrian Neo-Aramaic	rtl	1
-	False	True	481		urd	urd_dv	उर्दू	Urdu (Devanagari)	ltr	1
-	True	True	789		suz	suz	कोँइच	Sunwar	ltr	1
-	True	True	1177		taj	taj	तामाङ	Eastern Tamang	ltr	1
-	False	True	1483	ne	nep	nep	नेपाली	Nepali	ltr	2
-	False	True	1457		nwx	nwx	नेवाः भाय्	Newar	ltr	1
-	True	True	1686	mr	mar	mar	मराठी	Marathi	ltr	3
-	True	True	1682	hi	hin	hin	हिन्दी	Hindi	ltr	6
-	False	True	1979		asm	asm	অসমীয়া	Assamese	ltr	2
-	True	True	1690	bn	ben	ben	বাংলা	Bengali (Bangla)	ltr	8
-	True	True	1687	pa	pan	pan	ਪੰਜਾਬੀ	Panjabi	ltr	3
-	True	True	1691	gu	guj	guj	ગુજરાતી	Gujarati	ltr	3
-	True	True	339	ta	tam	tam	தமிழ்	Tamil	ltr	2
-	True	True	1787	te	tel	tel	తెలుగు	Telugu	ltr	2
-	True	True	1692	kn	kan	kan	ಕನ್ನಡ	Kannada	ltr	3
-	True	True	1685	ml	mal	mal	മലയാളം	Malayalam	ltr	5
-	False	True	1828		sin	sin	සිංහල	Sinhala	ltr	2
-	False	True	233		ium	ium	ภาษาอิวเมี่ยน	Iu Mien	ltr	3
-	True	True	174	th	tha	tha	ภาษาไทย	Thai	ltr	6
-	False	True	1727	lo	lao	lao	ລາວ	Lao	ltr	2
-	False	True	1712	bo	bod	bod	བོད་ཡིག	Tibetan	ltr	3
-	True	True	386	my	mya	mya	မြန်မာယူနီကုတ်	Myanmar Burmese (Unicode)	ltr	5
-	False	True	1459	my	mya	mya_zaw	ျမန္မာေဇာ္ဂ်ီ	Myanmar Burmese (Zawgyi)	ltr	1
-	False	True	2202	ka	kat	kat	ქართული	Georgian	ltr	3
-	False	True	88	ko	kor	kor	한국어	Korean	ltr	3
-	True	True	1260	am	amh	amh	አማርኛ	Amharic	ltr	1
-	False	True	1926		chr	chr	ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ	Cherokee	ltr	1
-	False	True	455		ike	ike	ᐃᓄᒃᑎᑐᑦ	Inuktitut: Eastern Arctic	ltr	1
-	False	True	537		caf	caf	ᑕᗸᒡ	Southern Carrier	ltr	1
-	True	True	85	km	khm	khm	ភាសាខ្មែរ	Khmer	ltr	6
-	False	True	1806		hak	hak	客家話‎ (Hakkafa)	Chinese, Hakka	ltr	1
-	False	True	1580		lzh	lzh	文言（中文）	Chinese (Classical)	ltr	13
-	True	True	1820	ja	jpn	jpn	日本語	Japanese	ltr	5
-	True	True	48	zh_CN	zho	zho	简体中文	Chinese (Simplified)	ltr	6
-	True	True	46	zh_TW	zho	zho_tw	繁體中文	Chinese (Traditional)	ltr	18
+font	has_audio	has_text	id	iso_639_1	iso_639_3	language_tag	local_name	name	text_direction	total_versions	family
+
+	False	True	1069		kud	kud	'Auhelawa	'Auhelawa	ltr	1	
+	False	True	1015		aau	aau	Abau	Abau	ltr	1	Sepik
+	False	True	1418		aca	aca	Achagua	Achagua	ltr	1	Arawakan
+	True	True	3		acr	acr	Achi	Achi	ltr	3	Mayan
+	True	True	4		acu	acu	Achuar	Achuar-Shiwiar	ltr	2	Jivaroan
+	False	True	2265		ada	ada	Adangme	Adangme	ltr	2	Niger–Congo
+	False	True	2185		adh	adh	Adhola	Adhola	ltr	2	Nilo-Saharan
+	False	True	1530		adi	adi	Adi	Adi	ltr	1	Sino-Tibetan
+	False	True	2019		wsg	wsg	Adilabad Gondi	Adilabad Gondi	ltr	1	Dravidian
+	True	True	1462		adj	adj	Adjukru	Adioukrou	ltr	1	Niger–Congo
+	False	True	2157		ady	ady	Adyghe	Adyghe	ltr	1	Northwest Caucasian
+	False	True	1229		adz	adz	Adzera	Adzera	ltr	1	Austronesian
+	True	True	6	af	afr	afr	Afrikaans	Afrikaans	ltr	5	Indo-European
+	False	True	935		agd	agd	Agarabi	Agarabi	ltr	1	Trans–New Guinea
+	False	True	2080		agx	agx	Aghul	Aghul	ltr	1	Northeast Caucasian
+	True	True	515		agr	agr	Aguaruna	Aguaruna	ltr	1	Jivaroan
+	False	True	979		msm	msm	Agusan Manobo	Agusan Manobo	ltr	1	
+	True	True	1124		agn	agn	Agutaynen	Agutaynen	ltr	1	Austronesian
+	False	True	1533		aim	aim	Aimol	Aimol	ltr	1	Sino-Tibetan
+	False	True	1944		ain	ain	Ainu (Japan)	Ainu (Japan)	ltr	1	isolate
+	False	True	579		cpc	cpc	Ajyíninka Apurucayali	Ajyíninka Apurucayali	ltr	1	
+	True	True	308		ake	ake	Akawaio	Akawaio	ltr	1	Cariban
+	True	True	1722		ahk	ahk	Akha	Akha	ltr	2	Sino-Tibetan
+	True	True	336		bss	bss	Akoose	Akoose	ltr	1	
+	False	True	1823		spm	spm	Akɨghɨman Akam	Akukem	ltr	1	
+	False	True	2439		mim	mim	Alacatlatzala Mixtec	Alacatlatzala Mixtec	ltr	1	
+	False	True	986		amp	amp	Alamblak	Alamblak	ltr	1	Sepik
+	False	True	954		gah	gah	Alekano	Alekano	ltr	1	
+	False	True	1487		ald	ald	Alladian	Alladian	ltr	1	Niger–Congo
+	True	True	323		alp	alp	Alune	Alune	ltr	1	Austronesian
+	False	True	991		amm	amm	Ama (Papua New Guinea)	Ama (Papua New Guinea)	ltr	1	Left May
+	False	True	980		amn	amn	Amanab	Amanab	ltr	1	Border
+	False	True	511		amr	amr	Amarakaeri	Amarakaeri	ltr	1	Otomakoan
+	False	True	1320		aaz	aaz	Amarasi	Amarasi	ltr	1	Austronesian
+	False	True	1176		amk	amk	Ambai	Ambai	ltr	1	Austronesian
+	True	True	1769		qva	qva	Ambo-Pasco Quechua	Ambo-Pasco Quechua	ltr	1	Quechuan
+	False	True	927		abt	abt	Ambulas	Ambulas	ltr	2	Papuan
+	False	True	978		aey	aey	Amele	Amele	ltr	1	Trans–New Guinea
+	True	True	1356		ifa	ifa	Amganad Ifugao	Amganad Ifugao	ltr	1	
+	False	True	1535		ajz	ajz	Amri Karbi	Amri Karbi	ltr	1	Sino-Tibetan
+	False	True	229		amu	amu	Amuzgo	Guerrero Amuzgo	ltr	1	Oto-Manguean
+	False	True	1858		anm	anm	Anal	Anal	ltr	1	Sino-Tibetan
+	False	True	1011		aby	aby	Aneme Wake	Aneme Wake	ltr	1	Trans–New Guinea
+	False	True	981		agm	agm	Angaataha	Angaataha	ltr	1	Trans–New Guinea
+	False	True	988		akh	akh	Angal Heneng	Angal Heneng	ltr	1	Trans–New Guinea
+	False	True	338		njm	njm	Angami	Angami Naga	ltr	1	Naga
+	False	True	589		agw	agw	Anganiwai	Kahua	ltr	2	Austronesian
+	False	True	1001		agg	agg	Angor	Angor	ltr	1	Senagi
+	False	True	487		alq	alq	Anicinabemowin	Algonquin	ltr	1	Algic
+	True	True	936		boj	boj	Anjam	Anjam	ltr	2	
+	False	True	985		aak	aak	Ankave	Ankave	ltr	1	Trans–New Guinea
+	True	True	1450		ify	ify	Antipolo Ifugao	Keley-I Kallahan	ltr	1	
+	False	True	2168		cko	cko	Anufo	Anufo	ltr	1	
+	False	True	1413		aui	aui	Anuki	Anuki	ltr	1	Austronesian
+	True	True	1731		any	any	Anyin	Anyin	ltr	1	Niger–Congo
+	False	True	1008		njo	njo	Ao Naga	Ao Naga	ltr	1	Naga
+	False	True	865		apy	apy	Apalaí	Apalaí	ltr	1	Cariban
+	False	True	1529		apt	apt	Apatani	Apatani	ltr	1	Sino-Tibetan
+	False	True	514		apn	apn	Apinayé	Apinayé	ltr	1	Macro-Jê
+	False	True	864		apu	apu	Apurinã	Apurinã	ltr	1	Arawakan
+	False	True	501		shu	shu_rom	Arabe tchadien	Chadian Arabic (Roman script)	ltr	1	Arabic
+	False	True	519		arl	arl	Arabela	Arabela	ltr	1	Zaparoan
+	False	True	1369		arp	arp	Arapaho	Arapaho	ltr	1	Algic
+	False	True	1404		mwc	mwc	Are	Are	ltr	1	
+	False	True	407		aai	aai	Arifama-Miniafia	Arifama-Miniafia	ltr	1	Austronesian
+	False	True	2341		luc	luc	Aringa	Aringa	ltr	1	
+	True	True	1559		rup	rup	Armãneashti/Arumanisht	Aromanian	ltr	2	
+	True	True	1409		apr	apr	Arop-Lokep	Arop-Lokep	ltr	1	Austronesian
+	True	True	1639		aia	aia	Arosi	Arosi	ltr	1	Austronesian
+	True	True	913		msy	msy	Aruamu	Aruamu	ltr	1	
+	True	True	575		cni	cni	Asháninka	Asháninka	ltr	1	
+	False	True	568		cjo	cjo	Ashéninka Pajonal	Ashéninka Pajonal	ltr	1	
+	False	True	2136		prq	prq	Ashéninka Perené	Ashéninka Perené	ltr	1	
+	False	True	238		cpu	cpu	Ashéninka Pichis	Pichis Ashéninka	ltr	1	
+	False	True	1003		atd	atd	Ata Manobo	Ata Manobo	ltr	1	Austronesian
+	True	True	851		mib	mib	Atatláhuca Mixtec	Atatláhuca Mixtec	ltr	1	
+	False	True	2342		atj	atj	Atikamekw	Atikamekw	ltr	1	Algic
+	False	True	967		avt	avt	Au	Au	ltr	1	Torricelli
+	False	True	2547		auu	auu	Auye	Auye	ltr	1	Trans–New Guinea
+	False	True	2086		ava	ava	Avaric	Avaric	ltr	1	Northeast Caucasian
+	False	True	1982		avn	avn	Avatime	Avatime	ltr	1	Niger–Congo
+	True	True	1766		avu	avu	Avokaya	Avokaya	ltr	1	Nilo-Saharan
+	True	True	932		awb	awb	Awa (Papua New Guinea)	Awa (Papua New Guinea)	ltr	1	Trans–New Guinea
+	True	True	1092		kwi	kwi	Awa-Cuaiquer	Awa-Cuaiquer	ltr	1	
+	False	True	1335		awx	awx	Awara	Awara	ltr	1	Trans–New Guinea
+	False	True	845		auy	auy	Awiyaana	Awiyaana	ltr	1	Trans–New Guinea
+	False	True	556		quy	quy	Ayacucho Quechua	Ayacucho Quechua	ltr	3	Quechuan
+	True	True	655		vmy	vmy	Ayautla Mazatec	Ayautla Mazatec	ltr	1	
+	True	True	293		ayr	ayr	Aymar	Central Aymara	ltr	3	Aymaran
+	False	True	2466		abp	abp	Ayta, Abellen	Ayta, Abellen	ltr	1	Austronesian
+	True	True	1659		miy	miy	Ayutla Mixtec	Ayutla Mixtec	ltr	1	
+	False	True	2324		azj	azj	Azərbaycanca	Azerbaijani	ltr	1	Azeri
+	False	True	1138		bba	bba	Baatonum	Baatonum	ltr	1	
+	False	True	1983		bbk	bbk	Babanki	Babanki	ltr	1	
+	False	True	1901		bvd	bvd	Baeggu	Baeggu	ltr	1	
+	True	True	876		ksf	ksf	Bafia	Bafia	ltr	1	
+	True	True	2147		bfd	bfd	Bafut	Bafut	ltr	1	
+	False	True	1557		bsp	bsp	Baga Sitemu	Baga Sitemu	ltr	1	
+	True	True	306	id	ind	ind	Bahasa Indonesia	Indonesian	ltr	4	Austronesian
+	False	True	402	ms	msa	msa	Bahasa Melayu	Malay	ltr	4	Austronesian
+	False	True	2137		bdq	bdq	Bahnar	Bahnar	ltr	1	
+	False	True	1563		bdh	bdh	Baka (Sudan)	Baka (Sudan)	ltr	1	
+	False	True	408		bkq	bkq	Bakairí	Bakairí	ltr	1	
+	False	True	2420		bki	bki	Baki	Baki	ltr	1	
+	False	True	1115		blw	blw	Balangao	Balangao	ltr	1	
+	False	True	337		blz	blz	Balantak	Balantak	ltr	1	
+	False	True	2513		bcn	bcn	Bali (Nigeria)	Bali (Nigeria)	ltr	1	
+	True	True	302		ban	ban	Bali, basa	Balinese	ltr	1	
+	True	True	1500		bcc	bcc_rom	Balóchi	Balochi	ltr	1	
+	False	True	2348		bmo	bmo	Bambalang	Bambalang	ltr	1	
+	True	True	1147		ptu	ptu	Bambam	Bambam	ltr	1	
+	True	True	1767		bcw	bcw	Bana	Bana	ltr	1	
+	False	True	1300		bqj	bqj	Bandial	Bandial	ltr	1	
+	False	True	2228		bjn	bjn	Banjar	Banjar	ltr	1	
+	False	True	2174		bno	bno	Bantoanon	Bantoanon	ltr	1	
+	False	True	1643		bci	bci	Baoulé	Baoulé	ltr	1	
+	False	True	970		bbb	bbb	Barai	Barai	ltr	1	
+	False	True	571		bsn	bsn	Barasana-Eduria	Barasana-Eduria	ltr	1	
+	False	True	1084		mlp	mlp	Bargam	Bargam	ltr	1	
+	False	True	960		bch	bch	Bariai	Bariai	ltr	1	
+	False	True	994		byr	byr	Baruya	Baruya	ltr	1	
+	True	True	248	jv	jav	jav	Basa Jawa	Javanese	ltr	1	Austronesian
+	True	True	250		jvn	jvn	Basa Jawa Suriname	Caribbean Javanese	ltr	1	
+	False	True	2230		ifb	ifb	Batad Ifugao	Batad Ifugao	ltr	1	
+	True	True	35		btx	btx	Batak Karo	Batak Karo	ltr	1	
+	True	True	34		bts	bts	Batak Simalungun	Batak Simalungun	ltr	1	
+	False	True	17		bbc	bbc	Batak Toba	Batak Toba	ltr	1	
+	False	True	1945		bgr	bgr	Bawm	Bawm Chin	ltr	1	
+	False	True	2441		beo	beo	Beami	Beami	ltr	1	
+	False	True	1019		bef	bef	Benabena	Benabena	ltr	1	
+	False	True	1591		bom	bom	Berom	Berom	ltr	1	
+	True	True	362		cax	cax	Besiro (Chiquitano)	Chiquitano	ltr	2	
+	False	True	2172		kap	kap	Bezhta	Bezhta	ltr	1	
+	False	True	965		big	big	Biangai	Biangai	ltr	1	
+	False	True	18		bth	bth	Biatah Bidayuh	Biatah Bidayuh	ltr	1	
+	False	True	1532		biu	biu	Biate	Biete	ltr	1	
+	True	True	409		bzj	bzj	Bileez Kriol	Belize Creole English	ltr	1	
+	False	True	1281		bhl	bhl	Bimin	Bimin	ltr	1	
+	True	True	1748		bim	bim	Bimoba	Bimoba	ltr	2	
+	False	True	1407		bhg	bhg	Binandere	Binandere	ltr	1	
+	False	True	975		bon	bon	Bine	Bine	ltr	1	
+	False	True	413		smk	smk	Binu-Bolinao	Bolinao	ltr	1	
+	False	True	1117		bkd	bkd	Binukid	Binukid	ltr	1	
+	False	True	842		bjr	bjr	Binumarien	Binumarien	ltr	1	
+	False	True	1923		bis	bis	Bislama	Bislama	ltr	1	English Creole
+	True	True	1751		bib	bib	Bissa	Bissa	ltr	1	
+	False	True	1705		bzi	bzi	Bisu	Bisu	ltr	1	
+	False	True	1121		mux	mux	Bo-Ung	Bo-Ung	ltr	1	
+	False	True	1155		bqc	bqc	Boko	Boko (Benin)	ltr	1	
+	False	True	333		bnp	bnp	Bola Bakovi	Bola	ltr	1	
+	True	True	578		boa	boa	Bora	Bora	ltr	1	
+	True	True	610		kvn	kvn	Border Kuna	Border Kuna	ltr	1	
+	False	True	1382		ksr	ksr	Borong	Borong	ltr	1	
+	False	True	2518		bor	bor	Borôro	Borôro	ltr	1	
+	False	True	172		dtp	dtp	Boros Dusun	Kadazan Dusun	ltr	1	
+	True	True	1343		sbl	sbl	Botolan Sambal	Botolan Sambal	ltr	1	
+	False	True	1231	br	bre	bre	Brezhoneg	Breton	ltr	3	Indo-European
+	False	True	234		bzd	bzd	Bribri	Bribri	ltr	1	
+	True	True	1358		plw	plw	Brooke's Point Palawano	Brooke's Point Palawano	ltr	1	
+	False	True	1039		buk	buk	Bugawac	Bugawac	ltr	1	
+	False	True	1900		bgt	bgt	Bughotu	Bughotu	ltr	1	
+	True	True	671		sab	sab	Buglere	Buglere	ltr	1	
+	False	True	2445		bgg	bgg	Bugun	Bugun	ltr	1	
+	False	True	934		ape	ape	Bukiyip	Bukiyip	ltr	2	Torricelli
+	False	True	2176		bwu	bwu	Buli (Ghana)	Buli (Ghana)	ltr	1	
+	False	True	856		bum	bum	Bulu (Cameroon)	Bulu (Cameroon)	ltr	1	
+	False	True	2175		bmv	bmv	Bum	Bum	ltr	1	
+	False	True	2160		aon	aon	Bumbita Arapesh	Bumbita Arapesh	ltr	1	Torricelli
+	False	True	1007		bdd	bdd	Bunama	Bunama	ltr	1	
+	False	True	2338		bns	bns	Bundeli	Bundeli	ltr	1	
+	True	True	1657		cmo	cmo	Bunong	Bunong	ltr	2	
+	False	True	2536		bwr	bwr	Bura-Pabir	Bura-Pabir	ltr	1	
+	False	True	1291		bvr	bvr	Burarra	Burarra	ltr	1	
+	False	True	2304		bds	bds	Burunge	Burunge	ltr	1	
+	True	True	243		djk	djk	Businenge Tongo	Eastern Maroon Creole	ltr	1	
+	False	True	2381		kyb	kyb	Butbut Kalinga	Butbut Kalinga	ltr	1	
+	True	True	381		box	box	Bwamu	Buamu	ltr	1	
+	False	True	1220		tte	tte	Bwanabwana	Bwanabwana	ltr	1	
+	True	True	777		cbv	cbv	Cacua	Cacua	ltr	2	
+	True	True	648		qvc	qvc	Cajamarca Quechua	Cajamarca Quechua	ltr	1	Quechuan
+	False	True	462		zad	zad	Cajonos Zapotec	Cajonos Zapotec	ltr	1	Zapotec
+	False	True	1438		tbk	tbk	Calamian Tagbanwa	Calamian Tagbanwa	ltr	1	
+	False	True	1128		clu	clu	Caluyanun	Caluyanun	ltr	1	
+	False	True	2226		mcu	mcu	Cameroon Mambila	Cameroon Mambila	ltr	1	
+	False	True	1085		kbh	kbh	Camsá	Camsá	ltr	1	
+	True	True	213		cbu	cbu	Candoshi-Shapra	Candoshi-Shapra	ltr	1	
+	False	True	586		kaq	kaq	Capanahua	Capanahua	ltr	1	
+	False	True	566		cot	cot	Caquinte	Caquinte	ltr	1	
+	False	True	1060		caq	caq	Car Nicobarese	Car Nicobarese	ltr	1	
+	True	True	533		cbc	cbc	Carapana	Carapana	ltr	1	
+	True	True	237		car	car	Carib	Galibi Carib	ltr	1	
+	True	True	593		hns	hns	Caribbean Hindustani	Caribbean Hindustani	ltr	1	
+	False	True	603		crx	crx	Carrier	Carrier	ltr	1	
+	True	True	541		cbr	cbr	Cashibo-Cacataibo	Cashibo-Cacataibo	ltr	1	
+	True	True	540		cbs	cbs	Cashinahua	Cashinahua	ltr	2	
+	False	True	1170		dgc	dgc	Casiguran Dumagat Agta	Casiguran Dumagat Agta	ltr	1	
+	False	True	335	ca	cat	cat	Català	Catalan	ltr	2	Indo-European
+	False	True	538		cav	cav	Cavineña	Cavineña	ltr	1	
+	True	True	9		ceb	ceb	Cebuano	Cebuano	ltr	4	
+	False	True	2379		cam	cam	Cemuhî	Cemuhî	ltr	1	
+	True	True	890		bcl	bcl	Central Bikol	Central Bikol	ltr	1	
+	False	True	1157		lbk	lbk	Central Bontok	Central Bontok	ltr	1	
+	False	True	1244		agt	agt	Central Cagayan Agta	Central Cagayan Agta	ltr	1	Austronesian
+	False	True	751		nch	nch	Central Huasteca Nahuatl	Central Huasteca Nahuatl	ltr	1	
+	True	True	846		maz	maz	Central Mazahua	Central Mazahua	ltr	1	
+	False	True	2394		sml	sml	Central Sama	Central Sama	ltr	1	
+	False	True	1325		syb	syb	Central Subanen	Central Subanen	ltr	1	
+	True	True	1086		tuf	tuf	Central Tunebo	Central Tunebo	ltr	1	
+	True	True	379		cme	cme	Cerma	Cerma	ltr	1	
+	True	True	15	cs	ces	ces	Čeština	Czech	ltr	4	Indo-European
+	False	True	535		cbi	cbi	Chachi	Chachi	ltr	1	
+	False	True	235		cao	cao	Chácobo	Chácobo	ltr	1	
+	False	True	1539		nri	nri	Chakhesang Chokri	Chokri Naga	ltr	1	
+	False	True	961		nbc	nbc	Chang Naga	Chang Naga	ltr	1	
+	False	True	1129		cbk	cbk	Chavacano	Chavacano	ltr	1	
+	False	True	544		cbt	cbt	Chayahuita	Chayahuita	ltr	1	
+	False	True	793		mih	mih	Chayuco Mixtec	Chayuco Mixtec	ltr	1	
+	True	True	1630		hne	hne	Chhattisgarhi	Chhattisgarhi	ltr	1	
+	True	True	1097		bem	bem	Chibemba	Bemba (Zambia)	ltr	1	
+	True	True	1068	ny	nya	nya	Chichewa	Nyanja	ltr	3	Niger–Congo
+	False	True	739		zpv	zpv	Chichicapan Zapotec	Chichicapan Zapotec	ltr	1	Zapotec
+	True	True	915		ruf	ruf	Chilughuru	Luguru	ltr	1	
+	False	True	2375		kde	kde	Chimakonde	Makonde	ltr	1	
+	False	True	326		csy	csy	Chin: Siyin	Siyin Chin	ltr	1	
+	True	True	368		ctd	ctd	Chin: Tedim	Tedim Chin	ltr	1	
+	True	True	217		cle	cle	Chinantec Lealao	Lealao Chinantec	ltr	1	
+	True	True	219		cpa	cpa	Chinantec Palantla	Palantla Chinantec	ltr	1	
+	True	True	1125		cwe	cwe	Ching'hwele	Kwere	ltr	1	
+	False	True	735		maq	maq	Chiquihuitlán Mazatec	Chiquihuitlán Mazatec	ltr	1	
+	False	True	32	sn	sna	sna	chiShona	Shona	ltr	6	Niger–Congo
+	False	True	984		toi	toi	chiTonga	Tonga (Zambia)	ltr	1	
+	True	True	1221		vid	vid	Chividunda	Vidunda	ltr	1	
+	True	True	746		zpc	zpc	Choapan Zapotec	Choapan Zapotec	ltr	1	Zapotec
+	False	True	1927		cho	cho	Choctaw	Choctaw	ltr	1	
+	False	True	2546		cjk	cjk	Chokwe	Chokwe	ltr	1	
+	False	True	795		ctu	ctu	Chol	Chol	ltr	5	
+	False	True	371		crt	crt	Chorote	Iyojwa'ja Chorote	ltr	1	
+	True	True	524		caa	caa	Chortí	Chortí	ltr	1	
+	False	True	1541		nct	nct	Chothe	Chothe Naga	ltr	1	
+	False	True	2497		cje	cje	Chru	Chru	ltr	1	
+	False	True	995		cjv	cjv	Chuave	Chuave	ltr	1	
+	True	True	492		cac	cac	Chuj	Chuj	ltr	2	
+	True	True	437		ncu	ncu	Chumburung	Chumburung	ltr	1	
+	True	True	564		nse	nse	Cinsenga	Nsenga	ltr	2	
+	False	True	1293		asg	asg	Cishingini	Cishingini	ltr	1	Niger–Congo
+	True	True	857		zca	zca	Coatecas Altas Zapotec	Coatecas Altas Zapotec	ltr	1	Zapotec
+	False	True	713		miz	miz	Coatzospan Mixtec	Coatzospan Mixtec	ltr	1	
+	True	True	567		con	con	Cofán	Cofán	ltr	1	
+	True	True	1505		kog	kog	Cogui	Cogui	ltr	1	
+	True	True	565		cof	cof	Colorado	Colorado	ltr	1	
+	True	True	738		cco	cco	Comaltepec Chinantec	Comaltepec Chinantec	ltr	1	
+	False	True	2133		zoc	zoc	Copainalá Zoque	Copainalá Zoque	ltr	1	Mixe-Zoquean
+	False	True	742		trc	trc	Copala Triqui	Copala Triqui	ltr	1	
+	True	True	239		crn	crn	Cora El Nayar	El Nayar Cora	ltr	1	
+	False	True	2291		cos	cos	Corsican	Corsican	ltr	1	Indo-European
+	False	True	1316		mta	mta	Cotabato Manobo	Cotabato Manobo	ltr	1	
+	True	True	752		toc	toc	Coyutla Totonac	Coyutla Totonac	ltr	1	
+	True	True	2065		crl	crl	Cree, Northern East	Cree, Northern East	ltr	1	Cree
+	False	True	358		cub	cub	Cubeo	Cubeo	ltr	1	
+	True	True	1036		cui	cui	Cuiba	Cuiba	ltr	1	
+	True	True	1446		cul	cul	Culina	Culina	ltr	1	
+	False	True	394	cy	cym	cym	Cymraeg	Welsh	ltr	9	Indo-European
+	False	True	2189		dsh	dsh	Daasanach	Daasanach	ltr	1	
+	False	True	1153		mps	mps	Dadibi	Dadibi	ltr	1	
+	False	True	977		dgz	dgz	Daga	Daga	ltr	1	
+	False	True	2268		dga	dga	Dagaare	Southern Dagaare	ltr	1	
+	False	True	2264		dag	dag	Dagbani	Dagbani	ltr	2	
+	False	True	2446		dij	dij	Dai	Dai	ltr	1	
+	True	True	1830		daf	daf	Dan	Dan	ltr	1	
+	True	True	1831		dnj	dnj	Dan (Blowo)	Dan	ltr	1	
+	False	True	1664		bea	bea	Dane-zaa	Beaver (Canada)	ltr	2	
+	True	True	354		daa	daa	Dangaléat	Dangaléat	ltr	1	
+	False	True	993		aso	aso	Dano	Dano	ltr	1	Trans–New Guinea
+	True	True	20	da	dan	dan	Dansk	Danish	ltr	2	Indo-European
+	False	True	1514		tcc	tcc	Datooga	Datooga	ltr	1	
+	False	True	1017		dww	dww	Dawawa	Dawawa	ltr	1	Austronesian
+	True	True	342		dwr	dwr	Dawro	Dawro	ltr	3	
+	False	True	983		ded	ded	Dedua	Dedua	ltr	2	
+	False	True	2012		mzw	mzw	Deg	Deg	ltr	1	
+	False	True	1795		ntr	ntr	Delo	Delo	ltr	1	
+	True	True	343		anv	anv	Denya	Denya	ltr	1	Niger–Congo
+	True	True	1583		des	des	Desano	Desano	ltr	1	
+	True	True	73	de	deu	deu	Deutsch	German	ltr	11	Indo-European
+	False	True	1374		dhg	dhg	Dhangu	Dhangu-Djangu	ltr	1	
+	False	True	1402		nfa	nfa	Dhao	Dhao	ltr	1	
+	False	True	471		dhm	dhm	Dhimba (Zemba, Oludhimba)	Zemba	ltr	1	
+	True	True	2134		div	div	Dhivehi	Dhivehi	rtl	1	Indo-European
+	False	True	1810		luo	luo	Dholuo	Luo (Kenya and Tanzania)	ltr	1	
+	False	True	2404		dwy	dwy	Dhuwaya	Dhuwaya	ltr	1	Pama–Nyungan
+	False	True	1326		mbd	mbd	Dibabawon Manobo	Dibabawon Manobo	ltr	1	
+	False	True	839		gud	gud	Dida	Yocoboué Dida	ltr	1	
+	True	True	1890		did	did	Didinga	Didinga	ltr	1	
+	False	True	2289		zpg	zpg	didz-rieꞌ	Guevea De Humboldt Zapotec	ltr	1	Zapotec
+	False	True	1511		dur	dur	Dii	Dii	ltr	1	
+	False	True	1010		dis	dis	Dimasa	Dimasa	ltr	1	
+	False	True	1800		dks	dks	Dinka Bor	Dinka, Southeastern	ltr	2	
+	True	True	242		dik	dik	Dinka Rek	Dinka Southwestern	ltr	1	
+	False	True	2391		quz	quz	Diospa simin qelqa	Cusco Quechua	ltr	2	Quechuan
+	True	True	719		xtd	xtd	Diuxi-Tilantongo Mixtec	Diuxi-Tilantongo Mixtec	ltr	1	
+	False	True	244		djr	djr	Djambarrpuyngu	Djambarrpuyngu	ltr	1	
+	False	True	2403		dji	dji	Djinang	Djinang	ltr	1	
+	False	True	926		dob	dob	Dobu	Dobu	ltr	1	
+	False	True	1033		kqc	kqc	Doromu-Koki	Doromu-Koki	ltr	1	
+	True	True	880		dow	dow	Doyayo	Doyayo	ltr	1	
+	False	True	1312		duo	duo	Dupaninan Agta	Dupaninan Agta	ltr	1	
+	True	True	2199		dug	dug	Duruma	Duruma	ltr	1	
+	False	True	1728		dyu	dyu	Dyula	Dyula	ltr	2	
+	False	True	1522		rad	rad	E-De	Rade	ltr	1	
+	False	True	2077		omb	omb	East Ambae	East Ambae	ltr	1	
+	False	True	1012		kjs	kjs	East Kewa	East Kewa	ltr	1	
+	True	True	667		qve	qve	Eastern Apurímac Quechua	Eastern Apurímac Quechua	ltr	1	Quechuan
+	False	True	1746		aer	aer	Eastern Arrernte	Eastern Arrernte	ltr	1	Pama–Nyungan
+	False	True	1114		ebk	ebk	Eastern Bontok	Eastern Bontok	ltr	1	
+	False	True	833		otm	otm	Eastern Highland Otomi	Eastern Highland Otomi	ltr	1	
+	False	True	1941		xrb	xrb	Eastern Karaboro	Eastern Karaboro	ltr	1	
+	False	True	2539		igb	igb	Ebira	Ebira	ltr	1	
+	False	True	1297		etr	etr	Edolo	Edolo	ltr	1	
+	False	True	309	et	est	est	Eesti keel	Estonian	ltr	1	Uralic
+	True	True	889		etu	etu	Ejagham	Ejagham	ltr	1	
+	True	True	1154		eka	eka	Ekajuk	Ekajuk	ltr	1	
+	True	True	111	en	eng	eng	English	English	ltr	61	Indo-European
+	True	True	1476		leg	leg	Enhlit (Enhlet)	Lengua Norte (Paraguay)	ltr	1	
+	False	True	1480		enx	enx	Enxet	Lengua Sur (Paraguay)	ltr	2	Mascoian
+	True	True	270		sja	sja	Epena	Epena	ltr	2	
+	True	True	1004		mcq	mcq	Ese	Ese	ltr	1	
+	False	True	576		ese	ese	Ese Ejja	Ese Ejja	ltr	1	
+	True	True	149	es	spa	spa	Español (América Latina)	Spanish	ltr	23	Indo-European
+	False	True	210	es	spa	spa_es	Español (España)	Spanish (Spain)	ltr	5	Indo-European
+	False	True	841	eo	epo	epo	Esperanto	Esperanto	ltr	1	constructed
+	False	True	829		ots	ots	Estado de México Otomi	Estado de México Otomi	ltr	1	
+	False	True	56	eu	eus	eus	Euskara	Basque	ltr	3	isolate
+	False	True	1199		nou	nou	Ewage-Notu	Ewage-Notu	ltr	1	
+	False	True	1854		ewo	ewo	Ewondo	Ewondo	ltr	1	
+	False	True	1600		eza	eza	Ezaa	Ezaa	ltr	1	
+	False	True	2259	ee	ewe	ewe	eʋegbe	Éwé	ltr	2	Niger–Congo
+	False	True	1428		fai	fai	Faiwol	Faiwol	ltr	2	
+	False	True	389		cfm	cfm	Falam	Falam Chin	ltr	2	
+	False	True	1427		bjp	bjp	Fanamaket	Fanamaket	ltr	1	
+	True	True	1323		gur	gur	Farefare	Farefare	ltr	1	
+	False	True	956		faa	faa	Fasu	Fasu	ltr	1	
+	False	True	1902		far	far	Fataleka	Fataleka	ltr	1	
+	True	True	399	tl	tgl	tgl	Filipino	Tagalog	ltr	7	Austronesian
+	False	True	1184		ppo	ppo	Folopa	Folopa	ltr	1	
+	False	True	813		fon	fon	Fon	Fon	ltr	2	
+	False	True	2178		frd	frd	Fordata	Fordata	ltr	1	
+	False	True	973		for	for	Fore	Fore	ltr	1	
+	True	True	133	fr	fra	fra	Français	French	ltr	13	Indo-European
+	True	True	784		zos	zos	Francisco León Zoque	Francisco León Zoque	ltr	1	Mixe-Zoquean
+	True	True	905		fub	fub	Fulfulde (Adamawa)	Fulfulde (Adamawa)	ltr	2	Niger–Congo
+	False	True	1032		fuh	fuh	Fulfulde (Burkina Faso)	Fulfulde	ltr	2	Niger–Congo
+	True	True	1373		fuq	fuq	Fulfulde (Central-Eastern Niger)	Fulfulde (Central-Eastern Niger)	ltr	1	Niger–Congo
+	True	True	1175		ffm	ffm	Fulfulde (Maasinankoore)	Maasina Fulfulde	ltr	1	Niger–Congo
+	True	True	1159		fuv	fuv	Fulfulde Caka Nigeria	Fulani	ltr	1	Niger–Congo
+	False	True			fuv	fuv_ar	Fulfulde Caka Nigeria Arabic Script	Fulani	rtl	1	Niger–Congo
+	False	True	2355		flr	flr	Fuliiru	Fuliiru	ltr	1	
+	False	True	374	fo	fao	fao	Føroyskt	Faroese	ltr	1	Indo-European
+	False	True	1436		gdg	gdg	Ga'dang	Ga'dang	ltr	1	
+	False	True	884	ga	gle	gle	Gaeilge	Irish Gaelic	ltr	3	Indo-European
+	False	True	1366	gv	glv	glv	Gaelg	Manx Gaelic	ltr	8	Indo-European
+	False	True	599	sm	smo	smo	Gagana fa'a Sāmoa	Samoan	ltr	3	Austronesian
+	False	True	1531	gd	gla	gla	Gàidhlig	Scots Gaelic	ltr	10	Indo-European
+	False	True	1534		adl	adl	Galo	Galo	ltr	1	Sino-Tibetan
+	True	True	434		gmv	gmv	Gamo	Gamo	ltr	1	
+	False	True	1013		gnb	gnb	Gangte	Gangte	ltr	1	
+	True	True	1504		aeu	aeu	Gaolkheel	Akeu	ltr	1	Sino-Tibetan
+	False	True	1180		pwg	pwg	Gapapaiwa	Gapapaiwa	ltr	1	
+	False	True	1372		wrk	wrk	Garrwa	Garrwa	ltr	1	
+	False	True	1621		gbr	gbr	Gbagyi	Gbagyi	ltr	1	
+	False	True	2522		krs	krs	Gbaya (Sudan)	Gbaya (Sudan)	ltr	1	
+	False	True	1906		nlg	nlg	Gela	Gela	ltr	1	
+	False	True	1709		ghe	ghe	Ghale	Southern Ghale	ltr	1	
+	False	True	1102		bmk	bmk	Ghayavi	Ghayavi	ltr	1	
+	False	True	907		bbj	bbj	Ghomálá'	Ghomálá'	ltr	1	
+	False	True	1120		gid	gid	Gidar	Gidar	ltr	1	
+	True	True	1741		acd	acd	Gikyode	Gikyode	ltr	1	Niger–Congo
+	False	True	1892		gil	gil	Gilbertese	Gilbertese	ltr	1	
+	False	True	982		bbr	bbr	Girawa	Girawa	ltr	1	
+	False	True	2207		nyf	nyf	Giryama	Giryama	ltr	1	
+	False	True	2520		gol	gol	Gola	Gola	ltr	1	
+	False	True	940		gvf	gvf	Golin	Golin	ltr	1	
+	False	True	1729		gjn	gjn	Gonja	Gonja	ltr	1	
+	True	True	435		gof	gof	Goofa	Gofa	ltr	3	
+	True	True	1173		gqr	gqr	Gor	Gor	ltr	1	
+	True	True	1055		guh	guh	Guahibo	Guahibo	ltr	1	
+	True	True	613		gub	gub	Guajajára	Guajajára	ltr	1	
+	True	True	1037		gum	gum	Guambiano	Guambiano	ltr	1	
+	True	True	1056		gvc	gvc	Guanano	Guanano	ltr	1	
+	True	True	66		gug	gug	Guaraní paraguayo	Avañe'e	ltr	3	
+	True	True	590		gui	gui	Guaraní: Ava (Bolivia)	Eastern Bolivian Guarani	ltr	2	
+	True	True	606		gnw	gnw	Guaraní: Simba	Western Bolivian Guarani	ltr	2	
+	True	True	359		gyr	gyr	Guarayu	Guarayu	ltr	3	
+	True	True	499		guo	guo	Guayabero	Guayabero	ltr	1	
+	True	True	1778		gde	gde	Gude	Gude	ltr	1	
+	False	True	1641		nrf	nrf	Guernésiais	Guernsey Norman French	ltr	1	Indo-European
+	True	True	749		ngu	ngu	Guerrero Nahuatl	Guerrero Nahuatl	ltr	2	
+	False	True	953		ghs	ghs	Guhu-Samane	Guhu-Samane	ltr	1	
+	False	True	815		gvl	gvl	Gulay	Gulay	ltr	1	
+	False	True	585		gul	gul	Gullah	Sea Island Creole English	ltr	1	
+	False	True	2006		gnn	gnn	Gumatj	Gumatj	ltr	1	
+	False	True	2405		guw	guw	Gun-Alada	Gun	ltr	1	
+	False	True	1837		rub	rub	Gungu	Gungu	ltr	1	
+	False	True	2417		gue	gue	Gurinji	Gurinji	ltr	1	
+	False	True	2468		gvr	gvr	Gurung	Gurung	ltr	1	
+	True	True	939		dah	dah	Gwahatike	Gwahatike	ltr	1	
+	False	True	2299		gwr	gwr	Gwere	Gwere	ltr	1	
+	True	True	600		gwi	gwi	Gwichʼin	Gwichʼin	ltr	1	
+	True	True	2428		ayh	ayh	Hadrami Arabic	Hadrami Arabic	rtl	1	Arabic
+	True	True	327		cnh	cnh	Hakha	Hakha Chin	ltr	2	
+	False	True	1806		hak	hak_rom	Hakkafa (Roman script)	Chinese, Hakka	ltr	1	Chinese
+	False	True	955		hla	hla	Halia	Halia	ltr	1	
+	True	True	1499		hag	hag	Hanga	Hanga	ltr	1	
+	False	True	1570		tmd	tmd	Haruai	Haruai	ltr	1	
+	False	True	71	ha	hau	hau	Hausa	Hausa	ltr	2	Afro-Asiatic
+	False	True	76		hwc	hwc	Hawaii Pidgin	Hawaii Creole English	ltr	1	
+	True	True	1149		xed	xed	Hdi	Hdi	ltr	1	
+	False	True	1045		heg	heg	Helong	Helong	ltr	1	
+	False	True	721		chd	chd	Highland Oaxaca Chontal	Highland Oaxaca Chontal	ltr	1	
+	True	True	781		azz	azz	Highland Puebla Nahuatl	Highland Puebla Nahuatl	ltr	1	Uto-Aztecan
+	False	True	10		hil	hil	Hiligaynon	Hiligaynon	ltr	3	
+	False	True	820		hin	hin_ro	Hindi (Roman Script)	Hindi (Roman script)	ltr	1	Indo-European
+	False	True	587		hix	hix	Hixkaryána	Hixkaryána	ltr	1	
+	False	True	1863		hmr	hmr	Hmar	Hmar	ltr	2	
+	False	True	1269		mww	mww	Hmong	Hmong Daw	ltr	2	
+	True	True	1216		hnj	hnj	Hmong Hoa	Hmong Njua	ltr	2	
+	False	True	595		hop	hop	Hopi	Hopi	ltr	1	
+	False	True	1026		hot	hot	Hote	Hote	ltr	1	
+	False	True	1018		hra	hra	Hrangkhol	Hrangkhol	ltr	1	
+	False	True	2512		hre	hre	Hre	Hre	ltr	1	
+	False	True	2475	hr	hrv	hrv	Hrvatski	Croatian	ltr	3	Indo-European
+	True	True	1088		qub	qub	Huallaga Huánuco Quechua	Huallaga Huánuco Quechua	ltr	1	Quechuan
+	True	True	670		qvh	qvh	Huamalíes-Dos de Mayo Huánuco Quechua	Huamalíes-Dos de Mayo Huánuco Quechua	ltr	1	Quechuan
+	True	True	720		hub	hub	Huambisa	Huambisa	ltr	1	
+	False	True	1347		var	var	Huarijio	Huarijio	ltr	1	
+	True	True	698		hus	hus	Huastec	Huastec	ltr	2	
+	False	True	834		mau	mau	Huautla Mazatec	Huautla Mazatec	ltr	1	
+	True	True	734		qwh	qwh	Huaylas Ancash Quechua	Huaylas Ancash Quechua	ltr	2	Quechuan
+	True	True	268		qxn	qxn	Huaylay	Northern Conchucos Ancash Quechua	ltr	1	Quechuan
+	False	True	849		tee	tee	Huehuetla Tepehua	Huehuetla Tepehua	ltr	1	
+	False	True	830		hch	hch	Huichol	Huichol	ltr	1	
+	False	True	2521		jab	jab	Hyam	Hyam	ltr	1	
+	False	True	1027		yml	yml	Iamalele	Iamalele	ltr	1	
+	False	True	968		ian	ian	Iatmul	Iatmul	ltr	1	
+	False	True	2434		ibl	ibl	Ibaloi	Ibaloi	ltr	1	
+	False	True	171		iba	iba	Iban	Iban	ltr	1	
+	False	True	1322		ivb	ivb	Ibatan	Ibatan	ltr	1	
+	True	True	947		lam	lam	Ichilamba	Lamba	ltr	1	
+	False	True	2537		idu	idu	Idoma	Idoma	ltr	1	
+	False	True	1235		viv	viv	Iduna	Iduna	ltr	1	
+	True	True	1759		ife	ife	Ifè	Ifè	ltr	1	
+	False	True	77	ig	ibo	ibo	Igbo	Igbo	ltr	2	Niger–Congo
+	False	True	2538		ige	ige	Igede	Igede	ltr	1	
+	False	True	1296		ikk	ikk	Ika	Ika	ltr	1	
+	True	True	241		huv	huv	Ikootz	San Mateo Del Mar Huave	ltr	1	
+	False	True	1190		ikw	ikw	Ikwere	Ikwere	ltr	1	
+	False	True	1599		iqw	iqw	Ikwo	Ikwo	ltr	1	
+	True	True	888		ilb	ilb	Ila	Ila	ltr	1	
+	False	True	1310		mbi	mbi	Ilianen Manobo	Ilianen Manobo	ltr	1	
+	False	True	782		ilo	ilo	Iloko	Iloko	ltr	2	
+	False	True	1009		imo	imo	Imbongu	Imbongu	ltr	1	
+	False	True	1091		abx	abx	Inabaknon	Inabaknon	ltr	1	Austronesian
+	True	True	1103		inb	inb	Inga	Inga	ltr	1	
+	False	True	951		ino	ino	Inoke-Yate	Inoke-Yate	ltr	1	
+	True	True	1946		crj	crj	Īnū Ayimūn	Southern East Cree	ltr	2	Cree
+	False	True	1988		ikt	ikt	Inuinnaqtun	Inuinnaqtun	ltr	1	Eskimo–Aleut
+	True	True	1415		esi	esi	Iñupiaq	North Alaskan Inupiatun	ltr	1	
+	True	True	304		esk	esk	Inupiatun Northwest Alaska	Northwest Alaska Inupiatun	ltr	1	
+	False	True	803		ike	ike_lab	Inuttitut: Labrador	Inuktitut Labrador	ltr	1	Eskimo–Aleut
+	True	True	1020		ipi	ipi	Ipili	Ipili	ltr	1	
+	False	True	1626	nd	nde	nde	isiNdebele	Ndebele	ltr	1	Niger–Congo
+	False	True	450	nr	nbl	nbl	isiNdebele	South Ndebele	ltr	1	Niger–Congo
+	False	True	281	xh	xho	xho	isiXhosa	Xhosa	ltr	2	Niger–Congo
+	False	True	286	zu	zul	zul	isiZulu	Zulu	ltr	1	Niger–Congo
+	True	True	1451		icr	icr	Islander Creole English	Islander Creole English	ltr	1	
+	True	True	1915	is	isl	isl	Íslenska	Icelandic	ltr	2	Indo-European
+	False	True	1331		isd	isd	Isnag	Isnag	ltr	1	
+	True	True	740		mir	mir	Isthmus Mixe	Isthmus Mixe	ltr	1	
+	True	True	824		zai	zai	Isthmus Zapotec	Isthmus Zapotec	ltr	1	Zapotec
+	True	True	1654		nhx	nhx	Isthmus-Mecayapan Nahuatl	Isthmus-Mecayapan Nahuatl	ltr	2	
+	True	True	122	it	ita	ita	Italiano	Italian	ltr	6	Indo-European
+	False	True	1315		ivv	ivv	Ivatan	Ivatan	ltr	1	
+	False	True	1073		kbm	kbm	Iwal	Iwal	ltr	1	
+	False	True	2413		mzi	mzi	Ixcatlán Mazatec	Ixcatlán Mazatec	ltr	1	
+	True	True	247		ixl	ixl	Ixil	Ixil	ltr	3	
+	False	True	1146		nca	nca	Iyo	Iyo	ltr	1	
+	False	True	2070		izr	izr	Izere	Izere	ltr	1	
+	False	True	1601		izz	izz	Izii	Izii	ltr	1	
+	False	True	854		maj	maj	Jalapa De Díaz Mazatec	Jalapa De Díaz Mazatec	ltr	1	
+	False	True	1903		jaa	jaa	Jamamadí	Jamamadí	ltr	1	
+	True	True	476		jam	jam	Jamiekan	Jamaican Creole English	ltr	1	
+	True	True	775		mxt	mxt	Jamiltepec Mixtec	Jamiltepec Mixtec	ltr	1	
+	False	True	1973		jra	jra	Jarai	Jarai	ltr	2	
+	False	True	2396		jib	jib	Jibu	Jibu	ltr	1	
+	False	True	348		kac	kac	Jingpho	Kachin	ltr	1	
+	False	True	2238		jit	jit	Jita	Jita	ltr	1	
+	True	True	1549		csk	csk	Jola-Kasa	Jola-Kasa	ltr	1	
+	True	True	1744		bex	bex	Jur Modo	Jur Modo	ltr	1	
+	True	True	490		quc	quc	K'iche'	K'iche'	ltr	3	Quiché
+	False	True	2023		gna	gna	Kaansa	Kaansa	ltr	1	
+	False	True	2173		kbd	kbd	Kabardian	Kabardian	ltr	1	
+	False	True	1485		ksp	ksp	Kabba	Kaba	ltr	1	
+	True	True	555		kbp	kbp	Kabiyè	Kabiyè	ltr	1	
+	False	True	584		kbc	kbc	Kadiwéu	Kadiwéu	ltr	1	
+	True	True	1126		cgc	cgc	Kagayanen	Kagayanen	ltr	1	
+	True	True	1508		kki	kki	Kagulu	Kagulu	ltr	1	
+	False	True	629		kgp	kgp	Kaingang	Kaingang	ltr	1	
+	False	True	611		kgk	kgk	Kaiwá	Kaiwá	ltr	1	
+	False	True	1100		kqf	kqf	Kakabai	Kakabai	ltr	1	
+	True	True	216		cak	cak	Kakchikel	Kaqchikel	ltr	9	
+	True	True	1768		kkj	kkj	Kako	Kako	ltr	1	
+	False	True	1399		mwp	mwp	Kala Lagaw Ya	Kala Lagaw Ya	ltr	1	
+	False	True	2540		ijn	ijn	Kalabari	Kalabari	ltr	1	
+	True	True	1357		kqe	kqe	Kalagan	Kalagan	ltr	2	
+	False	True	950		kmh	kmh	Kalam	Kalam	ltr	2	
+	True	True	860		kck	kck	Kalanga	Kalanga	ltr	1	
+	False	True	1586		kln	kln	Kalenjin	Kalenjin	ltr	2	
+	False	True	2089		xal	xal	Kalmyk	Kalmyk	ltr	1	
+	False	True	1298		bco	bco	Kaluli	Kaluli	ltr	1	
+	False	True	1236		kbq	kbq	Kamano	Kamano	ltr	1	
+	False	True	971		kms	kms	Kamasau	Kamasau	ltr	1	
+	False	True	1410		xla	xla	Kamula	Kamula	ltr	1	
+	False	True	1198		soq	soq	Kanasi	Kanasi	ltr	1	
+	False	True	1252		kqw	kqw	Kandas	Kandas	ltr	1	
+	False	True	1137		gam	gam	Kandawo	Kandawo	ltr	1	
+	True	True	1653		moh	moh	Kanien’kéha	Mohawk	ltr	3	
+	False	True	1473		wat	wat	Kaninuwa	Kaninuwa	ltr	1	
+	False	True	987		kmu	kmu	Kanite	Kanite	ltr	1	
+	True	True	1329		kne	kne	Kankanaey	Kankanaey	ltr	1	
+	False	True	1354		kpg	kpg	Kapingamarangi	Kapingamarangi	ltr	2	
+	False	True	1107		leu	leu	Kara (Papua New Guinea)	Kara (Papua New Guinea)	ltr	2	
+	False	True	2317		krc	krc	Karachay-Balkar	Karachay-Balkar	ltr	1	
+	False	True	725		kpj	kpj	Karajá	Karajá	ltr	1	
+	False	True	997		mjw	mjw	Karbi	Karbi	ltr	1	
+	False	True	521		cab	cab	Karif	Garifuna	ltr	1	
+	False	True	998		yuj	yuj	Karkar-Yuri	Karkar-Yuri	ltr	1	
+	False	True	2018		krx	krx	Karon	Karon	ltr	1	
+	True	True	1303		xsm	xsm	Kasem	Kasem	ltr	1	
+	False	True	1566		khs	khs	Kasua	Kasua	ltr	1	
+	False	True	2356		kgd	kgd	Kataang	Kataang	ltr	1	
+	False	True	2494		xtc	xtc	Katcha-Kadugli-Miri	Katcha-Kadugli-Miri	ltr	1	
+	True	True	345		kyu	kyu	Kaya Western	Western Kayah	ltr	2	
+	True	True	616		kyz	kyz	Kayabí	Kayabí	ltr	1	
+	True	True	691		txu	txu	Kayapó	Kayapó	ltr	1	
+	False	True	966		khz	khz	Keapara	Keapara	ltr	1	
+	False	True	942		bmh	bmh	Kein	Kein	ltr	1	
+	True	True	628		kek	kek	Kekchí	Kekchí	ltr	3	
+	False	True	2052		kbo	kbo	Keliko	Keliko	ltr	1	
+	True	True	1158		kyq	kyq	Kenga	Kenga	ltr	1	
+	True	True	388		ken	ken	Kenyang	Kenyang	ltr	1	
+	True	True	1079	kw	cor	cor	Kernewek	Cornish	ltr	2	Indo-European
+	False	True	1105		kyg	kyg	Keyagana	Keyagana	ltr	1	
+	False	True	2495		kjl	kjl	Kham, Western Parbate	Kham, Western Parbate	ltr	1	
+	True	True	1865		kha	kha	Khasi	Khasi	ltr	1	
+	False	True	1058		kix	kix	Khiamniungan Naga	Khiamniungan Naga	ltr	1	
+	False	True	548		naq	naq	Khoekhoegowab	Khoekhoe	ltr	1	
+	False	True	1958		cnk	cnk	Khumi Chin	Khumi Chin	ltr	1	
+	False	True	1827		kql	kql	Kiañiŋ Balaŋ	Kyenele	ltr	1	
+	False	True	812		beq	beq	KiBeembe	Beembe (Congo)	ltr	1	
+	False	True	262		qug	qug	Kichwa: Chaupi urcucuna	Chimborazo Highland Quichua	ltr	2	Quichua
+	False	True	264		qvi	qvi	Kichwa: Imbabura	Imbabura Highland Quichua	ltr	1	Quichua
+	False	True	261		qxr	qxr	Kichwa: Ura urcucuna	Cañar Highland Quichua	ltr	1	Quichua
+	True	True	1815		heh	heh	Kihehe	Hehe	ltr	1	
+	True	True	1201	ki	kik	kik	Kikuyu	Kikuyu	ltr	3	Niger–Congo
+	False	True	1491		ktu	ktu	Kikwango	Kituba (Democratic Republic of Congo)	ltr	1	
+	False	True	810		kia	kia	Kim	Kim	ltr	2	
+	True	True	1612		kqp	kqp	Kimré	Kimré	ltr	1	
+	True	True	1489		krj	krj	Kinaray-A	Kinaray-A	ltr	1	
+	True	True	1226		kdc	kdc	King'hutu	Kutu	ltr	1	
+	False	True	2312		zga	zga	Kinga	Kinga	ltr	1	Niger–Congo
+	False	True	1813		nim	nim	Kĩnilyamba	Nilamba	ltr	1	
+	True	True	387	rw	kin	kin	Kinyarwanda	Rwandan	ltr	4	Niger–Congo
+	False	True	1371		geb	geb	Kire	Kire	ltr	1	
+	False	True	2328	ky	kir	kir	Kirghiz	Kyrghyz	ltr	1	Turkic
+	False	True	2542		okr	okr	Kirike	Kirike	ltr	1	
+	True	True	301		rim	rim	Kirimi	Nyaturu	ltr	1	
+	False	True	948		kje	kje	Kisar	Kisar	ltr	1	
+	False	True	1811		ksb	ksb	Kishambala	Shambala	ltr	1	
+	False	True	2241		kss	kss	Kisi	Southern Kisi	ltr	1	
+	False	True	1394		kqs	kqs	Kisiei	Kissi	ltr	1	
+	True	True	74	sw	swh	swh	Kiswahili	Swahili	ltr	8	
+	False	True	1920		tul	tul	Ki̱tule	Tula	ltr	1	
+	False	True	1812		vun	vun	Kivunjo	Vunjo	ltr	1	
+	False	True	1617		yom	yom	Kiyombi	Yombe	ltr	1	
+	False	True	1576		kpw	kpw	Kobon	Kobon	ltr	1	
+	False	True	2045		kfa	kfa	Kodava	Kodava	ltr	1	
+	False	True	2350		kpm	kpm	Koho	Koho	ltr	1	
+	False	True	1540		trp	trp	Kokborok	Kok Borok	ltr	1	
+	True	True	1774		kmy	kmy	Koma	Koma	ltr	1	
+	False	True	1292		xbi	xbi	Kombio	Kombio	ltr	2	
+	False	True	1542		kmm	kmm	Komrem	Kom (India)	ltr	1	
+	False	True	1567		kxw	kxw	Konai	Konai	ltr	1	
+	False	True	2423		kfc	kfc	Konda-Dora	Konda-Dora	ltr	1	
+	True	True	1866		gom	gom	Konkani	Goan Konkani	ltr	1	
+	True	True	1150		xon	xon	Konkomba	Konkomba	ltr	2	
+	False	True	2421		kma	kma	Konni	Konni	ltr	1	
+	False	True	933		nbe	nbe	Konyak Naga	Konyak Naga	ltr	1	
+	False	True	2388		ozm	ozm	Koonzime	Koonzime	ltr	2	
+	False	True	1072		kpr	kpr	Korafe-Yegha	Korafe-Yegha	ltr	2	
+	True	True	1571		coe	coe	Koreguaje	Koreguaje	ltr	1	
+	True	True	925		bpr	bpr	Koronadal Blaan	Koronadal Blaan	ltr	1	
+	False	True	1109		kze	kze	Kosena	Kosena	ltr	1	
+	True	True	1139		kyf	kyf	Kouya	Kouya	ltr	1	
+	False	True	1393		gkp	gkp	Kpèlèè	Guinea Kpelle	ltr	3	
+	False	True	1479		xpe	xpe	Kpelle Liberia	Liberia Kpelle	ltr	1	
+	True	True	1957	ht	hat	hat	Kreyòl Ayisyen	Haitian Creole	ltr	2	French Creole
+	False	True	1362		rop	rop	Kriol	Australian Creole	ltr	2	
+	False	True	1301		kgf	kgf	Kube	Kube	ltr	1	
+	False	True	1375		gvn	gvn	Kuku-Yalanji	Kuku-Yalanji	ltr	1	
+	True	True	1441		kdi	kdi	Kumam	Kumam	ltr	1	
+	True	True	1334		kue	kue	Kuman	Kuman (Papua New Guinea)	ltr	1	
+	True	True	240		cuk	cuk	Kuna San Blas	San Blas Kuna	ltr	2	
+	False	True	2240		kdn	kdn	Kunda	Kunda	ltr	1	
+	False	True	2085		kvg	kvg	Kuni-Boazi	Kuni-Boazi	ltr	1	
+	False	True	1067		kup	kup	Kunimaipa	Kunimaipa	ltr	1	
+	False	True	2256		gup	gup	Kunwinjku	Gunwinggu	ltr	1	
+	True	True	1178		xuo	xuo	Kuo	Kuo	ltr	1	
+	False	True	996		kto	kto	Kuot	Kuot	ltr	1	
+	False	True	1287		mkn	mkn	Kupang Malay	Kupang Malay	ltr	1	
+	False	True	2335		key	key	Kupia	Kupia	ltr	1	
+	False	True	1814		kuj	kuj	Kuria	Kuria	ltr	1	
+	False	True	251		kmr	kmr	Kurmancî	Kurmanji Kurdish	ltr	2	
+	False	True	1644		ktm	ktm	Kurti	Kurti	ltr	1	
+	False	True	1867		kru	kru	Kurux	Kurukh	ltr	1	
+	False	True	2209		kus	kus	Kusaal	Kusaal	ltr	1	
+	False	True	2071		kub	kub	Kutep	Kutep	ltr	1	
+	False	True	1248		kwd	kwd	Kwaio	Kwaio	ltr	1	
+	True	True	1447		tnk	tnk	Kwamera	Kwamera	ltr	1	
+	False	True	1164		kwj	kwj	Kwanga	Kwanga	ltr	1	
+	False	True	1904		kwf	kwf	Kwara'ae	Kwara'ae	ltr	1	
+	False	True	990		kmo	kmo	Kwoma	Kwoma	ltr	1	
+	False	True	1396		lbb	lbb	Label	Label	ltr	1	
+	False	True	786		lac	lac	Lacandon	Lacandon	ltr	1	
+	True	True	458		zpl	zpl	Lachixío Zapotec	Lachixío Zapotec	ltr	1	Zapotec
+	False	True	1458		lbj	lbj	ladakhspa	Ladakhi	ltr	1	
+	True	True	91		lhu	lhu	Ladhof	Lahu	ltr	1	
+	False	True	1603		lhi	lhi	Lahu Shi	Lahu Shi	ltr	1	
+	False	True	2067		lap	lap	Laka (Chad)	Laka (Chad)	ltr	1	
+	False	True	2451		leb	leb	Lala-Bisa	Lala-Bisa	ltr	1	
+	False	True	836		cnl	cnl	Lalana Chinantec	Lalana Chinantec	ltr	1	
+	False	True	2334		sco	sco	Lallans	Scots	ltr	1	
+	True	True	650		quf	quf	Lambayeque Quechua	Lambayeque Quechua	ltr	1	Quechuan
+	True	True	1607		lai	lai	Lambya	Lambya	ltr	1	
+	False	True	1024		lmk	lmk	Lamkang	Lamkang	ltr	1	
+	True	True	472		laj	laj	Lango	Lango (Uganda)	ltr	2	
+	False	True	2470		lro	lro	Laro	Laro	ltr	1	
+	False	True	390		lsi	lsi	Lashi	Lashi	ltr	1	
+	False	True	823	la	lat	lat	Latina	Latin	ltr	1	Indo-European
+	False	True	318	lv	lav	lav	Latviešu Valoda	Latvian	ltr	4	Indo-European
+	False	True	2545		brb	brb	Lave	Lave	ltr	1	
+	True	True	2476		lzz	lzz	Laz	Laz	ltr	1	
+	False	True	1070	to	ton	ton	lea fakatonga	Tonga (Tonga Islands)	ltr	2	Austronesian
+	False	True	2352		lew	lew	Ledo Kaili	Ledo Kaili	ltr	1	
+	False	True	1497		lgm	lgm	Lega-Mwenga	Lega-Mwenga	ltr	1	
+	False	True	2442		lef	lef	Lelemi	Lelemi	ltr	1	
+	False	True	1853		cek	cek	Lemi	Eastern Khumi Chin	ltr	1	
+	False	True	552		leh	leh	Lenje	Lenje	ltr	1	
+	False	True	1606		lww	lww	Lewo	Lewo	ltr	1	
+	False	True	2193		lez	lez	Lezghian	Lezghian	ltr	1	
+	True	True	356		mhx	mhx	Lhao Vo	Maru	ltr	1	
+	True	True	109		nia	nia	Li Niha	Nias	ltr	1	
+	False	True	1537		njn	njn	Liangmai Naga	Liangmai Naga	ltr	1	Naga
+	False	True	420	lt	lit	lit	Lietuvių	Lithuanian	ltr	4	Indo-European
+	False	True	2382		lik	lik	Lika	Lika	ltr	1	
+	False	True	1460		kpf	kpf	Likɔɔnl	Komba	ltr	1	
+	False	True	252		lif	lif	Limbu	Limbu	ltr	1	
+	True	True	364		lif	lif_dev	Limbu (Devanagari)	Limbu (Devanagari)	ltr	1	
+	False	True	1240		lmp	lmp	Limbum	Limbum	ltr	1	
+	False	True	1274		kmk	kmk	Limos Kalinga	Limos Kalinga	ltr	1	
+	False	True	1964	ln	lin	lin	Lingala	Lingala	ltr	1	Niger–Congo
+	False	True	1294		loq	loq	Lobala	Lobala	ltr	1	
+	True	True	1834		log	log	Logo	Logoti	ltr	1	
+	False	True	1496		khy	khy	Lokele	Kele (Democratic Republic of Congo)	ltr	1	
+	False	True	1456		lom	lom	Loma (Liberia)	Loma (Liberia)	ltr	1	
+	False	True	1492		nxd	nxd	Longando	Ngando (Democratic Republic of Congo)	ltr	1	
+	False	True	1255		uvl	uvl	Lote	Lote	ltr	1	
+	False	True	787		tac	tac	Lowland Tarahumara	Lowland Tarahumara	ltr	1	
+	False	True	825		loz	loz	Lozi	Lozi	ltr	1	
+	True	True	1169		lex	lex	Luang	Luang	ltr	1	
+	False	True	1494		sop	sop	Luba-Kalebwe	Songe	ltr	1	
+	False	True	2233		knb	knb	Lubuagan Kalinga	Lubuagan Kalinga	ltr	1	
+	True	True	1423	lg	lug	lug	Luganda	Ganda	ltr	4	Niger–Congo
+	False	True	2493		lmd	lmd	Lumun	Lumun	ltr	1	
+	True	True	1783		lwo	lwo	Luwo	Luwo	ltr	1	
+	True	True	559		ach	ach	Lwo	Acholi (Acoli)	ltr	1	Nilo-Saharan
+	False	True	1772		lee	lee	Lyélé	Lyélé	ltr	1	
+	False	True	1380		tod	tod	Lɔɠɔma	Toma	ltr	1	
+	True	True	1689		mdy	mdy	Maale	Maale	ltr	2	
+	False	True	1816		mas	mas	Maasai	Masai	ltr	1	
+	True	True	324		yua	yua	Màaya	Yucateco	ltr	1	
+	True	True	1108		mca	mca	Maca	Maca	ltr	1	
+	False	True	633		mcb	mcb	Machiguenga	Machiguenga	ltr	1	
+	True	True	1090		myy	myy	Macuna	Macuna	ltr	1	
+	False	True	618		mbc	mbc	Macushi	Macushi	ltr	1	
+	False	True	1802		mda	mda	Mada	Mada (Nigeria)	ltr	1	
+	False	True	1099		mmx	mmx	Madak	Madak	ltr	1	
+	True	True	908		maf	maf	Mafa	Mafa	ltr	1	
+	True	True	1282		sgb	sgb	Mag-antsi Ayta	Mag-antsi Ayta	ltr	1	
+	False	True	847		xtm	xtm	Magdalena Peñasco Mixtec	Magdalena Peñasco Mixtec	ltr	1	
+	True	True	84	hu	hun	hun	Magyar	Hungarian	ltr	6	Uralic
+	False	True	2398		ayz	ayz	Mai Brat	Mai Brat	ltr	1	West Papuan
+	False	True	1406		mzz	mzz	Maiadomu	Maiadomu	ltr	1	
+	True	True	1302		mai	mai	Maithili	Maithili	ltr	1	
+	False	True	360		mti	mti	Maiwa (Papua New Guinea)	Maiwa (Papua New Guinea)	ltr	1	
+	True	True	1143		mcp	mcp	Makaa	Makaa	ltr	1	
+	True	True	1673		mgh	mgh	Makua	Makhuwa-Meetto	ltr	1	
+	True	True	396		plt	plt	Malagasy (Madagascar)	Malgache	ltr	6	
+	False	True	2505		mlt	mlt	Maltese	Maltese	ltr	1	Afro-Asiatic
+	True	True	654		mam	mam	Mam	Mam	ltr	5	
+	False	True	1327		mmn	mmn	Mamanwa	Mamanwa	ltr	1	
+	True	True	1140		myk	myk	Mamara Senoufo	Mamara Senoufo	ltr	1	
+	False	True	383		mqj	mqj	Mamasa	Mamasa	ltr	1	
+	False	True	1756		mgr	mgr	Mambwe-Lungu	Mambwe (ichi-): Lungu	ltr	1	
+	True	True	1784		maw	maw	Mampruli	Mampruli	ltr	1	
+	False	True	1232		mva	mva	Manam	Manam	ltr	1	
+	False	True	2074		kby	kby	Manga Kanuri	Manga Kanuri	ltr	1	
+	False	True	1089		mmo	mmo	Mangga Buang	Mangga Buang	ltr	1	
+	True	True	761		mqy	mqy	Manggarai	Manggarai	ltr	1	
+	False	True	1122		mbh	mbh	Mangseng	Mangseng	ltr	1	
+	True	True	1214		knf	knf	Mankanya	Mankanya	ltr	1	
+	False	True	1246		msk	msk	Mansaka	Mansaka	ltr	1	
+	False	True	2551		kxf	kxf	Manumanaw	Manumanaw	ltr	1	
+	False	True	94	mi	mri	mri	Māori	Maori	ltr	1	Austronesian
+	False	True	1847		rar	rar	Māori Kūki 'Āirani	Cook Islands Maori (Rarotongan)	ltr	2	
+	False	True	1386		mlh	mlh	Mape	Mape	ltr	1	
+	False	True	945		bzh	bzh	Mapos Buang	Mapos Buang	ltr	1	
+	False	True	355		arn	arn	Mapudungun	Mapudungun	ltr	2	Araucanian
+	False	True	1023		nma	nma	Maram Naga	Maram Naga	ltr	1	
+	False	True	855		mpg	mpg	Marba	Marba	ltr	1	
+	False	True	349		dad	dad	Marik	Marik	ltr	1	
+	False	True	1544		nng	nng	Maring Naga	Maring Naga	ltr	1	
+	False	True	2437		mzr	mzr	Marúbo	Marúbo	ltr	1	
+	False	True	2183		myx	myx	Masaaba	Masaaba	ltr	2	
+	True	True	557		mcn	mcn	Masana	Masana	ltr	1	
+	False	True	1222		msb	msb	Masbatenyo	Masbatenyo	ltr	1	
+	False	True	1247		klv	klv	Maskelynes	Maskelynes	ltr	2	
+	False	True	2205		mfh	mfh	Matal	Matal	ltr	1	
+	True	True	1002		mbt	mbt	Matigsalug Manobo	Matigsalug Manobo	ltr	1	
+	False	True	2360		met	met	Mato	Mato	ltr	1	
+	False	True	631		mcf	mcf	Matsés	Matsés	ltr	1	
+	False	True	2489		hlt	hlt	Matu Chin	Matu Chin	ltr	1	
+	False	True	2363		mgw	mgw	Matumbi	Matumbi	ltr	1	
+	False	True	1376		mph	mph	Maung	Maung	ltr	1	
+	False	True	1405		mhl	mhl	Mauwake	Mauwake	ltr	1	
+	False	True	612		mbl	mbl	Maxakalí	Maxakalí	ltr	1	
+	False	True	285		yan	yan	Mayangna	Mayangna	ltr	1	
+	True	True	1348		mfy	mfy	Mayo	Mayo	ltr	1	
+	True	True	1330		ifu	ifu	Mayoyao Ifugao	Mayoyao Ifugao	ltr	1	
+	False	True	444		myb	myb	Mbay	Mbay	ltr	1	
+	False	True	1779		gai	gai	Mborena Kam	Borei	ltr	1	
+	True	True	456		mqb	mqb	Mbuko	Mbuko	ltr	1	
+	False	True			mbu	mbu	Mbula	Mbula-Bwazza	ltr	1	
+	False	True	1340		mna	mna	Mbula	Mbula	ltr	1	
+	False	True	627		mck	mck	Mbunda	Mbunda	ltr	1	
+	False	True	1066		gun	gun	Mbyá Guaraní	Guaraní: Mbyá	ltr	1	
+	False	True	1336		mek	mek	Mekeo	Mekeo	ltr	1	
+	False	True	1000		med	med	Melpa	Melpa	ltr	1	
+	False	True	1345		sim	sim	Mende (Papua New Guinea)	Mende (Papua New Guinea)	ltr	1	
+	False	True	1031		mee	mee	Mengen	Mengen	ltr	1	
+	True	True	1168		meq	meq	Merey	Merey	ltr	1	
+	False	True	2179		mgo	mgo	Meta'	Meta'	ltr	1	
+	False	True	1790		mxv	mxv	Metlatónoc Mixtec	Metlatónoc Mixtec	ltr	1	
+	False	True	2549		tpx	tpx	Me’phaa, Acatepec	Me’phaa, Acatepec	ltr	1	
+	False	True	802		mic	mic	Mi'kmaq	Mi'kmaq	ltr	1	
+	False	True	861		zam	zam	Miahuatlán Zapotec	Miahuatlán Zapotec	ltr	1	Zapotec
+	False	True	1167		mpt	mpt	Mian	Mian	ltr	1	
+	False	True	737		ncl	ncl	Michoacán Nahuatl	Michoacán Nahuatl	ltr	1	
+	False	True	870		mpp	mpp	Migabac	Migabac	ltr	1	
+	False	True	2236		gej	gej	Mina	Gen	ltr	1	
+	False	True	1261		mvn	mvn	Minaveha	Minaveha	ltr	1	
+	True	True	1061		hto	hto	Minica Huitoto	Minica Huitoto	ltr	1	
+	False	True	1764		mwl	mwl	Mirandês	Mirandese	ltr	1	
+	False	True	1482		mpx	mpx	Misima-Panaeati	Misima-Panaeati	ltr	1	
+	False	True	1078		mrg	mrg	Mising	Mising	ltr	1	
+	True	True	298		miq	miq	Miskito	Mískito	ltr	2	
+	True	True	774		zaw	zaw	Mitla Zapotec	Mitla Zapotec	ltr	1	Zapotec
+	True	True	826		mco	mco	Mixe: Coatlán	Coatlán Mixe	ltr	1	
+	False	True	768		mxq	mxq	Mixe: Juquila	Juquila Mixe	ltr	1	
+	False	True	357		mzl	mzl	Mixe: Mazatlán	Mazatlán Mixe	ltr	1	
+	False	True	2130		pxm	pxm	Mixe: Quezaltepec	Mixe: Quezaltepec	ltr	1	
+	False	True	723		mto	mto	Mixe: Totontepec	Totontepec Mixe	ltr	1	
+	False	True	254		mks	mks	Mixtec Silacayoapan	Silacayoapan Mixtec	ltr	1	
+	False	True	745		zpm	zpm	Mixtepec Zapotec	Mixtepec Zapotec	ltr	1	Zapotec
+	False	True	1104		soy	soy	Miyobe	Miyobe	ltr	1	
+	True	True	253		lus	lus	Mizo ṭawng	Lushai	ltr	2	
+	False	True	2237		mfq	mfq	Moba	Moba	ltr	1	
+	False	True	332		moc	moc	Mocoví	Mocoví	ltr	1	
+	True	True	1785		mif	mif	Mofu-Gudur	Mofu-Gudur	ltr	1	
+	False	True	2049		mfg	mfg	Mogofin	Mogofin	ltr	1	
+	False	True	1034		mkl	mkl	Mokole	Mokole	ltr	1	
+	True	True	1257		mox	mox	Molima	Molima	ltr	1	
+	False	True	1495		lol	lol	Mongo-Nkundu	Mongo	ltr	1	
+	False	True	1868		nmh	nmh	Monsang Naga	Monsang Naga	ltr	1	
+	True	True	630		mop	mop	Mopán Maya	Mopán Maya	ltr	1	
+	False	True	344		mfe	mfe	Morisyen	Mauritian	ltr	1	
+	False	True	1377		mgc	mgc	Morokodo	Morokodo	ltr	1	
+	False	True	1217		mos	mos	Mossi	Mossi	ltr	1	
+	False	True	1074		kpx	kpx	Mountain Koiali	Mountain Koiali	ltr	1	
+	True	True	245		ign	ign	Moxos	Ignaciano	ltr	2	
+	False	True	1046		nmo	nmo	Moyon Naga	Moyon Naga	ltr	1	
+	False	True	2473		cmr	cmr	Mro-Khimi Chin	Mro-Khimi Chin	ltr	1	
+	False	True	952		aoj	aoj	Mufian	Mufian	ltr	2	Torricelli
+	False	True	523		bmr	bmr	Muinane	Muinane	ltr	1	
+	False	True	2433		moz	moz	Mukulu	Mukulu	ltr	1	
+	False	True	2076		kqa	kqa	Mum	Mum	ltr	1	
+	False	True	2069		mzm	mzm	Mumuye	Mumuye	ltr	1	
+	False	True	863		mua	mua	Mundang	Mundang	ltr	1	
+	False	True	2208		mnf	mnf	Mundani	Mundani	ltr	1	
+	False	True	1792		muh	muh	Mündü	Mündü	ltr	1	
+	False	True	662		myu	myu	Mundurukú	Mundurukú	ltr	1	
+	False	True	2383		mur	mur	Murle	Murle	ltr	1	
+	True	True	596		huu	huu	Murui Huitoto	Murui Huitoto	ltr	1	
+	False	True	99		tih	tih	Murut Timugon	Timugon Murut	ltr	1	
+	False	True	1130		mse	mse	Musey	Musey	ltr	1	
+	True	True	1855		mug	mug	Musgu	Mousgoum	ltr	1	
+	False	True	1123		emi	emi	Mussau-Emira	Mussau-Emira	ltr	1	
+	False	True	470		tuc	tuc	Mutu	Mutu	ltr	2	
+	True	True	1142		muy	muy	Muyang	Muyang	ltr	1	
+	False	True	1342		myw	myw	Muyuw	Muyuw	ltr	1	
+	True	True	1789		moa	moa	Mwan	Mwan	ltr	1	
+	True	True	1148		wmw	wmw	Mwani	Mwani	ltr	1	
+	False	True	2370		mwe	mwe	Mwera (Chimwera)	Mwera (Chimwera)	ltr	1	
+	False	True	1338		nas	nas	Naasioi	Naasioi	ltr	1	
+	False	True	1132		naf	naf	Nabak	Nabak	ltr	1	
+	False	True	452		mbj	mbj	Nadëb	Nadëb	ltr	1	
+	True	True	225		nhe	nhe	Nahuat Eastern Huasteca	Eastern Huasteca Nahuatl	ltr	2	
+	True	True	1725		nsu	nsu	Nahuatl	Sierra Negra Nahuatl	ltr	1	
+	True	True	366		nhi	nhi	Nahuatl Zacatlán-Ahuacatlán-Tepetzintla	Zacatlán-Ahuacatlán-Tepetzintla Nahuatl	ltr	1	
+	False	True	1133		nak	nak	Nakanai	Nakanai	ltr	1	
+	True	True	1113		ojb	ojb	Nakawēmowin	Northwestern Ojibwa	ltr	2	
+	False	True	1453		nss	nss	Nali	Nali	ltr	1	
+	False	True	1181		nvm	nvm	Namiae	Namiae	ltr	1	
+	True	True	331		bjv	bjv	Nangnda	Bedjond	ltr	2	
+	True	True	1136		nhr	nhr	Naro	Naro	ltr	1	
+	True	True	2496		nsk	nsk	Naskapi	Naskapi	ltr	1	
+	False	True	1908		ntu	ntu	Natqgu	Natügu	ltr	1	
+	False	True	1098	nv	nav	nav	Navajo	Navajo	ltr	1	Dené–Yeniseian
+	False	True	1836		naw	naw	Nawuri	Nawuri	ltr	1	
+	False	True	2523		ndh	ndh	Ndali	Ndali	ltr	1	
+	True	True	1038		ndj	ndj	Ndamba	Ndamba	ltr	1	
+	False	True	1493		nnb	nnb	Ndandi	Nande	ltr	2	
+	True	True	1694		ndc	ndc	Ndau	Ndau	ltr	1	
+	True	True	1793		ndz	ndz	Ndogo	Ndogo	ltr	1	
+	True	True	75	nl	nld	nld	Nederlands	Dutch	ltr	6	Indo-European
+	False	True	428		nsn	nsn	Nehan	Nehan	ltr	1	
+	False	True	483		crm	crm	Nēhinawēwin	Cree: Moose	ltr	1	Cree
+	False	True	1448		nif	nif	Nek	Nek	ltr	1	
+	False	True	2267		anh	anh	Nend	Nend	ltr	1	Trans–New Guinea
+	True	True	601		gym	gym	Ngäbere	Ngäbere	ltr	1	
+	False	True	516		sba	sba	Ngambay	Ngambay	ltr	1	
+	True	True	474		gng	gng	Ngangam	Ngangam	ltr	1	
+	False	True	2487		cnw	cnw	Ngawn Chin	Ngawn Chin	ltr	1	
+	True	True	1674		nnq	nnq	Ngindo	Ngindo	ltr	1	
+	False	True	1431		niy	niy	Ngiti	Ngiti	ltr	1	
+	False	True	373		acn	acn	Ngochang	Achang	ltr	1	Sino-Tibetan
+	False	True	1490		ngc	ngc	Ngombe	Ngombe (Democratic Republic of Congo)	ltr	1	
+	False	True	1805		dru	dru	Ngudradrekai	Rukai	ltr	1	
+	True	True	1043		ngp	ngp	Ngulu	Ngulu	ltr	1	
+	False	True	299		nnh	nnh	Ngyemboon (Ngiemboon)	Ngiemboon	ltr	1	
+	False	True	134		pne	pne	Nibong	Western Penan	ltr	1	
+	False	True	1151		nii	nii	Nii	Nii	ltr	1	
+	False	True	1648		nmw	nmw	Nimoa	Nimoa	ltr	1	
+	False	True			nin	nin	Ninzo	Ninzo	ltr	1	
+	True	True	1486		cag	cag	Niwaklé	Nivaclé (Paraguay)	ltr	2	
+	False	True	255		nko	nko	Nkonya	Nkonya	ltr	1	
+	False	True	943		gaw	gaw	Nobonob	Nobonob	ltr	1	
+	False	True	1051		njb	njb	Nocte Naga	Nocte Naga	ltr	1	Naga
+	True	True	1775		lem	lem	Nomaande	Nomaande	ltr	1	
+	True	True	647		not	not	Nomatsiguenga	Nomatsiguenga	ltr	1	
+	False	True	1646		snf	snf	Noon	Noon	ltr	1	
+	True	True	461		nhu	nhu	Noone	Noone	ltr	1	
+	False	True	1249		cya	cya	Nopala Chatino	Nopala Chatino	ltr	1	
+	False	True	102	nb	nob	nob	Norsk: bokmål	Norwegian Bokmål	ltr	7	Indo-European
+	False	True	120	nn	nno	nno	Norsk: nynorsk	Norwegian Nynorsk	ltr	3	Indo-European
+	True	True	646		qul	qul	North Bolivian Quechua	North Bolivian Quechua	ltr	2	Quechuan
+	True	True	663		qvn	qvn	North Junín Quechua	North Junín Quechua	ltr	1	Quechuan
+	False	True	551		mfk	mfk	North Mofu	North Mofu	ltr	1	
+	False	True	867		tbg	tbg	North Tairora	North Tairora	ltr	1	
+	True	True	1228		tnn	tnn	North Tanna	North Tanna	ltr	1	
+	False	True	2152		dip	dip	Northeastern Dinka	Northeastern Dinka	ltr	1	
+	True	True	353		emp	emp	Northern Emberá	Northern Emberá	ltr	1	
+	False	True	2498		hdn	hdn	Northern Haida	Northern Haida	ltr	1	
+	False	True	1344		xnn	xnn	Northern Kankanay	Northern Kankanay	ltr	1	
+	False	True	2075		ncq	ncq	Northern Katang	Northern Katang	ltr	1	Austroasiatic
+	True	True	712		nhy	nhy	Northern Oaxaca Nahuatl	Northern Oaxaca Nahuatl	ltr	1	
+	True	True	658		pao	pao	Northern Paiute	Northern Paiute	ltr	1	
+	True	True	718		qvz	qvz	Northern Pastaza Quichua	Northern Pastaza Quichua	ltr	1	Quichua
+	True	True	783		ncj	ncj	Northern Puebla Nahuatl	Northern Puebla Nahuatl	ltr	1	
+	False	True	764		ntp	ntp	Northern Tepehuan	Northern Tepehuan	ltr	1	
+	True	True	1907		nod	nod	Northern Thai	Northern Thai	ltr	1	
+	False	True	1561		xtn	xtn	Northern Tlaxiaco Mixtec	Northern Tlaxiaco Mixtec	ltr	1	
+	False	True	868		gya	gya	Northwest Gbaya	Northwest Gbaya	ltr	2	
+	False	True	2235		bud	bud	Ntcham	Ntcham	ltr	1	
+	False	True	2155		nus	nus	Nuer	Nuer	ltr	1	
+	False	True	937		klt	klt	Nukna	Nukna	ltr	1	
+	False	True	2543		nuq	nuq	Nukumanu	Nukumanu	ltr	1	
+	False	True	801		nop	nop	Numanggang	Numanggang	ltr	1	
+	False	True	1333		nuy	nuy	Nunggubuyu	Nunggubuyu	ltr	1	
+	False	True	2386		nwb	nwb	Nyabwa	Nyabwa	ltr	1	
+	False	True	2326		nyy	nyy	Nyakyusa-Ngonde	Nyakyusa-Ngonde	ltr	2	
+	True	True	1434		nyn	nyn	Nyankole	Nyankole	ltr	1	
+	False	True	1106		lid	lid	Nyindrou	Nyindrou	ltr	1	
+	False	True	1536		njz	njz	Nyishi	Nyishi	ltr	2	
+	False	True	2332		nuj	nuj	Nyole	Nyole	ltr	1	
+	True	True	2252		nys	nys	Nyoongar	Nyunga	ltr	1	Pama–Nyungan
+	True	True	2515		nyo	nyo	Nyoro	Nyoro	ltr	1	
+	False	True	2347		nyu	nyu	Nyungwe	Nyungwe	ltr	1	
+	True	True	425		obo	obo	Obo Manobo	Obo Manobo	ltr	1	
+	False	True	1587		ann	ann	Obolo	Obolo	ltr	2	Niger–Congo
+	True	True	785		mie	mie	Ocotepec Mixtec	Ocotepec Mixtec	ltr	1	
+	False	True	766		zac	zac	Ocotlán Zapotec	Ocotlán Zapotec	ltr	1	Zapotec
+	False	True	1749		ory	ory	ODIA	Oriya	ltr	3	
+	False	True	1408		kkc	kkc	Odoodee	Odoodee	ltr	1	
+	False	True	2269		odu	odu	Odual	Odual	ltr	1	
+	False	True	1671		eri	eri	Ogea	Ogea	ltr	1	
+	False	True	2127		chj	chj	Ojitlán Chinantec	Ojitlán Chinantec	ltr	1	
+	True	True	350		atg	atg	Okphela	Ivbie North-Okpela-Arhe	ltr	1	Niger–Congo
+	False	True	1183		opm	opm	Oksapmin	Oksapmin	ltr	1	
+	False	True	1187		ong	ong	Olo	Olo	ltr	1	
+	False	True	931		aom	aom	Ömie	Ömie	ltr	1	Trans–New Guinea
+	True	True	1556		bsc	bsc	Oniyan	Oniyan	ltr	1	
+	False	True	1569		ons	ons	Ono	Ono	ltr	1	
+	False	True	1179		okv	okv	Orokaiva	Orokaiva	ltr	1	
+	False	True	2177		ury	ury	Orya Papua	Orya Papua	ltr	1	
+	False	True	469	kj	kua	kua	Oshikwanyama (Kwanyama)	Kuanyama	ltr	1	Niger–Congo
+	False	True	372	ng	ndo	ndo	OshiNdonga	Ndonga	ltr	1	Niger–Congo
+	False	True	2422		oss	oss	Ossetian	Ossetian	ltr	1	Indo-European
+	True	True	259		otq	otq	Otom Querétaro	Querétaro Otomi	ltr	1	
+	True	True	258		ote	ote	Otomi Mezquital	Mezquital Otomi	ltr	1	
+	False	True	2154		lot	lot	Otuho	Otuho	ltr	1	
+	False	True	707		zao	zao	Ozolotepec Zapotec	Ozolotepec Zapotec	ltr	1	Zapotec
+	True	True	710		chz	chz	Ozumacín Chinantec	Ozumacín Chinantec	ltr	1	
+	True	True	1730		uzn	uzn	Oʻzbekcha (Ўзбекча)	Uzbek	ltr	2	
+	False	True	1435		pma	pma	Paama	Paama	ltr	2	
+	False	True	1978		sig	sig	Paasaal	Paasaal	ltr	1	
+	False	True	2276		pac	pac	Pacoh	Pacoh	ltr	1	
+	True	True	1349		pbb	pbb	Páez	Páez	ltr	1	
+	False	True	486		pri	pri	Paicî	Paicî	ltr	1	
+	False	True	1870		pck	pck	Paite	Paite Chin	ltr	1	
+	False	True	1165		plu	plu	Palikúr	Palikúr	ltr	2	
+	False	True	1141		pam	pam	Pampanga	Pampanga	ltr	1	
+	False	True	1131		att	att	Pamplona Atta	Pamplona Atta	ltr	1	Austronesian
+	True	True	457		qxh	qxh	Panao Huánuco Quechua	Panao Huánuco Quechua	ltr	1	Quechuan
+	False	True	1166		pag	pag	Pangasinan	Pangasinan	ltr	2	
+	False	True	2302		slm	slm	Pangutaran Sama	Pangutaran Sama	ltr	1	
+	False	True	779		top	top	Papantla Totonac	Papantla Totonac	ltr	1	
+	False	True	818		pap	pap	Papiamentu	Papiamento	ltr	2	
+	True	True	438		prf	prf	Paranan	Paranan	ltr	1	
+	True	True	651		pab	pab	Parecís	Parecís	ltr	1	
+	False	True	2510		pbu	pbu	Pashto, Northern	Pashto, Northern	rtl	1	
+	False	True	1182		ptp	ptp	Patep	Patep	ltr	1	
+	False	True	1014		gfk	gfk	Patpatar	Patpatar	ltr	1	
+	True	True	260		pad	pad	Paumarí	Paumarí	ltr	1	
+	False	True	1237		pfe	pfe	Peere	Peere	ltr	1	
+	False	True	969		ata	ata	Pele-Ata	Pele-Ata	ltr	1	Yele-West New Britain
+	False	True	1455		pdc	pdc	Pennsilfaanisch Deitsch	Pennsylvania German	ltr	1	
+	True	True	792		mil	mil	Peñoles Mixtec	Peñoles Mixtec	ltr	1	
+	False	True	1050		nph	nph	Phom Naga	Phom Naga	ltr	1	
+	False	True	226		pio	pio	Piapoco	Piapoco	ltr	1	
+	False	True	2516		pcm	pcm	Pidgin, Nigerian	Pidgin, Nigerian	ltr	1	
+	False	True	614		pis	pis	Pijin	Solomon Islands Pidgin	ltr	2	
+	False	True	443		plg	plg	Pilagá	Pilagá	ltr	1	
+	True	True	776		mio	mio	Pinotepa Nacional Mixtec	Pinotepa Nacional Mixtec	ltr	1	
+	True	True	2159		pny	pny	Pinyin	Pinyin	ltr	1	
+	True	True	661		pir	pir	Piratapuyo	Piratapuyo	ltr	1	
+	True	True	1610		tpp	tpp	Pisaflores Tepehua	Pisaflores Tepehua	ltr	1	
+	False	True	1737		pjt	pjt	Pitjantjatjara	Pitjantjatjara	ltr	1	
+	True	True	2082		crk	crk	Plains Cree	Plains Cree	ltr	3	Cree
+	True	True	1518		ktj	ktj	Plapo Krumen	Plapo Krumen	ltr	1	
+	True	True	563		pdt	pdt	Plautdietsch	Low German (Plattdeutsch)	ltr	2	
+	False	True	1546		npo	npo	Pochuri	Pochuri Naga	ltr	1	
+	False	True	2222		pkb	pkb	Pokomo	Pokomo	ltr	1	
+	True	True	2095	pl	pol	pol	Polski	Polish	ltr	5	Indo-European
+	True	True	1645		pps	pps	Popoloca, San Luís Temalacayuca	San Luís Temalacayuca Popoloca	ltr	1	
+	True	True	227		poi	poi	Popoluca Highland	Highland Popoluca	ltr	1	
+	True	True	724		jac	jac	Popti'	Popti'	ltr	1	
+	True	True	412		poh	poh	Poqomchi'	Poqomchi'	ltr	2	
+	True	True	211	pt	por	por	Português (Brasil)	Portuguese (Brazil)	ltr	9	Indo-European
+	True	True	228	pt	por	por_pt	Português (Portugal)	Portuguese (Portugal)	ltr	4	Indo-European
+	False	True	135		pot	pot	Potawatomi	Potawatomi	ltr	1	
+	False	True	1049		pmx	pmx	Poumei Naga	Poumei Naga	ltr	1	
+	True	True	1515		kvj	kvj	Psikye	Psikye	ltr	1	
+	True	True	1798		fuf	fuf	Pular	Pular	ltr	1	
+	True	True	236		cap	cap	Puquina	Chipaya	ltr	2	
+	False	True	1736		pww	pww	Pwo Northern Karen	Pwo Northern Karen	ltr	1	
+	False	True	2480		pwo	pwo	Pwo Western Karen	Pwo Western Karen	ltr	1	
+	True	True	493		kjb	kjb	Q'anjob'al	Q'anjob'al	ltr	1	
+	True	True	518		agu	agu	Qa'yol	Aguacateco	ltr	2	Mayan
+	False	True	1030		byx	byx	Qaqet	Qaqet	ltr	1	
+	True	True	1732		kaa	kaa	Qaraqalpaqsha (Қарақалпақша)	Karakalpak	ltr	1	
+	True	True	267		qvw	qvw	Quechua Huaylla Wanca	Huaylla Wanca Quechua	ltr	1	Quechuan
+	True	True	265		qvm	qvm	Quechua Margos-Yarowilca-Lauricocha	Margos-Yarowilca-Lauricocha Quechua	ltr	1	Quechuan
+	True	True	266		qvs	qvs	Quechua San Martín	San Martín Quechua	ltr	1	Quechuan
+	True	True	290		qxo	qxo	Quechua Southern Conchucos Ancash	Southern Conchucos Ancash Quechua	ltr	1	Quechuan
+	False	True	581		ztq	ztq	Quioquitani-Quierí Zapotec	Quioquitani-Quierí Zapotec	ltr	1	Zapotec
+	False	True	771		chq	chq	Quiotepec Chinantec	Quiotepec Chinantec	ltr	1	
+	False	True	1186		rai	rai	Ramoaaina	Ramoaaina	ltr	1	
+	False	True	1871		rnl	rnl	Ranglong	Ranglong	ltr	1	
+	False	True	2164		rap	rap	Rapanui	Rapanui	ltr	1	
+	False	True	1314		rwo	rwo	Rawa	Rawa	ltr	3	
+	False	True	2277		rel	rel	Rendille	Rendille	ltr	1	
+	False	True	1872		nre	nre	Rengma Naga	Southern Rengma Naga	ltr	1	
+	False	True	1873		nnl	nnl	Rengma Naga (North)	Northern Rengma Naga	ltr	1	
+	False	True	2524		mnv	mnv	Rennell-Bellona	Rennell-Bellona	ltr	1	
+	False	True	1059		ria	ria	Riang (India)	Riang (India)	ltr	1	
+	False	True	1832		iri	iri	Rigwe	Irigwe	ltr	1	
+	False	True	669		rkb	rkb	Rikbaktsa	Rikbaktsa	ltr	1	
+	True	True	191	ro	ron	ron	Română	Romanian	ltr	10	Indo-European
+	False	True	1658		rml	rml	Romani: Baltic	Romani: Baltic	ltr	1	
+	False	True	1412		rmq	rmq	Romaní: Caló (Iberia)	Romani: Calo (Iberia)	ltr	2	
+	True	True	1560		rmn	rmn_arl	Romani: Gurbeti Arlija	Romani: Gurbeti Arlija	ltr	3	
+	False	True	1425		rmy	rmy_fr	Romani: Kalderaš/căldărari	Romani: Kalderash	ltr	2	
+	False	True	1611		rmy	rmy_lov	Romani: Lovari	Romani Lovari	ltr	2	
+	False	True	992		rmc	rmc	Romani: Romanes (Karpatský)	Carpathian Romani	ltr	2	
+	False	True	1604		rmo	rmo	Romani: Sinte	Romani, Sinte	ltr	2	
+	True	True	391		rmy	rmy_ch	Romani: Vlax chileana	Vlax Romani - Chile	ltr	1	
+	False	True	1360		rmy	rmy	Romani: Vlax Ursari	Romani: Vlax Ursari	ltr	1	
+	False	True	1044		rme	rme	Romany: Angloromani	Romany	ltr	4	
+	False	True	2244		rol	rol	Romblomanon	Romblomanon	ltr	1	
+	False	True	1874		nbu	nbu	Rongmei Naga	Rongmei Naga	ltr	1	
+	False	True	1185		roo	roo	Rotokas	Rotokas	ltr	1	
+	True	True	1909		rug	rug	Roviana	Roviana	ltr	1	
+	False	True	2320		rut	rut	Rutul	Rutul	ltr	1	
+	False	True	2467		ksw	ksw	S'gaw Karen	S'gaw Karen	ltr	1	
+	False	True	1666		apb	apb	Sa'a	Sa'a	ltr	1	Austronesian
+	False	True	2443		sav	sav	Saafi-Saafi	Saafi-Saafi	ltr	1	
+	True	True	272		srm	srm	Saamáka	Saramaccan	ltr	1	
+	False	True	2366		lsm	lsm	Saamia	Saamia	ltr	2	
+	False	True	957		apz	apz	Safeyoka	Safeyoka	ltr	1	Trans–New Guinea
+	False	True	510		acf	acf	Saint Lucian Creole French	Saint Lucian Creole French	ltr	1	French Creole
+	False	True	2454		sch	sch	Sakachep	Sakachep	ltr	1	
+	False	True	1770		qxl	qxl	Salasakaguna	Salasaca Highland Quichua	ltr	1	Quichua
+	False	True	1452		sbe	sbe	Saliba	Saliba	ltr	1	
+	False	True	1193		sll	sll	Salt-Yui	Salt-Yui	ltr	1	
+	False	True	1118		ndi	ndi	Samba Leko	Samba Leko	ltr	1	
+	False	True	1318		xsb	xsb	Sambal	Sambal	ltr	1	
+	True	True	1875		san	san	Saṃskṛtam	Sanskrit	ltr	23	Indo-European
+	True	True	832		maa	maa	San Jerónimo Tecóatl Mazatec	San Jerónimo Tecóatl Mazatec	ltr	1	
+	False	True	765		poe	poe	San Juan Atzingo Popoloca	San Juan Atzingo Popoloca	ltr	2	
+	False	True	732		mjc	mjc	San Juan Colorado Mixtec	San Juan Colorado Mixtec	ltr	1	
+	True	True	770		pls	pls	San Marcos Tlacoyalco Popoloca	San Marcos Tlacoyalco Popoloca	ltr	2	
+	False	True	2284		trq	trq	San Martín Itunyoso Triqui	San Martín Itunyoso Triqui	ltr	1	
+	False	True	858		mig	mig	San Miguel El Grande Mixtec	San Miguel El Grande Mixtec	ltr	1	
+	True	True	727		azg	azg	San Pedro Amuzgos Amuzgo	San Pedro Amuzgos Amuzgo	ltr	1	Oto-Manguean
+	True	True	1398		zpt	zpt	San Vicente Coatlán Zapotec	San Vicente Coatlán Zapotec	ltr	1	Zapotec
+	False	True	1285	sg	sag	sag	Sängö	Sango	ltr	1	Creole
+	False	True	1052		nsa	nsa	Sangtam Naga	Sangtam Naga	ltr	1	
+	False	True	1210		sny	sny	Saniyo-Hiyewe	Saniyo-Hiyewe	ltr	1	
+	False	True	1555		msc	msc	Sankaran	Sankaran Maninka	ltr	1	
+	True	True	460		zpi	zpi	Santa María Quiegolani Zapotec	Santa María Quiegolani Zapotec	ltr	1	Zapotec
+	True	True	1385		mza	mza	Santa María Zacatepec Mixtec	Santa María Zacatepec Mixtec	ltr	1	
+	True	True	1701		cok	cok	Santa Teresa Cora	Santa Teresa Cora	ltr	1	
+	False	True	1538		sat	sat	Santali	Santali	ltr	1	
+	True	True	459		zas	zas	Santo Domingo Albarradas Zapotec	Santo Domingo Albarradas Zapotec	ltr	1	Zapotec
+	False	True	1271		sps	sps	Saposa	Saposa	ltr	1	
+	False	True	445		mwm	mwm	Sar	Sar	ltr	2	
+	True	True	1245		bps	bps	Sarangani Blaan	Sarangani Blaan	ltr	1	
+	False	True	1243		mbs	mbs	Sarangani Manobo	Sarangani Manobo	ltr	1	
+	False	True	619		mav	mav	Sateré-Mawé	Sateré-Mawé	ltr	1	
+	False	True	2129		pos	pos	Sayula Popoluca	Sayula Popoluca	ltr	1	
+	False	True	664		sey	sey	Secoya	Secoya	ltr	1	
+	False	True	626		ssg	ssg	Seimat	Seimat	ltr	1	
+	True	True	1773		lip	lip	Sekpele	Sekpele	ltr	1	
+	False	True	2511		slu	slu	Selaru	Selaru	ltr	1	
+	True	True	1796		snw	snw	Selee	Selee	ltr	1	
+	False	True	1227		spl	spl	Selepet	Selepet	ltr	1	
+	False	True	1378		seh	seh	Sena	Sena	ltr	1	
+	True	True	1598		dyi	dyi	Sénoufo, Djimini	Djimini Senoufo	ltr	1	
+	False	True	2526		set	set	Sentani	Sentani	ltr	1	
+	False	True	922		iws	iws	Sepik Iwam	Sepik Iwam	ltr	1	
+	False	True	1053		crs	crs	Seselwa Creole French	Seselwa Creole French	ltr	2	
+	False	True	273	st	sot	sot	Sesotho	Southern Sotho	ltr	2	Niger–Congo
+	False	True	124		nso	nso	Sesotho sa Leboa	Pedi	ltr	2	
+	False	True	185	tn	tsn	tsn	Setswana	Tswana	ltr	2	Niger–Congo
+	True	True	1290		shn	shn	Shan	Shan	ltr	1	
+	True	True	522		mcd	mcd	Sharanahua	Sharanahua	ltr	1	
+	False	True	2131		shj	shj	Shatt	Shatt	ltr	1	
+	True	True	1337		xsr	xsr	Sherpa	Sherpa	ltr	1	
+	False	True	2156		shk	shk	Shilluk	Shilluk	ltr	1	
+	True	True	1174		kde	kde_mz	Shimakonde	Makonde	ltr	1	
+	False	True	673		shp	shp	Shipibo-Conibo	Shipibo-Conibo	ltr	1	
+	True	True	944		poy	poy	Shipogoro	Pogolo	ltr	1	
+	True	True	7	sq	sqi	sqi	Shqip	Albanian	ltr	7	Indo-European
+	False	True	597		jiv	jiv	Shuar	Shuar	ltr	1	
+	False	True	1194		snp	snp	Siane	Siane	ltr	2	
+	True	True	852		zaa	zaa	Sierra de Juárez Zapotec	Sierra de Juárez Zapotec	ltr	1	Zapotec
+	False	True	1897		bla	bla	Siksika	Siksika (Blackfoot)	ltr	2	
+	False	True	1876		smt	smt	Simte	Simte	ltr	1	
+	False	True	1346		snc	snc	Sinaugoro	Sinaugoro	ltr	1	
+	False	True	974		xsi	xsi	Sio	Sio	ltr	1	
+	False	True	271		snn	snn	Siona	Siona	ltr	1	
+	True	True	1075		sri	sri	Siriano	Siriano	ltr	1	
+	False	True	705		srq	srq	Sirionó	Sirionó	ltr	1	
+	False	True	1280		ssd	ssd	Siroi	Siroi	ltr	1	
+	False	True	604	ss	ssw	ssw	siSwati	Swazi	ltr	1	Niger–Congo
+	False	True	1738		akp	akp	Siwu	Siwu	ltr	1	Niger–Congo
+	True	True	464	sk	slk	slk	Slovenčina	Slovak	ltr	4	Indo-European
+	False	True	2319	sl	slv	slv	Slovenščina	Slovenian	ltr	8	Indo-European
+	False	True	1925		urw	urw	Sob Dora	Sop	ltr	1	
+	True	True	750		cso	cso	Sochiapam Chinantec	Sochiapam Chinantec	ltr	1	
+	False	True	1256		xog	xog	Soga	Soga	ltr	1	
+	True	True	2447		sby	sby	Soli	Soli	ltr	1	
+	False	True	963		bmu	bmu	Somba-Siawari	Somba-Siawari	ltr	1	
+	True	True	1465		ses	ses	Songhai de Gao	Koyraboro Senni Songhai	ltr	1	
+	True	True	87	so	som	som	Soomaali	Somali	ltr	1	Afro-Asiatic
+	True	True	893		sus	sus	Sosoxui	Susu (Roman script)	ltr	2	
+	False	True	550		giz	giz	South Giziga	South Giziga	ltr	1	
+	False	True	2330		nxl	nxl	South Nuaulu	South Nuaulu	ltr	1	
+	False	True	1188		omw	omw	South Tairora	South Tairora	ltr	1	
+	False	True	1350		cpy	cpy	South Ucayali Ashéninka	South Ucayali Ashéninka	ltr	1	
+	False	True	1254		tvk	tvk	Southeast Ambrym	Southeast Ambrym	ltr	1	
+	True	True	424		npl	npl	Southeastern Puebla Nahuatl	Southeastern Puebla Nahuatl	ltr	1	
+	True	True	708		stp	stp	Southeastern Tepehuan	Southeastern Tepehuan	ltr	1	
+	True	True	2148		biv	biv	Southern Birifor	Southern Birifor	ltr	1	
+	False	True	1328		ksc	ksc	Southern Kalinga	Southern Kalinga	ltr	1	
+	False	True	660		nab	nab	Southern Nambikuára	Southern Nambikuára	ltr	1	
+	True	True	1808		nnw	nnw	Southern Nuni	Southern Nuni	ltr	1	
+	True	True	645		qup	qup	Southern Pastaza Quechua	Southern Pastaza Quechua	ltr	1	Quechuan
+	True	True	796		mit	mit	Southern Puebla Mixtec	Southern Puebla Mixtec	ltr	1	
+	False	True	736		zsr	zsr	Southern Rincon Zapotec	Southern Rincon Zapotec	ltr	1	Zapotec
+	False	True	1311		wib	wib	Southern Toussian	Southern Toussian	ltr	1	
+	False	True	1367		gso	gso	Southwest Gbaya	Southwest Gbaya	ltr	1	
+	False	True	485		nwi	nwi	Southwest Tanna	Southwest Tanna	ltr	1	
+	True	True	674		srn	srn	Sranan Tongo	Sranan Tongo	ltr	1	
+	False	True	484		sxb	sxb	Suba	Suba	ltr	1	
+	True	True	1649		tgo	tgo	Sudest	Sudest	ltr	1	
+	False	True	1206		sue	sue	Suena	Suena	ltr	1	
+	False	True	1517		suk	suk	Sukuma	Sukuma	ltr	2	
+	False	True	1208		sua	sua	Sulka	Sulka	ltr	1	
+	False	True	1877		nsm	nsm	Sumi Naga	Sumi Naga	ltr	1	
+	True	True	2410		sun	sun	Sundanese	Sundanese	ltr	1	Austronesian
+	False	True	330	fi	fin	fin	Suomi	Finnish	ltr	5	Uralic
+	True	True	1145		spp	spp	Supyire Senoufo	Supyire Senoufo	ltr	1	
+	False	True	441		sgz	sgz	Sursurunga	Sursurunga	ltr	2	
+	True	True	154	sv	swe	swe	Svenska	Swedish	ltr	10	Indo-European
+	False	True	1918		syl	syl	Sylheti	Sylheti	ltr	3	Indo-European
+	False	True	772		zat	zat	Tabaa Zapotec	Tabaa Zapotec	ltr	1	Zapotec
+	False	True	797		chf	chf	Tabasco Chontal	Tabasco Chontal	ltr	1	
+	False	True	2081		tab	tab	Tabassaran	Tabassaran	ltr	1	
+	False	True	959		knv	knv	Tabo	Tabo	ltr	2	
+	True	True	681		tna	tna	Tacana	Tacana	ltr	1	
+	False	True	1116		bgs	bgs	Tagabawa	Tagabawa	ltr	1	
+	False	True	1935		tbw	tbw	Tagbanwa	Tagbanwa	ltr	1	
+	False	True	2448		tgj	tgj	Tagin	Tagin	ltr	1	
+	False	True	2424		thv	thv	Tahaggart Tamahaq	Tahaggart Tamahaq	ltr	1	
+	False	True	910		taw	taw	Tai	Tai	ltr	1	
+	False	True	2544		blt	blt	Tai Dam	Tai Dam	ltr	1	
+	False	True	2138		dav	dav	Taita	Taita	ltr	1	
+	True	True	1468		tbc	tbc	Takia	Takia	ltr	1	
+	False	True	1552		nho	nho	Takuu	Takuu	ltr	1	
+	False	True	1426		tke	tke	Takwane	Takwane	ltr	1	
+	False	True	1797		tlj	tlj	Talinga-Bwisi	Talinga-Bwisi	ltr	1	
+	True	True	1144		taq	taq	Tamasheq	Tamasheq	ltr	1	
+	False	True	1804		tpm	tpm	Tampulma	Tampulma	ltr	1	
+	False	True	1545		nmf	nmf	Tangkhul	Tangkhul Naga (India)	ltr	1	
+	False	True	1225		tgp	tgp	Tangoa	Tangoa	ltr	1	
+	False	True	1543		nst	nst	Tangsa	Tase Naga	ltr	2	
+	False	True	1110		tnc	tnc	Tanimuca-Retuarã	Tanimuca-Retuarã	ltr	1	
+	False	True	1878		tro	tro	Tarao	Tarao Naga	ltr	1	
+	False	True	773		cta	cta	Tataltepec Chatino	Tataltepec Chatino	ltr	1	
+	False	True	1087		tav	tav	Tatuyo	Tatuyo	ltr	1	
+	False	True	1258		tpa	tpa	Taupota	Taupota	ltr	1	
+	False	True	1319		tsg	tsg	Tausug	Tausug	ltr	1	
+	False	True	1213		tbo	tbo	Tawala	Tawala	ltr	1	
+	False	True	1309		ttq	ttq	Tawallammat Tamajaq	Tuareg	ltr	2	
+	False	True	2432		tyz	tyz	Tày	Tày	ltr	1	
+	False	True	288		tbl	tbl	Tboli	Tboli	ltr	1	
+	False	True	1680		kqo	kqo	Tchien Krahn	Eastern Krahn	ltr	1	
+	True	True	689		ttc	ttc	Tektiteko	Tektiteko	ltr	1	
+	False	True	1230		tlf	tlf	Telefol	Telefol	ltr	1	
+	False	True	1384		kdh	kdh	Tem	Tem	ltr	1	
+	False	True	850		otn	otn	Tenango Otomi	Tenango Otomi	ltr	1	
+	False	True	659		pah	pah	Tenharim	Tenharim	ltr	1	
+	True	True	726		cnt	cnt	Tepetotutla Chinantec	Tepetotutla Chinantec	ltr	1	
+	False	True	831		cux	cux	Tepeuxila Cuicatec	Tepeuxila Cuicatec	ltr	1	
+	False	True	1317		ted	ted	Tepo Krumen	Tepo Krumen	ltr	1	
+	True	True	703		ter	ter	Tereno	Tereno	ltr	1	
+	True	True	682		tfr	tfr	Teribe	Teribe	ltr	1	
+	True	True	436		teo	teo	Teso	Teso	ltr	1	
+	False	True	767		nhg	nhg	Tetelcingo Nahuatl	Tetelcingo Nahuatl	ltr	1	
+	False	True	1401		tet	tet	Tetum	Tetum	ltr	1	
+	False	True	843		cut	cut	Teutila Cuicatec	Teutila Cuicatec	ltr	1	
+	False	True	1215		tew	tew	Tewa (USA)	Tewa (USA)	ltr	1	
+	True	True	728		zpz	zpz	Texmelucan Zapotec	Texmelucan Zapotec	ltr	1	Zapotec
+	True	True	711		mxb	mxb	Tezoatlán Mixtec	Tezoatlán Mixtec	ltr	1	
+	True	True	1879		tcz	tcz	Thadou Kuki	Thado Chin	ltr	1	
+	False	True	1880		nki	nki	Thangkhal	Thangal Naga	ltr	1	
+	False	True	2206		thk	thk	Tharaka	Tharaka	ltr	1	
+	True	True	289		tca	tca	Ticuna	Ticuna	ltr	1	
+	True	True	151	vi	vie	vie	tiếng Việt	Vietnamese	ltr	6	Austroasiatic
+	False	True	1647		tif	tif	Tifal	Tifal	ltr	1	
+	False	True	1989		nza	nza	Tigon Mbembe	Tigon Mbembe	ltr	1	
+	False	True	1554		txq	txq	Tii	Tii	ltr	1	
+	False	True	1211		tim	tim	Timbe	Timbe	ltr	1	
+	False	True	1218		tpz	tpz	Tinputz	Tinputz	ltr	1	
+	False	True	1266		tiy	tiy	Tiruray	Tiruray	ltr	1	
+	True	True	709		tpt	tpt	Tlachichilco Tepehua	Tlachichilco Tepehua	ltr	1	
+	False	True	743		mxp	mxp	Tlahuitoltepec Mixe	Tlahuitoltepec Mixe	ltr	1	
+	False	True	574		tob	tob	Toba Qom	Toba	ltr	4	
+	False	True	257		ood	ood	Tohono O'odham	Tohono O'odham	ltr	1	
+	False	True	844		toj	toj	Tojolabal	Tojolabal	ltr	2	
+	True	True	249		jic	jic	Tol	Tol	ltr	1	
+	False	True	159		sda	sda	Toraja-Sa'dan	Toraja-Sa'dan	ltr	1	
+	False	True	1400		tcs	tcs	Torres Strait Creole	Torres Strait Creole	ltr	1	
+	True	True	276		tos	tos	Totonac Highland	Highland Totonac	ltr	1	
+	False	True	280	ve	ven	ven	Tshivenḓa	Venda	ltr	1	Niger–Congo
+	False	True	426		kdl	kdl	Tsikimba	Tsikimba	ltr	1	
+	False	True	429		tsw	tsw	Tsishingini	Tsishingini	ltr	1	
+	False	True	2362		tsu	tsu	Tsou	Tsou	ltr	1	
+	True	True	694		tuo	tuo	Tucano	Tucano	ltr	2	
+	True	True	866		iou	iou	Tuma-Irumu	Tuma-Irumu	ltr	1	
+	False	True	1961		tum	tum	Tumbuka	Tumbuka	ltr	1	
+	False	True	999		lcm	lcm	Tungag	Tungag	ltr	1	
+	False	True	892		tui	tui	Tupuri	Tupuri	ltr	1	
+	True	True	170	tr	tur	tur	Türkçe	Turkish	ltr	4	Turkic
+	False	True	1851	tk	tuk	tuk	Türkmençe	Turkmen	ltr	2	Turkic
+	False	True	2449		tvt	tvt	Tutsa Naga	Tutsa Naga	ltr	1	
+	False	True	2440		tvl	tvl	Tuvalu	Tuvalu	ltr	1	
+	False	True	2123		ifk	ifk	Tuwali Ifugao	Tuwali Ifugao	ltr	1	
+	True	True	1752		bov	bov	Tuwuli	Tuwuli	ltr	1	
+	True	True	686		tue	tue	Tuyuca	Tuyuca	ltr	1	
+	True	True	1461	tw	twi	twi	Twi	Twi	ltr	4	Niger–Congo
+	False	True	1921		kcg	kcg	Tyap	Tyap	ltr	1	
+	True	True	687		tzj	tzj	Tz'utujil	Tz'utujil	ltr	2	
+	True	True	363		tzh	tzh	Tzeltal	Tzeltal	ltr	3	
+	False	True	334		tzo	tzo	Tzotzil	Tzotzil	ltr	5	
+	True	True	800		dgr	dgr	Tłı̨chǫ Yatıì	Dogrib (Tlinchon)	ltr	1	
+	False	True	1750		ksj	ksj	Uare	Uare	ltr	1	
+	False	True	1242		ubr	ubr	Ubir	Ubir	ltr	1	
+	False	True	569		cpb	cpb	Ucayali-Yurúa Ashéninka	Ucayali-Yurúa Ashéninka	ltr	1	
+	True	True	2499		udi	udi	Udi	Udi	ltr	1	
+	False	True	917		udu	udu	Uduk	Uduk	ltr	1	
+	False	True	885		sco	sco_uls	Ullans	Ulster Scots	ltr	1	
+	False	True	962		gdn	gdn	Umanakaina	Umanakaina	ltr	1	
+	False	True	1417		ubu	ubu	Umbu-Ungu	Umbu-Ungu	ltr	3	
+	False	True	1339		due	due	Umiray Dumaget Agta	Umiray Dumaget Agta	ltr	1	
+	False	True	1670		mtg	mtg	Una	Una	ltr	1	
+	False	True	729		tku	tku	Upper Necaxa Totonac	Upper Necaxa Totonac	ltr	1	
+	True	True	263		quh	quh	Uralan Buliwya runasimi	South Bolivian Quechua	ltr	4	Quechuan
+	True	True	692		ura	ura	Urarina	Urarina	ltr	1	
+	False	True	1475		urt	urt	Urat	Urat	ltr	1	
+	False	True	1553		urd	urd_rom	Urdū	Urdu (Roman)	ltr	2	Indo-European
+	False	True	1650		uvh	uvh	Uri	Uri	ltr	1	
+	False	True	1478		uri	uri	Urim	Urim	ltr	1	
+	False	True	525		upv	upv	Uripiv-Wala-Rano-Atchin	Uripiv-Wala-Rano-Atchin	ltr	1	
+	False	True	688		urb	urb	Urubú-Kaapor	Urubú-Kaapor	ltr	1	
+	False	True	1474		wnu	wnu	Usan	Usan	ltr	1	
+	False	True	1233		usa	usa	Usarufa	Usarufa	ltr	1	
+	True	True	769		cuc	cuc	Usila Chinantec	Usila Chinantec	ltr	1	
+	True	True	684		usp	usp	Uspanteco	Uspanteco	ltr	1	
+	True	True	1977		dud	dud	u̱t-Hun	Hun-Saare	ltr	1	
+	False	True	1938		vag	vag	Vagla	Vagla	ltr	1	
+	False	True	1062		vap	vap	Vaiphei	Vaiphei	ltr	1	
+	True	True	1422		bru	bru	Van Kieu	Eastern Bru	ltr	1	
+	False	True	1742		bav	bav	Vengo	Vengo	ltr	1	
+	False	True	2056		vol	vol	Volapük	Volapük	ltr	1	constructed
+	True	True	508	fj	fij	fij	Vosa Vakaviti	Fijian	ltr	3	Austronesian
+	False	True	887		vut	vut	Vute	Vute	ltr	1	
+	False	True	2395		wbi	wbi	Vwanji	Vwanji	ltr	1	
+	False	True	325		wbm	wbm	Wa	Wa	ltr	1	
+	False	True	924		aji	aji	Waawilûû	Ajië	ltr	1	Austronesian
+	False	True	1253		waj	waj	Waffa	Waffa	ltr	1	
+	False	True	1565		fad	fad	Wagi	Wagi	ltr	1	
+	False	True	918		whk	whk	Wahau Kenyah	Wahau Kenyah	ltr	1	
+	False	True	1472		rro	rro	Waima	Waima	ltr	1	
+	True	True	231		bao	bao	Waimaha	Waimaha	ltr	1	
+	False	True	1905		lgl	lgl	Wala	Wala	ltr	1	
+	False	True	1430		wmt	wmt	Walmajarri	Walmajarri	ltr	1	
+	False	True	2254		cou	cou	Wamey	Wamey	ltr	1	
+	False	True	1064		nnp	nnp	Wancho Naga	Wancho Naga	ltr	1	
+	False	True	1788		mfi	mfi	Wandala	Wandala	ltr	1	
+	False	True	1470		wnc	wnc	Wantoat	Wantoat	ltr	1	
+	False	True	230		auc	auc	Waorani	Waorani	ltr	1	isolate
+	True	True	451		wap	wap	Wapishana	Wapishana	ltr	1	
+	False	True	2198		war	war	Waray (Philippines)	Waray (Philippines)	ltr	1	
+	False	True	1469		wrs	wrs	Waris	Waris	ltr	1	
+	False	True	1355		wbp	wbp	Warlpiri	Warlpiri	ltr	1	
+	False	True	1352		oym	oym	Wayampi	Wayampi	ltr	1	
+	True	True	1584		guc	guc	Wayuu	Wayuu	ltr	1	
+	False	True	1940		wob	wob	Wè Northern	Wè Northern	ltr	1	
+	False	True	1414		wed	wed	Wedau	Wedau	ltr	2	
+	False	True	1289		wer	wer	Weri	Weri	ltr	1	
+	False	True	929		kew	kew	West Kewa	West Kewa	ltr	1	
+	False	True	573		apw	apw	Western Apache	Western Apache	ltr	1	Apache
+	True	True	1313		mbb	mbb	Western Bukidnon Manobo	Western Bukidnon Manobo	ltr	2	
+	False	True	730		ctp	ctp	Western Highland Chatino	Western Highland Chatino	ltr	1	
+	False	True	549		pua	pua	Western Highland Purepecha	Western Highland Purepecha	ltr	1	
+	True	True	748		nhw	nhw	Western Huasteca Nahuatl	Western Huasteca Nahuatl	ltr	1	
+	True	True	623		knj	knj	Western Kanjobal	Western Kanjobal	ltr	1	
+	False	True	2435		krw	krw	Western Krahn	Western Krahn	ltr	1	
+	False	True	2093		lcp	lcp	Western Lawa	Western Lawa	ltr	1	
+	False	True	1324		suc	suc	Western Subanon	Western Subanon	ltr	1	
+	False	True	1420		tnp	tnp	Whitesands	Whitesands	ltr	1	
+	False	True	528		mzh	mzh	Wichí	Wichí Lhamtés Güisnay	ltr	1	
+	True	True	560		mtp	mtp	Wichí Lhamtés Nocten	Wichí Lhamtés Nocten	ltr	1	
+	False	True	1332		wim	wim	Wik-Mungkan	Wik-Mungkan	ltr	1	
+	False	True	946		gdr	gdr	Wipi	Wipi	ltr	1	
+	False	True	1286		wiu	wiu	Wiru	Wiru	ltr	1	
+	True	True	1081		noa	noa	Woun Meu	Woun Meu	ltr	2	
+	False	True	1288		wuv	wuv	Wuvulu-Aua	Wuvulu-Aua	ltr	1	
+	False	True	683		xav	xav	Xavánte	Xavánte	ltr	1	
+	False	True	780		too	too	Xicotepec De Juárez Totonac	Xicotepec De Juárez Totonac	ltr	1	
+	False	True	184	ts	tso	tso	Xitsonga	Tsonga	ltr	3	Niger–Congo
+	True	True	680		yad	yad	Yagua	Yagua	ltr	1	
+	True	True	1388		yka	yka	Yakan	Yakan	ltr	1	
+	False	True	731		zpu	zpu	Yalálag Zapotec	Yalálag Zapotec	ltr	1	Zapotec
+	True	True	620		yal	yal	Yalunka	Yalunka	ltr	1	
+	True	True	1160		yam	yam	Yamba	Yamba	ltr	1	
+	False	True	2257		yat	yat	Yambeta	Yambeta	ltr	1	
+	False	True	2364		tao	tao	Yami	Yami	ltr	1	
+	True	True	679		yaa	yaa	Yaminahua	Yaminahua	ltr	1	
+	True	True	512		ame	ame	Yanesha'	Yanesha'	ltr	1	Arawakan
+	False	True	2400		jao	jao	Yanyuwa	Yanyuwa	ltr	1	
+	False	True	938		yre	yre	Yaouré	Yaouré	ltr	1	
+	False	True	1919		yap	yap	Yapese	Yapese	ltr	1	
+	False	True	799		yaq	yaq	Yaqui	Yaqui	ltr	1	
+	False	True	1025		yrb	yrb	Yareba	Yareba	ltr	1	
+	True	True	1353		zae	zae	Yareni Zapotec	Yareni Zapotec	ltr	1	Zapotec
+	False	True	755		zty	zty	Yatee Zapotec	Yatee Zapotec	ltr	1	Zapotec
+	False	True	828		zav	zav	Yatzachi Zapotec	Yatzachi Zapotec	ltr	1	Zapotec
+	True	True	475		yva	yva	Yawa	Yawa	ltr	1	
+	False	True	1387		yby	yby	Yaweyuha	Yaweyuha	ltr	1	
+	True	True	1437		yao	yao	Yawo (Yaawo)	Yao	ltr	1	
+	False	True	1241		yle	yle	Yele	Yele	ltr	1	
+	False	True	1093		yss	yss	Yessan-Mayo	Yessan-Mayo	ltr	1	
+	False	True	1063		yim	yim	Yimchungru Naga	Yimchungru Naga	ltr	1	
+	False	True	2402		yij	yij	Yindjibarndi	Yindjibarndi	ltr	1	
+	True	True	652		pib	pib	Yine	Yine	ltr	1	
+	False	True	1471		yon	yon	Yongkom	Yongkom	ltr	1	
+	False	True	468		yut	yut	Yopno	Yopno	ltr	1	
+	True	True	207	yo	yor	yor	Yorùbá	Yoruba	ltr	2	Niger–Congo
+	True	True	741		mpm	mpm	Yosondúa Mixtec	Yosondúa Mixtec	ltr	1	
+	True	True	1101		ycn	ycn	Yucuna	Yucuna	ltr	1	
+	False	True	1390		esu	esu	Yup'ik	Central Yupik	ltr	1	
+	True	True	976		atb	atb	Zaiwa	Zaiwa (Atsi)	ltr	2	Sino-Tibetan
+	False	True	291		zpo	zpo	Zapotec Amatlán	Amatlán Zapotec	ltr	1	Zapotec
+	False	True	284		zar	zar	Zapotec Rincón	Rincón Zapotec	ltr	1	Zapotec
+	True	True	283		zab	zab	Zapotec San Juan Guelavía	Western Tlacolula Valley Zapotec	ltr	1	Zapotec
+	True	True	2373		zaj	zaj	Zaramo / Zalamo	Zaramo / Zalamo	ltr	1	Niger–Congo
+	False	True	1071		nzm	nzm	Zeme Naga	Zeme Naga	ltr	1	
+	False	True	1656		zyb	zyb	Zhuang, Yongbei	Zhuang, Yongbei	ltr	1	Tai–Kadai
+	False	True	625		zia	zia	Zia	Zia	ltr	1	Trans–New Guinea
+	True	True	1035		ziw	ziw	Zigula	Zigula	ltr	1	Niger–Congo
+	False	True	208	zo	zom	zom	Zo	Zou	ltr	3	Sino-Tibetan
+	True	True	744		zpq	zpq	Zoogocho Zapotec	Zoogocho Zapotec	ltr	1	Zapotec
+	False	True	1959		czt	czt	Zotung Chin	Zotung Chin	ltr	1	
+	False	True	930		zyp	zyp	Zyphe	Zyphe Chin	ltr	1	Sino-Tibetan
+	True	True	173	el	ell	ell	Ελληνικά	Modern Greek	ltr	4	Indo-European
+	True	True	182		grc	grc	Ελληνιστική Κοινή	Koine Greek	ltr	5	
+	True	True	1850		alt	alt	Алтай тил	Southern Altai	ltr	1	Turkic
+	False	True	1929		bak	bak	Башҡортча	Bashkir	ltr	2	Turkic
+	False	True	1723	be	bel	bel	беларуская	Belarusian	ltr	2	Indo-European
+	False	True	1881		bxr	bxr	буряад	Russia Buriat	ltr	2	
+	True	True	23	bg	bul	bul	български	Bulgarian	ltr	8	Indo-European
+	True	True	1503		kum	kum	къумукъ	Kumyk	ltr	1	
+	True	True	1550		crh	crh	Къырымтатарджа	Crimean Tatar	ltr	1	
+	True	True	1501	mk	mkd	mkd	Македонски	Macedonian	ltr	6	Indo-European
+	True	True	1590	mn	khk	khk	Монгол	Mongolian	ltr	2	
+	True	True	1524		nog	nog	Ногай тили	Nogai	ltr	1	
+	False	True	1513	ce	che	che	Нохчийн мотт	Chechen	ltr	1	Northeast Caucasian
+	True	True	400	ru	rus	rus	Русский	Russian	ltr	11	Indo-European
+	False	True	1888		sah	sah	Саха тыла	Yakut	ltr	1	
+	False	True	1969	sr	srp	srp	Српски Srpski	Serbian	ltr	4	Indo-European
+	True	True	1502	tt	tat	tat	Татарча	Tatar	ltr	1	Turkic
+	True	True	1152	tg	tgk	tgk	тоҷикӣ	Tajiki	ltr	2	Indo-European
+	False	True	1520		tyv	tyv	Тыва дыл	Tuvinian	ltr	1	
+	True	True	1224	ug	uig	uig_cyr	Уйғурчә	Uyghur Cyrillic	ltr	1	Turkic
+	False	True	186	uk	ukr	ukr	Українська	Ukrainian	ltr	4	Indo-European
+	False	True	1523		kjh	kjh	Хакас тілі	Khakas	ltr	1	
+	False	True	1803		chv	chv	Чӑвашла	Chuvash	ltr	1	Turkic
+	False	True	1507		eve	eve	Эвэды төрэн	Even	ltr	1	
+	False	True			hye	hye	հայերեն (արևելահայերեն)	Armenian (Eastern)	ltr	1	Indo-European
+	False	True	194		hyw	hyw	հայերէն (Արեւմտահայերէն)	Armenian (Western)	ltr	3	Indo-European
+	True	True	380	he	heb	heb	עברית	Hebrew	rtl	5	Afro-Asiatic
+	False	True	904		hbo	hbo	עִבְרִית קְלַסִית‎	Ancient Hebrew	rtl	1	
+	True	True	1161		azb	azb	آذری	Azeri (Persian script)	rtl	1	Turkic
+	True	True	189	ur	urd	urd	اردو	Urdu	rtl	3	Indo-European
+	True	True	558		ary	ary	الدارجة المغربية	Moroccan Arabic	rtl	1	Arabic
+	False	True	502		shu	shu	العربي الدارجي هنا تشاد	Chadian Arabic	rtl	1	Arabic
+	True	True	101	ar	arb	arb	العربية	Arabic (Standard)	rtl	11	Arabic
+	False	True	1304		aeb	aeb	العربية التونسية	Tunisian Arabic	rtl	1	Afro-Asiatic
+	True	True	1714		arz	arz	اللغة المصرية العامية	Egyptian Arabic	rtl	1	Arabic
+	True	True	1498		bcc	bcc	بلوچی‎	Balochi	rtl	1	
+	True	True	1719	tk	tuk	tuk_arb	ترکمن	Iranian Turkmen	rtl	1	Turkic
+	True	True	341		prs	prs	دری‎	Dari	rtl	1	
+	True	True	1379		sus	sus_ar	سٌسٌ	Susu (Arabic Script)	rtl	1	
+	False	True	722	sd	snd	snd	سنڌي	Sindhi	rtl	1	Indo-European
+	True	True	118	fa	pes	pes	فارسی	Farsi (Persian)	rtl	4	
+	True	True	453	ug	uig	uig	ئۇيغۇر تىلى‎	Uyghur	rtl	1	Turkic
+	False	True	1707		fub	fub_ar	ڢُلْڢُلْدٜ عَدَمَوَ	Adamawa Fulfulde	rtl	1	Niger–Congo
+	True	True	503	ku_IQ	ckb	ckb	کوردیی سۆرانی	Sorani Kurdish	rtl	2	
+	True	True	1094		glk	glk	گیلکی	Gilaki	rtl	1	
+	False	True	1080		aii	aii	ܐܬܘܪܝܐ ܣܘܪܝܝܐ	Assyrian Neo-Aramaic	rtl	1	Afro-Asiatic
+	False	True	481		urd	urd_dv	उर्दू	Urdu (Devanagari)	ltr	1	Indo-European
+	True	True	789		suz	suz	कोँइच	Sunwar	ltr	1	
+	True	True	1177		taj	taj	तामाङ	Eastern Tamang	ltr	1	
+	False	True	1483	ne	nep	nep	नेपाली	Nepali	ltr	2	Indo-European
+	False	True	1457		nwx	nwx	नेवाः भाय्	Newar	ltr	1	
+	True	True	1686	mr	mar	mar	मराठी	Marathi	ltr	3	Indo-European
+	True	True	1682	hi	hin	hin	हिन्दी	Hindi	ltr	6	Indo-European
+	False	True	1979		asm	asm	অসমীয়া	Assamese	ltr	2	Indo-European
+	True	True	1690	bn	ben	ben	বাংলা	Bengali (Bangla)	ltr	8	Indo-European
+	True	True	1687	pa	pan	pan	ਪੰਜਾਬੀ	Panjabi	ltr	3	Indo-European
+	True	True	1691	gu	guj	guj	ગુજરાતી	Gujarati	ltr	3	Indo-European
+	True	True	339	ta	tam	tam	தமிழ்	Tamil	ltr	2	Dravidian
+	True	True	1787	te	tel	tel	తెలుగు	Telugu	ltr	2	Dravidian
+	True	True	1692	kn	kan	kan	ಕನ್ನಡ	Kannada	ltr	3	Dravidian
+	True	True	1685	ml	mal	mal	മലയാളം	Malayalam	ltr	5	Dravidian
+	False	True	1828		sin	sin	සිංහල	Sinhala	ltr	2	Indo-European
+	False	True	233		ium	ium	ภาษาอิวเมี่ยน	Iu Mien	ltr	3	
+	True	True	174	th	tha	tha	ภาษาไทย	Thai	ltr	6	Tai–Kadai
+	False	True	1727	lo	lao	lao	ລາວ	Lao	ltr	2	Tai–Kadai
+	False	True	1712	bo	bod	bod	བོད་ཡིག	Tibetan	ltr	3	Sino-Tibetan
+	True	True	386	my	mya	mya	မြန်မာယူနီကုတ်	Myanmar Burmese (Unicode)	ltr	5	Sino-Tibetan
+	False	True	1459	my	mya	mya_zaw	ျမန္မာေဇာ္ဂ်ီ	Myanmar Burmese (Zawgyi)	ltr	1	Sino-Tibetan
+	False	True	2202	ka	kat	kat	ქართული	Georgian	ltr	3	Kartvelian
+	False	True	88	ko	kor	kor	한국어	Korean	ltr	3	Koreanic
+	True	True	1260	am	amh	amh	አማርኛ	Amharic	ltr	1	Afro-Asiatic
+	False	True	1926		chr	chr	ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ	Cherokee	ltr	1	
+	False	True	455		ike	ike	ᐃᓄᒃᑎᑐᑦ	Inuktitut: Eastern Arctic	ltr	1	Eskimo–Aleut
+	False	True	537		caf	caf	ᑕᗸᒡ	Southern Carrier	ltr	1	
+	True	True	85	km	khm	khm	ភាសាខ្មែរ	Khmer	ltr	6	Austroasiatic
+	False	True	1806		hak	hak	客家話‎ (Hakkafa)	Chinese, Hakka	ltr	1	Chinese
+	False	True	1580		lzh	lzh	文言（中文）	Chinese (Classical)	ltr	13	Chinese
+	True	True	1820	ja	jpn	jpn	日本語	Japanese	ltr	5	Japonic
+	True	True	48	zh_CN	zho	zho	简体中文	Chinese (Simplified)	ltr	6	Chinese
+	True	True	46	zh_TW	zho	zho_tw	繁體中文	Chinese (Traditional)	ltr	18	Chinese
