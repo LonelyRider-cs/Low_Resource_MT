@@ -24,7 +24,7 @@ def read_data(dirname):
             break
     return id2text
 
-def checkOverlap(srclang_id2text, tgtlang_id2text2):
+def checkOverlap(srclang_id2text, tgtlang_id2text2, verbose=False):
     """
     Check whether the line number in the two languages are the same.
     If not, print out lines in source-language-only lines and target-language-only lines.
@@ -38,10 +38,11 @@ def checkOverlap(srclang_id2text, tgtlang_id2text2):
     if len(srconly) == 0 and len(tgtonly) == 0:
         print('GREAT! Source language and Target language have identical line numbers!')
     else:
-        print('OOPS! {} source language lines BUT missing in target language.'.format(len(srconly)))
-        print('OOPS! {} arget language lines BUT missing in source language.'.format(len(tgtonly)))
-    # print('Source language lines missing in target language: \n{}\n'.format(srconly))
-    # print('Target language lines missing in source language: \n{}'.format(tgtonly))
+        print('OOPS! {} source language lines missing in target language.'.format(len(srconly)))
+        print('OOPS! {} target language lines missing in source language.'.format(len(tgtonly)))
+    if verbose:
+        print('Source language lines missing in target language: \n{}\n'.format(srconly))
+        print('Target language lines missing in source language: \n{}'.format(tgtonly))
     return list(src_ids.intersection(tgt_ids))
 
 
@@ -81,13 +82,16 @@ def main():
     parser.add_argument("-s", "--source", type = str, required=True, help = "dir name for source language")
     parser.add_argument("-t", "--target", type=str, required=True, help="dir name for target language")
     parser.add_argument("-split", "--split", action='store_true', required=False, help="If specified, split the data lines into train-dev-test with the ratio of 7:1:2")
+    parser.add_argument("-v", "--verbose", action='store_true', required=False,
+                        help="If specified, print out the lines only the source language or only the target language")
+
     args = parser.parse_args()
 
     srclang = args.source
     tgtlang = args.target
     srclang_id2text = read_data(srclang)
     tgtlang_id2text = read_data(tgtlang)
-    common_lines = checkOverlap(srclang_id2text, tgtlang_id2text)
+    common_lines = checkOverlap(srclang_id2text, tgtlang_id2text, args.verbose)
     if args.split:
         splitBYlines(srclang_id2text, tgtlang_id2text, common_lines, srclang = srclang, tgtlang = tgtlang)
     else:
