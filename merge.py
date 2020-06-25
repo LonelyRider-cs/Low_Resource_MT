@@ -1,4 +1,5 @@
 import os, random, argparse
+from tokenizer import tokenize
 
 def read_data(dirname):
     id2text = {}
@@ -46,7 +47,7 @@ def checkOverlap(srclang_id2text, tgtlang_id2text2, verbose=False):
     return list(src_ids.intersection(tgt_ids))
 
 
-def map_data(srclang_id2text, tgtlang_id2text, idlist, srclang, tgtlang, datatype = None):
+def map_data(srclang_id2text, tgtlang_id2text, idlist, srclang, tgtlang, source_tokenizer = None, target_tokenizer = None, datatype = None):
     direction = srclang + '-' + tgtlang
     if datatype:
         inputfile = datatype + '.' + direction + '.input'
@@ -57,12 +58,12 @@ def map_data(srclang_id2text, tgtlang_id2text, idlist, srclang, tgtlang, datatyp
 
     with open(inputfile, 'w') as fin, open(outputfile, 'w') as fout:
         for id in idlist:
-            fin.write(srclang_id2text[id])
+            fin.write(tokenize(srclang_id2text[id], source_tokenizer))
             fin.write('\n')
-            fout.write(tgtlang_id2text[id])
+            fout.write(tokenize(tgtlang_id2text[id], target_tokenizer))
             fout.write('\n')
 
-def splitBYlines(srclang_id2text, tgtlang_id2text, idlist, srclang, tgtlang):
+def splitBYlines(srclang_id2text, tgtlang_id2text, idlist, srclang, tgtlang, source_tokenizer = None, target_tokenizer = None):
     """
     split the lines into train-validation-test by the ratio: 7:1:2
     """
@@ -72,9 +73,9 @@ def splitBYlines(srclang_id2text, tgtlang_id2text, idlist, srclang, tgtlang):
     train_idlist = idlist[:train_boundary]
     dev_idlist = idlist[train_boundary:dev_boundary]
     test_idlist = idlist[dev_boundary:]
-    map_data(srclang_id2text, tgtlang_id2text, train_idlist, datatype='train', srclang=srclang, tgtlang=tgtlang)
-    map_data(srclang_id2text, tgtlang_id2text, dev_idlist, datatype='dev', srclang=srclang, tgtlang=tgtlang)
-    map_data(srclang_id2text, tgtlang_id2text, test_idlist, datatype='test', srclang=srclang, tgtlang=tgtlang)
+    map_data(srclang_id2text, tgtlang_id2text, train_idlist, srclang=srclang, tgtlang=tgtlang, source_tokenizer =  source_tokenizer, target_tokenizer = target_tokenizer,  datatype='train')
+    map_data(srclang_id2text, tgtlang_id2text, dev_idlist, srclang=srclang, tgtlang=tgtlang, source_tokenizer = source_tokenizer, target_tokenizer = target_tokenizer,  datatype='dev')
+    map_data(srclang_id2text, tgtlang_id2text, test_idlist, srclang=srclang, tgtlang=tgtlang, source_tokenizer = source_tokenizer, target_tokenizer = target_tokenizer,  datatype='test')
 
 def main():
 
@@ -82,6 +83,10 @@ def main():
     parser.add_argument("-s", "--source", type = str, required=True, help = "dir name for source language")
     parser.add_argument("-t", "--target", type=str, required=True, help="dir name for target language")
     parser.add_argument("-split", "--split", action='store_true', required=False, help="If specified, split the data lines into train-dev-test with the ratio of 7:1:2")
+    parser.add_argument("-stk", "--source_tokenizer", type = str, required=False,
+                        help="For the source language, you can specify '-stk eng' to tokenize the text with the English tokenizer, or '-stk other' to tokenize the text with the tokenizer for other languages. When not specified or if you specify tokenizer names other than 'eng' and 'other', no tokenization is conducted")
+    parser.add_argument("-ttk", "--target_tokenizer", type=str, required=False,
+                        help="For the target language, you can specify '-stk eng' to tokenize the text with the English tokenizer, or '-stk other' to tokenize the text with the tokenizer for other languages. When not specified or if you specify tokenizer names other than 'eng' and 'other', no tokenization is conducted")
     parser.add_argument("-v", "--verbose", action='store_true', required=False,
                         help="If specified, print out the lines only the source language or only the target language")
 
@@ -92,10 +97,18 @@ def main():
     srclang_id2text = read_data(srclang)
     tgtlang_id2text = read_data(tgtlang)
     common_lines = checkOverlap(srclang_id2text, tgtlang_id2text, args.verbose)
-    if args.split:
-        splitBYlines(srclang_id2text, tgtlang_id2text, common_lines, srclang = srclang, tgtlang = tgtlang)
+    if args.source_tokenizer:
+        source_tokenizer = args.source_tokenizer
     else:
-        map_data(srclang_id2text, tgtlang_id2text, common_lines, srclang=srclang, tgtlang=tgtlang)
+        source_tokenizer = None
+    if args.target_tokenizer:
+        target_tokenizer = args.target_tokenizer
+    else:
+        target_tokenizer = None
+    if args.split:
+        splitBYlines(srclang_id2text, tgtlang_id2text, common_lines, srclang = srclang, tgtlang = tgtlang, source_tokenizer = source_tokenizer, target_tokenizer = target_tokenizer)
+    else:
+        map_data(srclang_id2text, tgtlang_id2text, common_lines, srclang=srclang, tgtlang=tgtlang, source_tokenizer = source_tokenizer, target_tokenizer = target_tokenizer)
 
 
 
