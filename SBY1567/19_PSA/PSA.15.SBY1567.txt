@@ -1,7 +1,0 @@
-19:15:001:1	Psalm . xv .
-19:15:002:1	¶ Dowine quis habitabit .
-19:15:001:0	ARglwydd , pwy a dric yn dy bebyll ? pwy a breswyl yn dy vynyth sanctaidd ?
-19:15:002:0	Yr hwn a rodia yn berfeith ac a wna iawndap , ac yddywet wir yn ei galon .
-19:15:003:0	Yr hwn nyd enillybia aei dauot , ny wna ddrwc y’w gyvaill , ac ny dderbyn draws gyhuddet yn erbyn ei gymydawc .
-19:15:004:0	Yn ei lygair y tremygir dyn gwael , ac ef a anrydedda yr ei a ofnant yr Arglwydd : yr hwn a dwng er afles [ yddo y hun] ac ny ysmut .
-19:15:005:0	Yr hwn ny roddes ei arian ar vsurieth , ac ny chymerth obyr yn erbyn y gwirian : yr hwn a wna y petheu hyn , ny lythyr yn dragywyth .

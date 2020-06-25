@@ -1,8 +1,0 @@
-19:150:001:1	PSALM 150
-19:150:002:1	A Psalm of Praise .
-19:150:001:0	Praise the Lord ! Praise God in His sanctuary ; Praise Him in His mighty expanse .
-19:150:002:0	Praise Him for His mighty deeds ; Praise Him according to His excellent greatness .
-19:150:003:0	Praise Him with trumpet sound ; Praise Him with harp and lyre .
-19:150:004:0	Praise Him with timbrel and dancing ; Praise Him with stringed instruments and pipe .
-19:150:005:0	Praise Him with loud cymbals ; Praise Him with resounding cymbals .
-19:150:006:0	Let everything that has breath praise the Lord . Praise the Lord !

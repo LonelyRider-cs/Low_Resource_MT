@@ -1,9 +1,0 @@
-19:110:001:1	Psalm . cx .
-19:110:002:1	Dixit Dominus Domino .
-19:110:001:0	SYganei yr Arglwydd wrth vy Ior , Eistedd ar vy-deeulaw , yny osotwyf dy elynion yn llethic draet yty .
-19:110:002:0	Yr Arglwydd y ddenfyn wialen dy veðiant o tSijon : llywdratha di yn-cenol dy ’elynion .
-19:110:003:0	Dy bopul [ a ddeuant] yn wyllysgar yn-dydd [ cymmynva] : dy lu ym-prydverthwch sanctaiðrwyð : y genedleth oth vru [ vydd megis] y boreu-wlith .
-19:110:004:0	Tyngawdd yr Arglwydd ac nys ediveira , Yr wyt yn Offeiriat yn tragyvyth yn ol vrdd Melchi-tsedek .
-19:110:005:0	Yr Arglwydd [ ’rhwn ’sy] ar dy ddeeulaw , a archolla Vrenhinedd yn dydd ei soriant .
-19:110:006:0	Efe varn ymplith y cenedloedd : ef a lainw [ bob lle] a chelanedd , ac a dery y penn ar lawer tir .
-19:110:007:0	O’r garoc ar y ffordd yr yf ef : am hyny y dercha ef ei ben .

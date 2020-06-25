@@ -1,9 +1,0 @@
-3:12:001:1	Laws of Motherhood
-3:12:001:0	Then the Lord spoke to Moses , saying ,
-3:12:002:0	“ Speak to the sons of Israel , saying : ‘When a woman gives birth and bears a male child , then she shall be unclean for seven days , as in the days of her menstruation she shall be unclean .
-3:12:003:0	On the eighth day the flesh of his foreskin shall be circumcised .
-3:12:004:0	Then she shall remain in the blood of her purification for thirty-three days ; she shall not touch any consecrated thing , nor enter the sanctuary until the days of her purification are completed .
-3:12:005:0	But if she bears a female child , then she shall be unclean for two weeks , as in her menstruation ; and she shall remain in the blood of her purification for sixty-six days .
-3:12:006:0	‘When the days of her purification are completed , for a son or for a daughter , she shall bring to the priest at the doorway of the tent of meeting a one year old lamb for a burnt offering and a young pigeon or a turtledove for a sin offering .
-3:12:007:0	Then he shall offer it before the Lord and make atonement for her , and she shall be cleansed from the flow of her blood . This is the law for her who bears a child , whether a male or a female .
-3:12:008:0	But if she cannot afford a lamb , then she shall take two turtledoves or two young pigeons , the one for a burnt offering and the other for a sin offering ; and the priest shall make atonement for her , and she will be clean . ’ ”

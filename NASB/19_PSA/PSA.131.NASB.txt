@@ -1,8 +1,0 @@
-19:131:001:1	PSALM 131
-19:131:002:1	Childlike Trust in the L
-19:131:003:1	ord
-19:131:004:1	.
-19:131:005:1	A Song of Ascents , of David .
-19:131:001:0	O Lord , my heart is not proud , nor my eyes haughty ; Nor do I involve myself in great matters , Or in things too difficult for me .
-19:131:002:0	Surely I have composed and quieted my soul ; Like a weaned child rests against his mother , My soul is like a weaned child within me .
-19:131:003:0	O Israel , hope in the LordFrom this time forth and forever .

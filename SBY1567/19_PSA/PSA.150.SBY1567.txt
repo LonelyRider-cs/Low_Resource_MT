@@ -1,8 +1,0 @@
-19:150:001:1	Psalm . cl .
-19:150:002:1	Laudate Dominum in .
-19:150:001:0	Molwch Ddew yn ei Gyssecr : molwch efyn ffyrvaven ei veddiant .
-19:150:002:0	Molwch ef yn ei weithrededd nerthawc : molwch ef yn ol lliosogrwydd ei vawredd .
-19:150:003:0	Molwch ef yn llais yr vtcorn , molwch ef ar y navel a’r delyn .
-19:150:004:0	Molwch ef ar tympan ar bibell : molwch ef a’r tannae a’r organ .
-19:150:005:0	Molwch ef a’r cymbalae soniarus : molwch ef a’r cymbalae llavar .
-19:150:006:0	Pop perchen anhetl molet yr Arglwydd . Molwch yr Arglwydd . Tervyn y Psalltwyr . T R AV O☽

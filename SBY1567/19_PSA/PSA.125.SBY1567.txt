@@ -1,7 +1,0 @@
-19:125:001:1	Psalm . cxxv .
-19:125:002:1	Qui confidunt .
-19:125:001:0	YR ei ymddiriedant yn yr Arglwyð , [ vyddant] mal mynyth Tsijon , [ yr hwn] nyd ys mutir , [ anid] bot yn safadwy byth .
-19:125:002:0	[ Mal y mae] y mynyddeu yn-cylch Caerusalem velly [ y mae] yr Arglwydd o amgylch ei bopul o’r pryd hyn yd yn tragyvyth .
-19:125:003:0	Can na ’orphwys gwialen yr andewiol ar coelbren yr ei cyfiawn , rac bot ir ei cyfion estyn ei llaw ar enwiredd .
-19:125:004:0	Gwna yn dda , Arglwydd , ir ei da ac vnion o galon .
-19:125:005:0	A’r ei y ymcwhelant yw [ ffyrdd] enwir , wyntwy a dywys yr Arglwydd y gyd a’r gweithredwyr enwiredd : [ a bydd] tangnedyf ar Israel .

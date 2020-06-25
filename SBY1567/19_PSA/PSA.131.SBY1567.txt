@@ -1,6 +1,0 @@
-19:131:001:1	Psalm . cxxxj
-19:131:002:1	Domine non exaltatum .
-19:131:001:0	ARglwydd nyd ymdderchavawdd vy-calon , ac nyd ymuchelodd vy llygait .
-19:131:002:0	Ac ny rodiais ym-pethae mawrion , na dirgeledic rragof .
-19:131:003:0	Canys mi a ymðugais mal vn wedy ei ddiðyfnu ywrth ei vam , ac a ymoystegais : ydd wyf om mewn mal vn a ddiddyfnit .
-19:131:004:0	Ymddiriedet Israel yn yr Arglwydd o hyn allan yd yn tragyvyth .

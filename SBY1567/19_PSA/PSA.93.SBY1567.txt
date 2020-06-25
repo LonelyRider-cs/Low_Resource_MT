@@ -1,7 +1,0 @@
-19:93:001:1	Psalm . xciij .
-19:93:002:1	Dominus regnauit .
-19:93:001:0	YR Arglwyð y sy yn teynasu , ac wedy ymwisco a mawrhydi : ymae ’r Arglwyð wedy ymwisco ac ymwregysu a nerth : y byt hefyt y ffyrfeir val nat ymotir .
-19:93:002:0	Darparwyt dy eistedle erioet : tithau ys ydd er yn oes [ oesoed] .
-19:93:003:0	Derchavent y llifeireint , Arglwydd , dyrchavent y llifeirent ei llef derchavent y llifeirieint ei tonhae .
-19:93:004:0	Aruthrol [ yw] toneu y môr , gan laisieu dyfreð lawer , [ ys] aruthrach yw’r Arglwydd yn yr uchelder ,
-19:93:005:0	Dy destolaethae ynt gredadwy iawn : sanctawt a wedda ith tuy , Arglwydd , yn tragyvyth .

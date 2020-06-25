@@ -1,8 +1,0 @@
-19:1:001:1	Psalm . j .
-19:1:002:1	¶ Beatus vir qui non abiit .
-19:1:001:0	GWyn ei vyd y gwr ny rodiawð yn cyccor yr andewolion , ac ny savoð yn ffordd pechaturieit , ac nyd eisteddawdd yn eisteddfa yr ei gwatwrus .
-19:1:002:0	Eithyr bot ei ewyllys yn Deddyf yr Arglwydd , ac yn ei Ddeðyf ef bot yn mevyrio ddyð a’ nos .
-19:1:003:0	Canys ef vydd mal pren wedy’r blanny yn glan dyfredd yrhwn a ddwc ei ffrwyth yn ei dempor : a’ ei ddalen ny wywa : a pha beth bynac y wnel ef , a lwydda .
-19:1:004:0	Nyd velly [ y bydd] yr ei annuwiol , eithr mal y man vs , yr hwn a chwal y gwynt ymaith .
-19:1:005:0	Am hyny ny saif amdewiolion yny varn , na’r pechaturiait yn-cynnulleidfa yr ei cyfion .
-19:1:006:0	Can ys yr Arglwydd a edwyn fforð yr ei cyfion , a’fforð yr andewiolion a gyfergollir .

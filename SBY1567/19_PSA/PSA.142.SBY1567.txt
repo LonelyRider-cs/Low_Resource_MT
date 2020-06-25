@@ -1,9 +1,0 @@
-19:142:001:1	Psalm . cxlij .
-19:142:002:1	Voce mea ad Dominum .
-19:142:001:0	GWaeddeis am llef ar yr Arglwyð y gweddiais .
-19:142:002:0	Dinéais vy-mevyrdawt ger ei vron , [ a’] menegeis iddaw vy-cyvingder .
-19:142:003:0	Cyd bod vy yspryt yn vlin arno om mewn , ys ti adwaenyt vy llwybr : yn y ffordd , y rhodiwn , y gesodesant yn ddirgel vagl y-my .
-19:142:004:0	Edrycheis ar vy llaw ddeau , a’ sylleis , ac nyd oedd nep am adwynei : pallawdd [ pop] noddet ymy , [ ac] nyd oedd nep a ymgeisiai am enait .
-19:142:005:0	Yno y llefais arnat , Arglwydd , [ a’] dywedeis , Ti yw vy-gobeith , [ a’m rhan yn-tir y bywion .
-19:142:006:0	Gwrando ar vy llefain , canys im truanawyt : gwared vi rrac vy erlydwyr , can ys trech ynt na myvi .
-19:142:007:0	Dwc vy eneit o garchar , val y clodvorwyf dy Enw : [ yno] im cylchynant yr ei cyfion pan vych ddawnus ymy .

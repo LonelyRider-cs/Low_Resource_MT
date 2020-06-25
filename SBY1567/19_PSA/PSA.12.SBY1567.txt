@@ -1,9 +1,0 @@
-19:12:001:1	Psalm . xij .
-19:12:002:1	¶ Saluum me fac .
-19:12:001:0	CYmporth Arglwydd , can na adwyt vn dyn dwywol : can ys pallawdd y ffyddlonion o blith plant dynion .
-19:12:002:0	Hocced a ddywet pop vn wrth ei gymydawc , gan ymlewydd a ei gwefufeu , [ ac] ymddiddan a dwy galon .
-19:12:003:0	Torid yr Arglwydd yr oll wefufae gweniaithus , a’r tavod y ddyweto vawr eiriae : yr ei a ddywedynt , A’n tavot y gorvyddwn , nyni biae ein gwefusau , pwy ’s ydd Arglwydd arnam ?
-19:12:004:0	Yr owrhon er mwyn anraith yr angenogion , [ ac] er vchenait y tlodion , y cyfodaf medd yr Arglwyð , ac a ddodaf mewn rhydit [ yr vn] a vaglawdd yr andewiol .
-19:12:005:0	Geiriae yr Arglwyð , geiriae purion , [ mal] arian , wedy ei goethi mewn ffwrn bridd , wedy ei buro saithwaith .
-19:12:006:0	Ti Arglwydd , ei cedwy hwy : ti ei gwaredy ef rac y genedlaeth hon yn dragyvyth .
-19:12:007:0	Yr anwywolion y rodiant o amgylch , pan ei dyrchefir wy , gwarth [ vydd] blant dynion .

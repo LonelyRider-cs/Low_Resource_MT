@@ -1,7 +1,0 @@
-19:13:001:1	Psalm . xiij .
-19:13:002:1	Vsquequo Domine .
-19:13:001:0	PA hyd Arglwydd , im gedi dros gof , [ ai] byth ? yd pa hyd y cuddiy dy wynep rhagof
-19:13:002:0	Yd pa hyd yr ymgygoraf yno vy hun , [ ac a] blinder beunydd yn vy-calon ? pa hyd y derchefir vy-gelyn ar naf ?
-19:13:003:0	Edrych , [ a’] chlyw vi , Arglwydd vy Duw llewycha vy llygait val na hnnwyf yn angae .
-19:13:004:0	Rac dywedyt o’m gelyn , Mi ei gorchfygeis ef : [ a’] bot im trallotwyr lawenychu pan lithrwyf .
-19:13:005:0	A’ minef ymddiriedeis yn dy drugaredd : vy-calon a ymlawenha yn dy iechyt : canaf i’r Arglwydd , [ am] yddo vot cystal wrthyf .

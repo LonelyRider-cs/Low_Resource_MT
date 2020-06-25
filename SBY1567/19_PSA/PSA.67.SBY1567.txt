@@ -1,9 +1,0 @@
-19:67:001:1	Psalm . lxvij .
-19:67:002:1	Deus misereatur nostri .
-19:67:001:0	DEw a drugaráo wrthym , ac an bendithio , ac a dywyno ei wynep in plith . Selah .
-19:67:002:0	Mal yr adwaenant dy ffordd ar y ddaiar , [ ath] iechydwrieth ymplith yr ol’ genedloeð .
-19:67:003:0	Clodvorent y bopuloedd dydy Ddew : clodvorent dydi yr oll populoedd .
-19:67:004:0	Bit y bopuloedd lawen a’ hyfryd , can ys berny y bopuloedd yn vniondep , ac y lywodraethy y cenedloedd ar y ddaiar . Sélah .
-19:67:005:0	Bit ir bopul dy glodvori , Ddew : bit ir oll bopulpuloedd dy glodvori .
-19:67:006:0	[ Yna] y dyry ’r ddaiar hei ffrwyth , [ a’] Dew [ ys] ein Deo ni a’n bendithia .
-19:67:007:0	Deo a’n bendithia , ac ol’dervynae ’r ddaiar y ofnant ef .

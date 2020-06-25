@@ -1,4 +1,0 @@
-19:117:001:1	PSALM 117
-19:117:002:1	A Psalm of Praise .
-19:117:001:0	Praise the Lord , all nations ; Laud Him , all peoples !
-19:117:002:0	For His lovingkindness is great toward us , And the truth of the Lord is everlasting . Praise the Lord !
