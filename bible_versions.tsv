@@ -107,7 +107,6 @@ Mapudungun	arn	Mapudungun	arn		Araucanian//Araucanian	520	ARNNT	Ngünechen ñi K
 Arapaho	arp	Arapaho	arp		Algic//Algonquian	1369	ARP	Hethadenee waunauyaunee vadan Luke Vanenāna	arp-version-1	Yes	ltr
 Moroccan Arabic	ary	الدارجة المغربية	ary		Afro-Asiatic//Semitic	558	MSTD	الترجمة المغربية القياسية	ary-version-1	Yes	rtl
 Egyptian Arabic	arz	اللغة المصرية العامية	arz		Afro-Asiatic//Semitic	2429	EAT	Egyptian Arabic Translation	arz-version-1	No	rtl
-Egyptian Arabic	arz	اللغة المصرية العامية	arz		Afro-Asiatic//Semitic	2429	EAT	Egyptian Arabic Translation	arz-version-2	No	rtl
 Cishingini	asg	Cishingini	asg		/	1293	ASGNT	Uzuwakpani u Savu n Cishingini; n aba'in a na a Zagbai a Uzukpani u Kuku	asg-version-1	Yes	ltr
 Assamese	asm	অসমীয়া	asm		Indo-European//Indic	1979	ASMIRV	অসমীয়া বাইবেল	asm-version-1	Yes	ltr
 Assamese	asm	অসমীয়া	asm		Indo-European//Indic	2436	IRVASM	ইণ্ডিয়ান ৰিভাইচ ভাৰচন (IRV) আচামিচ - 2019	asm-version-2	No	ltr
@@ -590,7 +589,6 @@ Fulfulde	fuh	Fulfulde (Burkina Faso)	fuh		Niger-Congo/Atlantic/Peul-Serer	2380	F
 Fulfulde (Central-Eastern Niger)	fuq	Fulfulde (Central-Eastern Niger)	fuq		/	1373	FUQ	Alkawal Kesal	fuq-version-1	Yes	ltr
 Fulani	fuv	Fulfulde Caka Nigeria	fuv		Niger-Congo/Atlantic/Peul-Serer	1159	FUVNT	Alkawal Kesal Nder Fulfulde Caka Naajeeriya	fuv-version-1	Yes	ltr
 Fulani	fuv_ar	Fulfulde Caka Nigeria Arabic Script	fuv		Niger-Congo/Atlantic/Peul-Serer	2377	FUVASNT	اَلْکَوَلْ کٜسَلْ ندٜرْ فُلْفُلْدٜ شَکَ نَاجٜىٰرِيَ	fuv_ar-version-1	No	rtl
-Fulani	fuv_ar	Fulfulde Caka Nigeria Arabic Script	fuv		Niger-Congo/Atlantic/Peul-Serer	2377	FUVASNT	اَلْکَوَلْ کٜسَلْ ندٜرْ فُلْفُلْدٜ شَکَ نَاجٜىٰرِيَ	fuv_ar-version-2	No	rtl
 Alekano	gah	Alekano	gah		Trans-New Guinea//Eastern Highlands	954	GAHNT	Monó Gotola Gosohá	gah-version-1	Yes	ltr
 Borei	gai	Mborena Kam	gai		/	1779	MBKAMNT	Raraŋ Aetaniacna Kam Wembaŋ Laŋ	gai-version-1	Yes	ltr
 Kandawo	gam	Kandawo	gam		/	1137	GAM	Jisas Kandjiyebe Wopake	gam-version-1	Yes	ltr
@@ -689,13 +687,11 @@ Guarayu	gyr	Guarayu	gyr		/	609	GYRNT	Tũpa Ñehengagüer	gyr-version-3	No	ltr
 Hanga	hag	Hanga	hag		/	1499	HAG	Naawun yatogiri, Piiligu gbaŋŋu Selections	hag-version-1	Yes	ltr
 Chinese, Hakka	hak	客家話‎ (Hakkafa)	hak		Sino-Tibetan//Chinese	1806	THV12HDB	客語聖經 – 現代臺灣客語譯本，新舊約全書客語聖經 – 漢字版	hak-version-1	Yes	ltr
 Chinese, Hakka	hak_rom	Hakkafa (Roman script)	hak		Sino-Tibetan//Chinese	2408	THV12RDB	HAK-NGÎ SṲN-KÎN – Hien-thoi Thòi-vân Hak-ngî Yi̍t-pún – Sîn-Khiu Yok Chhiòn Sû (Lò-mâ-sṳ pán);	hak_rom-version-1	No	ltr
-Chinese, Hakka	hak_rom	Hakkafa (Roman script)	hak		Sino-Tibetan//Chinese	2408	THV12RDB	HAK-NGÎ SṲN-KÎN – Hien-thoi Thòi-vân Hak-ngî Yi̍t-pún – Sîn-Khiu Yok Chhiòn Sû (Lò-mâ-sṳ pán);	hak_rom-version-2	No	ltr
 Haitian Creole	hat	Kreyòl Ayisyen	hat	ht	other//Creoles and Pidgins	1957	HAT98	1998 Haïtienne	hat-version-1	Yes	ltr
 Haitian Creole	hat	Kreyòl Ayisyen	hat	ht	other//Creoles and Pidgins	2474	VKF	Nouvo Testaman: Vèsyon Kreyòl Fasil	hat-version-2	No	ltr
 Hausa	hau	Hausa	hau	ha	Afro-Asiatic/Chadic/West Chadic	71	HAU	Littafi Mai Tsarki	hau-version-1	Yes	ltr
 Hausa	hau	Hausa	hau	ha	Afro-Asiatic/Chadic/West Chadic	1614	SRK	Sabon Rai Don Kowa	hau-version-2	No	ltr
 Ancient Hebrew	hbo	עִבְרִית קְלַסִית‎	hbo		/	2376	"תנ""ך"	"תנ""ך (שעתוק אלקטרוני נאמן לכתב יד לנינגרד)"	hbo-version-1	No	rtl
-Ancient Hebrew	hbo	עִבְרִית קְלַסִית‎	hbo		/	2376	"תנ""ך"	"תנ""ך (שעתוק אלקטרוני נאמן לכתב יד לנינגרד)"	hbo-version-2	No	rtl
 Huichol	hch	Huichol	hch		Uto-Aztecan//Corachol	830	HCH	Kakaɨyari Niukieya	hch-version-1	Yes	ltr
 Northern Haida	hdn	Northern Haida	hdn		Haida//Haida	2498	HAIDA	Haida Matthew, Luke, John and Acts 1891-99	hdn-version-1	Yes	ltr
 Hebrew	heb	עברית	heb	he	Afro-Asiatic//Semitic	380	HRNT	Modern Hebrew New Testament	heb-version-1	Yes	rtl
@@ -745,7 +741,6 @@ Murui Huitoto	huu	Murui Huitoto	huu		Huitotoan//Huitoto	596	HUUNT	Jusiñamui uai
 San Mateo Del Mar Huave	huv	Ikootz	huv		Huavean//Huavean	241	HUVNT	Jayats nanderac wüx miteatiiüts Jesucristo	huv-version-1	Yes	ltr
 Hawaii Creole English	hwc	Hawaii Pidgin	hwc		other//Creoles and Pidgins	76	HPB	Hawaii Pidgin Bible	hwc-version-1	Yes	ltr
 Armenian (Eastern)	hye	հայերեն (արևելահայերեն)	hye		Indo-European//Armenian	2329	ՆՎԱԱ	Նոր վերանայված Արարատ Աստվածաշունչ	hye-version-1	No	ltr
-Armenian (Eastern)	hye	հայերեն (արևելահայերեն)	hye		Indo-European//Armenian	2329	ՆՎԱԱ	Նոր վերանայված Արարատ Աստվածաշունչ	hye-version-2	No	ltr
 Armenian (Western)	hyw	հայերէն (Արեւմտահայերէն)	hyw		/	194	WANT	Արեւմտահայերէն Նոր Կտակարան, հարմարցուած․	hyw-version-1	Yes	ltr
 Armenian (Western)	hyw	հայերէն (Արեւմտահայերէն)	hyw		/	1987	WA1853	Western Armenian New Testament 1853	hyw-version-2	No	ltr
 Armenian (Western)	hyw	հայերէն (Արեւմտահայերէն)	hyw		/	2325	WANTACOC	Western Armenian New Translation - Armenian Catholicosate of Cilicia - New Testament	hyw-version-3	No	ltr
@@ -921,7 +916,6 @@ Korean	kor	한국어	kor	ko	//	88	KRV	개역한글	kor-version-1	Yes	ltr
 Korean	kor	한국어	kor	ko	//	142	RNKSV	새번역	kor-version-2	No	ltr
 Korean	kor	한국어	kor	ko	//	86	KLB	현대인의 성경	kor-version-3	No	ltr
 Komba	kpf	Likɔɔnl	kpf		/	1238	KPFNT	Siŋgi âlip ekap	kpf-version-1	No	ltr
-Komba	kpf	Likɔɔnl	kpf		/	1238	KPFNT	Siŋgi âlip ekap	kpf-version-2	No	ltr
 Kapingamarangi	kpg	Kapingamarangi	kpg		Austronesian/Eastern Malayo-Polynesian/Oceanic	1354	KPG	Baebel Kapingamarangi	kpg-version-1	Yes	ltr
 Kapingamarangi	kpg	Kapingamarangi	kpg		Austronesian/Eastern Malayo-Polynesian/Oceanic	1368	KPG	Beebaa Dabu	kpg-version-2	No	ltr
 Karajá	kpj	Karajá	kpj		Macro-Ge//Karajá	725	KPJNT	Deuxu Rybe Tyyriti	kpj-version-1	Yes	ltr
@@ -1097,7 +1091,6 @@ Maxakalí	mbl	Maxakalí	mbl		Macro-Ge//Maxakalí	612	MBLNT	Topa Yõg Tappet	mbl-
 Sarangani Manobo	mbs	Sarangani Manobo	mbs		/	1243	MBSNT	Se kaling peokit	mbs-version-1	Yes	ltr
 Matigsalug Manobo	mbt	Matigsalug Manobo	mbt		Austronesian//Greater Central Philippine	1002	MBTNT	Meupiya ne panugtulen: Bibliya ne Matigsalug	mbt-version-1	Yes	ltr
 Mbula-Bwazza	mbu	Mbula	mbu		/	1835	MBU	Maləmce Məfele mala Ɓakuli: Kurcau Məbəshe	mbu-version-1	No	ltr
-Mbula-Bwazza	mbu	Mbula	mbu		/	1835	MBU	Maləmce Məfele mala Ɓakuli: Kurcau Məbəshe	mbu-version-2	No	ltr
 Maca	mca	Maca	mca		Matacoan//Matacoan	1108	MCA	INTATA ȽE'ȽIJEI	mca-version-1	Yes	ltr
 Machiguenga	mcb	Machiguenga	mcb		Arawakan//Pre-Andine Arawakan	633	MCBNT	Iriniane Tasorintsi	mcb-version-1	Yes	ltr
 Sharanahua	mcd	Sharanahua	mcd		Panoan//Panoan	522	MCD	Diospan Tsain	mcd-version-1	Yes	ltr
@@ -1291,7 +1284,6 @@ Nek	nif	Nek	nif		/	1448	NIFPNT	Sampela hap Nupela Testamen long tokples Nek long
 Nii	nii	Nii	nii		/	1151	NIINT	Gos Nge Ek Ka Ei Sinim Kin Ngołum	nii-version-1	Yes	ltr
 Nilamba	nim	Kĩnilyamba	nim		/	1813	KNT09	LYAGO NIPIA MPOLA NANZIIZA KU ANTU TŨLŨ Kuntambo ya Kĩnilyamba 2009	nim-version-1	Yes	ltr
 Ninzo	nin	Ninzo	nin		/	367	NINNT	Ungbamvu Ku Abachi Azhi Ahe̲he̲ Ka	nin-version-1	No	ltr
-Ninzo	nin	Ninzo	nin		/	367	NINNT	Ungbamvu Ku Abachi Azhi Ahe̲he̲ Ka	nin-version-2	No	ltr
 Ngiti	niy	Ngiti	niy		Central Sudanic//Lendu	1431	NIY	UNGBÒTA-ƆWɄ́TÁ TƆ́ BHǓKÙ	niy-version-1	Yes	ltr
 Nocte Naga	njb	Nocte Naga	njb		Sino-Tibetan/Tibeto-Burman/Northern Naga	1051	NOKT	NIEMNYAN	njb-version-1	Yes	ltr
 Angami Naga	njm	Angami	njm		/	338	ANGAMIBSI	KETHOLESHU (BSI)	njm-version-1	Yes	ltr
