@@ -15,5 +15,7 @@ def tokenize(text_string, tokenizer_type):
         tokenizer = RegexpTokenizer("[^\s.\";:,.“”\[\(\)?!]+|[^\w\d'\s\-]")
         tokens = tokenizer.tokenize(text_string)
         tokened = ' '.join(tokens)
+    else:
+        tokened = text_string
 
     return tokened
