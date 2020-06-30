@@ -16,7 +16,7 @@ def Cons [b|c|d|f|g|h|j|k|l|m|n|ñ|p|q|r|s|t|v|w|x|z|t z|t x|t s|B|C|D|F|G|H|K|L
 def PreSyll a i -> ai , e i -> ei, o i -> oi, u i -> ui, a u -> au, e u -> eu,
             A I -> AI , E I -> ei, O I -> OI, U I -> UI, A U -> AU, E U -> EU,
 			A i -> Ai , E i -> Ei, O i -> Oi, U i -> Ui, A u -> Au, E u -> Eu .o.
-			"-" -> "^" "-" "^" || [C|V] _ [C|V];
+			"-" -> "^" "-" "^" || [Cons|Vow] _ [Cons|Vow];
 
 def Syll [(Cons|[t|p] r) Vow (Cons)];
 def MainSyll Syll @> ... "^" || _ Syll ;
