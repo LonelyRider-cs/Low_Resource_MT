@@ -47,7 +47,11 @@ def checkOverlap(srclang_id2text, tgtlang_id2text2, verbose=False):
     return list(src_ids.intersection(tgt_ids))
 
 
-def map_data(srclang_id2text, tgtlang_id2text, idlist, srclang, tgtlang, source_tokenizer = None, target_tokenizer = None, datatype = None):
+def map_data(srclang_id2text, tgtlang_id2text, idlist,
+             srclang, tgtlang,
+             source_tokenizer = None, target_tokenizer = None,
+             source_syllabifier = None, target_syllabifier = None,
+             datatype = None):
     direction = srclang + '-' + tgtlang
     if datatype:
         inputfile = datatype + '.' + direction + '.input'
@@ -58,12 +62,15 @@ def map_data(srclang_id2text, tgtlang_id2text, idlist, srclang, tgtlang, source_
 
     with open(inputfile, 'w') as fin, open(outputfile, 'w') as fout:
         for id in idlist:
-            fin.write(tokenize(srclang_id2text[id], source_tokenizer))
+            fin.write(tokenize(srclang_id2text[id], source_tokenizer, source_syllabifier))
             fin.write('\n')
-            fout.write(tokenize(tgtlang_id2text[id], target_tokenizer))
+            fout.write(tokenize(tgtlang_id2text[id], target_tokenizer, target_syllabifier))
             fout.write('\n')
 
-def splitBYlines(srclang_id2text, tgtlang_id2text, idlist, srclang, tgtlang, source_tokenizer = None, target_tokenizer = None):
+def splitBYlines(srclang_id2text, tgtlang_id2text, idlist,
+                 srclang, tgtlang,
+                 source_tokenizer = None, target_tokenizer = None,
+                 source_syllabifier = None, target_syllabifier = None):
     """
     split the lines into train-validation-test by the ratio: 7:1:2
     """
@@ -73,9 +80,21 @@ def splitBYlines(srclang_id2text, tgtlang_id2text, idlist, srclang, tgtlang, sou
     train_idlist = idlist[:train_boundary]
     dev_idlist = idlist[train_boundary:dev_boundary]
     test_idlist = idlist[dev_boundary:]
-    map_data(srclang_id2text, tgtlang_id2text, train_idlist, srclang=srclang, tgtlang=tgtlang, source_tokenizer =  source_tokenizer, target_tokenizer = target_tokenizer,  datatype='train')
-    map_data(srclang_id2text, tgtlang_id2text, dev_idlist, srclang=srclang, tgtlang=tgtlang, source_tokenizer = source_tokenizer, target_tokenizer = target_tokenizer,  datatype='dev')
-    map_data(srclang_id2text, tgtlang_id2text, test_idlist, srclang=srclang, tgtlang=tgtlang, source_tokenizer = source_tokenizer, target_tokenizer = target_tokenizer,  datatype='test')
+    map_data(srclang_id2text, tgtlang_id2text, train_idlist,
+             srclang=srclang, tgtlang=tgtlang,
+             source_tokenizer =  source_tokenizer, target_tokenizer = target_tokenizer,
+             source_syllabifier = source_syllabifier, target_syllabifier=target_syllabifier,
+             datatype='train')
+    map_data(srclang_id2text, tgtlang_id2text, dev_idlist,
+             srclang=srclang, tgtlang=tgtlang,
+             source_tokenizer = source_tokenizer, target_tokenizer = target_tokenizer,
+             source_syllabifier = source_syllabifier, target_syllabifier=target_syllabifier,
+             datatype='dev')
+    map_data(srclang_id2text, tgtlang_id2text, test_idlist,
+             srclang=srclang, tgtlang=tgtlang,
+             source_tokenizer = source_tokenizer, target_tokenizer = target_tokenizer,
+             source_syllabifier = source_syllabifier, target_syllabifier=target_syllabifier,
+             datatype='test')
 
 def main():
 
@@ -87,6 +106,10 @@ def main():
                         help="For the source language, you can specify '-stk eng' to tokenize the text with the English tokenizer, or '-stk other' to tokenize the text with the tokenizer for other languages. When not specified or if you specify tokenizer names other than 'eng' and 'other', no tokenization is conducted")
     parser.add_argument("-ttk", "--target_tokenizer", type=str, required=False,
                         help="For the target language, you can specify '-stk eng' to tokenize the text with the English tokenizer, or '-stk other' to tokenize the text with the tokenizer for other languages. When not specified or if you specify tokenizer names other than 'eng' and 'other', no tokenization is conducted")
+    parser.add_argument("-ssl", "--source_syllabifier", type=str, required=False,
+                        help="For the source language, you can specify '-ssl eus' to break words in to syllables by the Basque syllabifier. Currently, only Basque syllabifier is provided. More syllabifier choices will be added. Please install foma first if you want to use the syllabifier. You can find foma and installation instructions at https://github.com/mhulden/foma/tree/master/foma")
+    parser.add_argument("-tsl", "--target_syllabifier", type=str, required=False,
+                        help="For the target language, you can specify '-tsl eus' to break words in to syllables by the Basque syllabifier. Currently, only Basque syllabifier is provided. More syllabifier choices will be added. Please install foma first if you want to use the syllabifier. You can find foma and installation instructions at https://github.com/mhulden/foma/tree/master/foma")
     parser.add_argument("-v", "--verbose", action='store_true', required=False,
                         help="If specified, print out the lines only the source language or only the target language")
 
@@ -97,6 +120,7 @@ def main():
     srclang_id2text = read_data(srclang)
     tgtlang_id2text = read_data(tgtlang)
     common_lines = checkOverlap(srclang_id2text, tgtlang_id2text, args.verbose)
+
     if args.source_tokenizer:
         source_tokenizer = args.source_tokenizer
     else:
@@ -105,10 +129,26 @@ def main():
         target_tokenizer = args.target_tokenizer
     else:
         target_tokenizer = None
-    if args.split:
-        splitBYlines(srclang_id2text, tgtlang_id2text, common_lines, srclang = srclang, tgtlang = tgtlang, source_tokenizer = source_tokenizer, target_tokenizer = target_tokenizer)
+
+    if args.source_syllabifier:
+        source_syllabifier = args.source_syllabifier
     else:
-        map_data(srclang_id2text, tgtlang_id2text, common_lines, srclang=srclang, tgtlang=tgtlang, source_tokenizer = source_tokenizer, target_tokenizer = target_tokenizer)
+        source_syllabifier = None
+    if args.target_syllabifier:
+        target_syllabifier = args.target_syllabifier
+    else:
+        target_syllabifier = None
+
+    if args.split:
+        splitBYlines(srclang_id2text, tgtlang_id2text, common_lines,
+                     srclang = srclang, tgtlang = tgtlang,
+                     source_tokenizer = source_tokenizer, target_tokenizer = target_tokenizer,
+                     source_syllabifier = source_syllabifier, target_syllabifier=target_syllabifier)
+    else:
+        map_data(srclang_id2text, tgtlang_id2text, common_lines,
+                 srclang=srclang, tgtlang=tgtlang,
+                 source_tokenizer = source_tokenizer, target_tokenizer = target_tokenizer,
+                 source_syllabifier = source_syllabifier, target_syllabifier=target_syllabifier)
 
 
 
