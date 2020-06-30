@@ -107,9 +107,9 @@ def main():
     parser.add_argument("-ttk", "--target_tokenizer", type=str, required=False,
                         help="For the target language, you can specify '-stk eng' to tokenize the text with the English tokenizer, or '-stk other' to tokenize the text with the tokenizer for other languages. When not specified or if you specify tokenizer names other than 'eng' and 'other', no tokenization is conducted")
     parser.add_argument("-ssl", "--source_syllabifier", type=str, required=False,
-                        help="For the source language, you can specify '-ssl eus' to break words in to syllables by the Basque syllabifier. Currently, only Basque syllabifier is provided. More syllabifier choices will be added. Please install foma first if you want to use the syllabifier. You can find foma and installation instructions at https://github.com/mhulden/foma/tree/master/foma")
+                        help="For the source language, you can specify '-ssl eus' to break words in to syllables by the Basque syllabifier. Currently, only Basque syllabifier is provided. More syllabifier choices will be added. Please install foma first if you want to use the syllabifier.")
     parser.add_argument("-tsl", "--target_syllabifier", type=str, required=False,
-                        help="For the target language, you can specify '-tsl eus' to break words in to syllables by the Basque syllabifier. Currently, only Basque syllabifier is provided. More syllabifier choices will be added. Please install foma first if you want to use the syllabifier. You can find foma and installation instructions at https://github.com/mhulden/foma/tree/master/foma")
+                        help="For the target language, you can specify '-tsl eus' to break words in to syllables by the Basque syllabifier. Currently, only Basque syllabifier is provided. More syllabifier choices will be added. Please install foma first if you want to use the syllabifier.")
     parser.add_argument("-v", "--verbose", action='store_true', required=False,
                         help="If specified, print out the lines only the source language or only the target language")
 

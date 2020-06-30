@@ -1,15 +1,13 @@
 """
-Please install foma first if you want to use the syllabifier.
-You can find foma and installation instructions at https://github.com/mhulden/foma/tree/master/foma
+Please make sure your have foma.py in the same directory as this file.
 """
-
 
 from nltk.tokenize import word_tokenize
 from nltk.tokenize import RegexpTokenizer
 import foma
 
 
-def tokenize(text_string, tokenizer_type, syllabifier_type = None):
+def tokenize(text_string, tokenizer_type = None, syllabifier_type = None):
     '''
     Given a string of text, a type of tokenizer to use, and a type of syllabifier to apply;
     Return the text in the format of the tokenized string each breaks into a sequence of syllables.
