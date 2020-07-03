@@ -35,7 +35,7 @@ def tokenize(text_string, tokenizer_type = None, syllabifier_type = None):
         wordlist_syllabified = []
         for token in tokens:
             syllabified = syllabifier[token][0].decode("utf-8")
-            syllabified = syllabified.replace('@', '')
+            # syllabified = syllabified.replace('@', '')
             wordlist_syllabified.append(syllabified)
         outputstring = ' '.join(wordlist_syllabified)
     else:
