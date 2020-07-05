@@ -29,6 +29,8 @@ def tokenize(text_string, tokenizer_type = None, syllabifier_type = None):
     if syllabifier_type:
         if 'eus' in syllabifier_type:
             fomafile = "eus_wordtokenizer.fomabin"
+        elif 'nav' in syllabifier_type:
+            fomafile = "nav_wordtokenizer.fomabin"
         else:
             print("!!!please make sure you have a .fomabin file for the language you specify")
         syllabifier = foma.FST.load(fomafile)
@@ -36,6 +38,7 @@ def tokenize(text_string, tokenizer_type = None, syllabifier_type = None):
         for token in tokens:
             syllabified = syllabifier[token][0].decode("utf-8")
             # syllabified = syllabified.replace('@', '')
+            syllabified = syllabified.replace('@ @', '@@ ')
             wordlist_syllabified.append(syllabified)
         outputstring = ' '.join(wordlist_syllabified)
     else:
