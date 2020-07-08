@@ -11,3 +11,8 @@ python wikipedia_dump_extractor.py --json $file_name
 wait
 
 python wikiDump_convert.py $file_name
+
+wait
+
+rm -r text/*
+rmdir text
