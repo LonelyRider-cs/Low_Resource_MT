@@ -1,0 +1,29 @@
+1:4:001:1	Kéin áádóó Éíbel
+1:4:001:0	Áádóó Ádam hwe'asdzą́ą́ Íiv bił ałt'ajíí'áazhgo i'niiltsąądgo Kéin yishchį́, áko ázhdííniid, Bóhólníihii bits'ą́ą́dę́ę́' shiyáázh shee hazlį́į́'. 
+1:4:002:0	Áádóó náábík'ijį' bitsilí Éíbel jishchį́. Éíbel éí dibé yaa áhályáanii silį́į́', nidi Kéin éí dá'ák'ehgi naalnishii silį́į́'. 
+1:4:003:0	Áádóó baa hoolzhiizhgo Kéin éí dá'ák'ehgi neest'áanii yiníjaa'ígíí Bóhólníihii yich'į' nááyiisnii'. 
+1:4:004:0	Áádóó Éíbel ałdó' hadibé áłtsé deishchíinii aláahgo łik'aii ła' jiníłtį́. Áko Éíbel áádóó náájiisnii'ígíí éí Bóhólníihii bił yílįįd, 
+1:4:005:0	nidi Kéin índa nááyiisnii'ígíí doo bił yílįįd da. Áko Kéin t'áá íiyisí báhóóchįįdgo hashké niidzį́į́' noos'níí'. 
+1:4:006:0	Áko Bóhólníihii éí Kéin áyidííniid, Ha'át'éegoshą' náhóóchįįdgo hashké nínídzin yínílnii'? 
+1:4:007:0	Yá'át'ééh íinidzaago nidí'nóodzįįł. Jó, doo yá'át'ééh íinidzaagóó éí bąąhági'át'éii nídin nilį́įgo ch'é'étiindę́ę́' naa héestį́, nidi bik'eh dídleeh. 
+1:4:008:0	Nít'éé' Kéin hatsilí Éíbel bił ałch'į' yájíłti', ákohgo dá'ák'ehgi Kéin bitsilí Éíbel yich'į' nídiidzáago yiyiisxį́. 
+1:4:009:0	Áko Bóhólníihii éí Kéin áyidííniid, Háájíshą' nitsilí Éíbel? Áko ázhdííniid, Doo shił bééhózin da. Shí hanii bitsilí yaa áhályáanii nishłį́? 
+1:4:010:0	Áko ání, Haashą' yínít'įįd? Nitsilí bidił biinéé' łeeshtahdę́ę́' shich'į' yicha. 
+1:4:011:0	Nitsilí síníłhį́įgo bidił éí łeeh sinootseedígíí biniinaa nahasdzáán bits'ą́ąjį' hóyée'go ná ha'oodzíí'. 
+1:4:012:0	Áko k'ad kodóó dá'ák'ehgi nanilnishgo doo lą'ígo na'níłt'ą' da doo; ni' bikáá'góó naníchée doo, índa t'áá áłahjį' naanáá'néeł doo. 
+1:4:013:0	Áko Kéin éí Bóhólníihii áyidííniid, Bee atíshiinilaaígíí ts'ídá doo bíínísh'hah da. 
+1:4:014:0	K'ad kéyah bits'ą́ąjį' hashinííníyood; ninii' bits'ąą nashidi'nil'in doo; nanishchée doo; ni' bikáá'góó t'áá áłahjį' naanáásh'néeł doo; t'áá shik'íníyáhígíí shidiyoołhééł, jó'akon. 
+1:4:015:0	Áko Bóhólníihii áhodííniid, Éí bąą t'áá Kéin jiisxínígíí tsosts'idi k'ééhodi'doolnííł. Áko Bóhólníihii éí Kéin bee hwééhózin dooleełii há áyiilaa, áko ła'da hak'íníyáago doo hodiyoołhéeł da. 
+1:4:002:1	Kéin bits'ą́ą́dóó adideezhchíinii
+1:4:016:0	Áádóó Kéin éí Bóhólníihii bits'ą́ąjigo dashdiiyáago Ííden kéyahdóó ha'a'aahjigo kéyah Náad hoolyéhígi kééhojit'į́. 
+1:4:017:0	Nít'éé' Kéin hwe'asdzą́ą́ bił ałt'ajíí'áazhgo i'niiltsąądgo Íínak yishchį́, áádóó Kéin éí kin haal'áago ájiilaa, áko éí kin haal'áhígíí haye' Íínak bízhi' bee hojíízhi'. 
+1:4:018:0	Áádóó Íínak biye' éí Áírad wolyé, áádóó Áírad biye' éí Miihójeiyel, áádóó Miihójeiyel biye' éí Miithóseiyel índa Miithóseiyel biye' éí Léímek. 
+1:4:019:0	Áádóó Léímek ba'ákéí naaki: ła' Éídah wolyé, náánáła'ígíí Zílah wolyé. 
+1:4:020:0	Áko Éídah biyáázh éí Jéíbal wolyé; éí níbaal yii' kéédahat'ínígíí índa bilį́į́' dahólóonii bizhé'é dzizlį́į́'. 
+1:4:021:0	Áádóó hatsilí éí Júbal wolyé; éí tsin tł'óół bąąh daneelzhee'go bee nida'a'néii índa tsin bee í'dílzoołí yee nidaanéhígíí bizhé'é dzizlį́į́'. 
+1:4:022:0	Zílah biyáázh éí Túbal-kéin wolyé; éí béésh łitsoii índa béésh nitł'izii bee t'áá ha'át'íhída ádaal'į́į doogo bínazh'niłtin, áádóó Túbal-kéin bideezhí éí Néíyamah wolyé. 
+1:4:023:0	Léímek ha'ákéí ábijiní:Éídah áádóó Zílah, shizaad yínółts'ą́ą́';Léímek ba'ákéí nohłínígíí, ádísh'nínígíí yínółts'ą́ą́',Háálá diné shijizhgishígíí biniinaa hoséłhį́,Índa diné ániid naagháii atíshijiilaaígíí biniinaa hoséłhį́. 
+1:4:003:1	Seth bits'ą́ą́dóó adideezhchíinii
+1:4:024:0	Ííshją́ą́ ła'da Kéin jiisxínígíí biniinaa tsosts'idi k'éébidi'doolníiłgo,T'áá aaníí ła'da Léímek jiisxínígíí biniinaa tsosts'idiindóó ba'aan tsosts'idi k'ééhodi'doolnííł. 
+1:4:025:0	Áádóó Ádam hwe'asdzą́ą́ bił ałt'anáájoot'áazhgo biyáázh yishchį́įgo éí Seth yee yiyíízhi', háálá ájíní, Éíbel éí Kéin hwiisxį́įgo bąą hatsásk'ehgi Diyin God éí shiyáázh ła' shaa náánéíltį́. 
+1:4:026:0	Áádóó Seth ałdó' haye' há yizhchį́; éí Íínas bee jíízhi'. Áádóó índa nihokáá' dine'é éí Bóhólníihii dayózhíigo yich'į' sodadilzingo hodideeshzhiizh.

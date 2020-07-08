@@ -1,0 +1,33 @@
+20:10:001:1	T'áá ákogi át'éii áádóó doo yá'áshóonii doo aheełt'ée da
+20:10:001:0	Sálaman bizaad bee hodoodząąłii: Aye' hóyáanii éí bizhé'é yił hóshóonii nánídlį́, nidi ayáázh doo áhályáanii éí bimá yínííł yiih yiłt'eeh. 
+20:10:002:0	Tsi'na'adá yee at'íinii t'áadoo nídoodleełí da, nidi t'áá ákogi é'ét'éii aniné yits'á'iinííł. 
+20:10:003:0	Bóhólníihii éí t'áá ákogi át'éii bii' sizíinii doo t'áá dichin nilį́įgo yi'doołnih da, nidi doo yá'áshóonii yídin nilínígíí nahjį' hayiiłtł'iid. 
+20:10:004:0	Diné bił hóyée'go naalnishii bahojoobá'í yileeh, nidi haleebee yá'át'éehgo yilnishii éí at'įįh. 
+20:10:005:0	Shį́įgo t'áadoo le'é hasht'e'nijiiníiłii éí aye' hóyáanii jílį́, nidi da'agizhgo aye' t'óó ałhoshii t'óó baa yáhásin. 
+20:10:006:0	T'áá ákogi át'éii éí bik'ihojidlí, nidi diné doo yá'áshóonii ił hááhoniłcha' bizée'di yinées'į́į́'. 
+20:10:007:0	T'áá ákogi át'éii nilíinii bééjílniihgo bee hak'ihojidlíi doo, nidi doo yá'áshóonii bee béého'dílzinii doochxǫǫł. 
+20:10:008:0	Diné bijéí yee hóyáanii éí bik'eh ó'oo'níiłii shóidoołt'eeł, nidi diné doo áhályą́ą́góó yáłti'ii éí t'áadoo biniyéhí da jidooleeł. 
+20:10:009:0	Diné t'áá ákóne' át'éego naagháii éí doo bihodiit'i'góó naagháa dooleeł, nidi áhoot'éii doo yá'át'ééhgóó ájoolíiłii éí hwééhodoozįįł. 
+20:10:010:0	Diné bináák'is ánáyiil'įįhii yínííł hólǫ́ǫgo ánáhool'įįh; diné doo áhályą́ą́góó yáłti'ii éí t'áadoo biniyéhí da jidooleeł. 
+20:10:011:0	Diné t'áá ákogi ááníiłii éí bizéé'dę́ę́' iiná háálį́, nidi diné doo yá'áshóonii ił hááhoniłcha' bizée'di yinées'į́į́'. 
+20:10:012:0	Ak'e'diniih éí diné ahinéidiiłtłi', nidi ayóó'ó'ó'níinii éí doo ákwii ádahóót'įįdii t'áá ałtso t'óó yik'i hoozi'. 
+20:10:013:0	Diné ak'i'diitįįhii hóyą́ągo yáłti', nidi bee ak'i'diitįįhii hwee ádinii hwíígháán biniyé bee atsxis silá. 
+20:10:014:0	Diné dahóyáanii ił ééhózin hasht'e'nideidiyii'nííł, nidi diné doo áhályą́ą́góó yáłti'ii éí hodoołchxǫǫłii koshídę́ę́' hólǫ́. 
+20:10:015:0	Diné at'íinii biyódí yee bidziilgo kin haal'áii nahalin, nidi diné bahojoobá'íii éí bité'é'į' bidoołchxǫǫł. 
+20:10:016:0	Diné t'áá ákogi ááníiłii binaanish iiná yii' iilóós, nidi diné doo yá'áshóonii ááníłígíí yee bąąhági át'éii yii' iilóós. 
+20:10:017:0	Bínahodi'niltinii baa áhojilyáanii éí iiná biyi' joogááł, nidi hach'aho'dishkéhígíí doozniizį́į'ii éí adzisiih. 
+20:10:018:0	Ak'eezhdiniihgo nazhnił'inígíí éí biyooch'íidii jílį́, áádóó t'áá ádzaagóó hojilne'ii éí doo áhojilyą́ą da. 
+20:10:019:0	T'óó ahayóígóó yáti'go bee haz'áanii hitíihii doo bídin da, nidi hazaad bił t'ą́ą́' dziztíinii éí hojíyą́. 
+20:10:020:0	Diné t'áá ákogi ááníiłii yáłti'go éí bizaad béésh łigaii bitahaasdláa'ii nahalin; diné doo yá'áshóonii bijéí biyi'dóó yee nitsíkeesii doo ílį́į da. 
+20:10:021:0	Diné t'áá ákogi ááníiłii yáłti'go lą'í ya'iiłtsóód, nidi doo ádahalyáanii hódzą́ bee ádaadinígíí biniinaa dadínóonééł. 
+20:10:022:0	Bóhólníihii yee ak'ijidlíii éí at'į́įgo ó'oolííł, áádóó yíníí ł doo yíyiiłtsóod da. 
+20:10:023:0	Diné doo áhályáanii bąąhági ááníiłgo daané'é nahalingo bił honeełnih, nidi diné ak'i'diitįįhii hódzą́ bił honeełnih. 
+20:10:024:0	Diné doo yá'áshóonii yináldzidii bik'éidoot'ih, áádóó diné t'áá ákogi ááníiłii yídin nilíinii baa didoot'ááł. 
+20:10:025:0	Nááts'ó'oołdísii ch'ígháhígi át'éego diné doo yá'áshóonii ábi'dildįįh, nidi diné t'áá ákogi át'éii hool'áágóó bohoníłdzilgo sizį́. 
+20:10:026:0	Ch'il na'atł'o'ii bitoo' dók'ǫ́zhígíí hawoo' yidíníłtsi', áádóó łid éí hanáá' yiyiiłch'ih; t'áá ákót'éego bił hóyée'ii nidajił'a'ígíí hach'į' ákót'é. 
+20:10:027:0	Bóhólníihii jidósingo iiná há binéidoo'nił, nidi diné doo yá'áshóonii éí a'ohgo béédoohah. 
+20:10:028:0	Diné t'áá ákogi ááníiłii bił hózhǫ́ǫ dooleełgo bíká bił chohoo'į́, nidi diné doo yá'áshóonii nayólíii bits'ą́ą́' ádoodįįł. 
+20:10:029:0	Bóhólníihii bik'ehgo áhoot'éii éí t'áá ákogi ádaat'éii yee dabidziil, nidi doo ákwii ádaaníiłii éí ábidoołdįįł. 
+20:10:030:0	Diné t'áá ákogi ádaaníiłii ts'ídá doo nahjį' kódabidi'doolníił da, nidi diné doo yá'ádaashóonii nihokáá'góó doo kéédahojit'į́į da doo. 
+20:10:031:0	Diné t'áá ákogi ááníiłii éí hódzą́ yee yáłti', nidi diné doo yá'áshǫ́ǫ́góó yáłti'ii éí hodi'doolyił. 
+20:10:032:0	Diné t'áá ákogi át'éii éí Diyin God yee lą́ ni'iiłeehii bił bééhózingo yee yáłti', nidi diné doo yá'áshóonii éí doo yá'áshǫ́ǫ́góó yáłti'.

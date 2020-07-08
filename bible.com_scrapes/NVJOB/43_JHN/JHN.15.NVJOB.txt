@@ -1,0 +1,30 @@
+43:15:001:1	Jesus éí ch'il na'atł'o'ii t'áá aaníinii
+43:15:001:0	Shí ch'il na'atł'o'ii t'áá aaníinii nishłį́, shiTaa' éí ch'il na'atł'o'ii yaa áhályáanii nilį́. 
+43:15:002:0	Shits'áda'iitł'óohgo doo bineest'ą' dahaleehii, t'áá ałtso shits'áyiinííł, t'áá ałtso bineest'ą' bąąh nídahadleehígíí éí bits'áoz'a' bílátah níjiigish, t'ah biláhígo bąąh nínáádahodoodleeł biniyé. 
+43:15:003:0	Saad bee nihich'į' yááłti'ígíí bee t'áá íídą́ą́' hasht'edanihi'diilyaa. 
+43:15:004:0	Shii' dahonohłǫ́, shí ałdó' nihii' honishłǫ́ǫ doo. Ats'á'átł'óohii t'áá bízhánígo doo bąąh náhádleeh da, bá íí'áii biłgo t'éiyá, ts'ídá ákót'éego doo shii' dahonohłǫ́ǫ́góogo, aneest'ą' doo nihits'ą́ą́dóó náhoodleeł da doo. 
+43:15:005:0	Ch'il na'atł'o'ii sikaadii nishłį́, nihí t'éí ats'áda'iitł'óohii danohłį́. Shii' hojílóonii, áádóó shí hwii' honishłóonii, ts'ídá éí aneest'ą' lą'í hats'ą́ą́dóó náhoodleeł, háálá t'áá shídingo t'áadoo bídanooł'ání da. 
+43:15:006:0	Áko diné t'áá háiida doo shii' hojílǫ́ǫ́góó, éí ats'á'átł'óhígíí yóó'ahelghą́ąhgo yigą́hígíí nahojílin; jó, éí áłah ál'įįh áko tsídza dahalka'go, adahidilk'ą́ą́h. 
+43:15:007:0	Áko shii' dahonohłǫ́ǫgo, áádóó shizaad nihii' dahólǫ́ǫgo, t'áá danohsinígíí dayínóhkeed, áko nihá bi'doolnííł. 
+43:15:008:0	Aneest'ą' t'óó ahayóí nihits'ą́ą́dóó náhoodleełígíí bee shiTaa' ayóó át'éego baa ha'niih, áko éí bee shídahooł'aahii danohłį́į doo. 
+43:15:009:0	T'áá aTaa' ayóó'áshó'nínígi át'éego, shí ałdó' ayóó'ánihósh'ní; she'ayóó'ó'ó'ni' bii' dahonohłǫ́ǫgo áda'díínółzin. 
+43:15:010:0	T'áá shiTaa' yee nahas'áanii bik'eh honish'į́įgo be'ayóó'ó'ó'ni' bii' honishłónígi át'éego, bee nahoséł'áanii bik'eh dahonoł'į́įgo, she'ayóó'ó'ó'ni' bii' dahonohłǫ́ǫ doo. 
+43:15:002:1	Ayóó'ó'ó'ní aláahgo ánáánát'éii doo ła'da bee hólǫ́ǫ da
+43:15:011:0	Shibee ił hózhǫ́ nihii' dahólǫ́ǫ doo biniyé díí bee nihich'į' hahásdzíí', áko nihíni' bíighahgo nihił dahózhǫ́ǫ doo. 
+43:15:012:0	Díí bee hoséł'áanii át'é, éí ayóó'ánihósh'nínígi át'éego ayóó'áda'ahíínóh'ní. 
+43:15:013:0	Diné bik'isóó ayóó'ádayó'níinii yá niná'ádeet'áanii yá daaztsą́ągo, kót'éego ayóó'ó'ó'ní ayóó át'éii náánáła' diné doo hwee nááhódlǫ́ǫ da. 
+43:15:014:0	T'áá ha'át'íhída bee hoséł'áanii baa naahkaigo, shik'isóó danohłį́. 
+43:15:015:0	Kodóó náás hoolzhishgóó naal'a'í doo nihidishníi da doo, háálá naal'a'í nilíinii hananit'a'í yaa naagháhígíí doo hoł bééhózin da, nidi shik'isóó nihidííniid, háálá shiTaa' bits'ą́ą́dóó diséts'ą́'ígíí t'áá ałtso bee nihił béédahózingo ánihiishłaa. 
+43:15:016:0	Nihí doo nídashidoołtį́į da, nidi shí t'éí nánihiyéláa'go ninihinínil, nihits'ą́ą́dóó aneest'ą' nidahwiileeh doo biniyé dahidohkááh, áko nihineest'ą' t'áá hólǫ́ǫ doo, áádóó t'áá ha'át'íhída shízhi' bee aTaa' bídayínóhkeedígíí, éí nihaididoo'ááł. 
+43:15:003:1	Nihokáá' dine'é be'ajoodlá
+43:15:017:0	Ayóó'áda'ahíínóh'níi doo biniyé díí bee nihida'séłnii'. 
+43:15:018:0	Ííshją́ą́ nihokáá' dine'é danihijoołáago, t'ah doo danihijoołaahdą́ą́' shí átséedi dashijoosłá'ígíí nihił béédahózin. 
+43:15:019:0	Nihokáá' dine'é bíí' danohłį́įgo, nihokáá' dine'é ayóó'ádanihó'níi doo nít'éé', háálá t'áá daabíi'ii t'éiyá ayóó'ádayó'ní, nidi nihokáá' dine'é doo bíí' danohłį́į da, nidi t'áá nihokáá' dine'é bitahdóó nánihiyéláá', éí bąą nihokáá' dine'é danihijoołá. 
+43:15:020:0	Naalte' éí binanit'a'í doo yilááh át'ée da, nihidishníigo saad bee nihich'į' haasdzíi'ii béédaałniih. Atídashiilaago, nihí ałdó' atídanihidoolííł; shizaad yik'eh dahół'į́įgo, nihí ałdó' nihizaad yik'eh dahół'į́į doo. 
+43:15:021:0	Nidi shízhi' biniinaa díí t'áá ałtso yee nihaa nidookah, háálá shiníł'a'ii doo yéédahósin da. 
+43:15:022:0	Doo níyáágóogo índa t'áadoo bich'į' hahásdzíí'góogo, doo ádił da'asziih da doo nít'éé', nidi k'ad ádił da'dzisziihígíí t'áadoo bee dazhdínół'į́łí da. 
+43:15:023:0	T'áá háiida shijoołáhígíí t'áá éí ałdó' shiTaa' yijoołá. 
+43:15:024:0	Diné t'ah doo ííléehii doo bitahgi baa niséyáágóogo, doo ádił da'asziih da doo nít'éé', nidi k'ad shí áádóó shiTaa' t'áá áníidla danihijiiłtsą́ áádóó nihik'ee dazdeeznih. 
+43:15:025:0	Nidi t'áá daabí bibee haz'áanii biyi' díí saad bee ak'e'ashchínígíí bohodoolnííł biniyé, T'áadoo baanígóó shik'ee dadeeznih. 
+43:15:026:0	Nidi Áká Análwo'ii, aTaa' bits'ą́ą́dę́ę́' nihaa deesh'aałígíí, éí Níłch'i Diyinii t'áá aaníinii ííshją́ą́ áyoolíiłii aTaa' bits'ą́ą́dę́ę́' hólónígíí éí nihaa honíle'go shá hodoolnih; 
+43:15:027:0	nihí ałdó' shá nidahodoołnih, háálá t'áá hodésáádę́ę́' shił tádoohkai.

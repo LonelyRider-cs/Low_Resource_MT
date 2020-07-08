@@ -1,0 +1,58 @@
+6:19:001:1	Símiyan dine'é kéyah baa deet'ą́
+6:19:001:0	Naaki góne' yáá'iilt'e'ígíí Símiyan dine'é bá ánáánályaa; Símiyan dine'é ahii' háá'ahiyoolchíiłii bik'ehgo bikéyah bá bénááhoosdzin; éí Júdah dine'é bikéyah łahjį' bá'doodzo. 
+6:19:002:0	Áádóó Símiyan dine'é kéyah bíí' silį́'ígíí biyi' kin hadaas'áhígíí éí kódahoolyé: Bíyer-shííba, Sííba, Móladah, 
+6:19:003:0	Héízar-shúwal, Béílah, Íízem, 
+6:19:004:0	Eltólad, Béthol, Hórmah, 
+6:19:005:0	Zíklag, Beth-márkabath, Héízar-súsah, 
+6:19:006:0	Beth-lebéíyath índa Sharúhen; bikin dah naazhjaa'ígíí t'áá bił táá'ts'áadahgo kin hadaas'áhígíí, 
+6:19:007:0	áádóó Áyiin, Ríman, Ííther índa Éíshan; bikin dah naazhjaa'ígíí t'áá bił dį́į'go kin hadaas'áhígíí ałdó' Símiyan dine'é bíí' daazlį́į́'; 
+6:19:008:0	t'áá ła' bizhi'ee díí t'áá ałtso kin hadaas'áhígíí binaagóó kin dah naazhjaa'ígíí t'áá bił éí Béíyalath-bíyer kin shijaa' bíighahjį' nineel'ą́; éí shádi'áahgi Réímath ałdó' hoolyé. Díí kéyah t'áá át'é Símiyan dine'é ahii' háá'ahiyoolchíiłii bik'ehgo bíí' daazlį́į́'. 
+6:19:002:1	Zébyulan dine'é kéyah baa deet'ą́
+6:19:009:0	Áko Júdah dine'é bikéyah łahjį' Símiyan dine'é bikéyah silį́į́', háálá Júdah dine'é t'áá áchą́hwíídéeni'go baa deet'ą́; éí bąą Símiyan dine'é kéyah íí' dooleełii Júdah dine'é bikéyah łahjį' baa hodeet'ą́. 
+6:19:010:0	Táá' góne' yáá'iilt'e'ígíí Zébyulan dine'é ahii' háá'ahiyoolchíiłii bik'ehgo bikéyah bá bénááhoosdzin. Áádóó éí kéyah bíí' daazlį́į'go Séírid kin shijaa' bíighahjį' hodeesdzo, 
+6:19:011:0	áko éí tónteel e'e'aahjígo Máralah kin haal'á góde hodeesdzo, áádóó Dábasheth kin shijaa' bíighahgóó índa Jákniyam kin shijaa' ha'a'aahjí tó nílínígíí bíighahgóó hodeesdzo, 
+6:19:012:0	Séírid kin shijaa'dóó náánáłahjigo ha'a'aahjigo háá'át'áhígíí bich'į'go Kíslath-téíber kin shijaa' bihoodzooígíí bich'į'go hodeesdzo; éí áádóó Dáberath kin shijaa'góó índa Jafáíya kin haal'áá góde hodeesdzo, 
+6:19:013:0	áádóó éí ha'a'aahjí ch'íhoodzooígíí Gítah-híífer kin shijaa'góó, áádóó Ítah-kéízin haz'ánígóó, Ríman-méthowar kin shijaa' bich'į'go áádóó Níyah kin shijaa'jį' nááhodeesdzo, 
+6:19:014:0	áko náhookǫsjigo hoodzooígíí éí Hánathan kin haal'áajį' nááhodeesdzo, áádóó Jífthayel yíldzisíjį' nihoodzo, 
+6:19:015:0	Kátath kin haal'áii, Néíhalal kin haal'áii, Shímran kin haal'áii, Ídalah kin haal'áii índa Béthlehem kin haal'áii; kin dah naazhjaa'ígíí t'áá bił naakits'áadahgo kin hadaas'áhígíí Zébyulan dine'é bíí' daazlį́į́'. 
+6:19:003:1	Ísakar dine'é kéyah baa deet'ą́
+6:19:016:0	Díí éí Zébyulan dine'é ahii' háá'ahiyoolchíiłii bik'ehgo íí' dadooleełii éí kin hadaas'áhígíí binaagóó kin dah naazhjaa'ígíí t'áá bił bíí' daazlį́į́'. 
+6:19:017:0	Dį́į́' góne' yáá'iilt'e'ígíí Ísakar dine'é ahii' háá'ahiyoolchíiłii bik'ehgo bikéyah bá bénááhoosdzin. 
+6:19:018:0	Éí bikéyah biyi'góó Jézriyel kin haal'á bich'į'jígo áádóó Kiisólath kin shijaa', Shúnem kin shijaa', 
+6:19:019:0	Hafréíyim kin haal'áii, Sháíyan kin shijaa', Anéíharath kin shijaa', 
+6:19:020:0	Rábith kin shijaa', Kíshyan kin haal'áii, Éíbez kin shijaa', 
+6:19:021:0	Rémeth kin haal'áii, Engánim kin shijaa', Enhádah kin shijaa', Beth-pázez kin shijaa', 
+6:19:022:0	Téíber kin shijaa', Shéíha-záímah kin shijaa' índa Beth-shíímesh kin shijaa' áádóó Jórdan tooh bihoodiidzo; kin dah naazhjaa'ígíí t'áá bił hastą́'áadahgo kin hadaas'áhígíí Ísakar dine'é bíí' daazlį́į́'. 
+6:19:004:1	Ásher dine'é kéyah baa deet'ą́
+6:19:023:0	Díí éí Ísakar dine'é ahii' háá'ahiyoolchíiłii bik'ehgo íí' dadooleełii éí kin hadaas'áhígíí binaagóó kin dah naazhjaa'ígíí t'áá bił bíí' daazlį́į́'. 
+6:19:024:0	Ashdla' góne' yáá'iilt'e'ígíí Ásher dine'é ahii' háá'ahiyoolchíiłii bik'ehgo bikéyah bá bénááhoosdzin. 
+6:19:025:0	Éí bikéyah biyi'góó Hélkath kin shijaa', Héílai kin shijaa', Bííten kin haal'áii, Ákshaf kin haal'áii, 
+6:19:026:0	Alámelek kin shijaa', Éímad kin shijaa', Méíshal kin shijaa', e'e'aahjígo Kármel kin shijaa' índa Sháíhar-líbnath tó níłts'ą́' ígíí 
+6:19:027:0	índa ha'a'aahjígo nááhoodzo éí Beth-déígan kin shijaa'góó áádóó Zébyulan kin haal'áii bíighahgóó índa Jífthayel yíldzisígíí náhookǫsjígo Beth-íímek kin haal'áádóó Niyáíyel kin shijaa'góó, áádóó náhookǫsjí Kéíbul kin haal'áii bich'į'go nihoodzo, 
+6:19:028:0	áádóó Hííbran kin haal'áii, Rííhob kin shijaa', Háman kin shijaa', Kéínah kin shijaa' índa Sáídan kin haal'áii ayóó át'éego haz'áníjį', 
+6:19:029:0	áádóó Réímah kin haal'áágóó nááhoodzo áádóó Táir kin haal'á ditą́ągo binaa ahéé'ítł'iníjį' hodeesdzo, áádóó Hósah kin shijaa'jį' nínááhásdzo, índa Ákzib kin haal'áii bíighahgi tónteel siyíníjį' nihoodzo, 
+6:19:030:0	Ámah kin haal'áii ałdó', áádóó Éífek kin haal'áii índa Rííhob kin shijaa'; bikin dah naazhjaa'ígíí t'áá bił naadiin naakigo kin hadaas'áhígíí Ásher dine'é bíí' daazlį́į́'. 
+6:19:005:1	Náftalai dine'é kéyah baa deet'ą́
+6:19:031:0	Díí éí Ásher dine'é ahii' háá'ahiyoolchíiłii bik'ehgo íí' dadooleełii, éí kin hadaas'áhígíí binaagóó kin dah naazhjaa'ígíí t'áá bił bíí' daazlį́į́'. 
+6:19:032:0	Hastą́ą́h góne' yáá'iilt'e'ígíí Náftalai dine'é ahii' háá'ahiyoolchíiłii bik'ehgo bikéyah bá bénááhoosdzin. 
+6:19:033:0	Áádóó éí bihoodzooígíí Híílef kin shijaa'dóó áádóó Álan kin shijaa'dóó Zeiyanánim haz'áníjį' áádóó Ádamai haz'áníjį', Nííkeb kin shijaa'jį', Jábniyel kin shijaa'jį' índa Léíkam kin shijaa'jį' hodeesdzo, áádóó Jórdan toohjį' bihoodiidzo, 
+6:19:034:0	áádóó e'e'aahjigo Áznath-téíber haz'ánígóó nááhoodzo, éí áádóó Hákak kin shijaa'jį' áádóó shádi'ááhjí Zébyulan kin haal'áii bíighahgóó, áádóó e'e'aahjí Ásher dine'é bikéyahgóó, índa ha'a'aahjí Jórdan toohgi Júdah dine'é bikéyahgóó hodeesdzo. 
+6:19:035:0	Kin hadaas'á ditą́ągo binaa ahééda'astł'inígíí éí kódahoolyé: Zídim, Zer, Hámath, Rákath, Kíniireth, 
+6:19:036:0	Ádamah, Réímah, Héízor, 
+6:19:037:0	Kíídesh, Édriyai, En-héízor, 
+6:19:038:0	Íran, Mígdal-el, Hórem, Beth-éínath índa Beth-shíímesh; kin dah naazhjaa'ígíí t'áá bił náhást'éíts'áadahgo kin hadaas'áhígíí Náftalai dine'é bíí' daazlį́į́'. 
+6:19:006:1	Dan dine'é kéyah baa deet'ą́
+6:19:039:0	Díí éí Náftalai dine'é ahii' háá'ahiyoolchíiłii bik'ehgo íí' dadooleełii éí kin hadaas'áhígíí binaagóó kin dah naazhjaa'ígíí t'áá bił bíí' daazlį́į́'. 
+6:19:040:0	Tsosts'id góne' yáá'iilt'e'ígíí Dan dine'é ahii' háá'ahiyoolchíiłii bik'ehgo bikéyah bá bénááhoosdzin. 
+6:19:041:0	Éí kéyah bíí' dooleełii biyi'góó kin hadaas'áhígíí, doodaii' kin dah naazhjaa'ígíí kódahoolyé: Zórah kin haal'áii, Éshteiyal kin shijaa', Ír-shíímesh kin haal'áii, 
+6:19:042:0	Shéíya-lábin kin shijaa', Éíjalan kin haal'áii, Jéthlah kin shijaa', 
+6:19:043:0	Íílan kin shijaa', Thímnathah kin shijaa', Ékran kin haal'áii, 
+6:19:044:0	Éltiikii kin haal'áii, Gíbiithan kin haal'áii, Béiyalath kin shijaa', 
+6:19:045:0	Jííhad kin shijaa', Béne-bíírak kin shijaa', Gath-ríman kin haal'áii, 
+6:19:046:0	Mii-járkan haz'ání índa Rákan haz'ání éí Jéífo kin shijaa' kéyahígíí t'áá bił bíí' daazlį́į́'. 
+6:19:047:0	Áko Dan dine'é kéyah bi'oh neel'ą́ągo, éí bąą Dan dine'é nídahidiibáahgo Lííshem kin haal'áii yich'į' anaa' dahasłį́į́', áádóó bik'ijį' dadzisnáago diltłish yee nideistseedgo ákwii nídahodii'ą́ áádóó ákwii nidahaazná, áko Lííshem hoolyéii dahazhé'é yę́ę Dan bízhi' bee dahojíízhi'. 
+6:19:007:1	Jáshowa kéyah baa deet'ą́
+6:19:048:0	Díí éí Dan dine'é ahii' háá'ahiyoolchíiłii bik'ehgo íí' dadooleełii éí kin hadaas'áhígíí binaagóó bikin dah naazhjaa'ígíí t'áá bił bíí' daazlį́į́'. 
+6:19:049:0	Kéyah íí' dadooleełii ałtso ałtaa dazdeest'ą́ągo Ízrel dine'é dabitahgi Nan biye' Jáshowa kéyah hóó' dooleełii haa deideez'ą́. 
+6:19:050:0	Bóhólníihii éí saad yee haadzíi'ii bik'ehgo kin haal'áhígíí jííkeedii haa deideez'ą́, éí Tímnath-síírah kin haal'áii éí dziłgo nahaz'ánígóó Íífreiyim dine'é bikéyah biyi', ákwii kin haal'áago áńjiidlaago ákwii kééhojit'į́į́ nít'éé'. 
+6:19:051:0	Díí éí kéyah hóó' dadooleełii náá'iiłniihii Eliyéízar áádóó Nan biye' Jáshowa índa Ízrel dine'é bidóone'é bik'ehgo yá aląąjį' naazíinii éí yáá'iilt'e' bik'ehgo Ízrel dine'é bá kéyah ałts'ádeizogo, Sháíloh haz'ánídi Bóhólníihii binááł níbaal bii' dahozdísinii bich'é'étiingi kéyah ałtso ałtaa deisdzo.

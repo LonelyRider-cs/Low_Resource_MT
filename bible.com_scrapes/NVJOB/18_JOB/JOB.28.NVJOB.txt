@@ -1,0 +1,29 @@
+18:28:001:1	Diné éí hódzą́ hadeintá
+18:28:001:0	T'áá aaníí béésh łigaii haagéédáádóó óola náhidilyį́į́h bá haz'ą́. 
+18:28:002:0	Béésh nitł'izii éí nahasdzáán biyi'dóó haagééd áádóó tsé bii'dóó bééshłitsoii hadahidilyį́į́h. 
+18:28:003:0	Diné ha'agédígíí t'áá nihoodzą́ąjį' haigédígíí neiłkaah,áádóó índa bee hool'iní yidiiłtłi'go t'áá íiyisí chahałheełdiínda doo naagháhí góne' ha'agéedgo yaa nídiidááh. 
+18:28:004:0	Diné kéédahat'ínígíí bits'áhwiiní'ą́ądi i'iiníiłgo ha'agéedgo yaa nídiidááh;łeeyi'di ałnánálch'ąłgo t'áá tł'óo'di nidaakaígíí bits'ą́ądi ha'agééd. 
+18:28:005:0	Łeeyi'dóó ch'iyáán nihwiileeh;níléí wóyahdi łeeyi'di kǫ' bee nishódahoot'eehígíí bee łahgo ánáyoodlííł. 
+18:28:006:0	Tsé bits'ą́ą́dóó tsé ílíinii sáfair wolyéii hólǫ́,áádóó łeeyi' óola hólǫ́. 
+18:28:007:0	Jó, áadi naat'agii éí atsį' hadeintáii doo hólǫ́ǫ da,áádóó jeeshóó' doo hoo'į́į da; 
+18:28:008:0	naaldlooshii da'aldeełii doo ákǫ́ǫ́ nidaakai da,índa náshdóítsoh bitsiijį' daditł'ooii doo ákǫ́ǫ́ nidaakai da. 
+18:28:009:0	Tsé nitł'izii yidilnishgo ch'il hahalts'ǫǫdígi át'éegodził naaznilígíí bee niłdzilii t'áá yił nídeidiyeenił. 
+18:28:010:0	Tó nídadinahgóó tsétahgi na'anił;tsé da'ílíinii t'áá át'é yik'éghááh. 
+18:28:011:0	Tó doo danílį́į da dooleeł biniyé yidáda'diłtł'į́įhgodoo daat'íinii daat'į́ neheleeh. 
+18:28:012:0	Nidi háadi lá hódzą́ bik'í'doodááł?Áádóó háadi lá ak'idi'dootį́łígíí bá haz'ą́? 
+18:28:013:0	Hódzą́ bą́ą́h ílíinii éí diné doo bił bééhózin da,índa nihokáa'gi dahináanii bitahgi ádin. 
+18:28:014:0	Tónteel ditáanii ání, Shí doo shii' hólǫ́ǫ da,índa tónteel ání, Shí shee ádin. 
+18:28:015:0	Óola doo bik'é nidoolyéeł da,índa béésh łigaii doo bik'é dahididoodloh da. 
+18:28:016:0	Óferdę́ę́' óola ts'ídá ílíinii biláahgo ílį́,índa nitł'iz ałtaas'éí ániks áádóó sáfair wolyéii biláahgo ílį́. 
+18:28:017:0	Óola índa tózis biisdííłtóolii éí hódzą́ ílíinii doo bił aheełt'éego ílį́į da;yódí ałtaas'éí óola ílíinii bee ádaalyaii doo bił ałgháá'jó'nííł át'ée da. 
+18:28:018:0	Áko yoo' łichí'í áádóó diichiłí ílíinii t'áadoo biniyéhí da, jiníi dooleeł;nitł'iz ałtaas'éí da'ílíinii biláahgo hódzą́ ílį́. 
+18:28:019:0	Iithiyópiya kéyahdę́ę́' tsé ílíinii tópaz wolyéii nidi doo í'jítį́įh da;óola éí t'áá bízhání nidi t'áá níjíí'oh. 
+18:28:020:0	Ákoshą' háádę́ę́' hódzą́ nihwiileeh?Áádóó háádę́ę'shą' ak'idi'yiitįįh hwee hodooleeł? 
+18:28:021:0	Hiná nináneel'ą́ąjį' t'áá ałtso bits'ąą nanil'in,índa tsídii wódahgo naaldeehii bits'ąą nanil'in. 
+18:28:022:0	Hool'áágóó atí'éłíinii áádóó aniné ání, T'óó jiní, ha'níigo t'éí baa hodiits'a'. 
+18:28:023:0	Diyin God éí hódzą́ át'éii bił bééhózin,áádóó ákwe'é át'éegi bił bééhózin, 
+18:28:024:0	háálá nahasdzáán nidahonees'ą́ą́góódéez'į́į́',áádóó wódahgo dahólóonii t'áá ałtso yoo'į́. 
+18:28:025:0	Níyol haa bóodziilgo áyiilaagoáádóó tó ádanéelt'e'ígíí yída'nééł'ąądgo 
+18:28:026:0	áádóó nidahałtin doogoínda nida'dilch'il doogo yee nihodiiz'ą́ągo 
+18:28:027:0	kót'éego yiníł'į́, áádóó yaa ch'íhoní'ą́áádóó bidziilgo áyiilaa índa t'áá aaníí hayíísid. 
+18:28:028:0	Áádóó diné áyidííniid, Shoo, Bóhólníihii dólzin éí hódzą́ át'é, áádóó doo yá'át'éehii bits'ájígháahgo ak'izhdi'yiitįįh jileeh.

@@ -1,0 +1,56 @@
+4:1:001:1	Sáínai honoojíidi Ízrel dine'é bi'déélta'
+4:1:001:0	Bóhólníihii éí Mózes yich'į' haadzíí'; Sáínai honoojíidi níbaal bii' dahozdísinii góne' naaki nídízííd binih ła'a jį́į́ góne' éí Ííjip kéyahdę́ę́' ch'ééjí'náádóó bik'ijį' naaki náhááh góne' áháłní, 
+4:1:002:0	Ízrel dine'é dah deínéehii t'áá ałtso ahii' háá'ahiyoolchíiłii bitahgi dabizhé'é yę́ę ba'áłchíní da'ahílchíihii bik'ehgo bee dabi'dééji'ígíí łá'í nízínígo yíní łta', 
+4:1:003:0	Ízrel dine'é danilíinii bitahgi naadiindóó yówehgo béédááhaii ana'al'į́ yídaneel'áanii t'áá ałtso dah deínéehii Éran bił yídííłtah. 
+4:1:004:0	Áádóó nihíká adoojahii éí dine'é danilíinii dabizhé'é yę́ę bits'ą́ą́dóó náás ahoolchíiłii aląąjį' naazínígíí łá'í nítínígo 
+4:1:005:0	éí diné nihíká adoojahígíí kódaolyé: Shédiyer éí Rúben dine'é nilį́įgo biye' Iiláízer, 
+4:1:006:0	Zúrishádai éí Símiyan dine'é nilį́įgo biye' Shiilúmiyel, 
+4:1:007:0	Amínadab éí Júdah dine'é nilį́įgo biye' Náshan, 
+4:1:008:0	Zú'er éí Ísakar dine'é nilį́įgo biye' Niithániyel, 
+4:1:009:0	Híílan éí Zébyulan dine'é nilį́įgo biye' Iiláíyab, 
+4:1:010:0	Jóseph ba'áłchíní Íífreiyim dine'é nilį́įgo Amáíhad biye' Iilíshama, áádóó Manáseh dine'é nilį́įgo Piidázer biye' Gaméíliyel, 
+4:1:011:0	Gídiyónai éí Bénjamin dine'é nilį́įgo biye' Abáídan, 
+4:1:012:0	Amishádai éí Dan dine'é nilį́įgo biye' Eihaiyíízer, 
+4:1:013:0	Ákran éí Ásher dine'é nilį́įgo biye' Péígiyel, 
+4:1:014:0	Dúwel éí Géed dine'é nilį́įgo biye' Iiláíyasaf, 
+4:1:015:0	Íínan éí Náftalai dine'é nilį́įgo biye' Aháíra. 
+4:1:016:0	Díí éí dah da'ínéehii bitahdę́ę́' náhaasdlá'ígíí áádóó dabizhé'é yę́ę bidine'é danilínígíí Ízrel dine'é miilgo dah deínéehii yiląąjį' naazíinii danilį́. 
+4:1:017:0	Áko Mózes índa Éran díí diné dabi'dééji'ígíí néidiinil, 
+4:1:018:0	áádóó naaki nídízííd binih ła'a jį́į́ góne' dah da'ínéhígíí t'áá ałtso áłah áyiilaago da'azhé'é yę́ę ádadóone'é danilínígíí bits'ą́ą́dóó da'ahílchíihii dabízhi' bik'ehgo diné naadiindóó yówehgo béédááhaii dayéélta'. 
+4:1:019:0	Mózes hach'į' Bóhólníihii yee haadzí'ígi át'éego Sáínai honoojíidi diné jííłta'. 
+4:1:020:0	Rúben dine'é nilíinii Ízrel alą́ąjį' bá yizhchíinii ba' áłchíní náás ahoolchíiłii éí ahii' háá'ahiyoolchíłígíí dabizhé'é yę́ę ya'áłchíní danilį́įgo dabízhi' bik'ehgo diné naadiindóó yówehgo béédááhaii t'áá ałtso ana'al'į́ yídaneel'áanii 
+4:1:021:0	éí Rúben dine'é bits'ą́ą́dóó dízdiindóó ba'aan hastą́ądi mííldóó ba'aan ashdladi neeznádiingo ánéelą́ą́'. 
+4:1:022:0	Símiyan dine'é nilíinii bidine'é náás ahoolchíiłii éí ahii' háá'ahiyoolchíłígíí dabizhé'é yę́ę yada'áłchíní danilį́įgo éí dabi'déélta'ii dabízhi' bik'ehgo diné naadiindóó yówehgo béédááhaii t'áá ałtso ana'al'į́ yídaneel'áanii 
+4:1:023:0	éí Símiyan dine'é bits'ą́ą́dóó ashdladiindóó ba'aan náhást'éidi mííldóó ba'aan táadi neeznádiin ánéelą́ą́'. 
+4:1:024:0	Géed dine'é nilíinii bidine'é náás ahoolchíiłii éí ahii' háá'ahiyoolchíłígíí dabizhé'é yę́ę yada'áłchíní danilį́įgo éí dabi'déélta'ii dabízhi' bik'ehgo diné naadiindóó yówehgo béédááhaii t'áá ałtso ana'al'į́ yídaneel'áanii 
+4:1:025:0	éí Géed dine'é bits'ą́ą́dóó dízdiindóó ba'aan ashdladi mííldóó ba'aan hastą́ądi neeznádiindóó ba'aan ashdladiin ánéelą́ą́'. 
+4:1:026:0	Júdah dine'é nilíinii bidine'é náás ahoolchíiłii éí ahii' háá'ahiyoolchíłígíí dabizhé'é yę́ę yada'áłchíní danilį́įgo éí dabi'déélta'ii dabízhi' bik'ehgo diné naadiindóó yówehgo béédááhaii t'áá ałtso ana'al'į́ yídaneel'áanii 
+4:1:027:0	éí Júdah dine'é bits'ą́ą́dóó tsosts'idiindóó ba'aan dį́įdi mííldóó ba'aan hastą́ądi neeznádiin ánéelą́ą́'. 
+4:1:028:0	Ísakar dine'é nilíinii bidine'é náás ahoolchíiłii éí ahii' háá'ahiyoolchíłígíí dabizhé'é yę́ę yada'áłchíní danilį́įgo éí dabi'déélta'ii dabízhi' bik'ehgo diné naadiindóó yówehgo béédááhaii t'áá ałtso ana'al'į́ yídaneel'áanii 
+4:1:029:0	éí Ísakar dine'é bits'ą́ą́dóó ashdladiindóó ba'aan dį́įdi mííldóó ba'aan dį́įdi neeznádiin ánéelą́ą́'. 
+4:1:030:0	Zébyulan dine'é nilíinii bidine'é náás ahoolchíiłii éí ahii' háá'ahiyoolchíłígíí dabizhé'é yę́ę yada'áłchíní danilį́įgo éí dabi'déélta'ii dabízhi' bik'ehgo diné naadiindóó yówehgo béédááhaii t'áá ałtso ana'al'į́ yídaneel'áanii 
+4:1:031:0	éí Zébyulan dine'é bits'ą́ą́dóó ashdladiindóó ba'aan tsosts'idi mííldóó ba'aan dį́įdi neeznádiin ánéelą́ą́'. 
+4:1:032:0	Jóseph ba'áłchíní nilíinii, Íífreiyim dine'é náás ahoolchíiłii ahii' háá'ahiyoolchíłígíí dabizhé'é yę́ę yada'áłchíní danilį́įgo dabi'déélta'ígíí dabízhi' bik'ehgo naadiindóó yówehgo béédááhaii t'áá ałtso ana'al'į́ yídaneel'áanii 
+4:1:033:0	éí Íífreiyim dine'é bits'ą́ą́dóó dízdiindi mííldóó ba'aan ashdladi neeznádiin ánéelą́ą́'. 
+4:1:034:0	Áádóó Manáseh dine'é nilíinii bidine'é náás ahoolchíiłii éí ahii' háá'ahiyoolchíłígíí dabizhé'é yę́ę yada'áłchíní danilį́įgo éí dabi'déélta'ii dabízhi' bik'ehgo diné naadiindóó yówehgo béédááhaii t'áá ałtso ana'al'į́ yídaneel'áanii 
+4:1:035:0	éí Manáseh dine'é bits'ą́ą́dóó tádiindóó ba'aan naakidi mííldóó ba'aan naakidi neeznádiin ánéelą́ą́'. 
+4:1:036:0	Bénjamin dine'é nilíinii bidine'é náás ahoolchíiłii éí ahii' háá'ahiyoolchíłígíí dabizhé'é yę́ę yada'áłchíní danilį́įgo éí dabi'déélta'ii dabízhi' bik'ehgo diné naadiindóó yówehgo béédááhaii t'áá ałtso ana'al' į́ yídaneel'áanii 
+4:1:037:0	éí Bénjamin dine'é bits'ą́ą́dóó tádiindóó ba'aan ashdladi mííldóó ba'aan dį́įdi neeznádiin ánéelą́ą́'. 
+4:1:038:0	Dan dine'é nilíinii bidine'é náás ahoolchíiłii éí ahii' háá'ahiyoolchíłígíí dabizhé'é yę́ę yada'áłchíní danilį́įgo éí dabi'déélta'ii dabízhi' bik'ehgo diné naadiindóó yówehgo béédááhaii t'áá ałtso ana'al'į́ yídaneel'áanii 
+4:1:039:0	éí Dan dine'é bits'ą́ą́dóó hastą́diindóó ba'aan naakidi mííldóó ba'aan tsosts'idi neeznádiin ánéelą́ą́'. 
+4:1:040:0	Ásher dine'é nilíinii bidine'é náás ahoolchíiłii éí ahii' háá'ahiyoolchíłígíí dabizhé'é yę́ę yada'áłchíní danilį́įgo éí dabi'déélta'ii dabízhi' bik'ehgo diné naadiindóó yówehgo béédááhaii t'áá ałtso ana'al'į́ yídaneel'áanii 
+4:1:041:0	éí Ásher dine'é bits'ą́ą́dóó dízdiindóó ba'aan t'ááłáhídi mííldóó ba'aan ashdladi neeznádiin ánéelą́ą́'. 
+4:1:042:0	Náftalai dine'é nilíinii bidine'é náás ahoolchíiłii éí ahii' háá'ahiyoolchíłígíí dabizhé'é yę́ę yada'áłchíní danilį́įgo éí dabi'déélta'ii dabízhi' bik'ehgo diné naadiindóó yówehgo béédááhaii t'áá ałtso ana'al'į́ yídaneel'áanii 
+4:1:043:0	éí Náftalai dine'é bits'ą́ą́dóó ashdladiindóó ba'aan táadi mííldóó ba'aan dį́įdi neeznádiin ánéelą́ą́'. 
+4:1:044:0	Mózes áádóó Éran éí díí diné yiyííłta'; éí Ízrel dine'é binaat'áanii naakits'áadahgo dabizhé'é yę́ę yik'eh nízį́įgo bił ajííłta'. 
+4:1:045:0	Kót'éego díí Ízrel dine'é t'áá ałtso yéélta'ígíí éí dabizhé'é yę́ę bits'ą́ą́dóó bik'ehgo Ízrel dine'é naadiindóó yówehgo béédááhaii t'áá ałtso ana'ííł'į́ yídaneel'áanii 
+4:1:002:1	Líívai dine'é éí níbaal bii' hodílzinii baa ádahojilyą́ą doo biniyé niho'dee'nil
+4:1:046:0	éí t'áá ałtso yéélta'go hastą́ądi neeznádiindóó ba'aan táadi mííldóó ba'aan ashdladi neeznádiindóó ba'aan ashdladiin ánéelą́ą́'. 
+4:1:047:0	Nidi Líívai dine'é éí dabizhé'é yę́ę bik'ehgo t'áadoo atah dabi'déélta' da. 
+4:1:048:0	Háálá átséedi Bóhólníihii éí Mózes yich'į' haadzíi'go áyidííniid, 
+4:1:049:0	T'áá hazhó'ó Líívai dine'é t'éiyá doo yídííłtah da, doo nidi Ízrel dine'é bitahjį' bił íídííłtah da. 
+4:1:050:0	Nidi Líívai dine'é éí níbaal bii' hodílzinii, éí neeznáago bik'eh ó'oo'níiłii bee bééhániihii bii' sinilii, áádóó łeets'aa' t'áá át'é índa t'áá ałtsojį' bił chodao'íinii bee hódahólníih doogo nihodíínił, índa níbaal bii' hodílzinii áádóó t'áá ałtsojį' bił chodao'íinii t'áá bił nidajiyéego baa ádahojilyą́ą dooleeł, índa níbaal bii' hodílzinii binaagóó ninádaji'néeh doo. 
+4:1:051:0	Áko níbaal bii' hodílzinii nihidoogéełgo Líívai dine'é éí ninádei'dii'áah doo, índa nináádoot'áałgo Líívai dine'é éí ninádei'áah dooleeł, índa t'áá háiida doo Líívai dine'é nilíinii níbaal bii' hodílzinii yíighahjį' deeyáii éí bidi'yoolyééł. 
+4:1:052:0	Áádóó Ízrel dine'é éí dahaníbaal ninádaji'nił doo; diné t'ááłá'í nízínígo t'áá hó haníbaal ninát'áahgi, t'áá hó hadah na'at'a'í bíighahgi ninádaji'néeh doo. 
+4:1:053:0	Nidi Líívai dine'é éí níbaal bii' hodílzinii, éí neeznáago bik'eh ó'oo'níiłii bee bééhániihii bii' sinilii, binaagóó biníbaal ninádei'nił doo, áko Ízrel dine'é dah yinéełii atí'él'į́ doo bik'i hwiidooleeł da; Líívai dine'é éí níbaal bii' hodílzinii, éí neeznáago bik'eh ó'oo'níiłii bee bééhániihii bii' sinilii, bee bídahólníihgo yaa ádahalyą́ą doo. 
+4:1:054:0	Áko Ízrel dine'é t'áá ákǫ́ǫ́ ádaadzaago Bóhólníihii éí Mózes yich'į' yee haadzí'ígíí t'áá át'é yik'eh ádaadzaa.

@@ -1,0 +1,35 @@
+1:11:001:1	Béíbel hoolyéegi kin wót'ááh yí'áii
+1:11:001:0	Áko nahasdzáán t'áá si'ą́ą́ nít'éé' bikáa'gi saad bee yádajiłti'ígíí t'ááłá'í nít'éé'. 
+1:11:002:0	Áko áádóó ha'a'aahdę́ę́' joonéełgo Sháínar kéyahgi honíteel léi' bik'ízhnínáago ákwii kéédahojit'į́į́ nít'éé'. 
+1:11:003:0	Áádóó áda'ahizhdoo'niid, Haa'íshą' hashtł'ish ádadiilníiłgo t'áá íiyisí dadiilt'is. Áko hashtł'ish sit'éego tsé silį́'ígíí áádóó łeejin dijé'ígíí bił adazh'niitł'in. 
+1:11:004:0	Áko ánáádazhdoo'niid, Haa'íshą' kin haal'áago áádóó kin wót'ááh yí'áago yá bich'į' niní'áago ádadiilnííł, kót'éego yízhí ayóó át'éii bee nihi'dójíigo ádadiilnííł, áko nahasdzáán bikáa'gi doo da'níłts'ą́ą́'góó nihiidiildah da. 
+1:11:005:0	Áko Bóhólníihii éí diné ba'áłchíní éí kin haal'áii índa kin wót'ááh yí'áii yindaash'nishígíí jidínóoł'įįł biniyé hadahojííle'. 
+1:11:006:0	Áko Bóhólníihii ádííniid, Shoo, diné t'ááłá'í danilį́, áádóó saad t'ááłá'íígíí yee yádaałti', áko díí yaa nídiikai lá, áádóó ha'át'íhígíida deinízingo doo ch'ééh ádeidooł'įįł da lá. 
+1:11:007:0	Haa'íshą' hatahjį' bidadiikah, áko hats'ą́ą́' hazaad ał'ąą át'éego bee yádajiłti'go doo ałk'idazh'diitįįh da dooleeł. 
+1:11:008:0	Áko Bóhólníihii éí nahasdzáán bikáá' da'níłts'ą́ą́'góó tadzooskaigo áhoolaa, áko kin haal'áago ádajilééh yę́ę t'óó bik'izdeeskai. 
+1:11:002:1	Shem bits'ą́ą́dóó adideezhchíinii
+1:11:009:0	Áko Béíbel hoosye', háálá Bóhólníihii ákwii hazaad ał'ąą át'éego bee yádajiłti'go áhoolaa, áádóó Bóhólníihii éí nahasdzáán bikáá' da'níłts'ą́ą́'góó tadzooskaigo áhoolaa. 
+1:11:010:0	Díí Shem ba'áłchíní náás da'ahílchíihii danilį́: Shem neeznádiin honááhaigo tó nahwéskaidóó naaki nááhaigo Arfáksad há yizhchį́. 
+1:11:011:0	Shem éí Arfáksad há yizhchį́į́dóó bik'ijį' jiináago ashdladi neeznádiin honínáánááhaígíí biyi' haye'ké índa hatsi'ké há niheezhchį́. 
+1:11:012:0	Arfáksad jiináago tádiindóó ba'aan ashdla' honááhaigo Shíílah há yizhchį́. 
+1:11:013:0	Arfáksad éí Shíílah há yizhchį́į́dóó bik'ijį' jiináago dį́įdi neeznádiindóó ba'aan táá' honínáánááhaígíí biyi' haye'ké índa hatsi'ké há niheezhchį́. 
+1:11:014:0	Shíílah jiináago tádiin honááhaigo Ííber há yizhchį́. 
+1:11:015:0	Shíílah éí Ííber há yizhchį́į́dóó bik'ijį' jiináago dį́įdi neeznádiindóó ba'aan táá' honínáánááhaígíí biyi' haye'ké índa hatsi'ké há niheezhchį́. 
+1:11:016:0	Ííber jiináago tádiindóó ba'aan dį́į́' honááhaigo Pííleg há yizhchį́. 
+1:11:017:0	Áko Ííber éí Pííleg há yizhchį́į́dóó bik'ijį' jiináago dį́įdi neeznádiindóó ba'aan tádiin honínáánááhaígíí biyi' haye'ké índa hatsi'ké há niheezhchį́. 
+1:11:018:0	Pííleg jiináago tádiin honááhaigo Ríyu há yizhchį́. 
+1:11:019:0	Áko Pííleg éí Ríyu há yizhchį́į́dóó bik'ijį' jiináago naakidi neeznádiindóó ba'aan náhást'éí honínáánááhaígíí biyi' haye'ké índa hatsi'ké há niheezhchį́. 
+1:11:020:0	Ríyu jiináago tádiindóó ba'aan naaki honááhaigo Síírag há yizhchį́. 
+1:11:021:0	Ríyu éí Síírag há yizhchį́į́dóó bik'ijį' jiináago naakidi neeznádiindóó ba'aan tsosts'id honínáánááhaígíí biyi' haye'ké índa hatsi'ké há niheezhchį́. 
+1:11:022:0	Síírag jiináago tádiin honááhaigo Néíhor há yizhchį́. 
+1:11:023:0	Áko Síírag éí Néíhor há yizhchį́į́dóó bik'ijį' jiináago naakidi neeznádiin honínáánááhaígíí biyi' haye'ké índa hatsi'ké há niheezhchį́. 
+1:11:024:0	Néíhor jiináago naadiin náhást'éí honááhaigo Tíírah há yizhchį́. 
+1:11:025:0	Áádóó Néíhor éí Tíírah há yizhchį́į́dóó bik'ijį' jiináago neeznádiindóó ba'aan náhást'éíts'áadah honínáánááhaígíí biyi' haye'ké índa hatsi'ké há niheezhchį́. 
+1:11:003:1	Tíírah bits'ą́ą́dóó adideezhchíinii
+1:11:026:0	Áádóó Tíírah jiináago tsosts'ídiin honááhaigo Éíbram áádóó Néíhor índa Héíran há niheezhchį́. 
+1:11:027:0	Díí Tíírah ba'áłchíní náás da'ahílchíihii danilį́: Tíírah éí Éíbram áádóó Néíhor índa Héíran há niheezhchį́, áko Héíran éí Lat há yizhchį́. 
+1:11:028:0	Kaldíya dine'é bikéyah biyi' ho'dizhchį́ yę́ęgi Er kin haal'áadi Héíran éí hazhé'é Tíírah t'áá bítséedi dadziztsą́. 
+1:11:029:0	Éíbram áádóó Néíhor t'áá ájíłah hwe'asdzą́ą́ hazlį́į́': Éíbram hwe'asdzą́ą́ éí Sérai wolyé, áádóó Néíhor hwe'asdzą́ą́ éí Mílkah wolyé, éí Héíran yitsi' nilį́; Héíran éí Mílkah áádóó Ískah bizhé'é jílį́į́ nít'éé'. 
+1:11:030:0	Nidi Sérai doo ałchíígóó ba'áłchíní doo hólǫ́ǫ da. 
+1:11:031:0	Áko Tíírah éí haye' Éíbram índa Héíran yę́ę biye', hanálí Lat, áádóó hazháá'áád Sérai éí haye' Éíbram be'asdzą́ą́ nilį́įgo t'áá ła' bizhi'ee dashdiikai; Kaldíya dine'é bikéyahgi Er kin haal'áádóó Kéínan kéyahgóó joonéełgo t'áá Héíran kin haal'áagi jinínáago ákwii kéédahojit'į́į́ nít'éé'. 
+1:11:032:0	Áko Tíírah bíídíiską́ą́dóó naakidi neeznádiindóó ba'aan ashdla' binááhaigo Héírangi daaztsą́.

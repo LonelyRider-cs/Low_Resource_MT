@@ -1,0 +1,33 @@
+1:10:001:1	Nóah biye'ké bits'ą́ą́dóó adideezhchíinii
+1:10:001:0	Díí éí Nóah biye'ké Shem áádóó Ham índa Jéífeth bits'ą́ą́dę́ę́' náás oochíłígíí ádaat'į́. Tó nahwéskaidóó bik'ijį' dabiye'ké nidahaazhchį́. 
+1:10:002:0	Jéífeth biye'ké éí Gómar áádóó Méígag áádóó Madéíyai áádóó Jéívan áádóó Túbal áádóó Mííshek índa Tíras daolyé. 
+1:10:003:0	Gómar biye'ké éí Áshkenaz áádóó Ráífath índa Togármah daolyé. 
+1:10:004:0	Jéívan biye'ké éí Iiláísha áádóó Társhish áádóó Kítim índa Dódanim daolyé. 
+1:10:005:0	Áko díí oochíiłii tónteel bibąąhgóó ał'ąą dine'é hodideezlį́į'go da'níłts'ą́ą́'góó dah dadiiná; t'áá bí dabizaadjí yee yádaałti'go, áádóó ał'ąą dadóone'é t'áá bí bikédaayahgóó kéédahat'į́. 
+1:10:006:0	Ham biye'ké éí Kush áádóó Mízreiyim áádóó Put índa Kéínan daolyé. 
+1:10:007:0	Kush biye'ké éí Sííba áádóó Hávilah áádóó Sábta áádóó Réíyamah índa Sábtiika daolyé. Réíyamah biye'ké éí Shííba áádóó Díídan wolyé. 
+1:10:008:0	Kush éí Nímrad há yizhchį́, éí nahasdzáán bikáa'gi diné bidziilii silį́į́'. 
+1:10:009:0	Éí Bóhólníihii binááł ayóó át'éego naalzheehii dzizlį́į́', éí bąą Nímrad áát'įįdígi át'éego Bóhólníihii binááł ayóó át'éego nijilzheeh, hodi'ní. 
+1:10:010:0	Kéyah Sháínar biyi' kin hadaas'áhígíí Béíbel áádóó Íírek áádóó Ákad índa Kálneh dahoolyéegi bee hóhólníihgo hahoolzhiizh. 
+1:10:011:0	Éí kéyahdóó Asíriya hoolyéejį' ajííyáago ákwii kin hadaas'áago ájiilaa. Níneveh áádóó Riihóbath índa Kéílah yee yiyíízhi'. 
+1:10:012:0	Díí Níneveh áádóó Kéílah bita'gi Ríísen hoolyéii ayóó át'é kin haal'áii ájiilaa. 
+1:10:013:0	Mízreiyim há niheezhchíinii kódaolyé: Lúdim áádóó Ánamim áádóó Liihéíbim áádóó Naftúhim 
+1:10:014:0	áádóó Pathrúsim áádóó Kaslúhim (Kaslúhim hats'ą́ą́dóó Filístiya dine'é ch'íbítiin) índa Kaftórim ałdó'. 
+1:10:015:0	Kéínan éí Sáídan alą́ąjį' há yizhchį́, áádóó Het 
+1:10:016:0	ákóne' índa Jííbas dine'é áádóó Ámor dine'é áádóó Gírgas dine'é 
+1:10:017:0	áádóó Háíva dine'é áádóó Árka dine'é áádóó Sin dine'é 
+1:10:018:0	áádóó Árva dine'é áádóó Zémar dine'é índa Héíma dine'é éí Kéínan bá niheezhchį́. Áádóó bik'ijį' Kéínan dine'é ałts'ádahaazná. 
+1:10:019:0	Áko Sáídan kin haal'áádóó Géízagi Jíírar kin haal'áhíjį' áádóó Sádam áádóó Gomárah áádóó Ádmah índa Ziibówim kin hadaas'áajį' éí Léísha hoolyéejį' Kéínan dine'é bikéyah nineel'ą́. 
+1:10:020:0	Díí éí Ham biye'ké ba'áłchíní ádaat'į́; ał'ąą dadóone'é t'áá hó hazaadjí bee yádajiłti'go t'áá hó hakédaayahgóó hadine'é bił hoł nahaz'ą́. 
+1:10:021:0	Jéífeth bínaaí, Shem ałdó' ba'áłchíní bá niheezhchį́; Shem éí Ííber ba'áłchíní t'áá ałtso binálí jílį́. 
+1:10:022:0	Shem ba'áłchíní éí Íílam áádóó Ásher áádóó Arfáksad áádóó Lud índa Áram daolyé. 
+1:10:023:0	Áram ba'áłchíní éí Uz áádóó Hul áádóó Gííther índa Mash daolyé. 
+1:10:024:0	Arfáksad éí Shíílah há yizhchį́, áádóó Shíílah éí Ííber há yizhchį́. 
+1:10:025:0	Ííber naaki haye' há yizhchį́, ła' Pííleg wolyé, háálá Pííleg t'ah hiná yę́ędą́ą́' nahasdzáán bikáa'gi ałts'áda'iizná; bitsilí éí Jáktan wolyé. 
+1:10:026:0	Jáktan há niheezhchíinii éí Almódad áádóó Shíílef áádóó Héízar-méíveth áádóó Jíírah 
+1:10:027:0	áádóó Hadóram áádóó Yúzal áádóó Díklah 
+1:10:028:0	áádóó Óbal áádóó Abímeiyel áádóó Shííba 
+1:10:029:0	áádóó Ófer áádóó Hávilah índa Jóbab daolyé. Díí t'áá ałtso Jáktan biye'ké danilį́. 
+1:10:030:0	Áko Mííshah hoolyéédóó ha'a'aahjígo Dził Síífar bich'į'go kéédahat'į́. 
+1:10:031:0	Díí éí Shem biye'ké ba'áłchíní ádaat'į́; ał'ąą dadóone'é t'áá hó hazaadjí bee yádajiłti'go t'áá hó hakédaayahgóó hadine'é bił hoł nahaz'ą́. 
+1:10:032:0	Díidí Nóah biye'ké bada'áłchíní náás da'ahílchíihgo bił nahaz'ą́ą́ nít'éé'; tó nahwéskaidóó bik'ijį' díí t'áá ałtso nahasdzáán bikáá'góó da'níłts'ą́ą́'góó tadaozná.

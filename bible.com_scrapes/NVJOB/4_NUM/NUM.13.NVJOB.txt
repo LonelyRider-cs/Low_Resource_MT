@@ -1,0 +1,34 @@
+4:13:001:1	Naalchi'í naakits'áadahgo Kéínan kéyahgóó dabi'dool'aad
+4:13:001:0	Áádóó Bóhólníihii éí Mózes yich'į' haadzíi'go ání, 
+4:13:002:0	Diné dadíł'áago Kéínan kéyah hadeidoosił; éí Ízrel dine'é baa dinish'aahígíí dabizhé'é yę́ę bidine'é t'áá ałtso bitahdóó aląąjį' naazínígíí ła' dadííł'aał. 
+4:13:003:0	Áko Mózes éí Bóhólníihii hach'į' yee haadzí'ígíí bik'ehgo Péíran honoojíídóó dah dazhdiił'a'; éí t'áá ałtso Ízrel dine'é aląąjį' naazíinii danilį́. 
+4:13:004:0	Éí kót'éego dabi'dójí: Rúben dine'é bitahdóó Záker biye' Shamúwa. 
+4:13:005:0	Símiyan dine'é bitahdóó Hórai biye' Shéífat. 
+4:13:006:0	Júdah dine'é bitahdóó Jiifáneh biye' Kéíleb. 
+4:13:007:0	Ísakar dine'é bitahdóó Jóseph biye' Ígal. 
+4:13:008:0	Íífreiyim dine'é bitahdóó Nan biye' Hoshíya. 
+4:13:009:0	Bénjamin dine'é bitahdóó Réífu biye' Páltai. 
+4:13:010:0	Zébyulan dine'é bitahdóó Sódai biye' Gádiyel. 
+4:13:011:0	Jóseph dine'é, t'áá éí Manáseh dine'é bitahdóó Súsai biye' Gádai. 
+4:13:012:0	Dan dine'é bitahdóó Giimáli biye' Ámiyel. 
+4:13:013:0	Ásher dine'é bitahdóó Máíkel biye' Sííther. 
+4:13:014:0	Náftalai dine'é bitahdóó Váfsai biye' Nábi. 
+4:13:015:0	Géed dine'é bitahdóó Méíkai biye' Giiyúwel. 
+4:13:016:0	Diné kódaolyéhígíí éí kéyah hadeidoosił biniyé Mózes abiis'a'. Áko Mózes éí Nan biye' Hoshíya wolyéii Jáshowa bee jíízhi'. 
+4:13:017:0	Áko Kéínan kéyah hadeidoosił biniyé Mózes éí diné deidees'aadgo ííłní, Díí kéyah shádi'áahjigo áádóó dził bíidoohkah; 
+4:13:018:0	kéyahgi haa hoot'é éí hadadoohsił; diné dabidziilgo daats'í kéédahat'į́, dooda daats'í; t'áá díkwíhí, doodaii' lą'í daats'í, 
+4:13:019:0	áádóó kéyah lá haa hoot'éego yii' kéédahat'į́; yá'áhoot'ééh, doodaii' doo daats'í yá'áhoot'éeh da, áádóó kin hadaas'áii haa daat'éii yii' kéédahat'į́; níbaal daats'í yii' dabighan, doodaii' bidziilgo biná'ástł'ingo daats'í kéédahat'į́, 
+4:13:020:0	índa kéyah bikáá' haa hoot'é; áda'azįįd daats'í, doodaii' doo daats'í áda'azįįd da; tsin daats'í deíl'á, ádin daats'í. Áádóó chánah áda'díí'nółdzingo kéyah bikáá' daneest'áanii ła' nídadoohjih. Áko k'ad éí ch'il na'atł'o'ii átsé nínádant'į́hígíí daneest'ą́ąjį' ahoolzhiizh. 
+4:13:021:0	Áko ákóde dashdiikaigo kéyah honoojí Zin hoolyéhídóó Rííhobjį' éí Héímath yah ahóót'i'jį' hadajíísid. 
+4:13:022:0	Áádóó kéyah shádi'ááhjí hoolyéédę́ę'go hadziskaigo Hííbran kin haal'áajį' jíkai; ákwii Éínak ba'áłchíní Aháíman, Shííshai índa Tálmai daolyéii kéédahat'į́į́ lá. (Hííbran kin haal'áii ályaadóó bik'ijį' tsosts'id nááhaigo Ííjip kéyah nahós'a'gi Zówan kin haal'áago áhoolyaa.) 
+4:13:023:0	Áko Éshkol góyaa tó nílíníjį' jíkai; ákwii ch'il na'atł'o'ii bits'áoz'a' bineest'ą' t'áá bąąh dah siyį́įgo k'ídadzisne'; nizhdilt'éego tsin hata' naní'áago bee nihizhníyį́, áádóó pámgrenit bineest'ą' índa fig naazkaadii bineest'ą' ałdó' nidadzizyį́. 
+4:13:024:0	Ákwii tó nílínígíí Éshkol hoolyée doo, dazhdííniid, háálá ákwii Ízrel dine'é éí ch'il na'atł'o'ii bits'áoz'a' bineest'ą' t'áá yił k'ídeisne'. 
+4:13:025:0	Áádóó dízdiin yiską́ąjį' kéyah ałtso hadajíísidgo t'ą́ą́' níjíkai. 
+4:13:026:0	Áko Mózes áádóó Éran índa Ízrel dine'é dah yinéłígíí t'áá ałtso Péíran honoojíigi Kéídesh hoolyéedi baa níjíkaigo hane' baa nídadziz'ą́, áádóó Ízrel dine'é dah yinéłígíí t'áá ałtso éí kéyahdóó aneest'ą' nídajizhjaa'ígíí bich'į' ííshjání ádajiilaago deinééł'į́į́'. 
+4:13:027:0	Áádóó Mózes bił dahojoolne'go ádajiní, Kéyah bich'į' nihííníł'aadígíí baa niikai; t'áá aaníí éí kéyah yá'áhoot'éehgi abe' índa tsés'ná bitł'izh bee áda'azįįdgo haz'ą́ą́ lá, áko díí aneest'ą' áádę́ę́' nídashiijaa'. 
+4:13:028:0	Ákondi ákwii kéyahgi diné dabidziilgo kéédahat'į́ índa kin hadaas'áhígíí ayóó át'éego binída'astł'in, áádóó ałdó' ákwii Éínak dine'é ákwii kéédahat'į́į́ lá. 
+4:13:029:0	Ámalek dine'é éí kéyah shádi'ááhjígo kéédahat'į́; Het dine'é, Jííbas dine'é áádóó Ámor dine'é éí dziłghą́ą́'góó kéédahat'į́ índa Kéínan dine'é éí tónteel bibąąhgi áádóó Jórdan tooh nílíní bibąąh góyaa kéédahat'į́. 
+4:13:030:0	Kéíleb éí Mózes binááł diné yidiiłheelgo ání, Tį', t'áá k'ad ákóde hidiikahgo éí kéyahígíí nihíí' ádadiilnííł, háálá ak'eh dadidiidleełígíí bídeíníigah. 
+4:13:031:0	Nidi ákóde diné bił nidziskaígíí ádadííniid, Díí diné bich'į' hidiikahígíí doo bídeíníigah da, háálá bí nihiláahgo ayóó ádabóodziil. 
+4:13:032:0	Áko kéyah hadayíísidígíí doo yá'át'ééhgóó kéyah yaa dahalne'go Ízrel dine'é ádeiłní, Kéyah hadadiilził biniyé biyi'góó nisiikaígíí bikáá' diné kéédahat'ínígíí áádįįł lá, áádóó diné t'áá ałtso ákwe'é kéédahat'ínígíí ayóó ádaníłnééz lá. 
+4:13:033:0	Éínak dine'é yé'iitsoh nidahalin; éí yé'iitsoh danilį́įgo da'ahílchííh lá, áko nihí nahachagiigi át'éego ádadiiltsą́, ákót'éego binááł nahachagiigi ádaniit'é.

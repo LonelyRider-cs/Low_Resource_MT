@@ -1,0 +1,38 @@
+4:11:001:1	Bóhólníihii éí atsį' yee há nihoní'ą́
+4:11:001:0	Áko Ízrel dine'é saad dahojisłį́į'go Bóhólníihii doo bił dahojííshǫǫd da, áko hodiizts'ą́ą'go báhóóchįįdgo Bóhólníihii bits'ą́ą́dóó kǫ' diltłi'go abąąhdi haníbaal naaznilígíí ła' áhásdįįd. 
+4:11:002:0	Áádóó diné éí Mózes yich'į' hadadeeshghaazh, áko Mózes éí Bóhólníihii bich'į' sozdoolzingo kǫ' náneeztsiz. 
+4:11:003:0	Áádóó ákwii haz'ánígi Táberah hoolyée doo, jidííniid, háálá hatahgi Bóhólníihii bits'ą́ą́dę́ę́' kǫ' dahodííłidgo áhásdįįd. 
+4:11:004:0	Áko hatahdóó doo Ízrel dine'é danilíinii éí ch'iyáán ałtaas'éí yídin bi'niiná, índa Ízrel dine'é ałdó' daachago ádaaní, Háishą' niha'doołtsołgo da'diilghał? 
+4:11:005:0	Béédeiilniihii éí Ííjip kéyahdi t'áá níík'eh łóó', ta'neesk'ání dík'ǫ́zhígíí, ch'ééh jiyání, ch'il daadánígíí, tł'ohchin índa ch'il dích'í'ígíí deidą́ą́ nít'éé', 
+4:11:006:0	nidi k'ad díí ch'iyáán doo ch'ídanihidíísįįd da, áádóó bidookįįłii ádin; t'áá hazhó'ó díí mána t'éí hólǫ́. 
+4:11:007:0	Áko mána éí ch'il kóriyander bílástsii' nahalin áádóó tsé déliyam wolyéhígíí nahalingo łigai. 
+4:11:008:0	Áádóó diné ch'ínákahgo nínádayiidlahgo nídeik'ááh nít'éé', doodaii' nídeitsi'go ásaa' yii' nídeiłt'isgo bááh ándayiil'įįh nít'éé'; bááh éí ak'ah bił ályaago sit'éhígíí éigi áhálniih. 
+4:11:009:0	Áko tł'ée'go dah oonéłígi dahtoo' éí mána t'áá bił ninánídah.  
+4:11:010:0	Áko Mózes azdiizts'ą́ą'go diné ba'áłchíní bitahgóó diné daacha; diné t'ááłá'í nítínígo dabiníbaal bich'éédą́ą'gi chaał hadahas'á, áko Bóhólníihii ayóó át'éego báhóóchįįd; Mózes ałdó' doo yił dahóóshǫǫd da. 
+4:11:011:0	Áko Mózes éí Bóhólníihii áyidííniid, Haash yit'éego ná naal'a'í bich'į' nahoyíł ná? Haash yit'éego doo nił yá'ánísht'ééhgóó díí diné t'áá át'é shide át'éego íinilaa? 
+4:11:012:0	Shits'ą́ą́dóósh díí diné t'áá ałtso bida'niitsąąd? Nehéłchį́įgoósh áshidiní, Ádííníltą'go yíjih; t'áá azhé'é be'awéé' ałt'o'iigi át'éego dabizhé'é yę́ę bich'į' kéyah bee ádee hadíínídzí'ígíí biih díí'ish, shidiní? 
+4:11:013:0	Háádę́ę'shą' atsį' shóideesht'eełgo díí diné t'áá át'é ba'deestsoł? Háálá shich'į' daachago ádaaní, Atsį' niha'níłtsóodgo da'diilghał. 
+4:11:014:0	Díí diné t'áá ałtso t'áá sáhí náás yish'ish dooígíí doo bíneesh'ą́ą da, háálá t'áá íiyisí shá nantł'a. 
+4:11:015:0	T'óó kóshílééh t'áá k'ad shiyíłhé baa nánooshkąąh; nił yá'ánísht'ééh ládą́ą́' ánísht'éhígíí jooba'; t'ááká woostsééł lágo. 
+4:11:016:0	Áádóó Bóhólníihii éí Mózes ííłní, Ízrel dine'é hastóí danilíinii, éí diné yá aląąjį' naazíinii áádóó naat'áanii danilíinii béédahonísinígíí bitahdę́ę́' tsosts'idiingo shá ahíiníiłgo níbaal bii' dahozdísiníjį' niní'éésh; ákwii nił deidoozįįł. 
+4:11:017:0	Áko áajį' hadahodeeshłeełgo ákwii nił ałch'į' hadeesdzih, áádóó níłch'i nił hólónígíí éí haa dideesh'áałgo diné bee bide ádahoot'éhígíí bich'į' nił dadzíldzíił doo, áko doo t'áá sáhí yí'ish da doo. 
+4:11:018:0	Áádóó diné ábidiní, Yiską́ągo biniyé t'áá nihí diyingo ádíts'ąą dasoohti'go ádadi'doołnííł, áko da'doołghał, háálá Bóhólníihii nihidiits'a'go daahchago ádadooniid, Háishą' atsį' niha'doołtsołgo da'diilghał? Jó, Ííjip kéyahdi éí nihá yá'áhoot'ééh nít'éé', dadohní. Éí bąą Bóhólníihii atsį' niha'doołtsołgo da'doołghał. 
+4:11:019:0	Doo éí t'áá ła'a jínígo dadoohsį́įł da, doodaii' naaki jį́da, doodaii' ashdla'a jį́da, doodaii' neeznáá jį́da, doodaii' naadiin jį́da, 
+4:11:020:0	nidi ła' nídeezidgóó daohsą́ą doo; wónáásdóó nihił dahodoolchxį́įłgo bídasoołkwi doo, háálá nihitahgi Bóhólníihii hólónígíí dasoo'įįdgo binááł daahchago ádadohní, Ha'át'íísh biniyé Ííjip kéyahdę́ę́' ch'ínii'ná? 
+4:11:021:0	Nidi Mózes ání, Diné bitahgi naasháhígíí éí hastą́ądi neeznádiindi míilgo nidaabaahii danilį́, áko ádíní, Atsį' ba'deestsołgo ła' nídeezidgóó da'alghał doo. 
+4:11:022:0	Dibé áádóó béégashii bá nidootsiłgo éí t'áá daats'í bidínóołnah? Doodaii' tónteel biyi'dę́ę́' łóó' t'áá át'é áłah ádoolníiłgo t'áá daats'í bidínóołnah? 
+4:11:002:1	Hastóí aląąjį' naazíinii nidahasne'
+4:11:023:0	Áko Bóhólníihii éí Mózes ííłní, Da' Bóhólníihii bíla'ásh yee nihi'oh neel'ą́? K'ad dínííł'įįł, shizaad daats'í bohodoolnííł, doodaii' doo daats'í bohodoolníił da. 
+4:11:024:0	Áádóó Mózes éí Ízrel dine'é yich'į' ch'íníyáago Bóhólníihii bizaad yee hach'į' hahaasdzí'ígíí bee bił nahodzisne', áádóó tsosts'idiingo hastóí aląąjį' naazíinii ahíjiinilgo níbaal bii' hodílzinii binaagóó ahéénízį́įgo ájiilaa. 
+4:11:025:0	Áko Bóhólníihii éí k'os yee hadahóóle'go hach'į' haadzíí', áádóó níłch'i hoł hólónígíí éí tsosts'idiingo hastóí aląąjį' naazíinii ła' yeidiní'ą́, áko éí níłch'i bik'i dahoole'go Diyin God yá dahoolne', áádóó t'áadoo ákónáádaadzaa da. 
+4:11:026:0	Nít'éé' diné naakigo t'áá níbaal haal'áhídi naa'aash lá; éí Éldad áádóó Míídad wolyé; éí ałdó' níłch'i bik'i hoole'go diné nídii'nilgo bízhi' ádaalyaaígíí yitah nilį́, nidi níbaal bii' hodílzinii si'áníjį' t'áadoo deezh'áazh da, áádóó t'áá níbaal sinilídi Diyin God yá nahasne'. 
+4:11:027:0	Áko dinééh léi' Mózes yaa yílwodgo yił hoolne'go ání, Éldad áádóó Míídad níbaal haal'áhídi Diyin God yá halne'. 
+4:11:028:0	Áádóó Nan biye' Jáshowa éí t'áá ániid naagháádę́ę́' Mózes yá naal'a'í nilį́įgo haadzíi'go ání, Shinanit'a'í Mózes, díí t'áadoo ádóhníní, bidiní. 
+4:11:029:0	Nidi Mózes áháłní, Shíísh shiniinaa iiníłch'į́į́d? Bóhólníihii bidine'é t'áá át'é Diyin God yá dahalne' dooleełígíí áádóó Bóhólníihii biNíłch'i bik'i dahwiidooleełígíí laanaa nisin. 
+4:11:003:1	Bóhólníihii éí déłdánii yiníłnii'
+4:11:030:0	Áádóó Mózes índa hastóí aląąjį' naazíinii bił níbaal haal'áhígóó níjíkai. 
+4:11:031:0	Áko Bóhólníihii bits'ą́ą́dę́ę́' deeyolgo tónteeldę́ę'go déłdánii yiníłnii'go éí ła'a jį́ oodááł ánízahjį' łahjí níbaal haal'á bíighahjį' áádóó łahjí níbaal hanáánál'á bíighahjį' nahineezdee'; dah oonééł t'áá át'é binaagóó táadi ké silá íídéetą́ą'go ałk'i yáádaa'á. 
+4:11:032:0	Áádóó shá bíighah áádóó tł'éé' bíighah índa náábiiskání ałdó' diné adahideezį́įgo déłdánii nídayiizláá', áko áłch'į́į́dí nídayiizlá'ígíí éí ásaa' neeznáá bee ookááł bíighahgo nídayiizláá', áko éí t'áá át'é níbaal dabinaagóó ádá shą́ą́' nideiznil. 
+4:11:033:0	Áko atsį' t'óó ázadadzist'ánígo Bóhólníihii hach'į' báhóóchįįd, áko Bóhólníihii éí t'óó báhádzidgo naałniihii yiníłnii'go yee nahastseed. 
+4:11:034:0	Ákwii Kíbrath-hatéí'avah hoolyée doo, jidííniid, háálá ákwii diné ach'ą́ bida'niighą́ą́' yę́ę yóó'ádajiilaa. 
+4:11:035:0	Áádóó Kíbrath-hatéí'avahdóó Hazíírathjį' Ízrel dine'é nááná'náago Hazíírathgi niníná.

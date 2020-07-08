@@ -1,0 +1,58 @@
+4:33:001:1	Ízrel dine'é tádíínáádę́ę́'
+4:33:001:0	Ííjip kéyahdę́ę́' Ízrel dine'é bisiláo yił daníjaa'go Mózes áádóó Éran boo'ishgo kót'éego ch'ídahaazná. 
+4:33:002:0	Áko Mózes yee ak'e'ashchínígíí bik'ehgo Bóhólníihii yee nihoní'áanii bik'ehgo ch'ízhníná, áko díí bik'ehgo joonéełgo jíkai. 
+4:33:003:0	Átsé nídízídígíí binih ashdla'áadah yoołkááł góne', atis'adeesdzá biiskání éí Rámsiiz kin haal'áádóó Ízrel dine'é ch'íná'ná; Ííjip dine'é t'áá ałtso t'áadoo náhoniyésí Ííjip dine'é binááł ch'ízhníná. 
+4:33:004:0	Áko Ííjip dine'é bitahgóó alą́ąjį' nidabi'diizhchíinii Bóhólníihii nabistseedígíí yóó'ádeile'go ch'ízhníná; bidiyin dabidi'níinii ałdó' Bóhólníihii atíbiilaa. 
+4:33:005:0	Áádóó Rámsiizdóó Ízrel dine'é dah náádii'náago Sákathgi niníná. 
+4:33:006:0	Sákathdóó dah náádii'náago honoojí bibąąhgi Ííthandi ninááná'ná. 
+4:33:007:0	Áádóó Béíyal-zíífan nahós'a'gi Páí-haháírath bíighahgóó ch'ínínáago Mígdal hoolyéhígíí bíighahgi ninááná'ná. 
+4:33:008:0	Páí-haháírath bíighahdóó nínáádii'náago tó ałníí'góó honoojíijį' ch'íníná, áko Íítham nahós'a'dóó honoojíhígóó tágí jį́ joonéełgo Méírah hoolyéegi ninááná'ná. 
+4:33:009:0	Méírahdóó dah náázhdii'náago Íílim hoolyéegi jiníná; ákwii naakits'áadahgo tó hadaazlį́ índa páam tsosts'idiingo naazkaadgo ákwe'é nizhníná. 
+4:33:010:0	Íílim hoolyéédóó dah náádii'náago Tónteel Łichíí' bibąąhgi ninááná'ná. 
+4:33:011:0	Tónteel Łichíí' bibąąhdóó dah náádii'náago honoojí Sin hoolyéegi ninááná'ná. 
+4:33:012:0	Áádóó honoojí Sin hoolyéédóó dah náádii'náago Dáfkah hoolyéegi ninááná'ná. 
+4:33:013:0	Dáfkahdóó dah náádii'náago Éílash hoolyéegi ninááná'ná. 
+4:33:014:0	Éílashdóó dah náádii'náago Réfidim hoolyéegi ninááná'ná; ákwii éí tó bídin hóyéé' lá. 
+4:33:015:0	Réfidimdóó dah náádii'náago Sáínai honoojíigi ninááná'ná. 
+4:33:016:0	Sáínai honoojíídóó dah náádii'náago Kíbrath-hatéí'avah hoolyéegi ninááná'ná. 
+4:33:017:0	Kíbrath-hatéí'avahdóó dah náádii'náago Hazíírath hoolyéegi ninááná'ná. 
+4:33:018:0	Hazíírathdóó dah náádii'náago Ríthmah hoolyéegi ninááná'ná. 
+4:33:019:0	Áádóó Ríthmahdóó dah náádii'náago Ríman-píírez hoolyéegi ninááná'ná. 
+4:33:020:0	Ríman-píírezdóó dah náádii'náago Líbnah hoolyéegi ninááná'ná. 
+4:33:021:0	Áádóó Líbnahdóó dah náádii'náago Rísah hoolyéegi ninááná'ná. 
+4:33:022:0	Rísahdóó dah náádii'náago Kííhiiléíthah hoolyéegi ninááná'ná. 
+4:33:023:0	Kííhiiléíthahdóó dah náádii'náago Dził Shéífer si'ánígi ninááná'ná. 
+4:33:024:0	Dził Shéíferdóó dah náádii'náago Haréídah hoolyéegi ninááná'ná. 
+4:33:025:0	Haréídahdóó dah náádii'náago Makhíílath hoolyéegi ninááná'ná. 
+4:33:026:0	Makhíílathdóó dah náádii'náago Téíhath hoolyéegi ninááná'ná. 
+4:33:027:0	Téíhathdóó dah náádii'náago Téírah hoolyéegi ninááná'ná. 
+4:33:028:0	Téírahdóó dah náádii'náago Míthkah hoolyéegi ninááná'ná. 
+4:33:029:0	Míthkahdóó dah náádii'náago Hashmónah hoolyéegi ninááná'ná. 
+4:33:030:0	Hashmónahdóó dah náádii'náago Mosíírath hoolyéegi ninááná'ná. 
+4:33:031:0	Mosíírathdóó dah náádii'náago Béne-jéíyakan hoolyéegi ninááná'ná. 
+4:33:032:0	Béne-jéíyakandóó dah náádii'náago Hor-hagídgad hoolyéegi ninááná'ná. 
+4:33:033:0	Hor-hagídgadóó dah náádii'náago Játbathah hoolyéegi ninááná'ná. 
+4:33:034:0	Játbathahdóó dah náádii'náago Iibrónah hoolyéegi ninááná'ná. 
+4:33:035:0	Iibrónahdóó dah náádii'náago Ííziyan-gííber hoolyéegi ninááná'ná. 
+4:33:036:0	Ííziyan-gííberdóó dah náádii'náago Zin honoojí nahós'a'gi t'áá ákwii Kéídesh hoolyéego ákwii ninááná'ná. 
+4:33:037:0	Kéídeshdóó dah náádii'náago Íídam kéyah nihoodzogi Dził Hor si'ánígi ninááná'ná. 
+4:33:038:0	Náá'iiłniihii Éran éí Bóhólníihii bizaadk'ehgo Dził Hor góde haayá, índa áadi daaztsą́; Ízrel dine'é Ííjip kéyahdę́ę́' ch' ínínáádóó bik'ijį' dízdiin nááhaigo ashdla' nídízííd binih ła'a jį́į́ góne' áhóót'įįd. 
+4:33:039:0	Áko Éran t'ááłáhídi neeznádiindóó ba'aan naadiin táá' binááhaigo Dził Hor bighą́ą'di daaztsą́. 
+4:33:040:0	Ákohgo Éírad kin haal'áádóó aláahgo naat'áanii Kéínan dine'é nilíinii éí Kéínan kéyah bii' shádi'ááh hoolyéegi kééhat'į́įgo Ízrel dine'é yinéłígíí yaa hodiizts'ą́ą́'.  
+4:33:041:0	Áko Dził Hor si'ánídóó dah náádii'náago Zalmónah hoolyéegi ninááná'ná. 
+4:33:042:0	Zalmónahdóó dah náádii'náago Púnan hoolyéegi ninááná'ná. 
+4:33:043:0	Púnandóó dah náádii'náago Óbath hoolyéegi ninááná'ná. 
+4:33:044:0	Óbathdóó dah náádii'náago Mó'ab kéyah bibąąhgi Áíjii-ábarim hoolyéegi ninááná'ná. 
+4:33:045:0	Áíyimdóó dah náádii'náago Dáíban-géed kin haal'áagi ninááná'ná. 
+4:33:046:0	Dáíban-géedóó dah náádii'náago Álman-diblathéíyim kin haal'áagi ninááná'ná. 
+4:33:047:0	Álman-diblathéíyimdóó dah náádii'náago Dził Ábarim daní'áagi Dził Nííbo bitsį́įdi ninááná'ná. 
+4:33:048:0	Dził Ábarim daní'áádóó dah náádii'náago Mó'ab kéyah nidzisgaigi Jériko binaashiijí Jórdan tooh nílíní bibąąhgi ninááná'ná. 
+4:33:002:1	Kéínan kéyah bináhásdzo áádóó ahádaasdzo
+4:33:049:0	Áko Jórdan tooh nílíní bibąąhgi Beth-jéshimath kin haal'áádóó Éíbel-shíttim hoolyéejį' Mó'ab kéyah nidzisgaigi nidahaazná. 
+4:33:050:0	Áádóó Jériko binaashiijí Jórdan tooh nílíní bibąąhgóó Mó'ab kéyah nidzisgaigi Bóhólníihii éí Mózes yich'į' haadzíi'go ání, 
+4:33:051:0	Ízrel dine'é bich'į' handziihgo ábidiní, Jórdan tooh ha'naa Kéínan kéyah góne' oonáago 
+4:33:052:0	kéyahgi kéédahat'ínígíí t'áá ałtso áts'ą́ąjį' ch'ídahidínóołkał áádóó tsé bee eda'alyaii áádóó béésh doolyį́į'go bee eda'alyaii índa ninádahałaah doo biniyé wódah nahaz'ą́ągo ádayiilaaígíí ałtso bits'ą́ą́' nidahidoołchxǫǫł, 
+4:33:053:0	áko dabikéyah bigha dahodidooht'áałgo bii' kéédahoht'į́į doo, háálá kéyah danihíí' dooleeł biniyé nihaa diní'ą́. 
+4:33:054:0	Índa dine'é danohłíinii kéyah danihíí' dadooleełígíí yáá'iilt'e' bik'ehgo nihikéyah ałtaa doohdzoh; lą'í danołt'éhígíí bik'ehgo kéyah dahótsaago hadahidoohsoh áádóó ádanołch'į́dígíí bik'ehgo kéyah t'áá nihidahoníłtsóhígo hadahidoohsoh; yáá'iilt'e' bik'ehgo diné hakéyah hóó' nidahaleeh; dine'é danohłíinii bik'ehgo kéyah danihíí' nidahaleeh doo. 
+4:33:055:0	Nidi díí baa hodoolzhish: kéyahgi kéédahat'ínígíí t'áadoo ádíts'ą́ąjį' nihaa ch'ídahaazhjéé'góogo kéyahgi nidaakaigo ádaałaaígíí nihinák'ee nída'ajiłígi át'éego, doodaii' nihooshk'iizh góne' nihaa inída'ajiłígi át'éego hóyée'go nihich'į' nidahwiiłnáago kéyah bii' kéédahoht'į́į doo. 
+4:33:056:0	Náá'áłdó' díí baa hodoolzhish: atídeeshłííł nisinígíí, jó, nihída atínihideeshłííł.

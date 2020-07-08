@@ -1,0 +1,56 @@
+4:31:001:1	Mídiyan dine'é k'éébi'diilyaa áádóó binaalye'é bąąh dahoołdee'
+4:31:001:0	Áádóó Bóhólníihii éí Mózes yich'į' haadzíi'go ííłní, 
+4:31:002:0	Ízrel dine'é bá Mídiyan dine'é k'éédidíídlííł áádóó bik'ijį' índa danik'éí yę́ę aheeskaigóó dííleeł. 
+4:31:003:0	Áko Mózes éí diné yich'į' haadzíi'go ání, Nihitahdóó ła' anaa' biniyé hasht'e'ádadidoołníiłgo bíni' Mídiyan dine'é yich'į' nídahididoobahgo Bóhólníihii yá k'éédeididoodlííł. 
+4:31:004:0	Ízrel dine'é danilíinii t'áá ałtso bitahdę́ę́' t'ááłáhídi mííl ádanéelą́ą'go anaa'góó bidadi'yoołnih. 
+4:31:005:0	Áko Ízrel dine'é t'óó ahayóí daamiilgo bits'ą́ą́dóó t'ááłáhídi míilgo bits'áhaas'nil; t'áá ałtsogo naakits'áadadi míilgo anaa' yiniyé hasht'e'ádadiilyaa. 
+4:31:006:0	Ákohgo Mózes díí anaa'góó diné bida'dziis'nii'; diné t'áá ałtso bitahdę́ę́' t'ááłáhídi mííl ádanéelą́ą'go náá'iiłniihii Eliyéízar biye' Fíniyas éí dadílyingo chodao'íinii áádóó béésh łigaii dilní bee áńdazhdi'niih dooígíí yoojihgo bizh'níłnii'. 
+4:31:007:0	Áko Mídiyan dine'é bich'į' anaa' dahodzisłį́į́'; Bóhólníihii éí Mózes yich'į' yee haadzíi'ii bik'ehgo diné danilínígíí t'áá ałtso nideistseed. 
+4:31:008:0	Mídiyan dine'é aláahgo binanit'a'í danilíinii nideistseed; diné nidabi'diztseedígíí bitahdóó aláahgo naat'áanii nideistseed; éí Íívai, Rííkem, Zer, Her índa Rííba daolyé; Bíyor biye' Béílam ałdó' diltłish yee dayiisxį́. 
+4:31:009:0	Ízrel dine'é éí Mídiyan dine'é asdzání danilíinii t'áá ałtso áádóó ba'áłchíní t'áá bił yisnááh ádayiilaa; bibéégashii áádóó bidibé índa binaalye'éda deisná. 
+4:31:010:0	Bikin hadaas'áhígi kéédahat'į́į́ nít'éé' yę́ęgóó áádóó bikin naazhjaa'ígíí t'áá át'é adeideesk'ą́ą́'. 
+4:31:011:0	Áko Mídiyan dine'é yę́ę dabinaalye'é t'áá át'é áádóó daasnánígíí t'áá ałtso éí diné danilínígíí áádóó da'alį́'ígíí t'áá bił dadzisná. 
+4:31:012:0	Áádóó deisnáanii áádóó yąąh da'ííghą́ą'ii índa dabinaalye'é éí Mózes áádóó náá'iiłniihii Eliyéízar índa Ízrel dine'é dah yinéełii éí Jériko kin haal'áádóó Jórdan tooh ha'naa Mó'ab kéyah dzígaigi dah yinéełgo áadi yaa áłah ádayiilaa. 
+4:31:013:0	Áko Mózes áádóó náá'iiłniihii Eliyéízar índa dah oonéełii binanit'a'í t'áá ałtso éí níbaal haal'á bits'áhwiiní'ą́ądi siláo bidááh jiiskai. 
+4:31:014:0	Ákohgo Mózes éí siláo dah deínéehii binanit'a'í danilíinii éí mííl daníjaa'go índa neeznádiin daníjaa'go yinanit'a'í danilíinii anaa'dę́ę́' ná'nánígíí yich'į' báhóóchįįd. 
+4:31:015:0	Áko Mózes áhodííniid, Asdzáníísh t'áá ałtso áá dah soohsįįd? 
+4:31:016:0	Shą́ą́', Píyor hoolyéedi Béílam bina'nitin bik'ehgo díí asdzání éí Ízrel dine'é danilíinii Bóhólníihii yich'į' doo ákǫ́ǫ́ ádaat'į́į́góó ádayiilaa, áko Bóhólníihii bidine'é naałniih bitah níłnii'. 
+4:31:017:0	Áko k'ad áłchíní bitahdóó ashiikéhígíí ałtso nidaałtseed áádóó asdzání éí diné hoł nídabiilkááh nít'é'ígíí ałtso nidahołtseed. 
+4:31:018:0	Nidi at'ééké t'ahdoo diné yeinít'įįhii t'áá ałtso dahinánígíí éí danihíí' doo. 
+4:31:019:0	Áádóó diné ła' soołhínígíí, doodaii' ats'íís daaztsą́ągo bíhidoohnáa'ii éí tsosts'id yiską́ąjį' níbaal haal'á bits'áhwiiní'ą́ądi nihighan doo, áko nihí áádóó yisnááh óołaaígíí biłgo táá' yiłkaah bijį́ áádóó tsosts'id yiłkaah bijį́ diyingo ádadidoołdah. 
+4:31:020:0	Áko danihi'éé' t'áá át'é áádóó akágí bee ádaalyaii t'áá át'é áádóó tł'ízí bighaa' bee ádaalyaii t'áá át'é índa ha'át'íhída tsin bee ádaalyaii t'áá át'é bąąh dahodoołdah. 
+4:31:021:0	Áádóó náá'iiłniihii Eliyéízar éí diné nidaazbaa'dę́ę́' nákaígíí ííłní, Díí bee haz'áanii bik'ehgo hoogáałii Bóhólníihii éí Mózes yich'į' yee haadzíí'; 
+4:31:022:0	óola, béésh łigaii, béésh łitsoii, béésh nitł'izii, béésh kágí, béésh diłhį́įhii, 
+4:31:023:0	índa t'áá ha'át'íhída kǫ' yídaníłdzilii t'éiyá kǫ' biih dadoohniłgo bida'didoodah. Ákót'ée nidi tó t'áá sahdii nideet'áanii bee i'didéehii bik'ídadoołtah. Áádóó t'áá ha'átíhída kǫ' doo yídaníłdzilii éí tó bee i'didéehii biih dadoohnił. 
+4:31:002:1	Naalye'é aháá'nil
+4:31:024:0	Áko tsosts'id yiską́ą́ góne' nihi'éé' dadoohgis, áko nihida'deezdee'dóó bik'ijį' níbaal haal'áajį' yah áńdoohkah. 
+4:31:025:0	Áádóó Bóhólníihii éí Mózes yich'į' haadzíi'go ííłní, 
+4:31:026:0	Ni áádóó náá'iiłniihii Eliyéízar índa dah oonéełgi azhé'é á naazíinii éí daasnánígíí t'áá ałtso diné danilínígíí áádóó da'alį́'ígíí t'áá bił deídóołtah. 
+4:31:027:0	Áko daasnánígíí ahádadoohniłgo nidaazbaa'ígíí éí ałníí'dóó baa dadoohnił áádóó łahjį'ígíí éí dah oonéłígíí baa dadoohnił. 
+4:31:028:0	Nidaazbaa'ii baa dahaas'nilígíí bits'ą́ą́dóó Bóhólníihii bich'į' nályééh nideidiyooleełgo bich'į' daał'á; t'áá ha'át'íhída ashdladi neeznádiin ánéelą́ą'go bits'ą́ą́dóó t'ááłá'ígo ats'ádahidoołtééł: éí bíla' ashdla'ii nilíinii áádóó béégashii áádóó télii índa dibé. 
+4:31:029:0	Díí ła' ałníí'dóó bits'ą́ą́' nídadidoohniłgo náá'iiłniihii Eliyéízar baa dadoohniłgo éí Bóhólníihii yich'į' yił dah nídiilnihgo néidiyoołnih. 
+4:31:030:0	Áádóó łahjį' ałníí'dóó Ízrel dine'é baa dahaas'nilígíí t'áá ha'át'íhída ashdladiin ánéelą́ą'go bits'ą́ą́dóó t'ááłá'ígo ats'ádahidoołtééł: éí bíla' ashdla'ii nilíinii áádóó béégashii áádóó télii áádóó dibé índa da'alį́'ígíí t'áá ał'ąą ádaat'éii éí Líívai dine'é Bóhólníihii biníbaal bii' hodílzinii yaa ádahalyáanii baa dadidooh'ááł. 
+4:31:031:0	Áko Mózes áádóó náá'iiłniihii Eliyéízar, Bóhólníihii éí Mózes yich'į' yee haadzí'ígíí bik'ehgo ádziidzaa. 
+4:31:032:0	Áko nidaazbaa'ii t'áá ha'át'íhída daasnáanii daadziihígíí éí dibé hastą́ądi neeznádiindóó ba'aan tsosts'idiindóó ba'aan ashdladiindi miil ánéelą́ą́', 
+4:31:033:0	béégashii éí tsosts'idiindóó ba'aan naakidi miil ánéelą́ą́', 
+4:31:034:0	télii éí hastą́diindóó ba'aan t'ááłáhídi miil ánéelą́ą́'. 
+4:31:035:0	Ch'ikéí éí t'ahdoo diné yeinít'įįhii tádiindóó ba'aan naakidi miil ánéelą́ą́'. 
+4:31:036:0	T'áá ha'át'íhída daasnáanii ałníí'dóó nidaazbaa'ii baa dahaas'nilígíí éí dibé táadi neeznádiindóó ba'aan tádiindóó ba'aan tsosts'idi mííldóó ba'aan ashdladi neeznádiin ánéelą́ą́', 
+4:31:037:0	áádóó dibé éí Bóhólníihii bich'į' nályéhígíí éí hastą́ądi neeznádiindóó ba'aan tsosts'idiindóó ba'aan ashdla' ánéelą́ą́'. 
+4:31:038:0	Béégashii éí tádiindóó ba'aan hastą́ądi miil ánéelą́ą́', áko Bóhólníihii bich'į' nályéhígíí éí tsosts'idiindóó ba'aan naaki lá. 
+4:31:039:0	Télii éí tádiindi mííldóó ba'aan ashdladi neeznádiin éí bits'ą́ą́dóó Bóhólníihii bich'į' nályéhígíí hastą́diindóó ba'aan t'ááłá'í lá. 
+4:31:040:0	Daho'disnáanii éí hastą́'áadahdi mííl, éí bitahdóó Bóhólníihii bich'į' nályéhígíí éí tádiindóó ba'aan naaki lá. 
+4:31:041:0	Áko Mózes éí Bóhólníihii bich'į' bił dah nídi'diilnihgo nááhániihii nályééh át'éego náá'iiłniihii Eliyéízar yeinínil; Bóhólníihii éí Mózes áyidííniidígíí yik'ehgo ádzaa. 
+4:31:042:0	Áádóó Ízrel dine'é éí siláo nidaazbaa'ígíí deisnánígíí há ałníí'dóó éí Mózes ałts'áyíínil, 
+4:31:043:0	(dah oonéłígíí ałníí'dóó daabíhígíí éí dibé táadi neeznádiindóó ba'aan tádiindóó ba'aan tsosts'idi mííldóó ba'aan ashdladi neeznádiin ánéelą́ą́', 
+4:31:044:0	béégashii éí tádiindóó ba'aan hastą́ądi miil ánéelą́ą́', 
+4:31:045:0	télii éí tádiindi mííldóó ba'aan ashdladi neeznádiin ánéelą́ą́', 
+4:31:046:0	daho'disnáanii éí hastą́'áadahdi miil ázhnéelą́ą́',) 
+4:31:047:0	Ízrel dine'é ałníí'dóó bíí' silį́'ígíí éí daho'disnáanii ashdladiin jiníjaa'go hatahdóó t'áá dajíłá'ígo áádóó da'alį́'ígíí ashdladiin níjaa'go bitahdóó t'áá daałá'ígo éí Mózes ats'áyiiznilgo Líívai dine'é danilíinii Bóhólníihii biníbaal bii' hodílzinii yaa ádahalyánígíí yeinínil. Áko Bóhólníihii éí Mózes áyidííniidígíí yik'ehgo ádzaa. 
+4:31:048:0	Áádóó miilgo siláo dah deínéehii binanit'a'í danilíinii éí daamííl daníjaa'go índa neeznádiin daníjaa'go yindant'áii éí Mózes yaa daaskai. 
+4:31:049:0	Mózes yił dahoolne'go ádaaní, Ná nidaal'a'í niidlíinii nihiyaadóó siláo sinilii bee nihídahólníhígíí dayíilta'go doo ła' bá hályáah da. 
+4:31:050:0	Bóhólníihii bich'į' nááhániihii daniijaa'go diné łah hoditéhee nidayiizhjaa'ii yódí éí óola bee ádaalyaii, béésh da'ahólzha'ii, látsínída, yoostsahda, jaatł'óołda índa yoo'da éí Bóhólníihii binááł bee á k'ééhoodǫǫłii nihii' naazíinii bá náádahidiilnih. 
+4:31:051:0	Áko Mózes áádóó náá'iiłniihii Eliyéízar éí yódí óola bee ádaalyaii deizhjaa'ígíí t'áá ałtso néidiinil. 
+4:31:052:0	Ákohgo miilgo daníjaa'go yindant'áii índa neeznádiin daníjaa'go yindant'áii éí Bóhólníihii bich'į' nááhaaznii'ígíí éí óola t'áá át'é hastą́'áadahdi mííldóó ba'aan tsosts'idi neeznádiindóó ba'aan ashdladiin shékel wolyéii dah hidiidloh. 
+4:31:053:0	(Diné nidaazbaa'ígíí éí naalye'é deisnánígíí ádá ą́ą́deisįįd.) 
+4:31:054:0	Áko Mózes áádóó náá'iiłniihii Eliyéízar éí miilgo siláo daníjaa'go yindant'áii índa neeznádiingo siláo daníjaa'go yindant'áii éí óola nidayiizhjaa'ígíí néidiinilgo níbaal bii' dahozdísinii góne' yah ayííjaa'; éí Bóhólníihii binááł Ízrel dine'é danilíinii bá bee ééhániihii át'ée doo.

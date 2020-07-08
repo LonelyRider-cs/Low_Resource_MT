@@ -1,0 +1,48 @@
+3:11:001:1	Naaldlooshii daadánígíí índa doo daadánígíí
+3:11:001:0	Áádóó Bóhólníihii éí Mózes índa Éran ánéidoo'niid, 
+3:11:002:0	Ízrel dine'é kóbidohní, Ni' bikáá'góó naaldlooshii t'áá ałtso díí kódaat'éhígíí t'éí daohsą́ą dooleeł: 
+3:11:003:0	naaldlooshii dabikéshgaan dahałgizhígíí áádóó doo bita' nida'azbaalii índa nída'at'aałígíí éí daohsą́ą doo. 
+3:11:004:0	Ákondi díí éí doo yidą́ą da doo: éí ná'át'aał nidi bikéshgaan doo hałgizh daígíí; ghą́ą́'ask'idii ná'át'aał nidi bikéshgaan doo hałgizh da; éí nihił t'óó badaa'ih. 
+3:11:005:0	Áádóó dlǫ́'iigi át'éhígíí éí ná'át'aał nidi bikéshgaan doo hałgizh da; éí nihił t'óó baa'ih. 
+3:11:006:0	Índa gah éí ná'át'aał nidi bikéshgaan doo hałgizh da; éí nihił t'óó baa'ih. 
+3:11:007:0	Bisóodi éí bikéshgaan hałgizh áádóó doo bita' nideezbaal da, nidi doo ná'át'aał da; éí nihił t'óó baa'ih. 
+3:11:008:0	Éí bitsį' doo doodį́įł da; daaztsą́ągo bits'íís doo bídahididoohnáał da; éí nihidoołchxǫǫł. 
+3:11:009:0	Díí táyi' nidaaldeehii t'áá át'é kódaat'éhígíí t'éí daohsą́ą doo: tó bii'góó áádóó tónteel bii'góó índa tooh bii'góó bit'a' dahólǫ́ǫgo yee nida'ałkǫ́ǫ'ii áádóó bikágí dadich'íizhii éí daohsą́ą doo. 
+3:11:010:0	Áádóó tónteel bii'góó índa tooh bii'góó táyi' dahólóonii t'áá ałtso doo bit'a' yee nida'ałkǫ́ǫ' ii áádóó bikágí doo dich'ízhígíí éí t'áá ákónáádaat'éii táyi' dahináanii éí baa'ih danohsin doo. 
+3:11:011:0	Áko éí t'óó baa'ih danohsingo bitsį'ígíí doo daohsą́ą da doo, nidi dabits'íís daaztsą́ągo t'óó baa'ih danohsin doo. 
+3:11:012:0	T'áá ha'át'íhída táyi' dahólóonii bit'a' ádinii áádóó bikágí doo dich'ízhígíí éí baa'ih danohsin doo. 
+3:11:013:0	Áádóó díí éí t'óó baa'ih danohsin doo; nidaat'a'ígíí doo daadáanii éí baa'ihii ádaat'é: atsá áádóó jeeshóó' índa dzílí 
+3:11:014:0	áádóó atsá ał'ąą ádaat'éii índa giní, 
+3:11:015:0	gáagii t'áá ałtso t'áá ał'ąą ádaat'éii, 
+3:11:016:0	ná'áshjaa' áádóó hooz áádóó biizhii índa giní ał'ąą ádaat'éii 
+3:11:017:0	áádóó ná'áshjaa' yázhí áádóó toohjį' noołnahii índa ná'áshjaatsoh, 
+3:11:018:0	ná'áshjaa' łigaígíí áádóó naal'eełí bidaanézí índa atseiłtsoii. 
+3:11:019:0	Tsídii bijáád danineezígíí áádóó tsídii bik'os nineezígíí ał'ąą ádaat'éii áádóó hóopo wolyéii índa jaa'abaní. 
+3:11:020:0	Ch'osh bit'a' dahólǫ́ǫgo bijáád daadį́'ígíí t'áá ałtso éí t'óó baa'ih danohsin doo. 
+3:11:021:0	Ákondi díí éí daohsą́ą doo: éí ch'osh bit'a' dahólóonii áádóó ni'góó nidaakaii índa bijáád dahólǫ́ǫgo ni'góó nidahacha'ii. 
+3:11:022:0	Díí éí daohsą́ą doo: nahachagitsoh binídaałt'éii áádóó nahachagitsoh bitsiits'iin dilkǫǫhígíí binídaałt'éii áádóó nahák'ízii binídaałt'éii índa nahachagii binídaałt'éii daohsą́ą doo. 
+3:11:023:0	Nidi náádaała' ch'osh bit'a' dahólǫ́ǫgo bijáád daadį́'ígíí t'áá ałtso t'óó baa'ih danohsin doo. 
+3:11:024:0	Áko díí bee doo nihida'didoodah da: t'áá háiida díí ła' daaztsą́ągo bits'íís bíhizhdéé'ná'ígíí i'íí'ą́ąjį' doo ho'didoodah da. 
+3:11:025:0	T'áá háiida díí daaztsą́ągo bits'íís nidzistínígíí éí ha'éé' jidoogis, áko i'íí'ą́ąjį' doo ho'didoodah da. 
+3:11:026:0	Áádóó naaldlooshii bikéshgaan dahałgizhii nidi doo bita'nideezbaalii áádóó doo nída'at'aałii éí nihił t'óó badaa'ih; t'ááłá'í jinítínígo éí bídahizhdiyii'náhígíí bee doo hoda'didoodah da. 
+3:11:027:0	Naaldlooshii ał'ąą ádaat'éii bijáád daadį́'ígíí bíláshgaan dahólǫ́ǫgo éí nihił t'óó badaa'ih; t'áá háiida éí bits'íís bíhizhdéé'ná'ígíí i'íí'ą́ąjį' doo ho'didoodah da. 
+3:11:028:0	Áko t'áá háiida díí daaztsą́ągo bits'íís nidzistį́įgo éí ha'éé' jidoogis áádóó i'íí'ą́ąjį' doo ho'didoodah da; éí naaldlooshii nihił t'óó badaa'ih. 
+3:11:029:0	Díí ałdó' nihił t'óó badaa'ih doo: ni'góó nidaajeehii éí dlǫ́'ii áádóó na'ats'ǫǫsí índa ch'ééh digháahii binídaałt'éii. 
+3:11:030:0	Índa tsék'ih na'azólii áádóó na'ashǫ́'iiłbáhí łahgo aní'doolníiłii, na'ashǫ́'iiłbáhítsoh, na'ashǫ́'iiłbáhí łitsoii, na'ashǫ́'ii dootł'izhii táyi' dahólóonii. 
+3:11:031:0	Díí ni'góó nidaajeehii t'áá ałtso ła' dabitahdóó éí nihił t'óó badaa'ih doo; t'áá háiida díí ła' daaztsą́ągo bíhizhdéé'náa'go éí i'íí'ą́ąjį' doo ho'didoodah da. 
+3:11:032:0	Áko éí ła' daaztsą́ągo bits'ísígíí t'áá ha'át'íhída choo'íinii éí tsin, doodaii' na'at'ą́hí, doodaii' akágí, doodaii' tł'oh azis bee ádaalyaii yik'ijį' náátłizhgo éí t'óó baa'ih doo, áko éí taah doo'nił, áádóó i'íí'ą́ąjį' t'óó baa'ih doo; kót'éego bi'didéeh doo. 
+3:11:033:0	Hashtł'ish ásaa' ła' yiih yítłizhgo t'áá ha'át'íhída biyi'ígíí éí t'óó baa'ih doo, áko t'óó doołts'ił. 
+3:11:034:0	Éí ásaa' bii' tóhígíí éí ch'iyáán doodį́łígíí t'áá ałtso bik'ésdáazgo t'óó baa'ih doo, áádóó doodlį́įłii t'áá ałtso éí ásaa' bee sikánígíí t'óó baa'ih doo. 
+3:11:035:0	T'áá ałtsoní bik'ijį' bits'ísígíí náátłizhgo éí t'óó baa'ih doo; kǫ' bá ha'astł'ingi bikáá' abézhígíí, doodaii' ásaa' ditání taidootsxił, háálá t'óó baa'ih; éí nihił t'óó baa'ih doo. 
+3:11:036:0	Ákondi tó háálį́įgo índa tó bá az'ą́ągo ákwii lą'í tógo éí doo t'óó baa'ih da, nidi ats'íís daaztsáanii bíhidéé'náa'ii éí t'óó baa'ih doo. 
+3:11:037:0	Índa bits'ísígíí éí k'eelyéí k'ididoolyéłígíí ła' bíhidéé'náa'go éí doo t'óó baa'ih silį́į' da. 
+3:11:038:0	Nidi tó bee k'eelyéí nástłée'go éí ats'ísígíí bíhidéé'náa'go éí nihił t'óó baa'ih doo. 
+3:11:039:0	Áádóó naaldlooshii dadoołghałígíí ła' t'áá bíni'dii daaztsą́ągo t'áá háiida éí daaztsánígíí bíhizhdéé'náa'go i'íí'ą́ąjį' doo ho'didoodah da. 
+3:11:040:0	Áádóó t'áá háiida éí t'áá bíni'dii daaztsáanii bitsį' ła' jííyą́ą'go éí ha'éé' jidoogis, áko i'íí'ą́ąjį' doo ho'didoodah da, áádóó ał dó' t'áá háiida éí daaztsáanii nijistínígíí ha'éé' jidoogisgo i'íí'ą́ąjį' doo ho'didoodah da. 
+3:11:041:0	Áko ni'góó nidaajeehii t'áá ałtso baa'ihii ádaat'é; éí doo yidą́ą da. 
+3:11:042:0	T'áá ha'át'íhída bibid yee nidaa'na'ii áádóó bijáád dį́į'go yee nidaajeehii, doodaii' t'áá ha'átíhída bijáád t'óó adahayóigo łeeshtahgóó nidaajeehii éí doo yidą́ą da; jó, éí baa'ihii ádaat'é. 
+3:11:043:0	Díí ni'góó nidaa'na'ii ła' bee t'ááká baa'ihgo áda'doołnééh lágo, doodaii' t'ááká éí bee doo bi'didéehii áda'doołnééh lágo, jó, éí nihidoołchxǫǫł. 
+3:11:044:0	Háálá shí Bóhólníihii nihiDiyin God nishłį́; éí bąą diyingo ádadi'doołnííł, áádóó dadinohyin doo; jó, shí dinishyin; t'ááká t'áá ha'át'íhída ni'góó nidaa'na'ii ła' bee ádadoołchxǫǫh lágo. 
+3:11:045:0	Háálá shí Bóhólníihii nishłį́įgo nihiDiyin God nishłį́į doo biniyé Ííjip kéyahdę́ę́' ch'éénihiní'eezh; éí bąą dadinohyin doo; jó, shí dinishyin. 
+3:11:046:0	Díí naaldlooshii áádóó nidaat'a'ii índa táyi'góó dahináanii t'áá ałtso, áádóó ni'góó nidaa'na'ii t'áá ałtso biniyé bee haz'áanii át'é. 
+3:11:047:0	Áko díí ał'ąą át'éii át'éhígíí baa nitsókees: badaa'ihígíí áádóó doo badaa'ihígíí índa naaldlooshii daadánígíí áádóó doo daadánígíí.
