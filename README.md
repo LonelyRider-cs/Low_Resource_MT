@@ -10,7 +10,7 @@
 
 - **non-bible.com_data** -> contains any text not from bible.comes
 
-- **preds** ->
+- **preds** -> contains MT results
 
 - **python** -> contains all python
 
