@@ -7,11 +7,19 @@ from nltk.tokenize import RegexpTokenizer
 import foma
 
 
-def tokenize(text_string, tokenizer_type = None, syllabifier_type = None):
+def tokenize(text_string, language = None, tokenizer_type = None, syllabifier_type = None):
     '''
     Given a string of text, a type of tokenizer to use, and a type of syllabifier to apply;
     Return the text in the format of the tokenized string each breaks into a sequence of syllables.
     '''
+    if language.lower() in ['navajo', 'nvjob']:
+        # Some Navajo sources which use
+        # RIGHT SINGLE QUOTATION MARK (2019) ’
+        # or MODIFIER LETTER APOSTROPHE (02BC) ʼ
+        # for apostrophe.
+        # This is to convert these symbols to apostrohes.
+        text_string = text_string.replace("’", "'").replace("ʼ", "'")
+
     if tokenizer_type is None:
         # tokened = text_string
         tokens = text_string.split()

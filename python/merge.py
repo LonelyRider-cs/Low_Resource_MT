@@ -64,9 +64,9 @@ def map_data(srclang_id2text, tgtlang_id2text, idlist,
 
     with open(inputfile, 'w') as fin, open(outputfile, 'w') as fout:
         for id in idlist:
-            fin.write(tokenize(srclang_id2text[id], source_tokenizer, source_syllabifier))
+            fin.write(tokenize(srclang_id2text[id], srclang_name, source_tokenizer, source_syllabifier))
             fin.write('\n')
-            fout.write(tokenize(tgtlang_id2text[id], target_tokenizer, target_syllabifier))
+            fout.write(tokenize(tgtlang_id2text[id], tgtlang_name, target_tokenizer, target_syllabifier))
             fout.write('\n')
 
 def splitBYlines(srclang_id2text, tgtlang_id2text, idlist,
