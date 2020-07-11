@@ -52,7 +52,9 @@ def map_data(srclang_id2text, tgtlang_id2text, idlist,
              source_tokenizer = None, target_tokenizer = None,
              source_syllabifier = None, target_syllabifier = None,
              datatype = None):
-    direction = srclang + '-' + tgtlang
+    srclang_name = srclang.split('/')[-1]
+    tgtlang_name = tgtlang.split('/')[-1]
+    direction = srclang_name + '-' + tgtlang_name
     if datatype:
         inputfile = datatype + '.' + direction + '.input'
         outputfile = datatype + '.' + direction + '.output'
