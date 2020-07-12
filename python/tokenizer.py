@@ -74,26 +74,30 @@ def preprocess(text, language=None, tokenizer_type=None, syllabifier_type = None
     return segmented
 
 
-def sentencepiece_train(training_file, model_prefix, vocab_size, user_defined_symbols=[]):
+def sentencepiece_train(training_file_name: str, model_prefix: str, model_type: str='bpe', vocab_size: int=16000, user_defined_symbols=[]):
     """
     train a BPE model
     """
-    spm.SentencePieceTrainer.train(input=training_file, model_prefix=model_prefix, vocab_size=vocab_size, user_defined_symbols=user_defined_symbols)
+    spm.SentencePieceTrainer.train(input=training_file_name,
+                                   model_prefix=model_prefix,
+                                   vocab_size=vocab_size,
+                                   user_defined_symbols=user_defined_symbols,
+                                   model_type=model_type)
 
-def sentencepiece_segment(text: str, model_file) -> str:
+def sentencepiece_segment(text: str, model_file_name: str) -> str:
     # segmentation
-    sp = spm.SentencePieceProcessor(model_file=model_file)
+    sp = spm.SentencePieceProcessor(model_file=model_file_name)
     text_bpe = sp.encode(text, out_type=str)
     text_bpe = " ".join(text_bpe)
     return text_bpe
 
 
-def bpe_train(training_file, model_file, num_symbols):
-    with open(training_file) as data, open(model_file, 'w') as model:
+def bpe_train(training_file_name: str, model_file_name: str, num_symbols: int):
+    with open(training_file_name) as data, open(model_file_name, 'w') as model:
         subword_nmt.learn_bpe.learn_bpe(data, model, num_symbols)
 
-def bpe_segment(text: str, model_file) -> str:
-    with open(model_file) as model:
+def bpe_segment(text: str, model_file_name: str) -> str:
+    with open(model_file_name) as model:
         bpe = subword_nmt.apply_bpe.BPE(model)
         text = bpe.process_line(text)
     return text

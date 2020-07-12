@@ -78,12 +78,12 @@ def _tokenize_preprocess(id2text, idlist, language, tokenizer, syllabifier, ftmp
         text = tokenized_id2text[id]
         fmap.write(text + '\n')
 
-def _tokenize_sentencepiece(id2text, training_file, model_dir, language, vocab_size, user_defined_symbols=[]):
+def _tokenize_sentencepiece(language, id2text, training_file, model_dir, model_type='bpe', vocab_size=16000, user_defined_symbols=[]):
     # train sentencepiece model
     if not os.path.exists(model_dir):
         os.makedirs(model_dir)
     model_prefix = os.path.join(model_dir, language)
-    sentencepiece_train(training_file, model_prefix, vocab_size, user_defined_symbols)
+    sentencepiece_train(training_file, model_prefix, model_type, vocab_size, user_defined_symbols)
 
     # segment text with sentencepiece model
     id2sentencepiece_text = {}
@@ -94,7 +94,7 @@ def _tokenize_sentencepiece(id2text, training_file, model_dir, language, vocab_s
             print('> line {}'.format(id))
             print('> before sentencepiece segmentation:', text)
         text = sentencepiece_segment(text, model)
-        id2sentencepiece_text = text
+        id2sentencepiece_text[id] = text
         if not count % 1000:
             print('> after sentencepiece segmentation:', text)
             print()
@@ -119,7 +119,7 @@ def _tokenize_bpe(id2text, training_file, model_dir, language, vocab_size):
             print('> line {}'.format(id))
             print('> before BPE segmentation:', text)
         text = bpe_segment(text, model_file)
-        id2bpe_text = text
+        id2bpe_text[id] = text
         if not count % 1000:
             print('> after BPE segmentation:', text)
             print()
@@ -173,22 +173,27 @@ def map_data(srclang_id2text, tgtlang_id2text, idlist,
                     target_syllabifier,
                     ftmp_tgt, fall_tgt, fout)
 
-    model_dir = '../sentencepiece_models/'
     if source_sentencepiece:
         print('>>> source sentencepiece vocabulary size:', source_sentencepiece)
-        srclang_id2text = _tokenize_sentencepiece(id2text=read_tokenized_data(all_src),
+        model_type, vocab_size = source_sentencepiece
+        model_dir = '../' + model_type + '_models/'
+        srclang_id2text = _tokenize_sentencepiece(language=srclang_name,
+                                        id2text=read_tokenized_data(all_src),
                                         training_file=tmp_src,
                                         model_dir=model_dir,
-                                        language=srclang_name,
-                                        vocab_size=source_sentencepiece,
+                                        model_type=model_type,
+                                        vocab_size=vocab_size,
                                         user_defined_symbols=[])
     if target_sentencepiece:
         print('>>> target sentencepiece vocabulary size:', target_sentencepiece)
-        tgtlang_id2text = _tokenize_sentencepiece(id2text=read_tokenized_data(all_tgt),
+        model_type, vocab_size = target_sentencepiece
+        model_dir = '../' + model_type + '_models/'
+        tgtlang_id2text = _tokenize_sentencepiece(language=tgtlang_name,
+                                        id2text=read_tokenized_data(all_tgt),
                                         training_file=tmp_tgt,
                                         model_dir=model_dir,
-                                        language=tgtlang_name,
-                                        vocab_size=target_sentencepiece,
+                                        model_type=model_type,
+                                        vocab_size=vocab_size,
                                         user_defined_symbols=[])
 
     model_dir = '../bpe_models/'
@@ -211,7 +216,7 @@ def map_data(srclang_id2text, tgtlang_id2text, idlist,
         open(inputfile, 'w') as fin, open(outputfile, 'w') as fout:
         _write_to_file(srclang_id2text, idlist, fall_src, fin)
         _write_to_file(tgtlang_id2text, idlist, fall_tgt, fout)
-    os.system('rm '+output_dir+'/*.tmp')
+    # os.system('rm '+output_dir+'/*.tmp')
 
 def splitBYlines(idlist, srclang, tgtlang):
     """
@@ -266,17 +271,17 @@ def main():
                         type=str, required=False,
                         help="For the target language, you can specify '-tsl eus' to break words in to syllables by the Basque syllabifier. Currently, Basque (eus) and Navajo (nav) syllabifiers are provided. More syllabifier choices will be added.")
     parser.add_argument("-ssp", "--source_sentencepiece",
-                        type=int, required=False,
-                        help="When specified, a sentencepiece model will be trained  and applied to segmented the source language text. You can specify the vocabulary size by specifying an integer. Suggest values are 8000, 16000, 32000, and the number should be smaller than the vocabulary size before sentencepiece.")
+                        type=str, required=False,
+                        help="You can specified a tokenizer model type implemented in sentencepiece, e.g. bpe, unigram, char, or word. You can specify a model type with a customized vocabulary size in the format of {MODEL TYPE}:{VOCABULARY SIZE}, e.g. bpe:8000. Suggested values for vocabulary size are 8000, 16000, 32000, and the number should be smaller than the vocabulary size before this process of tokenization. Default vocabulary size is 16000. A sentencepiece model (the model will be saved in '{MODEL_TYPE}_models/{source}') will be trained and applied to segmented the source language text.")
     parser.add_argument("-tsp", "--target_sentencepiece",
-                        type=int, required=False,
-                        help="When specified, a sentencepiece model will be trained and applied to segmented the target language text. You can specify the vocabulary size by specifying an integer. Suggest values are 8000, 16000, 32000, and the number should be smaller than the vocabulary size before sentencepiece.")
+                        type=str, required=False,
+                        help="You can specified a tokenizer model type implemented in sentencepiece, e.g. bpe, unigram, char, or word. You can specify a model type with a customized vocabulary size in the format of {MODEL TYPE}:{VOCABULARY SIZE}, e.g. bpe:8000. Suggested values for vocabulary size are 8000, 16000, 32000, and the number should be smaller than the vocabulary size before this process of tokenization. Default vocabulary size is 16000. A sentencepiece model (the model will be saved in '{MODEL_TYPE}_models/{target}') will be trained and applied to segmented the target language text.")
     parser.add_argument("-sbpe", "--source_bpe",
                         type=int, required=False,
-                        help="When specified, a BPE model will be trained and applied to segmented the source language text. You can specify the vocabulary size by specifying an integer.")
+                        help="When specified, the subword_nmt implementation of BPE is used. A BPE model (the model will be saved in 'bpe_models/{source}') will be trained and applied to segmented the source language text. You can specify the vocabulary size by specifying an integer.")
     parser.add_argument("-tbpe", "--target_bpe",
                         type=int, required=False,
-                        help="When specified, a BPE model will be trained and applied to segmented the target language text. You can specify the vocabulary size by specifying an integer.")
+                        help="When specified, the subword_nmt implementation of BPE is used. A BPE model (the model will be saved in 'bpe_models/{target}') will be trained and applied to segmented the target language text. You can specify the vocabulary size by specifying an integer.")
     parser.add_argument("-v", "--verbose",
                         action='store_true', required=False,
                         help="If specified, print out the lines only the source language or only the target language")
@@ -313,10 +318,30 @@ def main():
 
     if args.source_sentencepiece:
         source_sentencepiece = args.source_sentencepiece
+        if ":" in source_sentencepiece:
+            model_type, vocab_size = source_sentencepiece.split(':')
+            source_sentencepiece = (model_type, int(vocab_size))
+        else:
+            if source_sentencepiece.isalpha():
+                model_type = source_sentencepiece
+                vocab_size = 16000
+            else:
+                model_type = 'bpe'
+                vocab_size = int(source_sentencepiece)
     else:
         source_sentencepiece = None
     if args.target_sentencepiece:
         target_sentencepiece = args.target_sentencepiece
+        if ":" in target_sentencepiece:
+            model_type, vocab_size = target_sentencepiece.split(':')
+            target_sentencepiece = (model_type, int(vocab_size))
+        else:
+            if target_sentencepiece.isalpha():
+                model_type = target_sentencepiece
+                vocab_size = 16000
+            else:
+                model_type = 'bpe'
+                vocab_size = int(target_sentencepiece)
     else:
         target_sentencepiece = None
 
