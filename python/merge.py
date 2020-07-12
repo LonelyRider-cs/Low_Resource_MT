@@ -218,7 +218,12 @@ def map_data(srclang_id2text, tgtlang_id2text, idlist,
         _write_to_file(tgtlang_id2text, idlist, fall_tgt, fout)
     # os.system('rm '+output_dir+'/*.tmp')
 
-def splitBYlines(idlist, srclang, tgtlang):
+def _write_split_idlist(foutname, idlist):
+    with open(foutname, 'w') as fw:
+        for id in idlist:
+            fw.write(id + '\n')
+
+def splitBYlines(idlist, srclang, tgtlang, verbose=False):
     """
     split the lines into train-validation-test by the ratio: 7:1:2
     """
@@ -245,6 +250,15 @@ def splitBYlines(idlist, srclang, tgtlang):
             for id in idlist:
                 fin.write(srclang_id2text[id] + '\n')
                 fout.write(tgtlang_id2text[id] + '\n')
+    if verbose:
+        ftrainID = os.path.join(datadir, 'train.idlist.txt')
+        fdevID = os.path.join(datadir, 'dev.idlist.txt')
+        ftestID = os.path.join(datadir, 'test.idlist.txt')
+        _write_split_idlist(ftrainID, train_idlist)
+        _write_split_idlist(fdevID, dev_idlist)
+        _write_split_idlist(ftestID, test_idlist)
+
+
 
 def main():
 
@@ -284,7 +298,7 @@ def main():
                         help="When specified, the subword_nmt implementation of BPE is used. A BPE model (the model will be saved in 'bpe_models/{target}') will be trained and applied to segmented the target language text. You can specify the vocabulary size by specifying an integer.")
     parser.add_argument("-v", "--verbose",
                         action='store_true', required=False,
-                        help="If specified, print out the lines only the source language or only the target language")
+                        help="If specified, print out the lines only the source language or only the target language. If both {verbose} and {split} are turned on, the train/dev/test id will be stored in the same directory as the split data under the name of *.idlist.txt")
     parser.add_argument("-h", "--help",
                         action="help", default=argparse.SUPPRESS,
                         help="convert the source-target languages into the format needed for MT with Fairseq. The converted data will be stored in '../data_in_MT_format/SOURCE-TARGET/'")
@@ -362,7 +376,7 @@ def main():
              source_bpe=source_bpe, target_bpe=target_bpe)
 
     if args.split:
-        splitBYlines(common_lines, srclang, tgtlang)
+        splitBYlines(common_lines, srclang, tgtlang, verbose=args.verbose)
 
 
 
