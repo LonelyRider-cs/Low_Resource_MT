@@ -1,5 +1,7 @@
 import os, random, argparse
-from tokenizer import preprocess, sentencepiece_train, sentencepiece_segment
+from tokenizer import preprocess, \
+                      sentencepiece_train, sentencepiece_segment, \
+                      bpe_train, bpe_segment
 
 def read_data(dirname):
     id2text = {}
@@ -99,6 +101,31 @@ def _tokenize_sentencepiece(id2text, training_file, model_dir, language, vocab_s
         count += 1
     return id2sentencepiece_text
 
+def _tokenize_bpe(id2text, training_file, model_dir, language, vocab_size):
+
+    # train BPE model
+    print("... training BPE model ...")
+    if not os.path.exists(model_dir):
+        os.makedirs(model_dir)
+    model_file = os.path.join(model_dir, language+'.bpe.model')
+    bpe_train(training_file, model_file, vocab_size)
+
+    # segment text with BPE model
+    print("... segmenting text with BPE model ...")
+    id2bpe_text = {}
+    count = 0
+    for id, text in id2text.items():
+        if not count%1000:
+            print('> line {}'.format(id))
+            print('> before BPE segmentation:', text)
+        text = bpe_segment(text, model_file)
+        id2bpe_text = text
+        if not count % 1000:
+            print('> after BPE segmentation:', text)
+            print()
+        count += 1
+    return id2bpe_text
+
 def _write_to_file(id2text, idlist, fall, fmapped):
     for id, text in id2text.items():
         fall.write(str(id) + '\t' + text + '\n')
@@ -111,6 +138,7 @@ def map_data(srclang_id2text, tgtlang_id2text, idlist,
              source_tokenizer = None, target_tokenizer = None,
              source_syllabifier = None, target_syllabifier = None,
              source_sentencepiece = None, target_sentencepiece = None,
+             source_bpe=None, target_bpe=None,
              datatype = 'shared'):
     srclang_name = srclang.split('/')[-1]
     tgtlang_name = tgtlang.split('/')[-1]
@@ -147,7 +175,7 @@ def map_data(srclang_id2text, tgtlang_id2text, idlist,
 
     model_dir = '../sentencepiece_models/'
     if source_sentencepiece:
-        print('>>> source sentencepiece:', source_sentencepiece)
+        print('>>> source sentencepiece vocabulary size:', source_sentencepiece)
         srclang_id2text = _tokenize_sentencepiece(id2text=read_tokenized_data(all_src),
                                         training_file=tmp_src,
                                         model_dir=model_dir,
@@ -155,13 +183,29 @@ def map_data(srclang_id2text, tgtlang_id2text, idlist,
                                         vocab_size=source_sentencepiece,
                                         user_defined_symbols=[])
     if target_sentencepiece:
-        print('>>> target sentencepiece:', target_sentencepiece)
+        print('>>> target sentencepiece vocabulary size:', target_sentencepiece)
         tgtlang_id2text = _tokenize_sentencepiece(id2text=read_tokenized_data(all_tgt),
                                         training_file=tmp_tgt,
                                         model_dir=model_dir,
                                         language=tgtlang_name,
                                         vocab_size=target_sentencepiece,
                                         user_defined_symbols=[])
+
+    model_dir = '../bpe_models/'
+    if source_bpe:
+        print('>>> source bpe number of symbols:', source_bpe)
+        srclang_id2text = _tokenize_bpe(id2text=read_tokenized_data(all_src),
+                                                  training_file=tmp_src,
+                                                  model_dir=model_dir,
+                                                  language=srclang_name,
+                                                  vocab_size=source_bpe)
+    if target_bpe:
+        print('>>> target bpe number of symbols:', target_bpe)
+        tgtlang_id2text = _tokenize_bpe(id2text=read_tokenized_data(all_tgt),
+                                                  training_file=tmp_tgt,
+                                                  model_dir=model_dir,
+                                                  language=tgtlang_name,
+                                                  vocab_size=target_bpe)
 
     with open(all_src, 'w') as fall_src, open(all_tgt, 'w') as fall_tgt, \
         open(inputfile, 'w') as fin, open(outputfile, 'w') as fout:
@@ -227,6 +271,12 @@ def main():
     parser.add_argument("-tsp", "--target_sentencepiece",
                         type=int, required=False,
                         help="When specified, a sentencepiece model will be trained and applied to segmented the target language text. You can specify the vocabulary size by specifying an integer. Suggest values are 8000, 16000, 32000, and the number should be smaller than the vocabulary size before sentencepiece.")
+    parser.add_argument("-sbpe", "--source_bpe",
+                        type=int, required=False,
+                        help="When specified, a BPE model will be trained and applied to segmented the source language text. You can specify the vocabulary size by specifying an integer.")
+    parser.add_argument("-tbpe", "--target_bpe",
+                        type=int, required=False,
+                        help="When specified, a BPE model will be trained and applied to segmented the target language text. You can specify the vocabulary size by specifying an integer.")
     parser.add_argument("-v", "--verbose",
                         action='store_true', required=False,
                         help="If specified, print out the lines only the source language or only the target language")
@@ -270,11 +320,21 @@ def main():
     else:
         target_sentencepiece = None
 
+    if args.source_bpe:
+        source_bpe = args.source_bpe
+    else:
+        source_bpe = None
+    if args.target_bpe:
+        target_bpe = args.target_bpe
+    else:
+        target_bpe = None
+
     map_data(srclang_id2text, tgtlang_id2text, common_lines,
              srclang=srclang, tgtlang=tgtlang,
              source_tokenizer=source_tokenizer, target_tokenizer=target_tokenizer,
              source_syllabifier=source_syllabifier, target_syllabifier=target_syllabifier,
-             source_sentencepiece=source_sentencepiece, target_sentencepiece=target_sentencepiece)
+             source_sentencepiece=source_sentencepiece, target_sentencepiece=target_sentencepiece,
+             source_bpe=source_bpe, target_bpe=target_bpe)
 
     if args.split:
         splitBYlines(common_lines, srclang, tgtlang)

@@ -6,6 +6,8 @@ from nltk.tokenize import word_tokenize
 from nltk.tokenize import RegexpTokenizer
 import foma
 import sentencepiece as spm
+import subword_nmt.learn_bpe
+import subword_nmt.apply_bpe
 
 
 def normalize_navajo(text: str) -> str:
@@ -85,6 +87,16 @@ def sentencepiece_segment(text: str, model_file) -> str:
     text_bpe = " ".join(text_bpe)
     return text_bpe
 
+
+def bpe_train(training_file, model_file, num_symbols):
+    with open(training_file) as data, open(model_file, 'w') as model:
+        subword_nmt.learn_bpe.learn_bpe(data, model, num_symbols)
+
+def bpe_segment(text: str, model_file) -> str:
+    with open(model_file) as model:
+        bpe = subword_nmt.apply_bpe.BPE(model)
+        text = bpe.process_line(text)
+    return text
 
 
 
