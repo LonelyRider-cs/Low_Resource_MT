@@ -62,7 +62,7 @@ def preprocess(text, language=None, tokenizer_type=None, syllabifier_type = None
     '''
     # normalized navajo data
     if language.lower() in ['navajo', 'nvjob']:
-        normalize_navajo(text)
+        text = normalize_navajo(text)
 
     # segment punctuations from words
     segmented = basic_tokenizer(text, tokenizer_type)
