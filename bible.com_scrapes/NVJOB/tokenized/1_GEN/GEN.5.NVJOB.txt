@@ -1,0 +1,33 @@
+1:5:001:1	Ádam bits'ą́ą́dóó adideezhchíinii
+1:5:001:0	Ádam ba'áłchíní náás da'ahílchíihii díí naaltsoos bii' baa hane' . Diyin God éí diné ájiilaadą́ą́' t'áá honáłt'éego ájiilaa .
+1:5:002:0	Biką'ii áyiilaa áádóó bi'áadii ałdó' áyiilaago yik'ijisdli' , áko áho'diilyaa bijį́į́dą́ą́' Ádam yee hóózhi' .
+1:5:003:0	Ádam jiináago neeznádiindóó ba'aan tádiin honááhaigo haye' nááhásdlį́į́' ; t'áá honáłt'éego índa t'áá ájít'éhígi át'éego há náánázhchį́ ; éí Seth bee jíízhi' .
+1:5:004:0	Ádam hwíiníłkánígíí éí Seth há yizhchį́į́dóó bik'ijį' tseebíidi neeznádiin honináánááhaígíí biyi' haye'ké índa hatsi'ké há niheezhchį́ .
+1:5:005:0	Áko Ádam hwíídíiską́ą́dóó jiináago náhást'éidi neeznádiindóó ba'aan tádiin honááhaigo dadziztsą́ .
+1:5:006:0	Seth jiináago neeznádiindóó ba'aan ashdla' honááhaigo Íínas há yizhchį́ .
+1:5:007:0	Seth jiináago Íínas há yizhchį́į́dóó bik'ijį' tseebíidi neeznádiindóó ba'aan tsosts'id honínáánááhaígíí biyi' haye'ké índa hatsi'ké há niheezhchį́ .
+1:5:008:0	Áko Seth hwíídíiską́ą́dóó náhást'éidi neeznádiindóó ba'aan naakits'áadah honááhaigo dadziztsą́ .
+1:5:009:0	Íínas jiináago náhást'édiin honááhaigo Kéínan há yizhchį́ .
+1:5:010:0	Íínas jiináago Kéínan há yizhchį́į́dóó bik'ijį' tseebíidi neeznádiindóó ba'aan ashdla'áadah honínáánááhaígíí biyi' haye'ké índa hatsi'ké há niheezhchį́ .
+1:5:011:0	Áko hwíídíiską́ą́dóó náhást'éidi neeznádiindóó ba'aan ashdla' honááhaigo dadziztsą́ .
+1:5:012:0	Kéínan jiináago tsosts'idiin honááhaigo Mahéílalíyel há yizhchį́ .
+1:5:013:0	Kéínan jiináago Mahéílalíyel há yizhchį́į́dóó bik'ijį' tseebíidi neeznádiindóó ba'aan dízdiin honínáánááhaígíí biyi' haye'ké índa hatsi'ké há niheezhchį́ .
+1:5:014:0	Áko Kéínan hwíídíiską́ą́dóó náhást'éidi neeznádiindóó ba'aan neeznáá honááhaigo dadziztsą́ .
+1:5:015:0	Mahéílalíyel jiináago hastą́diindóó ba'aan ashdla' honááhaigo Jííred há yizhchį́ .
+1:5:016:0	Mahéílalíyel jiináago Jííred há yizhchį́į́dóó bik'ijį' tseebíidi neeznádiindóó ba'aan tádiin honínáánááhaígíí biyi' haye'ké índa hatsi'ké há niheezhchį́ .
+1:5:017:0	Áko Mahéílalíyel hwíídíiską́ą́dóó tseebíidi neeznádiindóó ba'aan náhást'édiindóó ba'aan ashdla' honááhaigo dadziztsą́ .
+1:5:018:0	Jííred jiináago neeznádiindóó ba'aan hastą́diindóó ba'aan naaki honááhaigo Íínak há yizhchį́ .
+1:5:019:0	Jííred jiináago Íínak há yizhchį́į́dóó bik'ijį' tseebíidi neeznádiin honínáánááhaígíí biyi' haye'ké índa hatsi'ké há niheezhchį́ .
+1:5:020:0	Áko Jííred hwíídíiską́ą́dóó náhást'éidi neeznádiindóó ba'aan hastą́diindóó ba'aan naaki honááhaigo dadziztsą́ .
+1:5:021:0	Íínak jiináago hastą́diindóó ba'aan ashdla' honááhaigo Miithúzelah há yizhchį́ .
+1:5:022:0	Íínak jiináago Miithúzelah há yizhchį́į́dóó bik'ijį' Diyin God bił joo'ashgo táadi neeznádiin honínáánááhaígíí biyi' haye'ké índa hatsi'ké há niheezhchį́ .
+1:5:023:0	Íínak hwíídíiską́ą́dóó táadi neeznádiindóó ba'aan hastą́diindóó ba'aan ashdla' honááhai .
+1:5:024:0	Áko Íínak t'áá Diyin God bił joo'ashgo nihokáa'gi doo hwééhoozin da , háálá Diyin God nááhodiidlá .
+1:5:025:0	Miithúzelah jiináago neeznádiindóó ba'aan tseebídiindóó ba'aan tsosts'id honááhaigo Léímek há yizhchį́ .
+1:5:026:0	Miithúzelah jiináago Léímek há yizhchį́į́dóó bik'ijį' tsosts'idi neeznádiindóó ba'aan tseebídiindóó ba'aan naaki honínáánááhaígíí biyi' haye'ké índa hatsi'ké há niheezhchį́ .
+1:5:027:0	Miithúzelah hwíídíiską́ą́dóó náhást'éidi neeznádiindóó ba'aan hastą́diindóó ba'aan náhást'éí honááhaigo dadziztsą́ .
+1:5:028:0	Léímek jiináago neeznádiindóó ba'aan tseebídiindóó ba'aan naaki honááhaigo haye' há yizhchį́ .
+1:5:029:0	Éí Nóah bee jíízhi'go ázhdííniid , Díí lą́ą nideiilnishgo índa nihíla' bee yéego nideiilnishgo nihik'i hałta'go ánihidoolííł , háálá Bóhólníihii éí ni' hóyée'go yá haadzíí' .
+1:5:030:0	Léímek jiináago Nóah há yizhchį́į́dóó bik'ijį' ashdladi neeznádiindóó ba'aan náhást'édiindóó ba'aan ashdla' honínáánááhaígíí biyi' haye'ké índa hatsi'ké há niheezhchį́ .
+1:5:031:0	Léímek hwíídíiską́ą́dóó tsosts'idi neeznádiindóó ba'aan tsosts'idiindóó ba'aan tsosts'id honááhaigo dadziztsą́ .
+1:5:032:0	Nóah éí ashdladi neeznádiin honááhai . Áko Shem áádóó Ham índa Jéífeth há niheezhchį́ .

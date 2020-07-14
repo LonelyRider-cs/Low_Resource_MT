@@ -1,0 +1,37 @@
+20:8:001:1	Hódzą́ éí ayóó ánóolnin áádóó hool'áágóó hólǫ́
+20:8:001:0	Hódzą́ éí dilwosh . Bee ak'i'diitįįhii éí nahwiiniih . T'áá aaníí ya' ?
+20:8:002:0	Wók'ą́ągi atiin bąąhgóó ałná'ooztiingi sizį́į łeh .
+20:8:003:0	Kintah góne' ada'iiztiingi nidilghaash łeh ; dáń'da'ditį́į́hgóó chánahgo yáłti'
+20:8:004:0	kóníigo , Diné danohłíinii , nihich'į' ádíshní ; diné danilíinii dabiye'ké bich'į' yáshti' .
+20:8:005:0	Doo dahonohsáanii , hódzą́ nabik'ítsáhákeesii bik'ida'doohtįįh , áádóó doo dahóyáanii danohłíinii , ak'ida'doohtįįh .
+20:8:006:0	Da'íísółts'ą́ą́' , háálá ayóó ádanóolninii bee nihich'į' yádeeshtih , áádóó nihich'į' yáshti'go t'áá ákogi ádaat'éii éí dadoohts'a' dooleeł .
+20:8:007:0	Háálá t'áá aaníinii t'éiyá bee yáshti' doo ; doo yá'áshǫ́ǫ́góó yáti' t'éiyá doo shił aaníi da .
+20:8:008:0	Saad bee hahasdziihígíí éí t'áá ałtso t'áá ákogi ádaat'é ; saad bee ák'eh ha'íinii , doodaii' saad naagizii doo éí ádaat'ée da .
+20:8:009:0	Éí t'áá ałtso diné ak'idi'yiitįįhii bich'į' ííshjání danilį́ , índa ił ééhózin nishódayoołt'eehii bił t'áá da'áko .
+20:8:010:0	Bínaninishtinígíí nídiilé , béésh łigaii éí dooda ; ił ééhózin nídiilé , óola bitahaasdláa'ii éí dooda .
+20:8:011:0	Háálá nitł'iz ałtaas'éí bilááh át'éego hódzą́ yá'át'ééh , áádóó ha'át'íhída bídin ídlíinii t'áá ałtso t'áá nída'íí'oh .
+20:8:012:0	Hódzą́ nishłíinii bee hódzą́ yee át'éii bił kééhasht'į́ , índa ił ééhózin áádóó nihodiit'aah ádaat'éii shił nibééhwiizįįh .
+20:8:013:0	Bóhólníihii jidósinii éí doo yá'áshóonii jijoołxáii át'é ; ádaa ha'niih áádóó ádíhólnííh áádóó doo yá'át'éehii bił dahonít'i'ii índa saad bee ák'eh ha'į́ jooshłxá .
+20:8:014:0	Na'nitin áádóó hódzą́ ts'ídá yá'ádaat'éehii éí shí ; ak'idi'yiitįįhii nishłį́ áádóó adziil shee hólǫ́ .
+20:8:015:0	Shí shinahjį' aláahgo naat'áanii danilíinii dahwée'aah , áádóó ałdó' shí shinahjį' naat'áanii danilíinii t'áá ákogi áhodooníiłgo hadahadziih .
+20:8:016:0	Shí shinahjį' naat'áanii danilíinii áádóó aghá dahideezíinii , t'áá éí nihokáá'góó ándahwii'aahii t'áá ałtso , shí shinahjį' nidant'á .
+20:8:017:0	Ayóó'ádashijó'níinii ayóó'ádahósh'ní , áádóó t'áá hahígo shíkadantáii shik'ídahidookah .
+20:8:018:0	Yit'íinii índa ił ídlį́ shee hólǫ́ ; t'áá aaníí , yódí ałtaas'éí dadina'ii índa t'áá ákogi ádaat'éii shee hólǫ́ .
+20:8:019:0	Shineest'ą' éí óola biláahgo yá'át' ééh ; t'áá aaníí , óola bąąh nídoolyį́į'ii biláahgo yá'át'ééh ; shá bilááh násdlį́į'ii éí béésh łigaii bitahaasdláa'ii biláahgo yá'át'ééh .
+20:8:020:0	T'áá ákogi át'éego áhoot'éégóó índa doo haada yit'éii bee dahonít'i'góó yishááł .
+20:8:021:0	Áko ayóó'ádashó'níinii badadi'yoodi łígíí biyódí bá dahooghangóó yódí hadadeezbingo ádadeeshłííł .
+20:8:022:0	Hodeeyá bilááhdę́ę́' Bóhólníihii bíí' nishłį́ ; t'ah doo t'áadoo le'é íílééhdą́ą́' bíí' nishłį́ .
+20:8:023:0	Hool'áádę́ę́' hasht'e'nishi'deelkid ; hodeeyáádę́ę́' , doodaii' t'ah doo nahasdzáán álnééhdą́ą́' honishłǫ́ .
+20:8:024:0	Tónteel t'ah ádindą́ą́' áádóó tó hadaazlį́į́góó tó t'ah doo hadaanééhdą́ą́' yit'íní áshi'diilyaa .
+20:8:025:0	Dził t'ah doo ádaalnééhdą́ą́' , dah daask'idígíí t'ah doo ádaalnééhdą́ą́' yit'íní áshi'diilyaa .
+20:8:026:0	T'ah doo nahasdzáán íílééhdą́ą́' , kédaayahii t'ah doo íílééhdą́ą́' , nahasdzáán bikáá'dóó łeezh t'ah doo íílééhdą́ą́' honishłǫ́ .
+20:8:027:0	Yót'ááh hiníláii áyiilaadą́ą́' ákwii honishłǫ́ ; tónteel ahééhiníyį́įgo áyiilaadą́ą́' ákwii honishłǫ́ .
+20:8:028:0	K'os dah deílzhoodgo áyiilaadą́ą́' , tó lą'í hadaazlį́įgo áyiilaadą́ą́' honishłǫ́ .
+20:8:029:0	Bóhólníihii bibee haz'áanii éí tó bik'eh dahół'į́į dooleełgo , T'áá kódíjį' tónteel nihiníyį́į dooleeł , dííniidą́ą́' honishłǫ́ ; nahasdzáán niłdzilgo niiní'ą́ą́dą́ą́' honishłǫ́ .
+20:8:030:0	Naanish yiyiichįįhii nishłį́įgo bíighahdóó honishłǫ́ǫ́ nít'éé' ; t'áá áłahjį' bidááhdóó shił hózhǫ́ǫgo shaa bił nihoozhǫǫh nít'éé' .
+20:8:031:0	Diné kéédahat'į́į́góó shił nihoozhǫǫh áádóó dine'é danilíinii baa shił nihoozhǫǫh .
+20:8:032:0	Áko k'ad shiyázhí danohłíinii , dashíínółts'ą́ą́' ; ádíshníinii bik'eh dahojíł'íinii éí hak'idahojidlí .
+20:8:033:0	Bínanihinishtinii deísínółts'ą́ą'go dahonohsą́ą doo , áádóó doo dadínóosįįłígíí éí dooda .
+20:8:034:0	Shighan bich'é'étiingi t'áá ákwíí jį́ diné shíká déez'į́į'ii , shighan bidáádílkałgi shiba' sidáii , shíists'ą́ą'ii díí lą́ą bik'ihojidlí ni .
+20:8:035:0	Háálá diné shik'íníyáii iiná yik'íníyáa dooleeł , áádóó Bóhólníihii hach'oo'níi doo .
+20:8:036:0	Nidi shich'į' ádił nidziilzíihii éí hwii' sizíinii atíjíł'į́ ; shik'ee dadiniihii t'áá ałtso aniné ayóó'ádayó'ní .

@@ -10,7 +10,7 @@ def main(argv):
     LANG_TO_SEARCH = ''
     WIKI_DUMP = False
     TOKEN_CHOICE = 2
-    TOKENIZERS = [None]
+    TOKENIZERS = []
     #graps command line arguments inputed from user
     options, remainder =  getopt.gnu_getopt(argv[1:], 'n:l:t:w', ['no_lookup=', 'lookup=', 'tokens=' 'wiki_dump', 'help'])
 
@@ -20,7 +20,7 @@ def main(argv):
             for bible in bible_list:
                 start = int(bible)
                 stop = int(bible) + 1
-                BIBLE_LIST.append((start, stop))
+                BIBLE_LIST.append((start, stop, lookup.no_lookup(str(start))))
                 LANG_TAG.append(lookup.no_lookup(str(start)))
         if opt in ('-l', '--lookup'):
             LANG_TO_SEARCH = str(arg)
@@ -31,7 +31,7 @@ def main(argv):
                     print("Begining preprocess")
                     start = int(bible_to_preprocess)
                     stop = int(bible_to_preprocess) + 1
-                    BIBLE_LIST.append((start, stop))
+                    BIBLE_LIST.append((start, stop, lookup.no_lookup(str(start))))
                     LANG_TAG.append(lookup.no_lookup(str(BIBLE_LIST[0][0])))
                 else:
                     quit()
@@ -39,7 +39,7 @@ def main(argv):
                 #raise e
                 print("sorry this did not work")
         if opt in ('-t', '--tokens'):
-            TOKEN_CHOICE = arg
+            TOKEN_CHOICE = int(arg)
         if opt in ('-w', '--wiki_dump'):
             WIKI_DUMP = True
         if opt in ('-h', '--help'):
@@ -56,18 +56,26 @@ def main(argv):
             print(" -h          help")
             quit()
 
-    if TOKEN_CHOICE == 0:
-        continue
-    if TOKEN_CHOICE == 1:
-        TOKENIZERS = [LANG_TAG]
-    if TOKEN_CHOICE == 2:
-        TOKENIZERS.append(LANG_TAG)
-
-
     print(BIBLE_LIST)
     print(LANG_TO_SEARCH)
     print(LANG_TAG)
     print(TOKENIZERS)
+    print(TOKEN_CHOICE)
+
+    if TOKEN_CHOICE == 0:
+        for b in BIBLE_LIST:
+            pipeline_bible_com_web_scraper.driver(b[0], b[1], [None])
+    if TOKEN_CHOICE == 1:
+        for b in BIBLE_LIST:
+            pipeline_bible_com_web_scraper.driver(b[0], b[1], [b[2]])
+    if TOKEN_CHOICE == 2:
+        for b in BIBLE_LIST:
+            pipeline_bible_com_web_scraper.driver(b[0], b[1], [None, b[2]])
+
+
+
+
+
 
 
 

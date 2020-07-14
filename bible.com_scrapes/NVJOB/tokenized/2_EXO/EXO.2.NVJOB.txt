@@ -1,0 +1,27 @@
+2:2:001:1	Mózes bi'dizhchį́
+2:2:001:0	Diné léi' Líívai dine'é nilį́įgo éí t'áá Líívai dine'é bitsi' ła' be'asdzą́ą́ áyiilaa .
+2:2:002:0	Éí asdzání i'niiltsąądgo ashkii yishchį́ , áko awéé' t'áá íiyisí bíiyisgo jiiłtsą́ągo bąą táá' nídeezidjį' nízdees'į́į́' .
+2:2:003:0	Doo nahozh'nił'in le' át'éégóó t'óó teełts'aa' bá dziztł'ǫ́ǫgo łeejin dijé'ígíí áádóó tsin bijeeh bee jizhjéé' , áko teełts'aa' biyi' góne' awéé' ajííłtį́įgo tooh nílínígíí tábąąhgi teeł bitahgi táłkáa'gi teełts'aa' bił nizhní'ą́ .
+2:2:004:0	Áko bádí éí awéé' haa dashdoonííł nízingo t'áá nízaadę́ę́' sizį́ .
+2:2:005:0	Nít'éé' Féro bitsi' nidoobeeł yiniyé tooh nílínídi níyá , índa at'ééké bá nidaal'a'ígíí ałdó' tábąąhgóó yił yikah , nít'éé' teełts'aa' teeł bitahgóó dah naa'eełgo yiyiiłtsą́ , áko at'ééké ła' ábizhdííniid , Haa'íshą' wóshdę́ę́' táłts'ání'aah .
+2:2:006:0	Áko ąą áyiilaago awéé' jiiłtsą́ áádóó awéé' hááchago baa a'ááh jiniizį́į'go ájíní , Díí Hííbrew dine'é be'awéé' ła' át'į́į́ lá .
+2:2:007:0	T'áá áko awéé' bádí éí Féro bitsi' áyidííniid , Níláhgóósh deesháałgo Hííbrew asdzání ła' hágo bidideeshniił , áko éí awéé' ná yaa áhályą́ą doo .
+2:2:008:0	Áko Féro bitsi' áhodííniid , Nílááhánee' . T'áá áko ch'ikę́ę́h dah diilwodgo awéé' bimá hágo yidííniid .
+2:2:009:0	Áko Féro bitsi' éí asdzání áyidííniid , Díí awéé' nááłtééł ; shá baa áhólyą́ą doo , áko bik'é nich'į' ni'iishłée doo . Áko asdzání éí awéé' dah néidiiłtį́įgo yaa áhályą́ą́ nít'éé' .
+2:2:002:1	Mózes éí Mídiyan kéyahgóó anííchą́ą́'
+2:2:010:0	Áádóó awéé' i'díít'óodgo Féro bitsi' yaa néiníłtį́įgo biyáázh dzizlį́į́' , áko , Mózes joolyée doo , hodííniid , háálá ání , Jó , táyi'dę́ę́' táłts'áníłtį́ .
+2:2:011:0	Áádóó nízaad nihoolzhiizhgo Mózes jineeyą́ , áko łah hadine'é baazhníyáago naanish bee bide ádahólzingo baa ákozniizį́į́' ; nít'éé' Ííjip dine'é éí hodine'é ła' Hííbrew nilį́įgo néiniłhałgo jiiłtsą́ .
+2:2:012:0	Áko ałts'ą́ą́' jidéé'į́į'go doo naagháhígóó Ííjip dinéhígíí jiisxį́ áádóó séí bii' nízhdees'į́į́' .
+2:2:013:0	Áko biiskání ch'ínáádzídzáago Hííbrew dine'é nidilt'éego ałk'iilwod lá , áko bik'is doo ákwii ííł'ínígíí ábizhdííniid , Ha'át'éegoshą' t'áá bił ałk'is nídlínígíí náníłhał ?
+2:2:014:0	Áko áhodííniid , Háishą' naat'áanii índa ánihwii'aahii nihá ániilaa ? Ííjip dine'é ła' síníłhínígi át'éegoósh shí ałdó' shidiyííłhééł ? Áko Mózes t'óó hoł hóóyéé' áádóó ájíní , T'áá ga' aaníí bił béédahoozin lá ! dziniizį́į́' .
+2:2:015:0	Áádóó Féro yaa hodiizts'ą́ą'go Mózes hodiyeeshxééł niizį́į́' . Nidi Mózes éí Féro bits'ą́ą́' yóó'ajoolwodgo Mídiyan kéyahgi kééhojit'į́į́ nít'éé' , áko tó hahadleeh léi'gi dzineezdá .
+2:2:016:0	Áko Mídiyan hoolyéédóó náá'iiłniihii léi' bitsi'ké tsosts'id yilt'éé lá , áko éí tó hadeidiyoo'ááł yiniyé yíkai , áko bizhé'é bilį́į́' da'doodlį́į́ł biniyé tsin bii' dibé nída'adlį́hígíí yii' tó hadeidééłbįįd .
+2:2:017:0	Nida'niłkaadii ła' yíkaigo nahgóó adah honeeskaad , nidi Mózes hach'ą́ą́h nídiidzáago háká aalwodgo biniit'aa dahadibé da'oodlą́ą́' .
+2:2:018:0	Ákohgo nákaigo bizhé'é Rúwel ábidííniid , Ha'át'éegoshą' díí jį́ t'áadoo hodíína'í nánoohkai ?
+2:2:019:0	Áko ádadííniid , Ííjip dine'é léi' éí nida'niłkaadii nihá yich'ą́ą́h naagháago tó nihá hayiiz'ą́ , áko dibé da'oodlą́ą́' .
+2:2:020:0	T'áá áko bitsi'ké áyidííniid , Áko háadishą' naaghá ? Ha'át'éegoshą' diné t'áá áadigo t'óó nánoojéé' ? Adooyį́į́ł biniyé hágo bidohní .
+2:2:021:0	Áádóó Mózes éí ákwe'é diné bighangi há hasih hoo'a' , áádóó éí dinéhígíí bitsi' ła' , Zipórah wolyéii Mózes yeiníłtį́ .
+2:2:022:0	Áko ashkii há yishchį́ , éí Gérsham wolyée doo , jidííniid , háálá ájíní , Dé'éyóní nishłį́įgo kéyah doo ééhonisindi naashá !
+2:2:023:0	Áádóó náás hodeeshzhiizhgo Ííjip kéyahdi aláahgo naat'áanii daaztsą́ , áádóó Ízrel dine'é naalte' danilį́įgo yik'ee nidadi'ni'go áádóó choo'į́į́łká daachago , áko bich'į' nidahwii'nánígíí yik'ee daachago Diyin God bidiizts'ą́ą́' .
+2:2:024:0	Áko Diyin God éí nidazhdi'ni'go hodiizts'ą́ą́' , áko Diyin God éí Éíbraham áádóó Áízak índa Jéíkab yił ahada'deest'áanii yénálniih .
+2:2:025:0	Áko Diyin God éí Ízrel dine'é yik'i déez'į́į'go ádajít'éegi yaa ákoniizį́į́' .

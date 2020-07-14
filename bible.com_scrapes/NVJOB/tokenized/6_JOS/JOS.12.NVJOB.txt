@@ -1,0 +1,26 @@
+6:12:001:1	Mózes éí aláahgo naat'áanii danilíinii yik'eh deesdlį́į́'
+6:12:001:0	Ízrel dine'é díí kéyahdóó aláahgo binanit'a'í danilíinii nideistseed áádóó éí bikédaayah Jórdan tooh biláahdi ha'a'aahjígo áádóó Árnan yíldzisdóó Dził Hérman si'áníjį' Áraba ha'a'aahjígo t'áá át'é nídahodii'ą́ągo bíí' daazlį́į́' :
+6:12:002:0	Ámor dine'é aláahgo binanit'a'í Sáíhan éí Héshban kin haal'áagi kééhat'į́į́ nít'éé' áádóó Árnan yíldzisígíí bíighahgi Aró'er kin haal'áhídóó yinant'áá nít'éé' , áádóó éí yíldzisígíí ałníí'dóó índa Gíliyad kéyah ałníí'dóó Áman dine'é bihoodzooígíí Jábak tooh nílíníjį' yee bóhólnííh nít' éé' ,
+6:12:003:0	áádóó ha'a'aahjigo Áraba dzígaidóó be'ek'id Kíniirathjį' áádóó Beth-jéshimath kin shijaa' bich'ijígo Áraba dzígaigi be'ek'idíjį' , t'áá éí Tónteel Dók'ǫ́ǫzhii hoolyéejį' índa shádi'áahjigo Dził Pízgah bitsį́įjį' yee bóhólnííh nít'éé' ,
+6:12:004:0	áádóó Béíshan nahós'a'gi aláahgo naat'áanii Ag wolyéii , éí yé'iitsoh daadzí'ígíí ła' nilį́įgo , Áshtarath kin haal'áadi áádóó Édriyai kin shijaa'di kééhat'į́į́ nít'éé' ,
+6:12:005:0	áádóó Dził Hérman si'ánígíí áádóó Sálkah kin haal'áii áádóó Béíshan hoolyéii t'áá át'é , Gíísher dine'é áádóó Méíyakah dine'é bihoodzojį' índa Gíliyad kéyah ałníí'dóó Héshban kin haal'áádóó aláahgo naat'áanii Sáíhan bihoodzojį' yinant'áá nít'éé' .
+6:12:002:1	Jáshowa éí aláahgo naat'áanii danilíinii yik'eh deesdlį́į́'
+6:12:006:0	Éí aláahgo naat'áanii nidilt'éego Mózes éí Bóhólníihii yá naal'a'í nilíinii índa Ízrel dine'é yił hak'eh dadeesdlį́į́' áádóó Mózes éí Bóhólníihii yá naal'a'í nilį́įgo hakédaayah Rúben dine'é áádóó Géed dine'é índa Manáseh dine'é ałníí'dóóígíí bíí' dadooleełgo yeidiní'ą́ .
+6:12:007:0	Áádóó díí kéyahdóó aláahgo naat'áanii danilíinii éí Jáshowa áádóó Ízrel dine'é danilíinii Jórdan tooh e'e'aahjígo Lébanan yíldzisgi Béíyal-géed hoolyéhídóó Dził Héílak éí Dził Síyer bich'į'go deez'áhíjį' nidadzistseed , áko éí bikédaayah Jáshowa éí Ízrel dine'é bíí' dadooleełii yá ahádeizooígíí bik'ehgo yitaideez'ą́ .
+6:12:008:0	Díí dziłgo nahaz'ánígíí , dayíldzisígíí , dadzígaígíí , tó hadaazlínígíí , dahonoojíhígíí índa shádi'áahjigo nahós'a'ígíí éí Het dine'é , Ámor dine'é , Kéínan dine'é , Píírez dine'é , Háíva dine'é índa Jííbas dine'é bikédaayah nít'éé' .
+6:12:009:0	Jériko dine'é aláahgo binanit'a'í t'ááłá'í , Béthel bíighahgiígíí Éí'ai dine'é aláahgo binanit'a'í t'ááłá'í ,
+6:12:010:0	Jerúsalem dine'é aláahgo binanit'a'í t'ááłá'í , Hííbran dine'é aláahgo binanit'a'í t'ááłá'í ,
+6:12:011:0	Jármath dine'é aláahgo binanit'a'í t'ááłá'í , Léíkish dine'é aláahgo binanit'a'í t'ááłá'í ,
+6:12:012:0	Églan dine'é aláahgo binanit'a'í t'ááłá'í , Gíízer dine'é aláahgo binanit'a'í t'ááłá'í ,
+6:12:013:0	Dííber dine'é aláahgo binanit'a'í t'ááłá'í , Gííder dine'é aláahgo binanit'a'í t'ááłá'í ,
+6:12:014:0	Hórmah dine'é aláahgo binanit'a'í t'ááłá'í , Éírad dine'é aláahgo binanit'a'í t'ááłá'í ,
+6:12:015:0	Líbna dine'é aláahgo binanit'a'í t'ááłá'í , Adálam dine'é aláahgo binanit'a'í t'ááłá'í ,
+6:12:016:0	Makíídah dine'é aláahgo binanit'a'í t'ááłá'í , Béthel dine'é aláahgo binanit'a'í t'ááłá'í ,
+6:12:017:0	Tapúwah dine'é aláahgo binanit'a'í t'ááłá'í , Híífer dine'é aláahgo binanit'a'í t'ááłá'í ,
+6:12:018:0	Éífek dine'é aláahgo binanit'a'í t'ááłá'í , Lasháran dine'é aláahgo binanit'a'í t'ááłá'í ,
+6:12:019:0	Méídan dine'é aláahgo binanit'a'í t'ááłá'í , Héízor dine'é aláahgo binanit'a'í t'ááłá'í ,
+6:12:020:0	Shímran-mííran dine'é aláahgo binanit'a'í t'ááłá'í , Ákshaf dine'é aláahgo binanit'a'í t'ááłá'í ,
+6:12:021:0	Téíyanak dine'é aláahgo binanit'a'í t'ááłá'í , Megído dine'é aláahgo binanit'a'í t'áá łá'í ,
+6:12:022:0	Kíídesh dine'é aláahgo binanit'a'í t'ááłá'í , Dził Kármelgi Jákniyam dine'é aláahgo binanit'a'í t'ááłá'í ,
+6:12:023:0	Dóor agháhóó'áadi kin haal'áhígóó kéédahat'íinii aláahgo binanit'a'í t'ááłá'í , Gílgal dine'é aláahgo binanit'a'í t'ááłá'í ,
+6:12:024:0	Térza dine'é aláahgo binanit'a'í t'ááłá'í ; éí t'áá ałtsogo tádiindóó ba'aan t'ááłá'í aláahgo naat'áanii danilį́į́ nít'éé' .

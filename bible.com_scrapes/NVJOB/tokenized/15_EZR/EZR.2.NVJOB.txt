@@ -1,0 +1,71 @@
+15:2:001:1	Yisnááh ninádahaaskaii dabízhi'
+15:2:001:0	Bábilan dine'é aláahgo binanit'a'í Nébukadnézzar díí diné Bábilan kéyahgóó deisnáanii yisnááh danilį́į́dę́ę́' bééda'iisnii'go Jerúsalemjį' índa Júdah kéyahgi t'áá bí bikin haal'áajį' t'ááłá'í nítínígo ninádahaaskai .
+15:2:002:0	Éí Zerábabel , Jéshuwa , Niihemáíyah , Siiréíyah , Riyeléíyah , Mórdiikai , Bílshan , Mízpar , Bígveiyai , Rííham índa Béíyanah daolyé . Ízrel dine'é bidiné danilíinii dayéélta'go éí
+15:2:003:0	Péírash ba'áłchíní náás ahoolchíiłii naakidi mííldóó ba'aan t'ááłáhídi neeznádiindóó ba'aan tsosts'idiindóó ba'aan naaki .
+15:2:004:0	Shefatáíyah ba'áłchíní náás ahoolchíiłii táadi neeznádiindóó ba'aan tsosts'idiindóó ba'aan naaki .
+15:2:005:0	Éírah ba'áłchíní náás ahoolchíiłii tsosts'idi neeznádiindóó ba'aan tsosts'idiindóó ba'aan ashdla' .
+15:2:006:0	Péíhath-mó'ab ba'áłchíní náás ahoolchíiłii éí Jéshuwa áádóó Jó'ab ba'áłchíní náás ahoolchíiłii naakidi mííldóó ba'aan tseebíidi neeznádiindóó ba'aan naakits'áadah .
+15:2:007:0	Íílam ba'áłchíní náás ahoolchíiłii t'ááłáhídi mííldóó ba'aan naakidi neeznádiindóó ba'aan ashdladiindóó ba'aan dį́į́' .
+15:2:008:0	Zátu ba'áłchíní náás ahoolchíiłii náhást'éidi neeznádiindóó ba'aan dízdiindóó ba'aan ashdla' .
+15:2:009:0	Zákeiyai ba'áłchíní náás ahoolchíiłii tsosts'idi neeznádiindóó ba'aan hastą́diin .
+15:2:010:0	Béínai ba'áłchíní náás ahoolchíiłii hastą́ądi neeznádiindóó ba'aan dízdiindóó ba'aan naaki .
+15:2:011:0	Bííbeiyai ba'áłchíní náás ahoolchíił ii hastą́ądi neeznádiindóó ba'aan naadiin táá' .
+15:2:012:0	Ázgad ba'áłchíní náás ahoolchíiłii t'ááłáhídi mííldóó ba'aan naakidi neeznádiindóó ba'aan naadiin naaki .
+15:2:013:0	Adonáíkam ba'áłchíní náás ahoolchíiłii hastą́ądi neeznádiindóó ba'aan hastą́diindóó ba'aan hastą́ą́h .
+15:2:014:0	Bígveiyai ba'áłchíní náás ahoolchíiłii naakidi mííldóó ba'aan ashdladiindóó ba'aan hastą́ą́h .
+15:2:015:0	Éídin ba'áłchíní náás ahoolchíiłii dį́įdi neeznádiindóó ba'aan ashdladiindóó ba'aan dį́į́' .
+15:2:016:0	Éíter ba'áłchíní éí Heziikáíyah ba'áłchíní náás ahoolchíiłii náhást'édiindóó ba'aan tseebíí .
+15:2:017:0	Bíízeiyai ba'áłchíní náás ahoolchíiłii táadi neeznádiindóó ba'aan naadiin táá' .
+15:2:018:0	Jórah ba'áłchíní náás ahoolchíiłii neeznádiindóó ba'aan naakits'áadah .
+15:2:019:0	Héísham ba'áłchíní náás ahoolchíiłii naakidi neeznádiindóó ba'aan naadiin táá' .
+15:2:020:0	Gíbar ba'áłchíní náás ahoolchíiłii náhást'édiindóó ba'aan ashdla' .
+15:2:021:0	Béthlehem kin shijaa'dóó diné neeznádiindóó ba'aan naadiin táá' .
+15:2:022:0	Niitófa kin shijaa'dóó diné ashdladiindóó ba'aan hastą́ą́h .
+15:2:023:0	Ánathath kin haal'áádóó diné neeznádiindóó ba'aan naadiin tseebíí .
+15:2:024:0	Azméíveth haz'ánídóó diné dízdiindóó ba'aan naaki .
+15:2:025:0	Kíriyath-éírim , Kiifáírah índa Biyérath kin naazhjaa'dóó diné tsosts'idi neeznádiindóó ba'aan dízdiindóó ba'aan táá' .
+15:2:026:0	Réímah áádóó Géíba kin haal'áádóó diné hastą́ądi neeznádiindóó ba'aan naadiin ła' .
+15:2:027:0	Míkmas haz'ánídóó diné neeznádiindóó ba'aan naadiin naaki .
+15:2:028:0	Béthel índa Éí'ai kin haal'áádóó diné naakidi neeznádiindóó ba'aan naadiin táá' .
+15:2:029:0	Nííbo kin shijaa'dóó diné ashdladiindóó ba'aan naaki .
+15:2:030:0	Mágbish kin shijaa'dóó diné neeznádiindóó ba'aan ashdladiindóó ba'aan hastą́ą́h .
+15:2:031:0	Náánáła' Íílam nááhoolyéédóó diné t'ááłáhídi mííldóó ba'aan naakidi neeznádiindóó ba'aan ashdladiindóó ba'aan dį́į́' .
+15:2:032:0	Héírim haz'ánídóó diné táadi neeznádiindóó ba'aan naadiin .
+15:2:033:0	Lad , Héídid índa Óno kin naazhjaa'dóó diné tsosts'idi neeznádiindóó ba'aan naadiin ashdla' .
+15:2:034:0	Jériko kin haal'áádóó diné táadi neeznádiindóó ba'aan dízdiindóó ba'aan ashdla' .
+15:2:035:0	Siinéíyah haz'ánídóó diné táadi mííldóó ba'aan hastą́ądi neeznádiindóó ba'aan tádiin .
+15:2:036:0	Nááda'iiłniihii : Jéshuwa bighandóó Jedéíyah ba'áłchíní náás ahoolchíiłii náhást'éidi neeznádiindóó ba'aan tsosts'idiindóó ba'aan táá' .
+15:2:037:0	Ímer ba'áłchíní náás ahoolchíiłii t'ááłáhídi mííldóó ba'aan ashdladiindóó ba'aan naaki .
+15:2:038:0	Pásher ba'áłchíní náás ahoolchíiłii t'ááłáhídi mííldóó ba'aan naakidi neeznádiindóó ba'aan dízdiindóó ba'aan tsosts'id .
+15:2:039:0	Héírim ba'áłchíní náás ahoolchíiłii t'ááłáhídi mííldóó ba'aan tsosts'idts'áadah .
+15:2:040:0	Líívai dine'é : Hodaváíyah ba'áłchíní náás ahoolchíiłii ła' Jéshuwa índa Kádmiyel ba'áłchíní náás ahoolchíiłii tsosts'idiindóó ba'aan dį́į́' .
+15:2:041:0	Dahataałii éí Éísaf ba'áłchíní náás ahoolchíiłii t'ááłáhídi neeznádiindóó ba'aan naadiin tseebíí .
+15:2:042:0	Aańdaditį́hí yaa ádahalyáanii bada'áłchíní : Shálam , Éíter , Tálman , Ákab , Hatáíta , Shóbai bada'áłchíní náás da'ahílchíihii éí t'áá ałtso t'ááłáhídi neeznádiindóó ba'aan tádiindóó ba'aan náhást'éí .
+15:2:043:0	Kin bii' sohodizingi yindaal'a'ii Néthinim wolyéii : Záíha , Hashúfa índa Tabéíyath bada'áłchíní náás da'ahílchíihii ,
+15:2:044:0	Kííras , Sáíyah índa Péídan bada'áłchíní náás da'ahílchíihii ,
+15:2:045:0	Lébanah , Héígabah índa Ákab bada'áłchíní náás da'ahílchíihii ,
+15:2:046:0	Héígab , Shálmai índa Héínan bada'áłchíní náás da'ahílchíihii ,
+15:2:047:0	Gídel , Géíhar índa Riyéíyah bada'áłchíní náás da'ahílchíihii ,
+15:2:048:0	Ríízin , Niikóda índa Gázam bada'áłchíní náás da'ahílchíihii ,
+15:2:049:0	Ázza , Pasíyah índa Bíísai bada'áłchíní náás da'ahílchíihii ,
+15:2:050:0	Ásnah , Miihúnim índa Nefúsim bada'áłchíní náás da'ahílchíihii ,
+15:2:051:0	Bákbak , Hakúfa índa Hárhur bada'áłchíní náás da'ahílchíihii ,
+15:2:052:0	Bázlath , Miiháída índa Hársha bada'áłchíní náás da'ahílchíihii ,
+15:2:053:0	Bárkas , Sísera índa Téímah bada'áłchíní náás da'ahílchíihii ,
+15:2:054:0	Niizáíyah índa Hatáífa ba'áłchíní náás ahoolchíiłii .
+15:2:055:0	Sálaman bá nidaal'a'í bada'áłchíní náás da'ahílchíihii : Sótai , Sófiireth índa Piiráída bada'áłchíní náás da'ahílchíihii ,
+15:2:056:0	Jéíyalah , Dárkan índa Gídel bada'áłchíní náás da'ahílchíihii ,
+15:2:057:0	Shefatáíyah , Hátil , Ziibéíyimdę́ę́' naagháii Pókiireth índa Éímai bada'áłchíní náás da'ahílchíihii .
+15:2:058:0	Kin bii' sohodizingi yindaal'a'ii Néthinim t'áá át'é áádóó Sálaman bá nidaal'a'í ba'áłchíní náás ahoolchíiłii táadi neeznádiindóó ba'aan náhást'édiindóó ba'aan naaki .
+15:2:059:0	Tel-míílah kin shijaa'dę́ę́' , Tel-hársa kin shijaa'dę́ę́' , Kíírab haz'ánídę́ę́' , Ádan haz'ánídę́ę́' áádóó Ímer haz'ánídę́ę́' nidahaaskaígíí dabizhé' é yę́ę dabik'éí áádóó bada'áłchíní náás da'ahílchíihii , doodaii' Ízrel dine'é daats'í danilį́ , éí naaltsoos bee hwéédahózinígíí hwee ádaadin .
+15:2:060:0	Diiléíyah , Tobáíyah índa Niikóda bada'áłchíní náás da'ahílchíihii hastą́ądi neeznádiindóó ba'aan ashdladiindóó ba' aan naaki .
+15:2:061:0	Áádóó nááda'iiłniihii bada'áłchíní : Habéíyah áádóó Kaz ba'áłchíní náás ahoolchíiłii índa Barziléíyai ba'áłchíní náás ahoolchíiłii ; éí Gíliyad dine'é nilíinii Barziléíyai bitsi'ké ła' be'asdzą́ą́ áyiilaa nít'éé' , t'áá éí dabízhi' bee ho'dójíí nít'éé' .
+15:2:062:0	Éí bada'áłchíní náás da'ahílchíihii dabízhi' naaltsoos bikáá' ádaalyaaígíí hazhó'ó naaskáa'go háí ádaat'ínígíí doo hózhǫ́ bééhózin da . Éí bąą doo dazhdiyingóó haa nitsáhákeesgo nááda'iiłniihii t'áadoo bił dahodéélta' da .
+15:2:063:0	Naat'áanii ábíłní , T'áá ha'át'íhída dadiyinii t'áadoo daohsání doo ; t'áá hazhó'ó náá'iiłniihii éí Yúrim áádóó Thámmim hazhó'ó yik'eh áhooł'įįhgo t'éiyá .
+15:2:064:0	Dah yinéłígíí t'áá át'égo dízdiindóó ba'aan naakidi mííldóó ba'aan táadi neeznádiindóó ba'aan hastą́diin ánéelą́ą́' .
+15:2:065:0	Áádóó diné há nidaal'a'ígíí índa ch'ikę́ę́h há nidaal'a'ígíí tsosts'idi mííldóó ba'aan táadi neeznádiindóó ba'aan tádiindóó ba'aan tsosts'id ánéelą́ą́' , áádóó hatahdóó éí diné índa asdzání dahataałígíí naakidi neeznádiin .
+15:2:066:0	Dabilį́į́' éí tsosts'idi neeznádiindóó ba'aan tádiindóó ba'aan hastą́ą́h ; dabidzaanééz éí naakidi neeznádiindóó ba'aan dízdiindóó ba'aan ashdla' .
+15:2:067:0	Ghą́ą́'ask'idii éí dį́įdi neeznádiindóó ba'aan tádiindóó ba'aan ashdla' ; dabitélii éí hastą́ądi mííldóó ba'aan tsosts'idi neeznádiindóó ba'aan naadiin .
+15:2:068:0	Dahazhé'é yę́ę ba'áłchíní aląąjį' naazíinii ła' Jerúsalem kin haal'áagi Bóhólníihii bikin bii' sohodizinjį' nidahaaskaigo Diyin God bikin bá haz'ánígi áńdazhdoodlííł biniyé t'áá bí ádeinízingo yee adahaazhjé'ígíí nidayiizhjaa' .
+15:2:069:0	Diyin God bikin bee binda'doonish biniyé t'áá yídaneel'ánígíí bik'ehgo yódí hasht'e'nidayiizhjaa' : óola t'ááłáhídi mííldóó ba'aan hastą́diin dah hidiidloh , béésh łigaii éí ashdladi mííl dah hidiidloh índa náá'iiłniihii bi'éénééz éí t'ááłáhídi neeznádiin .
+15:2:070:0	Nááda'iiłniihii áádóó Líívai dine'é danilíinii áádóó diné náádaała' áádóó dahataałii áádóó dáń'dítį́hí yaa ádahalyáanii índa kin bii' sohodizin yindaal'a'ii Néthinim wolyéii dabikin hadaas'áago ákwii kéédahat'į́į́ nít'éé' , áádóó Ízrel dine'é t'áá ałtso dabikin hadaas'áagi kéédahat'į́į́ nít'éé' .

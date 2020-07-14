@@ -1,0 +1,76 @@
+16:7:001:1	Niihemáíyah éí Jerúsalem kin haal'áii bá naat'áanii niyiiznil
+16:7:001:0	Ákódzaadóó tsé ahéná'áhígíí ałtso ahéé'ítł'ingo áádóó ch'ída'iiztiingóó dáádílkał dah dasínilgo áádóó ch'é'étiin yaa ádahalyánígíí áádóó dahataałígíí índa Líívai dine'é nibidee'nilgo
+16:7:002:0	shik'is Hanéínai áádóó siláo bighan yinanit'a'í Hananáíyah ałdó' Jerúsalem kin haal'á yinant'áago íishłaa , háálá Hananáíyah éí diné ba'ahódlíii nilį́įgo diné lą'í biláahgo Diyin God yidósin .
+16:7:003:0	Áádóó ábidííniid , Jerúsalemgi bidáń'daditį́hígíí náhoniigahgo índa ąą ándaal'įįh doo ; nídídáhí t'ah t'áá ákwe'é naazį́įgo dáń'dadołkałgo bił dah nída'ohtį́į́h áádóó Jerúsalemgi kéédahat'íinii bitahdóó ha'ídées'į́'í nidahidoohnił : t'ááłá'í jinítínígo haa dadeest'ą́ą́góó éí t'ááłá'í jinítínígo hakin bíighahdóó hada'ízdées'į́į' doo .
+16:7:002:1	Ninádahasnánígíí dabízhi' naaltsoos bikáá'
+16:7:004:0	Ákohgo kin haal'á nídoodleełgi ayóó áhoníłtéél áádóó t'áá íiyisí hótsaa , nidi ákwe'é diné doo lą'í hólǫ́ǫ da índa kin t'áá díkwíhí yee' naaznil .
+16:7:005:0	Áádóó shiDiyin God shijéí tsíideeskéezgo aląąjį' naazíinii índa naat'áanii danilíinii áádóó diné t'áá ałkéé' nidaho'diizhchínígíí bik'ehgo dahodi'dóoltah biniyé ahąh áhodeeshłííł niizį́į́' . Áko nít'éé' áłtsé ninádahaas'nánígíí t'áá ałkéé' nidahaazhchínígíí bik'ehgo bízhi' naaltsoos bii' ádaalyaa yę́ę nídii'ą́ągo éí biyi' kót'éego bii' bik'eda'ashchį́ .
+16:7:006:0	Bábilan dine'é aláahgo binanit'a'í Nébukadnézzar hasnáago náánáła' kéyahgóó ahoniiskaadgo áadi yisnááh dajílį́įgo ła' áádę́ę́' ninádadziiskaii áádóó Jerúsalem kin haal'áajį' índa Júdah kéyahdi t'ááłá'í jinítínígo hakin hadaas'áhíjį' anídadziiskaígíí díí éí ádajit'į́ :
+16:7:007:0	éí Jerábabel , Jéshuwa , Niihemáíyah , Azaráíyah , Reiyamáíyah , Neihaméínai , Mórdiikai , Bílshan , Míspiireth , Bígveiyai , Nííhum áádóó Béíyanah bił níjí'ná . Ízrel dine'é bitahdóó diné yéélta'go bił níjí'nánígíí díí éí ádaat'į́ :
+16:7:008:0	Péírash ba'áłchíní ahoolchíiłii éí naakidi mííldóó ba'aan t'ááłáhídi neeznádiindóó ba'aan tsosts'idiindóó ba'aan naaki .
+16:7:009:0	Shefatáíyah ba'áłchíní ahoolchíiłii táadi neeznádiindóó ba'aan tsosts'idiindóó ba'aan naaki .
+16:7:010:0	Éírah ba'áłchíní ahoolchíiłii hastą́ądi neeznádiindóó ba'aan ashdladiindóó ba'aan naaki .
+16:7:011:0	Jéshuwa áádóó Jó'ab bits'ą́ą́dóó ahoolchíiłii éí ła' Péíhath-mó'ab ba'áłchíní ahoolchíiłii naakidi mííldóó ba'aan tseebíidi neeznádiindóó ba'aan tseebííts'áadah .
+16:7:012:0	Íílam ba'áłchíní ahoolchíiłii t'ááłáhídi mííldóó ba'aan naakidi neeznádiindóó ba'aan dį́į́' .
+16:7:013:0	Zátu ba'áłchíní ahoolchíiłii tseebíidi neeznádiindóó ba'aan dízdiindóó ba'aan ashdla' .
+16:7:014:0	Zákeiyai ba'áłchíní ahoolchíiłii tsosts'idi neeznádiindóó ba'aan hastą́diin .
+16:7:015:0	Bínuwai ba'áłchíní ahoolchíiłii hastą́ądi neeznádiindóó ba'aan dízdiindóó ba'aan tseebíí .
+16:7:016:0	Bííbeiyai ba'áłchíní ahoolchíiłii hastą́ądi neeznádiindóó ba'aan naadiin tseebíí .
+16:7:017:0	Ázgad ba'áłchíní ahoolchíiłii naakidi mííldóó ba'aan táadi neeznádiindóó ba'aan naadiin naaki .
+16:7:018:0	Adonáíkam ba'áłchíní ahoolchíiłii hastą́ądi neeznádiindóó ba'aan hastą́diindóó ba'aan tsosts'id .
+16:7:019:0	Bígveiyai ba'áłchíní ahoolchíiłii naakidi mííldóó ba'aan hastą́diindóó ba'aan tsosts'id .
+16:7:020:0	Éídin ba'áłchíní ahoolchíiłii hastą́ądi neeznádiindóó ba'aan ashdladiindóó ba'aan ashdla' .
+16:7:021:0	Heziikáíyah bits'ą́ą́dóó Éíter ba'áłchíní ahoolchíiłii náhást'édiindóó ba'aan tseebíí .
+16:7:022:0	Héísham ba'áłchíní ahoolchíiłii táadi neeznádiindóó ba'aan naadiin tseebíí .
+16:7:023:0	Bíízeiyai ba'áłchíní ahoolchíiłii táadi neeznádiindóó ba'aan naadiin dį́į́' .
+16:7:024:0	Héírif ba'áłchíní ahoolchíiłii t'ááłáhídi neeznádiindóó ba'aan naakits'áadah .
+16:7:025:0	Gíbiyan ba'áłchíní ahoolchíiłii náhástédiindóó ba'aan ashdla' .
+16:7:026:0	Béthlehem kin shijaa'dóó áádóó Niitófa kin shijaa'dóó dine'é t'ááłáhídi neeznádiindóó ba'aan tseebídiindóó ba'aan tseebíí .
+16:7:027:0	Ánathath kin haal'áádóó dine'é t'ááłáhídi neeznádiindóó ba'aan naadiin tseebíí .
+16:7:028:0	Beth-azméíveth kin shijaa'dóó dine'é dízdiindóó ba'aan naaki .
+16:7:029:0	Kírjath-jíyarim , Kiifáírah índa Biyérath kin naazhjaa'dóó dine'é tsosts'idi neeznádiindóó ba'aan dízdiindóó ba'aan táá' .
+16:7:030:0	Réímah índa Géíba kin haal'áádóó dine'é hastą́ądi neeznádiindóó ba'aan naadiin ła' .
+16:7:031:0	Míkmas kin shijaa'dóó dine'é t'ááłáhídi neeznádiindóó ba'aan naadiin naaki .
+16:7:032:0	Béthel kin shijaa'dóó índa Éí'ai kin haal'áádóó dine'é t'ááłáhídi neeznádiindóó ba'aan naadiin táá' .
+16:7:033:0	Náánáła' Nííbo kin shijaa'dóó dine'é éí ashdladiindóó ba'aan naaki .
+16:7:034:0	Náánáła' Íílam kéyahdóó dine'é éí t'ááłáhídi mííldóó ba'aan naakidi neeznádiindóó ba'aan ashdladiindóó ba'aan dį́į́' .
+16:7:035:0	Héírim ba'áłchíní ahoolchíiłii táadi neeznádiindóó ba'aan naadiin .
+16:7:036:0	Jériko kin haal'áádóó dine'é táadi neeznádiindóó ba'aan dízdiindóó ba'aan ashdla' .
+16:7:037:0	Lad , Héídid índa Óno kin naazhjaa'dóó dine'é éí tsosts'idi neeznádiindóó ba'aan naadiin ła' .
+16:7:038:0	Siinéíyah ba'áłchíní ahoolchíiłii táadi mííldóó ba'aan náhást'éidi neeznádiindóó ba'aan tádiin .
+16:7:039:0	Náá'iiłniihii ła' : Jéshuwa bits'ą́ą́dóó oochíiłii Jedéíyah éí ba'áłchíní da'ahílchíihii náhást'éidi neeznádiindóó ba'aan tsosts'idiindóó ba'aan táá' .
+16:7:040:0	Ímer ba'áłchíní ahoolchíiłii t'ááłáhídi mííldóó ba'aan ashdladiindóó ba'aan naaki .
+16:7:041:0	Pásher ba'áłchíní ahoolchíiłii t'ááłáhídi mííldóó ba'aan naakidi neeznádiindóó ba'aan dízdiindóó ba'aan tsosts'id .
+16:7:042:0	Héírim ba'áłchíní ahoolchíiłii t'ááłáhídi mííldóó ba'aan tsosts'idts'áadah .
+16:7:043:0	Líívai dine'é ła' : Jéshuwa áádóó Kádmiyel índa Hódavah ba'áłchíní da'ahílchíihii tsosts'idiindóó ba'aan dį́į́' .
+16:7:044:0	Dahataałii ła' : Éísaf ba'áłchíní ahoolchíiłii t'ááłáhídi neeznádiindóó ba'aan dízdiindóó ba'aan tseebíí .
+16:7:045:0	Dáádílkał yaa ádahalyáanii ła' : Shálam ba'áłchíní ahoolchíiłii , Éíter ba'áłchíní ahoolchíiłii , Tálman ba'áłchíní ahoolchíiłii , Ákab ba'áłchíní ahoolchíiłii , Hatáíta ba'áłchíní ahoolchíiłii , Shóbai ba'áłchíní ahoolchíiłii t'ááłáhídi neeznádiindóó ba'aan tádiindóó ba'aan tseebíí .
+16:7:046:0	Néthinim ła' : Záíha ba'áłchíní ahoolchíiłii , Hashúfa ba'áłchíní ahoolchíiłii , Tabéíyath ba'áłchíní ahoolchíiłii ,
+16:7:047:0	Kííras ba'áłchíní ahoolchíiłii , Sáíyah ba'áłchíní ahoolchíiłii , Péídan ba'áłchíní ahoolchíiłii ,
+16:7:048:0	Lébanah ba'áłchíní ahoolchíiłii , Héígabah ba'áłchíní ahoolchíiłii , Shálmai ba'áłchíní ahoolchíiłii ,
+16:7:049:0	Héínan ba'áłchíní ahoolchíiłii , Gídel ba'áłchíní ahoolchíiłii , Géíhar ba'áłchíní ahoolchíiłii ,
+16:7:050:0	Riyéíyah ba'áłchíní ahoolchíiłii , Ríízin ba'áłchíní ahoolchíiłii , Niikóda ba'áłchíní ahoolchíiłii ,
+16:7:051:0	Gázam ba'áłchíní ahoolchíiłii , Ázza ba'áłchíní ahoolchíiłii , Pasíyah ba'áłchíní ahoolchíiłii ,
+16:7:052:0	Bíísai ba'áłchíní ahoolchíiłii , Miyúnim ba'áłchíní ahoolchíiłii , Niifíshesim ba'áłchíní ahoolchíiłii ,
+16:7:053:0	Bákbak ba'áłchíní ahoolchíiłii , Hakúfa ba'áłchíní ahoolchíiłii , Hárhur ba'áłchíní ahoolchíiłii ,
+16:7:054:0	Bázlith ba'áłchíní ahoolchíiłii , Miiháída ba'áłchíní ahoolchíiłii , Hársha ba'áłchíní ahoolchíiłii ,
+16:7:055:0	Bárkas ba'áłchíní ahoolchíiłii , Sísera ba'áłchíní ahoolchíiłii , Téímah ba'áłchíní ahoolchíiłii ,
+16:7:056:0	Niizáíyah ba'áłchíní ahoolchíiłii , Hatáífa ba'áłchíní ahoolchíiłii .
+16:7:057:0	Sálaman bá nidaal'a'í bada'áłchíní da'ahílchíihii : Sótai ba'áłchíní ahoolchíiłii , Sófiireth ba'áłchíní ahoolchíiłii , Piiráída ba'áłchíní ahoolchíiłii ,
+16:7:058:0	Jéíyalah ba'áłchíní ahoolchíiłii , Dárkan ba'áłchíní ahoolchíiłii , Gídel ba'áłchíní ahoolchíiłii ,
+16:7:059:0	Shefatáíyah ba'áłchíní ahoolchíiłii , Hátil ba'áłchíní ahoolchíiłii , Pókiireth ba'áłchíní ahoolchíiłii , Ziibéíyam ba'áłchíní ahoolchíiłii , Éíman ba'áłchíní ahoolchíiłii .
+16:7:060:0	Néthinim t'áá ałtso áádóó Sálaman bá nidaal'a'í bada'áłchíní da'ahílchíihii táadi neeznádiindóó ba'aan náhást'édiindóó ba'aan naaki .
+16:7:061:0	Tel-míílah , Tel-haríísha , Kíírab , Ádan índa Ímer kin hadaas'áádóó díí ninádahaasná , nidi dabizhé'é yę́ę dabik'éí áádóó ba'áłchíní da'ahílchíihii éí Ízrel dine'é daats'í danilį́įgo éí naaltsoos bee hwéédahózinígíí hwee ádaadin .
+16:7:062:0	Diiléíyah ba'áłchíní ahoolchíiłii , Tobáíyah ba'áłchíní ahoolchíiłii índa Niikóda ba'áłchíní ahoolchíiłii hastą́ądi neeznádiindóó ba'aan dízdiindóó ba'aan naaki .
+16:7:063:0	Áádóó nááda'iiłniihii bits'ą́ą́dóó ła' : Habéíyah ba'áłchíní ahoolchíiłii , Kaz ba'áłchíní ahoolchíiłii , Barziléíyai ba'áłchíní ahoolchíiłii ; éí hastiin náánáła' Gíliyad dine'é Barziléíyai wolyéii bitsi' ła' hwe'asdzą́ą́ silį́į'go éí bízhi'ígíí házhi' silį́į́' .
+16:7:064:0	Díí diné éí náánáła' ałkéé' nidahazhchínígíí bik'ehgo naaltsoos biyi' bízhi' ádaalyaaígíí bitah házhi' ch'ééh hadazneeztą́ą́' , nidi haa'ída doo bik'iisdzoh da ; éí bąą doo dazhdiyingóó haa nitsídahakeesgo náá'iiłniihii doo dazhdooleełgóó nahjį' haho'doo'nil .
+16:7:065:0	Áko naat'áanii áhodííniid , Náá'iiłniihii ła' Yúrim áádóó Thámmim yił deizį'go índa agháago dadiyinii dadoohsį́į́ł .
+16:7:066:0	Diné t'áá yíl'áá nít'éé' éí dízdiindóó ba'aan naakidi mííldóó ba'aan táadi neeznádiindóó ba'aan hastą́diin ánéelą́ą́' ,
+16:7:067:0	éí bighą́ąhjį' diné bá nidaal'a'ígíí áádóó asdzání bá nidaal'a'ígíí éí tsosts'idi mííldóó ba'aan táadi neeznádiindóó ba'aan tádiindóó ba'aan tsosts'id ánéelą́ą́' , áádóó náá'ákóne' diné dahataałígíí índa asdzání dahataałígíí naakidi neeznádiindóó ba'aan dízdiindóó ba'aan ashdla' ánéelą́ą́' .
+16:7:068:0	Dahalį́į́' éí tsosts'idi neeznádiindóó ba'aan tádiindóó ba'aan hastą́ą́h , dahadzaanééz éí naakidi neeznádiindóó ba'aan dízdiindóó ba'aan ashdla' ,
+16:7:069:0	dahaghą́ą́'ask'idii éí dį́įdi neeznádiindóó ba'aan tádiindóó ba'aan ashdla' , dahatélii éí hastą́ądi mííldóó ba'aan tsosts'idi neeznádiindóó ba'aan naadiin ánéelą́ą́' .
+16:7:070:0	Ła' hatahgóó azhé'é aláahgo bídahólníihii naanish yá béeso adayiiznil . Naat'áanii éí óola t'ááłáhídi mííl dah hidiidlohgo , óola łeets'aa' ashdladiingo índa náá'iiłniihii dabi'éé' ashdladi neeznádiindóó ba'aan tádiin ayíínil .
+16:7:071:0	Nááná ła' azhé'é aláahgo bídahólníihii éí óola naakidi neeznádiindóó ba'aan tsosts'idiindóó ba'aan táá' dah hidiidlohgo índa béésh łigaii táadi mííldóó ba'aan naakidi neeznádiindóó ba'aan ashdla'áadah dah hidiidlohgo naanish biniyé adayiiznil .
+16:7:072:0	Łahjį' dinéhígíí óola éí naakidi neeznádiindóó ba'aan tsosts'idiindóó ba'aan táá' dah hidiidlohgo áádóó béésh łigaii éí naakidi mííldóó ba'aan náhást'éidi neeznádiindóó ba'aan naadiin táá' dah hidiidlohgo índa náá'iiłniihii dabi'éé' éí tsosts'idiin adayiiznil .
+16:7:003:1	Ézra éí diné bich'į' bee haz'áanii yiyííłta'
+16:7:073:0	Áko nááda'iiłniihii índa Líívai dine'é áádóó dáádílkał yaa ádahalyáanii índa diné dahataałii áádóó dine'é ła' índa Néthinim dine'é éí Ízrel dine'é t'áá ałtso hakin hadaas'áágóó kéédahojit'į́ . Tsosts'id nídízííd baa hoolzhiizhgo Ízrel dine'é éí bikin hadaas'áagi kéédahat'į́į́ nít'éé' .

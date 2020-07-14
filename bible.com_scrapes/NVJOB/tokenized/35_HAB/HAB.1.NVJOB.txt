@@ -1,0 +1,20 @@
+35:1:001:1	Habákak éí doo ákǫ́ǫ́ át'éii yaa saad hółǫ́
+35:1:001:0	Habákak éí Diyin God yá halne'ii jílíinii hanaagóó áhoot'éii baa ákozniizį́į́' .
+35:1:002:0	Bóhólníihii nílíinii , haash nízáagi ch'ééh nánooshkąąhgo doo shíísíníłts'ą́ą' da doo ? Doodaii' t'áá na'níle'dii áhooníiłii biniinaa nánooshkąąhgo doósh t'áá k'ad yisdá'íínínil da ?
+35:1:003:0	Ha'át'íishą' biniyé doo ákwii ádaat'éii yish'į́įgo áshiinilaa áádóó doo yá'áshóonii nísh'į́įgo áshíínísin ? Jó , nida'iiłchxǫǫh índa t'áá na'níle'dii áhooníiłii t'éí shinááł baa ooldah ; ahiní'diiltłáád áádóó ałgha'dit'ááh baa ooldah .
+35:1:002:1	Kaldíya dine'é éí Júdah dine'é atíidoolííł
+35:1:004:0	Éí bąą bee haz'áanii doo bi'ólzin da , áádóó doo ts'ídá ákóne' át'éego ánihót'ááł át'ée da . Háálá doo yá'ádaashóonii éí ts'ídá t'áá ákwii ádaat'éii yináhookah , éí bąą t'óó dzólníígóó ándahwiit'aah .
+35:1:005:0	Ał'ąą dine'é bitahgóó dadínóh'į́į'go , dooládó' da ! Ayóó át'éego ádahooníiłii t'áá íiyisí bik'ee t'óó nihił adahayóí , háálá níyoołkááł biyi' naanish baa naasháii , azhą́ éí bee nihił hóóne' nidi , doo deidoohdląął da .
+35:1:006:0	Háálá Kaldíya dine'é nídahidiikáahgo ádeeshłííł , jó'akon ; éí dine'é bik'eda'íyée'ii índa ee nidahodilzhǫ'ii danilį́įgo kéyahgóó dabighan doo biniyé t'áadoo daabíi'ii yich'į' nídahidiibáahgo nidayiiłnée doo .
+35:1:007:0	T'óó báádahadzid índa bik'eda'íyéé' . Yee á nidahwii'aahii índa yee bídahólníhígíí t'éí t'áá bí yaa deíkááh .
+35:1:008:0	Náshdóítsoh daalkizhii dadilwo'ígíí bilááh át'éego dabilį́į́' ayóó ádeídóolwo' ; e'e'áahgo mą'iitsoh hashké daniidzįįhígíí bilááh át'éego hashké dandzin . Bisiláo łį́į́' yee nidaabaahii t'áá nízaadę́ę́' łį́į́' bił yijah . Bisiláo łį́į́' yee nidaabaahii atsági át'éego yidooyį́įłii yich'į' nídiilwo'go yił haat'ahígi át'éego naaldeeh .
+35:1:009:0	Ha'a'aahdę́ę́' deeyolígi át'éego t'áá na'níle'dii t'óó báhádzidgo nidahakááh índa séigi ánéelą́ą'go yisnááh áłah ádeilééh .
+35:1:010:0	Aláahgo naat'áanii danilíinii t'óó yaa daadloh áádóó aláahgo bídahólníihii t'óó yá nidahałt'i' . Bine' na'adzi' bił nidahaz'áanii t'óó yaa daadloh , háálá łeezh bíilk'idgo ádeile'go deiłné .
+35:1:003:1	Habákak éí Bóhólníihii yich'į' saad nááhółǫ́
+35:1:011:0	Níyol nahalingo łahjigo ádooníiłgo ch'ídookah ; bihodiit'i'ii dine'é danilį́ ; t'áá bí bibee adziilii t'éí bidiyin ádayósin .
+35:1:012:0	Bóhólníihii shiDiyin God , ni t'éiyá shiDiyin nílíinii , hool'áádę́ę́' honílǫ́ . Doo dadíníi'néeł da . Bóhólníihii nílíinii , atídanihił'į́į doo biniyé náhíníláá' . Diyin God ayóó ábóodziilii nílíinii , bee hasht'eniná'dooldah biniyé hasht'einilaa .
+35:1:013:0	Nináá' diyingo bąą t'óó baa'ihii níníł'į́įgo doo bohónéedzą́ą da áádóó doo yá'áshóonii doo níníł'į́į da ; ákoshą' ha'át'éego diné indahagizii bich'oní'ní índa diné doo yá'ádaashóonii bilááh át'éego diné t'áá ákogi át'éii ádayoołdįįłgo t'óó dííníłhéél ?
+35:1:014:0	Ha'át'éegoshą' tónteel bii' łóó' naaldeehígi át'éego áádóó nidaa'na'ii binanit'a'í bee ádin nahalingo diné íinilaa ?
+35:1:015:0	Kaldíya dine'é éí biłóó' bee hahadleehí yee ałtso hadayiileeh ; biłóó' bee biya'ayiiltsósí bii'dę́ę́' hadayiijááh , łóó' bee hahaltsósí yii' hééł ádahale' . Éí bąą haa bił dahózhǫ́ǫgo bił nidahoozhǫǫh doo .
+35:1:016:0	Éí bąą biłóó' bee biya'ayiiltsósí yich'į' nááda'iiłniih índa biłóó' bee hahaltsósí yich'į' tsin bijeeh łikání halchinii deidiłidgo náádayiiłniih , háálá éí bee lą'í łóó' hadayiiłtsóós índa bich'iyą' bee ída'azįįd .
+35:1:017:0	Da' biłóó' bee hahaltsósíísh doo bii' siláhígóó ádeidoolííł índa ał'ąą dine'éésh doo yaa hą́ą́h nízingóó t'óó áyoołdįįł doo ?

@@ -1,0 +1,38 @@
+16:11:001:1	Jerúsalem kin haal'áadi kéédahat'íinii
+16:11:001:0	Diné binanit'a'í danilíinii Jerúsalem kin haal'áagi kéédahat'į́į́ nít'éé' ; diné łahjį'ígíí yáá'iilt'e' yaa naaskaigo diné neeznált'éhígíí t'ááłá'í bits'ádooltéełgo éí dílzingo kin haal'áagi Jerúsalemgi kééhat'į́į doo áádóó diné náhást'élt'éhígíí éí náádaałahgóó kin hadaas'áágóó kéédahojit'į́į doo .
+16:11:002:0	Ízrel dine'é éí diné t'áá bí ádeinízingo Jerúsalemgi kéédahat'į́į dooígíí t'áá ałtso yaa dahaznih .
+16:11:003:0	Kéyah nahós'a'dóó díí diné aláahgo bídahólníhígíí Jerúsalemgi kéédahat'į́ , nidi Júdah kéyahdi kin hadaas'áágóó t'ááłá'í jinítínígo t'áá hó hakin hadaas'áagi hwee dahólóonii bii' kéédahojit'į́į́ nít'éé' ; éí Ízrel dine'é danilíinii áádóó nááda'iiłniihii áádóó Líívai dine'é áádóó Néthinim wolyéii índa Sálaman bá nidaal'a'í yę́ę bits'ą́ą́dóó da'ahílchíihii ałdó' ákǫ́ǫ́ kéédahat'į́į́ nít'éé' .
+16:11:004:0	Áko Jerúsalemgi Júdah áádóó Bénjamin ba'áłchíní ahoolchíiłii ła' kéédahat'į́ . Júdah ba'áłchíní ahoolchíiłii éí díí : Píírez ba'áłchíní ahoolchíiłii ła' , Mahéílalíyel biye' Shefatáíyah , éí biye' Amaráíyah , éí biye' Zekaráíyah , éí biye' Azáíyah , éí biye' Atháíyah wolyéii ákwii kééhat'į́ ,
+16:11:005:0	índa Shilónai biye' Zekaráíyah , éí biye' Jóíyarib , éí biye' Adéíyah , éí biye' Hazéíyah , éí biye' Kolhózeh , éí biye' Bérak , éí biye' Méíyasíyah wolyéii ákwii kééhat'į́ .
+16:11:006:0	Píírez ba'áłchíní ahoolchíiłii Jerúsalemgi kéédahat'į́į́ nít'é'ígíí éí dį́įdi neeznádiindóó ba'aan hastą́diindóó ba'aan tseebíí diné ánéelą́ą'go doo nídanilyéesii danilį́į́ nít'éé' .
+16:11:007:0	Náá'ákóne' Bénjamin ba'áłchíní ahoolchíiłii éí Jiiséíyah biye' Íthiyel , éí biye' Méíyasíyah , éí biye' Koléíyah , éí biye' Piidéíyah , éí biye' Jówed , éí biye' Miishálam , éí biye' Séílu wolyéii ákwii kééhat'į́ ;
+16:11:008:0	éí bikéédę́ę́' Gábeiyai índa Sáleiyai éí náhást'éidi neeznádiindóó ba'aan naadiin tseebíí ánéelą́ą́' .
+16:11:009:0	Zíkrai biye' Jówel éí honanit'a'í nilį́į́ nít'éé' ; Siinúwah biye' Júdah éí akéé' góne' kin haal'áhígi dine'é yinant'áá nít'éé' .
+16:11:010:0	Nááda'iiłniihii ła' : Jóíyarib biye' Jedéíyah áádóó Jéíkin .
+16:11:011:0	Aháítab biye' Miiréíyath , éí biye' Zéídak , éí biye' Miishálam , éí biye' Hilkáíyah , éí biye' Siiréíyah wolyéii éí Diyin God bikin si'ą́ą́dóó aláahgo bóhólníhígíí nilį́ .
+16:11:012:0	Dabik'isóó kin bii' sohodizin si'ą́ągi nidaalnishígíí éí tseebíidi neeznádiindóó ba'aan naadiin naaki ánéelą́ą́' , áádóó Malkáíyah biye' Pásher , éí biye' Zekaráíyah , éí biye' Ámzai , éí biye' Pelaláíyah , éí biye' Jiiróham , éí biye' Adéíyah wolyéii ,
+16:11:013:0	áádóó bik'isóó éí da'azhé'é aláahgo bídahólníhígíí éí naakidi neeznádiindóó ba'aan dízdiindóó ba'aan naaki ánéelą́ą́' , índa Ímer biye' Miishíliimath , éí biye' Ahéísai , éí biye' Azéíriyel , éí biye' Amásheiyai wolyéii ,
+16:11:014:0	áádóó dabik'isóó diné ayóó ádabóodziilii doo nídanilyéesii éí t'ááłáhídi neeznádiindóó ba'aan naadiin tseebíí ánéelą́ą́' ; diné ayóó ádaat'éii ła' biye' Zábdiyel wolyéii honant'áá nít'éé' .
+16:11:015:0	Líívai dine'é ałdó' ła' : Bánai biye' Hashabáíyah , éí biye' Ázrikam , éí biye' Háshab , éí biye' Shiiméíyah wolyéii ,
+16:11:016:0	áádóó Líívai dine'é aláahgo bídahólníhígíí ła' Shábiithai índa Jázabad éí Diyin God bikin si'ánídóó t'áá tł'óó'jí nida'anishígíí yinant'áá nít'éé' .
+16:11:017:0	Éísaf biye' Zábdai , éí biye' Máíka , éí biye' Matanáíyah wolyéii hó éí alą́ąjį' ahééh hwiindzingo sodilzin ; bikéé' góne' Bakbakáíyah , éí bik'isóó danilíinii bitahgi naaki góne' sizį́į́ nít'éé' , índa Jedúthan biye' Géílal , éí biye' Shamúwa , éí biye' Ábda wolyéii ałdó' íjóltą' nít'éé' .
+16:11:018:0	Diyingo kin haal'áagi Líívai dine'é danilíinii éí naakidi neeznádiindóó ba'aan tseebídiindóó ba'aan dį́į́' ánéelą́ą'go kééhat'į́į́ nít'éé' .
+16:11:019:0	Náá'ákóne' dáádílkał yaa ádahalyáanii Ákab áádóó Tálman índa dabik'isóó danilíinii dáádílkał yaa ádahalyáanii éí t'ááłáhídi neeznádiindóó ba'aan tsosts'idiindóó ba'aan naaki ánéelą́ą́' .
+16:11:020:0	Áádóó łahjį' Ízrel dine'é áádóó nááda'iiłniihii índa Líívai dine'é t'ááłá'í nítínígo Júdah kéyahgi t'áá ałtso kin hadaas'áágóó bíí' daazlį́į'gi kéédahat'į́ .
+16:11:021:0	Nidi Néthinim wolyéii éí Ófel deílk'idgi kéédahat'į́į́ nít'éé' áádóó Záíha índa Gíspa éí Néthinim dine'é yinant'áá nít'éé' .
+16:11:022:0	Máíka biye' Matanáíyah , éí biye' Hashabáíyah , éí biye' Béínai , éí biye' Ázai wolyéii éí Jerúsalemgi ałdó' Líívai dine'é yinant'áago Éísaf ba'áłchíní ahoolchíiłii sin yee dahataałii ła' nilį́įgo Diyin God bikin si'ánígi nida'anishígíí yinant'áá nít'éé' .
+16:11:023:0	Aláahgo naat'áanii díí yee haadzíí' : sin yee dahataałii éí dayíłkiinii t'áá ákwíí jį́ bá ninádaji'nił .
+16:11:002:1	Jerúsalem kin haal'á binaagóó kéédahat'íinii
+16:11:024:0	Júdah biye' Zíírah ba'áłchíní ahoolchíiłii ła' Miishézabiil biye' Pethaháíyah éí diné bídadéét'i'ii t'áá ałtso aláahgo naat'áanii bee bił hojilne' nít'éé' .
+16:11:025:0	Índa kin dah naazhjaa'góó áádóó binaagóó nidahós'a'ígíí t'áá bił ákǫ́ǫ́ Júdah dine'é ła' éí Kírjath-árba kin haal'áadi índa binaagóó kin naazhjaa'góó kéédahat'į́į́ nít'éé' áádóó Dáíban kin haal'áadi índa binaagóó kin naazhjaa'góó áádóó Jiikábziyel kin haal'áadi índa binaagóó kin naazhjaa'góó kéédahat'į́į́ nít'éé' ,
+16:11:026:0	náá'ákóne' Jéshuwa áádóó Móladah áádóó Beth-péílet
+16:11:027:0	áádóó Héízar-shúwal áádóó Bíyer-shííba kin hadaas'áágóó índa dabinaagóó kin naazhjaa'ii t'áá bił ,
+16:11:028:0	áádóó Zíklag áádóó Miikónah kin haal'áadi índa binaagóó kin naazhjaa'ii t'áá bił ákǫ́ǫ́ kéédahat'į́į́ nít'éé'
+16:11:029:0	áádóó En-ríman áádóó Zaríyah áádóó Jármath
+16:11:030:0	áádóó Zanówah áádóó Adálam kin hadaas'áágóó índa binaagóó kin naazhjaa'ii t'áá bił ; Léíkish kin haal'áadi áádóó binaa nahós'a'góó ; Azííkah kin haal'áadi índa binaagóó kin naazhjaa'ii t'áá bił . Áko Bíyer-shííba kin shijaa'dóó níléí Hínam yíldzis góyaajį' kéédahat'į́į́ nít'éé' .
+16:11:031:0	Bénjamin ba'áłchíní ahoolchíiłii ałdó' Gííba , Míkmash , Eiyáíja índa Béthel kin hadaas'áágóó áádóó binaagóó kin naazhjaa'góó kéédahat'į́į́ nít'éé' ,
+16:11:032:0	náá'ákóne' kin hadaas'áhígíí Ánathath , Nob , Ananáíyah ,
+16:11:033:0	Héízar , Réímah , Gíteiyim ,
+16:11:034:0	Héídid , Ziibówim , Niibálat ,
+16:11:035:0	Lad áádóó Óno índa honíts'aa' , éí diné da'iichįįhii kéédahat'į́įgi kéédahojit'į́į́ nít'éé' .
+16:11:036:0	Ákohgo Líívai dine'é éí Júdah kéyahdi kéédahat'į́į́ nít'éé' yę́ę ła' Bénjamin bikéyahdi kéédahat'į́į́ nít'éé' .

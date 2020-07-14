@@ -1,0 +1,45 @@
+2:25:001:1	Ízrel dine'é éí nááhániihii nideidiyoojihgo bá hoo'a'
+2:25:002:1	Ízrel dine'é éí nááhániihii nideidiyoojihgo bá hoo'a'
+2:25:001:0	Áko Bóhólníihii éí Mózes áyidííniid ,
+2:25:002:0	Ízrel dine'é bich'į' hadíídzihgo ábididííniił , Bóhólníihii kóní , Náádahidoołnihii shaa dahidoohjih ; diné t'ááłá'í nítínígo bił hóódlee'ii shich'į' nááhidoonihígíí naa deidiyoojih .
+2:25:003:0	Díí náádahidoonihígíí naa deidiyooniłgo nídidíínił : éí óola áádóó béésh łigaii áádóó béésh łitsoii
+2:25:004:0	áádóó yisdizii yá nahalingo dootł'izhii áádóó tsídídééh nahalingo łichí'ígíí áádóó łichxí'ígíí áádóó áłts'óózígo yisdizígíí bee na'at'ą́hí łigaii dits'idgo ályaii áádóó tł'ízí bighaa'
+2:25:005:0	áádóó deenásts'aa' bikágí daaldzą́ągo deilchii'ii áádóó nahashch'id bikágí áádóó tsin nitł'izii akéíshiya wolyéii
+2:25:006:0	áádóó ak'ah bee hool'in dooígíí áádóó spáis éí ak'ah ak'i yahiidzíidgo bee yilzį́į'ii biniyéhígíí áádóó spáis éí tsinbijeeh dilidgo łikání halchinii biniyéhígíí
+2:25:007:0	áádóó tsé ániks wolyéii áádóó tsé da'ílíinii , áko íífad wolyéii índa ayidgi dah siłtsooz dooígíí bikáa'gi éí tsé da'ílíinii bee nidooch'ąhii ; éí t'áá ałtso Bóhólníihii baa dahidoohjih .
+2:25:008:0	Áádóó bíni'dii diyingo haz'ą́ągo shá ádeidoolííł , áko hatahgi kééhasht'į́į doo .
+2:25:003:1	Tsits'aa' dílzinii éí neeznáago bik'eh ó'oo'níiłii bee bééhániihii bii' sinilii
+2:25:009:0	Níbaal bii' hodílzinii ályaii bik'ehgo áádóó bee hahodít'éii dooleełii ályaii bik'ehgo éí nich'į' ííshją́ą́ áshłééh , áko ts'ídá t'áá ákót'éego ádadoohłííł .
+2:25:010:0	Áko tsin nitł'izii bee tsits'aa' ádeidoolííł ; éí táá' ké siláádóó náhást'éí asdzoh áníłnéez doo áádóó naaniigo naakidi ké siláádóó táá' asdzoh áníłtéel doo índa dego naakidi ké siláádóó táá' asdzoh ánízah doo .
+2:25:011:0	Áko biyi'dę́ę́' índa bikáá'dę́ę́' óola t'áá bízhání bik'ésti'go ádíílííł , áádóó bibąąhgóó óola ahééní'áago ádadoohłííł .
+2:25:012:0	Tsits'aa' bitł'ááhdóó t'áá dį́į́'góó naanídaaz'áhígi ałch'ijí naakigo óola názbąsgo bídadidííłhį́ .
+2:25:013:0	Tsin nitł'izii níyizgo ádadoohłííł áádóó óola bik'ídadoołtih .
+2:25:014:0	Áko tsits'aa' booshk'iizhjí díí óola názbąs bąąh dah sinilígíí bee naat'áa doo biniyé tsin níyizii bighá dadoohtsih .
+2:25:015:0	Tsin níyizígíí éí óola názbąs bąąh sinil dooígíí t'áá áłahjį' bighá ní'áa doo ; éí doo bąąh náá'dii'nił da doo .
+2:25:016:0	Áádóó neeznáago bik'eh ó'oo'níiłii bee bééhániihii naadeesh'niłígíí tsits'aa' dílzinii biih dadoohnił .
+2:25:017:0	Índa aa a'ááh hasinii bił haz'ánígi éí óola t'áá bízhání bee ádadoohłííł ; éí táadi ké siláádóó náhást'éí asdzoh áníłnéez doo , índa naaniigo naakidi ké siláádóó táá' asdzoh áníłtéel doo .
+2:25:018:0	Áko óola t'áá bízhání bee diyingo naal'a'í naakigo béé'ályaago chérabim wolyéii ádadoohłííł ; hasht'e'nibída'doołniiłgo aa a'ááh hasinii bił haz'ání nineel'ánígi t'áá ałch'ishdę́ę́' sizį́įgo ádadoohłííł .
+2:25:019:0	Łahjí nineel'ánígi chérab wolyéii t'ááłá'í sizį́į doo , áádóó náánáłahjí nineel'ánígi chérab t'ááłá'í náánásdzį́į doo ; aa a'ááh hasinii bił haz'ánígi índa nineel'ą́ągi ałch'ishdę́ę́' chérabim sizínígíí bił t'áá ła' bizhi'ee ádadoohłííł .
+2:25:020:0	Aa a'ááh hasinii bił haz'ání bik'ijį' chérabim bit'a' dah yoołbał doo ; aa a'ááh hasinii bił haz'áníjį' ałch'ishdę́ę́' déez'į́į'go ałch'į' sizį́į doo .
+2:25:021:0	Áko tsits'aa' dílzinii bikáa' gi aa a'ááh hasinii bił haz'ání dań'dítį́įhgo ádadoohłííł ; neeznáago bik'eh ó'oo'níiłii bee bééhániihii naa deesh'niłígíí éí tsits'aa' dílzinii biih dadoohnił .
+2:25:004:1	Diyin God bich'į' bááh nááhániihii bikáá' adání bá si'áanii
+2:25:022:0	Ákwii nił ahínéisht'ash doo , áádóó chérabim naakigo tsits'aa' dílzinii yikáa'gi dah sizínígíí bita'gi aa a'ááh hasinii bił haz'ánídóó bik'eh ó'oo'níiłii t'áá ałtso Ízrel dine'é bá naa dideesh'áłígíí ałch'į' baa yéiilti' doo .
+2:25:023:0	Bikáá' adání ałdó' tsin nitł'izii bee ádadooh łííł ; táadi ké silá áníłnéez doo , áádóó naaniigo t'ááłá'í ké siláádóó ná'áłníi'go áníłtéel doo , índa dego naakidi ké siláádóó táá' asdzoh ánízah doo .
+2:25:024:0	Óola t'áá bízhání bik'ídííłtihgo ła' bibąąhgóó ahééhiníkaadgo ádadoohłííł .
+2:25:025:0	Dį́į́' yílá bik'eh áníłtéelgo bináz'áa doogo índa óola éí bibąąh ahééhiníkaadgo ádadoohłííł .
+2:25:026:0	Dį́į́'góó naanídaaz'áhígíí biyaagi bijáád éí óola nídaazbąsgo bídadidoołhį .
+2:25:027:0	Ahééní'áhígíí bíighahgi tsin níyizii ii' ní'áago bee naat'áa doo biniyé óola názbąsii bąąh dah naaznil doo .
+2:25:028:0	Tsin níyizii ła' ádadoohłííł , áádóó óola bik'ídadoołtih ; éí bikáá' adání bee naat'áa doo biniyé ádadoohłííł .
+2:25:029:0	Łeets'aa' niteelígíí áádóó tsin bijeeh dilidgo łikání halchinii bá łeets'aa' áádóó ásaa' índa bee ya'iyiidzídígíí éí óola t'áá bízhání bee ádadoohłííł .
+2:25:005:1	Bee hool'iní bá yadaa'áhígíí óola bee ályaii
+2:25:030:0	Índa bikáá' adání bikáa'gi Diyin God bich'į' bááh nááhániihii t'áá áłahjį' shinááł sinilgo ádeínóhsin doo .
+2:25:031:0	Bee hool'iní bá yadaa'áhígíí éí óola t'áá bízhání bee ádadoohłííł . Óola hasht'e'nibí'dííłniiłgo bá si'ánígíí índa dego bá yadaa'áhígíí áádóó bílátah dah na'azką́ągo ak'ah biih náhádzídígíí áádóó éí bitł'ááh ní'deeskǫ'ígíí índa ch'ilátah hózhóón bee naashch'ą'ígíí éí t'áá ła' bizhi'ee ádadoohłííł .
+2:25:032:0	Hastą́ągo ats'ádaaz'áa doo , éí bee hool'iní bá yadaa'áhígíí łahjí táá' bits'ání'áa doo ; náánáłahjí ałdó' táá' bits'ání'áa doo ;
+2:25:033:0	t'ááłá'ígo ats'áz'áhígíí álman wolyéii bílátah yiigahígíí nahalingo táa'go ałkéé' honíką́ągo bee naashch'ąą' doo ; bílátah haleehii áádóó yiigahígíí t'áá bił , bee hool'iní bá yaa'áhígíí hastą́ągo bits'ádaaz'áhígíí ákót'éego ádadoohłííł .
+2:25:034:0	Bee hool'iní bá yadaa'áhígíí dį́į'go ałk'i honíką́ągo álman wolyéego ch'ilátah hózhóón nahalingo bee naashch'ąą' doo .
+2:25:035:0	Naakigo ałts'ą́ąjį' dadeez'áhígíí t'áá táa'go bitł'áahgi ní'da'deezwodgo bił t'áá ła' bizhi'ee ádadoohłííł .
+2:25:036:0	Ats'á daaz'áhígíí áádóó ałkéé' honíkánígíí éí bá yaa'áhígíí bił t'áá ła' bizhi'ee ádadoohłííł ; bee hool'inígíí t'áá át'é óola t'áá bízhání hasht'e'nibída'doołniiłgo t'áá ła' bizhi'ee ádadoohłííł .
+2:25:037:0	Áko bá bee dahool'inígíí tsosts'idgo ádadoohłííł , índa bikáá' yí'nilgo bidáahjį' haz'ánígi bee hool'in doo biniyé ádadoohłííł .
+2:25:038:0	Kǫ' bee náhiniltsésígíí áádóó łeeshch'iih bee naakáhígíí óola t'áá bízhání bee ádadoohłííł .
+2:25:039:0	Bee hool'iní bá yadaa'áhígíí índa beedí chodao'íinii t'áá ałtso éí óola t'áá bízhání t'ááłá'í tálent dah hidiidloh bíighahgo ádadoohłííł .
+2:25:040:0	Áko díí t'áá ałtso ályaii bik'ehgo dziłghą́ą'di nich'į' ííshjání áshłaaígíí ts'ídá t'áá éí bik'ehgo baa honíyą́ągo ádadoohłííł .

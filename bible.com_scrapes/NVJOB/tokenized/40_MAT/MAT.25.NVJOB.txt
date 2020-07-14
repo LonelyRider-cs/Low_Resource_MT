@@ -1,0 +1,49 @@
+40:25:001:1	Ch'ikéí neeznált'éego binahjį' hane' bee ak'idi'dootį́įłii
+40:25:001:0	Ákohgo yá'ąąshii bee bóhólníihgo bił haz'áanii éí ch'ikéí neeznált'éego bee hool'iní dah deidiijaa'go iiyehii yidááhgóó eekaígíí nahalin .
+40:25:002:0	Áko nít'éé' ashdlalt'éego éí dahóyą́ą́ lá , ashdlalt'éego éí doo ádahalyą́ą da lá .
+40:25:003:0	Doo ádahalyánígíí bee hool'iní dah deidiijaa'go ak'ah iih nídoodziłígíí t'áágééd dah diikai ,
+40:25:004:0	nidi dahóyánígíí éí bee hool'iní dah deidiijaa' , índa ak'ah iih nídoodziłígíí tózis yee dah deidiijaa' .
+40:25:005:0	Nít'éé' iiyehii doo yíghááhgóó , t'áá ádzíłtso bił dazniizį́į'go da'jiiłhaazh .
+40:25:006:0	Nidi tł'é'ííłníi'go ła' hazhdoolghaazh yists'ą́ą́' , Aadę́ę́' iiyehii yigááł ! Nihílááh bidááh nohkááh .
+40:25:007:0	Áko ch'ikéí t'áá ałtso nídiijée'go bee hool'iní biih yít'i'ígíí bílátahgi hasht'e' niyída'azhgizh .
+40:25:008:0	Nít'éé' doo ádahalyánígíí éí dahóyánígíí ádeidííniid , Ak'ah ła' nihaa danohsííd , háálá nihibee hool'iní nihits'ą́ą́' dantséés .
+40:25:009:0	Nidi dahóyánígíí hadaasdzíi'go ádaaní , Ak'ah nihada'niidzíidgo doo bíighah da ; doo hanii baa nidahaniihígíí bich'į' dohkáahgo t'áá nihí ádá nidahołniih da .
+40:25:010:0	Áko nidazhdi'yoołnihgóó ajookaigo , iiyehii níyá , áko hasht'e' ádazhdólzinígíí iiyehii ída'íísįįd góne' iiyehii bił yah ajookaigo dá'deelkaal .
+40:25:011:0	Áádóó bik'ijį' náánáła' ch'ikéí yę́ę ałdó' yíkaigo ádaaní , Bóhólníihii , Bóhólníihii , nihá ąą ánílééh .
+40:25:012:0	Nidi haadzíi'go ání , T'áá aaníí ánihidishní , Doo nihéédahasin da .
+40:25:002:1	Béeso tálent wolyéhígíí binahjį' hane' bee ak'idi'dootį́įłii
+40:25:013:0	Éí bąą hada'ísídół'į́į́' , háálá [ Diné Silį́į'ii] yoołkááł áádóó oolkił góne' [ doogáłígíí] doo nihił béédahózin da .
+40:25:014:0	Yá'ąąshii bee bóhólníihgo bił haz'áanii éí kót'é : diné léi' náánáła' kéyahgóó deeyáago bá nidaal'a'í hágo yidííniidgo , hanaalye'é há yaa ádahalyą́ą doo biniyé bitaazdeez'ą́ ,
+40:25:015:0	nít'éé' ła' béeso tálent wolyéhígíí ashdla' bazh'nínil , ła' éí tálent naaki áádóó náánáła' tálent t'ááłá'í , t'áá yídaneel'ánígíí bik'ehgo bada'dziiznilgo índa dashdiiyá .
+40:25:016:0	Nít'éé' tálent ashdla' ba'í'nilígíí t'áá áko naanish yee yaa nídiidzáago tálent ashdla' bá bínániidee' .
+40:25:017:0	T'áá ákót'éego ałdó' tálent naaki ba'í'nilígíí tálent naaki bá bínániidee' .
+40:25:018:0	Nidi tálent t'ááłá'í ba'ít'ánígíí éí dah diiyáago hahwiizgeedgo , ákóyaa binanit'a'í bibéeso łeeh yiyíí'ą́ągo néidees'į́į́' .
+40:25:019:0	Nít'éé' nízaad nihoolzhiizhgo éí nidaal'a'í binanit'a'í nádzá , áko bich'į' ninádazhdoodlééł biniyé béeso hada'iisnilii bił dajííłta' .
+40:25:020:0	Áko tálent ashdla' ba'í'nilígíí yich'į' niníyáago , tálent ashdla' bá bínániidee'ígíí yiníjaa'go kóní , Shinanit'a'í , tálent ashdla' sha'íínínil ni' ; éí tálent ashdla' shá bínániidee'ígíí kǫ́ǫ́ níjaa' .
+40:25:021:0	Áko hananit'a'í áhodííniid , Yá'át'éhígi íinidzaa , yá'át'éehgo índa ba'ahódlíigo naal'a'í nílíinii ; t'įįhdígo bee na'ahoosdli'ígíí yá'át'éehgo ninaanish silį́į́' , k'ad éí lą'í bee nóhólníihgo ándeeshłííł ; ninanit'a'í yaa bił hózhóonii bee ná'íldįįh doo .
+40:25:022:0	Áádóó tálent naaki ba'í'nilígíí ałdó' níyáago ádííniid , Shinanit'a'í , tálent naaki sha'íínínil ni' ; éí tálent naaki shá bínániidee'ígíí kǫ́ǫ́ níjaa' .
+40:25:023:0	Áko hananit'a'í áhodííniid , Yá'át'éhígi íinidzaa , yá'át'éehgo índa ba'ahódlíigo naal'a'í nílíinii ; t'įįhdígo bee na'ahoosdli'ígíí yá'át'éehgo ninaanish silį́į́' , k'ad éí lą'í bee nóhólníihgo ándeeshłííł ; ninanit'a'í yaa bił hózhóonii bee ná'íldįįh doo .
+40:25:024:0	Áádóó tálent t'ááłá'í ba'ít'ánígíí ałdó' níyáago ádííniid , Shinanit'a'í , nééhasingo diné hashkéii nílį́ , háálá t'áadoo k'éé'dídléehgi ná'ígish , áádóó t'áadoo ná'oołch'ihgi hééł áná'iil'įįh ,
+40:25:025:0	áko ninásdzidgo bąą dah diiyáago tálent t'ááłá'í sha'ííní'áanii łeeh yí'ą́ągo nídéł'į́į́' . Jó , kóoní , níí' nít'ée'ii níí' ánánídlééh .
+40:25:026:0	Nidi hananit'a'í hach'į' haadzíi'go áhodííniid , Bąąhági ánít'éii índa bił hóyée'go naal'a'í nílíinii ! T'áadoo k'éé'díshdléehgi ná'áshgishgo , áádóó t'áadoo ná'ooshch'ihgi hééł áná'iish'įįhgo nił bééhózin lá ya' ?
+40:25:027:0	Áko shibéeso éí béeso yaa ádahalyánígíí baa díínił nít'éé' , áko nánísdzáago shibéeso ínáóltą'í bił shaa ná'nil dooleeł nít'éé' .
+40:25:028:0	Áko tálent t'ááłá'í ba'ít'ánígíí bits'ą́ą́' nídooh'aahgo tálent neeznáá neijaahígíí baa noh'aah .
+40:25:029:0	Háálá t'ááłá'í jinítínígo ha'át'íhída hwee hólónígíí biláahgo ła' haa náádoolyééł , áko lą'í hwee hólǫ́ǫ dooleeł , nidi ha'át'íhída hwee ádinígíí éí t'áá hwee hólónígíí nidi haghadoolyééł .
+40:25:003:1	Ał'ąą dine'é baa náhódóot'įįł
+40:25:030:0	Áádóó naal'a'í t'áadoo yee choo'ínígíí tł'óó'dóó nówehjį' chahałheeł góne' ahołhan ; áadi diné daachxa áádóó biwoo' ahídeidiłk'ash doo .
+40:25:031:0	Nidi Diné Silį́į'ii bits'ádi'nílíidgo índa diyingo nidaal'a'í t'áá ałtso yił yíkaigo , áadi índa bikáá'dóó nahat'áii bits' ádi'nílíidii yikáá'dóó dah dínóodaał .
+40:25:032:0	Áádóó ał'ąą dine'é t'áá ałtso baa áłah ádoolnííł , índa na'niłkaadii bidibé éí tł'ízí yits'áyiiníłígi át'éego , éí t'ááłá'í nítínígo ałts'áidoonił ,
+40:25:033:0	áko dibé éí binish'náájígo niidoonił , tł'ízí éí binishtł'ajígo niidoonił .
+40:25:034:0	Áko índa Aláahgo Naat'áanii binish'náájígo yíl'áhígíí áyididooniił , ShiTaa' nihik'ijidlíii , hágo , aláahgo bee óhólníihgo bił haz'áanii nahasdzáán niit'ą́ą́dę́ę́' nihá hasht'eelyaaígíí nihíí' ádaahłééh ,
+40:25:035:0	háálá dichin nishłį́įgo shada'soołtsood , dibáá' nishłį́įgo tó shaa dasooką́ , dé'éyóní nishłį́įgo shił yah adasoohkai ,
+40:25:036:0	shi'éé' ádingo hadashidoohłaa , daastsaahgo shaa nidasinootą́ą́' , awáalyaa góne' sédáago shaa dasoohkai .
+40:25:037:0	Ákohgo t'áá ákogi ádaat'éii kódaaníigo hach'į' hadadoodzih , Bóhólníihii , hádą́ą'shą' dichin nílį́įgo daniiltsą́ągo nada'siiltsood , éí doodaii' dibáá' nílį́įgo tó naa dasiiką́ ?
+40:25:038:0	Áádóó hádą́ą'shą' dé'éyóní nílį́įgo daniiltsą́ągo , nił yah adasiikai , doodaii' ni'éé' ádingo hadandiilyaa ?
+40:25:039:0	Áádóó hádą́ą'shą' dantsaahgo , éí doodago awáalyaa góne' sínídáago daniiltsą́ągo naa dasiikai ?
+40:25:040:0	Áádóó Aláahgo Naat'áanii hach'į' t'ą́ą́' háádoodzihgo áhodidooniił , T'áá aaníí ánihidishní , Díí shik'is ła' ts'ídá hojooba' ádaat'éii bá baa nidasoohkaígíí , éí shí shá baa nidasoohkai .
+40:25:041:0	Áádóó binishtł'ajígo jíl'áhígíí áhodidooniił , Nihí atídanihidi'doolníiłgo nihá hada'iisdzíi'ii hool'áágóó hodook'ą́ą́ł , níłch'i bida'iiníziinii binanit'a'í áádóó bá nidaal'a'í bá hasht'ehoolyaaígíí biyi'jį' shits'ánóhkááh ,
+40:25:042:0	háálá dichin nishłį́įgo t'áadoo shada'soołtsood da , dibáá' nishłį́įgo t'áadoo tó shaa dasooką́ą da ,
+40:25:043:0	dé'éyóní nishłį́įgo t'áadoo shił yah adasoohkai da , shi'éé' ádingo t'áadoo hadashidoohłaa da , daastsaahgo índa awáalyaa góne' sédáago t'áadoo shaa nidasinootą́ą' da .
+40:25:044:0	Ákohgo éí ałdó' kódaaníigo hach'į' t'ą́ą́' háádadoodzih , Bóhólníihii , hádą́ą'shą' dichin nílį́įgo , doodaii' dibáá' nílį́įgo , doodaii' dé'éyóní nílį́įgo , doodaii' ni'éé' ádingo , doodaii' dantsaahgo , doodaii' awáalyaa góne' sínídáago daniiltsą́ągo , t'áadoo naa ádahosiilyąąd da ?
+40:25:045:0	Áádóó kóníigo hach'į' hanáádoodzihgo áhodidooniił , T'áá aaníí ánihidishní , Díidí ts'ídá hojooba' ádaat'éii t'áadoo bá baa nidasoohkaígíí , éí t'áadoo shá baa nidasoohkai da .
+40:25:046:0	Áko díidí hool'áágóó até'él'į́ biyi'jį' dashdidookah , nidi t'áá ákogi ádaat'éii éí iiná doo ninít'i'ii yiyi'jį' dah didookah .

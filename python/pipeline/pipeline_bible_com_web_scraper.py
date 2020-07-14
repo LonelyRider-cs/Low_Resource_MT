@@ -24,17 +24,19 @@ def page_scraper(url, book, book_number, chapter_number, lang_code, TOKENIZER):
     soup = BeautifulSoup(response.text, "html.parser")
 
     file_name = str(file_name.group())[1:]
-    if not os.path.exists("../bible.com_scrapes/" + str(lang_code) + "/non_tokenized/" + str(book)):
-        os.makedirs("../../bible.com_scrapes/"+str(lang_code)+ "/non_tokenized/" + str(book_number) + "_" + str(book), exist_ok = True)
-        non_tokenized_file = open("../../bible.com_scrapes/"+str(lang_code) + "/non_tokenized/" + str(book_number) + "_" + str(book) + "/" + str(file_name)+".txt", "w")
-    else:
-        non_tokenized_file = open("../../bible.com_scrapes/"+str(lang_code) + "/non_tokenized/" + str(book_number) + "_" + str(book) + "/" + str(file_name)+".txt", "w")
-
-    if not os.path.exists("../bible.com_scrapes/" + str(lang_code) + "/tokenized/" + str(book)):
-        os.makedirs("../../bible.com_scrapes/"+str(lang_code)+ "/tokenized/" + str(book_number) + "_" + str(book), exist_ok = True)
-        tokenized_file = open("../../bible.com_scrapes/"+str(lang_code) + "/tokenized/" + str(book_number) + "_" + str(book) + "/" + str(file_name)+".txt", "w")
-    else:
-        tokenized_file = open("../../bible.com_scrapes/"+str(lang_code) + "/tokenized/" + str(book_number) + "_" + str(book) + "/" + str(file_name)+".txt", "w")
+    for token in TOKENIZER:
+        if token == None:
+            if not os.path.exists("../bible.com_scrapes/" + str(lang_code) + "/non_tokenized/" + str(book)):
+                os.makedirs("../../bible.com_scrapes/"+str(lang_code)+ "/non_tokenized/" + str(book_number) + "_" + str(book), exist_ok = True)
+                non_tokenized_file = open("../../bible.com_scrapes/"+str(lang_code) + "/non_tokenized/" + str(book_number) + "_" + str(book) + "/" + str(file_name)+".txt", "w")
+            else:
+                non_tokenized_file = open("../../bible.com_scrapes/"+str(lang_code) + "/non_tokenized/" + str(book_number) + "_" + str(book) + "/" + str(file_name)+".txt", "w")
+        elif token != None:
+            if not os.path.exists("../bible.com_scrapes/" + str(lang_code) + "/tokenized/" + str(book)):
+                os.makedirs("../../bible.com_scrapes/"+str(lang_code)+ "/tokenized/" + str(book_number) + "_" + str(book), exist_ok = True)
+                tokenized_file = open("../../bible.com_scrapes/"+str(lang_code) + "/tokenized/" + str(book_number) + "_" + str(book) + "/" + str(file_name)+".txt", "w")
+            else:
+                tokenized_file = open("../../bible.com_scrapes/"+str(lang_code) + "/tokenized/" + str(book_number) + "_" + str(book) + "/" + str(file_name)+".txt", "w")
 
 
     #get all the tags that contain a verse
@@ -52,11 +54,9 @@ def page_scraper(url, book, book_number, chapter_number, lang_code, TOKENIZER):
         if tag['class'][0] == 's1':
             for child in tag.children:
                 if child['class'][0] == 'heading':
-
                     for token in TOKENIZER:
                         if token == None:
-
-                            tokened_heading == pipeline_tokenizer.
+                            tokened_heading = pipeline_tokenizer.basic_tokenizer(tag.text, token)
                             if len(str(heading_count)) == 1:
                                 non_tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_heading + "\n")
                                 #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_heading)
@@ -69,7 +69,8 @@ def page_scraper(url, book, book_number, chapter_number, lang_code, TOKENIZER):
                                 non_tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":" + str(heading_count) + ":1\t" + tokened_heading + "\n")
                                 #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":" + str(heading_count) + ":1\t " + tokened_heading)
                                 #print(str(book_number) + ":" + str(chapter_number) + ":" + str(heading_count) + ":1\t" + tokened_heading)
-                        else:
+                        elif token != None:
+                            tokened_heading = pipeline_tokenizer.basic_tokenizer(tag.text, str(token))
                             if len(str(heading_count)) == 1:
                                 tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_heading + "\n")
                                 #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_heading)
@@ -94,30 +95,35 @@ def page_scraper(url, book, book_number, chapter_number, lang_code, TOKENIZER):
             #if our verse changes we know to then append the current verses, then update the verse count and reset the current verse string to blank
             #this also writes to the specified text file
             if verse_count != temp_verse:
-                if TOKENIZER == None:
-                    tokened_working_verse = current_working_verse
-                elif TOKENIZER == 'ENGLISH':
-                    token = word_tokenize(current_working_verse.replace("’", "'").replace("—", " — "))
-                    tokened_working_verse = ' '.join(token)
-                elif TOKENIZER == 'OTHER':
-                    tokenizer = RegexpTokenizer("[^\s.\";:,.“”\[\(\)?!]+|[^\w\d'\s\-]")
-                    token = tokenizer.tokenize(current_working_verse)
-                    tokened_working_verse = ' '.join(token)
-                #print(current_working_verse)
-                #print(token)
-                #print(tokened_working_verse)
-                if len(str(verse_count)) == 1:
-                    file.write(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
-                    #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0\t" + tokened_working_verse)
-                    #print(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0\t" + tokened_working_verse)
-                if len(str(verse_count)) == 2:
-                    file.write(str(book_number) + ":" + str(chapter_number) + ":0" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
-                    #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":0" + str(verse_count) + ":0\t" + tokened_working_verse)
-                    #print(str(book_number) + ":" + str(chapter_number) + ":0" + str(verse_count) + ":0\t" + tokened_working_verse)
-                if len(str(verse_count)) == 3:
-                    file.write(str(book_number) + ":" + str(chapter_number) + ":" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
-                    #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":" + str(verse_count) + ":0\t " + tokened_working_verse)
-                    #print(str(book_number) + ":" + str(chapter_number) + ":" + str(verse_count) + ":0\t" + tokened_working_verse)
+                for token in TOKENIZER:
+                    if token == None:
+                        tokened_working_verse = pipeline_tokenizer.basic_tokenizer(current_working_verse, token)
+                        if len(str(verse_count)) == 1:
+                            non_tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
+                            #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_heading)
+                            #print(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_heading)
+                        if len(str(verse_count)) == 2:
+                            non_tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":0" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
+                            #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_heading)
+                            #print(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_heading)
+                        if len(str(verse_count)) == 3:
+                            non_tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
+                            #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":" + str(heading_count) + ":1\t " + tokened_heading)
+                            #print(str(book_number) + ":" + str(chapter_number) + ":" + str(heading_count) + ":1\t" + tokened_heading)
+                    elif token != None:
+                        tokened_working_verse = pipeline_tokenizer.basic_tokenizer(current_working_verse, str(token))
+                        if len(str(verse_count)) == 1:
+                            tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
+                            #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_heading)
+                            #print(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_heading)
+                        if len(str(verse_count)) == 2:
+                            tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":0" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
+                            #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_heading)
+                            #print(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_heading)
+                        if len(str(verse_count)) == 3:
+                            tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
+                            #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":" + str(heading_count) + ":1\t " + tokened_heading)
+                            #print(str(book_number) + ":" + str(chapter_number) + ":" + str(heading_count) + ":1\t" + tokened_heading)
                 #updating count and clearing string
                 verse_count = temp_verse
                 current_working_verse = ""
@@ -142,31 +148,41 @@ def page_scraper(url, book, book_number, chapter_number, lang_code, TOKENIZER):
                             current_working_verse += gchild.text
 
     #tokenize that last line
-    if TOKENIZER == None:
-        tokened_working_verse = current_working_verse
-    elif TOKENIZER == 'ENGLISH':
-        token = word_tokenize(current_working_verse.replace("’", "'").replace("—", " — "))
-        tokened_working_verse = ' '.join(token)
-    elif TOKENIZER == 'OTHER':
-        tokenizer = RegexpTokenizer("[^\s.\";:,.“”\[\(\)?!]+|[^\w\d'\s\-]")
-        token = tokenizer.tokenize(current_working_verse)
-        tokened_working_verse = ' '.join(token)
-    #print(tokened_working_verse)
-    #at the end here we need to add the last verse no matter what due to the way the for loop is set up
-    if len(str(verse_count)) == 1:
-        file.write(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
-        #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0\t" + tokened_working_verse)
-        #print(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0    " + tokened_working_verse)
-    if len(str(verse_count)) == 2:
-        file.write(str(book_number) + ":" + str(chapter_number) + ":0" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
-        #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":0" + str(verse_count) + ":0\t" + tokened_working_verse)
-        #print(str(book_number) + ":" + str(chapter_number) + ":0" + str(verse_count) + ":0\t" + tokened_working_verse)
-    if len(str(verse_count)) == 3:
-        file.write(str(book_number) + ":" + str(chapter_number) + ":" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
-        #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":" + str(verse_count) + ":0\t" + tokened_working_verse)
-        #print(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0\t" + tokened_working_verse)
-    #print(psuedo_file)
-    file.close()
+    for token in TOKENIZER:
+        if token == None:
+            tokened_working_verse = pipeline_tokenizer.basic_tokenizer(current_working_verse, token)
+            if len(str(verse_count)) == 1:
+                non_tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
+                #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_heading)
+                #print(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_heading)
+            if len(str(verse_count)) == 2:
+                non_tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":0" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
+                #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_heading)
+                #print(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_heading)
+            if len(str(verse_count)) == 3:
+                non_tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
+                #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":" + str(heading_count) + ":1\t " + tokened_heading)
+                #print(str(book_number) + ":" + str(chapter_number) + ":" + str(heading_count) + ":1\t" + tokened_heading)
+        elif token != None:
+            tokened_working_verse = pipeline_tokenizer.basic_tokenizer(current_working_verse, str(token))
+            if len(str(verse_count)) == 1:
+                tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
+                #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_heading)
+                #print(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_heading)
+            if len(str(verse_count)) == 2:
+                tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":0" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
+                #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_heading)
+                #print(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_heading)
+            if len(str(verse_count)) == 3:
+                tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
+                #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":" + str(heading_count) + ":1\t " + tokened_heading)
+                #print(str(book_number) + ":" + str(chapter_number) + ":" + str(heading_count) + ":1\t" + tokened_heading)
+
+    for token in TOKENIZER:
+        if token == None:
+            non_tokenized_file.close()
+        elif token != None:
+            tokenized_file.close()
     return 0
 
 def driver(start, stop, TOKENIZER):

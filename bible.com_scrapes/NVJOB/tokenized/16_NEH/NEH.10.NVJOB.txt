@@ -1,0 +1,39 @@
+16:10:001:0	Áko bízhi' yik'ideizohígíí éí Hakaláíyah biye' Niihemáíyah , naat'áani nilíinii áádóó Zedekáiyah ,
+16:10:002:0	Siiréíya , Azaráíyah , Jeremáíyah ,
+16:10:003:0	Pásher , Amaráíyah , Malkáíyah ,
+16:10:004:0	Hátash , Shebanáíyah , Málak ,
+16:10:005:0	Héírim , Mériimath , Obadáíyah ,
+16:10:006:0	Dániel , Gíniithan , Bérak ,
+16:10:007:0	Miishálam , Abáíjah , Míjamin ,
+16:10:008:0	Meiyazáíyah , Bilgéíyai , Shiimáíyah ; íídą́ą́' éí náá'iiłniihii danilį́į́ nít'éé' .
+16:10:009:0	Áádóó Líívai dine'é éí ałdó' : Azanáíyah biye' Jéshuwa , Hénadad biye' ła' Bínuwai wolyéii áádóó Kádmiyel
+16:10:010:0	índa bik'isóó danilínígíí ła' , Shebanáíyah , Hodáíjah , Kiiláíta , Piiláíyah , Héínan ,
+16:10:011:0	Máíka , Rííhab , Hashabáíyah ,
+16:10:012:0	Záker , Sheriibáíyah , Shebanáíyah ,
+16:10:013:0	Hodáíjah , Béínai , Benáínu .
+16:10:014:0	Diné aláahgo bídahólníihii éí díí : Péírash , Péíhath-mó'ab , Íílam , Zátu , Béínai ,
+16:10:015:0	Bánai , Ázgad , Bííbeiyai ,
+16:10:016:0	Adonáíjah , Bígveiyai , Éídin ,
+16:10:017:0	Éíter , Hizkáíjah , Ázer ,
+16:10:018:0	Hodáíjah , Héísham , Bíízeiyai ,
+16:10:019:0	Héírif , Ánathath , Nííbai ,
+16:10:020:0	Mágpiyash , Miishálam , Híízer ,
+16:10:021:0	Miishézabiil , Zéídak , Jeidúwa ,
+16:10:022:0	Pelatáíyah , Héínan , Anáíyah ,
+16:10:023:0	Hoshíya , Hananáíyah , Háshab ,
+16:10:024:0	Halóhesh , Píliiha , Shóbek ,
+16:10:025:0	Rííham , Hashábnah , Méíyasíyah ,
+16:10:026:0	Aháíjah , Héínan , Éínan ,
+16:10:027:0	Málak , Héírim índa Béíyanah .
+16:10:028:0	Áádóó dine'é łahjį'ígíí nááda'iiłniihii , Líívai dine'é danilíinii , dáádílkał yaa ádahalyáanii , sin yee dahataałii , Néthinim daolyéhígíí índa Diyin God bibee haz'áanii biniyé kéyah naaznilgóó dadine'é yits'ą́ąjį' yits'á'ádadees'nilii bida'asdzą́ą́ , dabiye'ké , dabitsi'ké , bił éédahózinígíí áádóó ak'idadi'yiitįįhígíí t'áá ałtso
+16:10:029:0	éí dabik'isóó , naat'áanii danilíinii yihidiikaígíí , hóóyée'go há ha'doodzihgo , doodaii' ádee hadidoodzihgo Diyin God bibee haz'áanii bik'ehgo dajíkááh éí Diyin God bá naal'a'í Mózes yeidiní'áanii bik'ehgo áádóó Bóhólníihii , éí nihiBóhólníihii nilíinii , bibik'eh ó'oo'níiłii t'áá ałtso áádóó yee nihodiyii'aahii índa yee nihwiiz'áanii bída'jósin doo ,
+16:10:030:0	áádóó danihitsi'ké éí kéyahdóó diné danilíinii doo bił ahaa dahidii'nił da índa dabitsi'ké éí danihiye'ké doo bił ahaa dahidii'nił da ,
+16:10:031:0	áádóó kéyahdóó dine'é t'áá ha'át'íhída ádayiilaaígíí , doodaii' ch'iyáanda na'iini' biniyé ła' háá'áyį́į́h jį́į́ góne' , doodaii' hodílzin jį́ ná'ádleeh góne' yiníjaa'go doo ła' baa nidahidiilnih da , áádóó t'áá tsosts'id nináháhááh góne' doo k'ééda'diilyéeh da doo índa ahąąh hadasiil'áhígíí ahá yóó'adahidiit'aah doo , éí bee ádee hadazdeesdzíí' .
+16:10:032:0	Áádóó ałdó' bik'eh hoogáałii ádá ádeiilyaa ; éí t'áá nináháhááh bik'eh nihiDiyin God bikin si'ą́ągi oonishígíí bá shékel wolyéii ałníí' bich'į'dóó anídahii'nił doo ,
+16:10:033:0	áádóó bááh nááhániihii bá ałdó' , t'áá ákwíí jį́ ak'áán nááhániihii bá , t'áá ákwíí jį́ didlidgo nááhániihii bá , háá'áyį́į́h jį́ nída'adleehígíí bá , dah néitį́į́h bá , hodílzingo áłah ná'ádleeh nídeit'aahígíí bá áádóó diyingo chodao'íinii bá , ádił ni'iidzííhjí náádahaniihii éí bee Ízrel dine'é bá k'ééhodoodǫǫłii bá índa nihiDiyin God bikin si'ą́ągi oonishígíí t'áá ałtso bá bik'eh hoogáałii ádá ádeiilyaa .
+16:10:034:0	Áko nááda'iiłniihii áádóó Líívai dine'é danilíinii índa diné t'áá ałtso bitahgi yáá'iilt'e' baa ninéiikah nít'éé' : éí bik'ehgo danihizhé'é yę́ę bada'áłchíní ahoolchíiłii a łkéé' níjaa' bik'ehgo t'áá nináháhááh bik'eh nídeit'aahígíí bik'ehgo chizh bee náádi'yoonihii nihiDiyin God bikinjį' ninádayiijih doo , áko bee haz'áanii biyi' bee ak'e'ashchínígíí bik'ehgo Bóhólníihii nihiDiyin God bibikáá' náá'iiniihí yikáa'jį' deidiłid doo .
+16:10:035:0	Áádóó alą́ąjį' nídant'į́hígíí áádóó tsin dabineest'ą' alą́ąjį' nídant'į́hígíí t'áá ałtso t'áá nináháhááh bik'eh Bóhólníihii bikin biyi' yah anídahiijáah doogo bee haz'áanii ádá ádeiilyaa .
+16:10:036:0	Áádóó nihiye'ké alą́ąjį' nihá nidahaazhchíinii , áádóó danihilį́į́' , éí nihibéégashii índa nihidibé dah danéelkaadii átsé nidayiishchíinii bee haz'áanii biyi' bee bik'e'ashchínígíí bik'ehgo nihiDiyin God bikin si'ą́ąjį' nááda'iiłniihii nihiDiyin God bikin si'ą́ągi nidaal'a'ígíí baa dahii'níił doogo bee haz'áanii ádá ádeiilyaa .
+16:10:037:0	Áádóó taosnii' átsé ádeiil'ínígíí áádóó nááhideeshnih daniidzinígíí áádóó tsin ał'ąą ádaat'éii dabineest'ą' átsé nídant'į́hígíí áádóó wáin ániidíii índa tsin áliv bineest'ą' bik'ah átsé haakánígíí éí nihiDiyin God bikin si'ánígíí bii' dahooghangi nááda'iiłniihii baa dahiijáah doo ; nihidáda'ak'ehdóó nidaniilt'ą'ii éí neeznáago ahádaashjaa'go t'ááłá'í bidoojaa'ígíí Líívai dine'é bich'į' kódeiil'į́į doo , háálá Líívai dine'é éí kin naazhjaa'dóó dáda'ak'ehgóó nidant'ą'ii t'ááłá'í bidadeeshjaa'go nínádayiidlááh .
+16:10:038:0	Líívai dine'é éí neeznáago hadaashjaa'ii t'ááłá'í bidoojaa'ígíí nídayiiláahgo Éran ba'áłchíní ahoolchíiłii ła' náá'iiłniihii nilíinii yił hólǫ́ǫ doo , áádóó Líívai dine'é éí nidahidit'aahígíí éí neeznáago ahanáádaashjaa'go t'ááłá'í bináádoojaa'go nihiDiyin God bikin bii' dahooghanígi yódí bá hooghanjį' yah adajiijáah doo .
+16:10:039:0	Áko Ízrel dine'é danilíinii índa Líívai dine'é danilíinii tł'oh naadą́ą́' áádóó wáin ániidíii índa áliv tsin bineest'ą' bik'ah náádeidiyoołnihii dahooghango haz'ą́ąjį' nidayiijáah doo ; ákwii hodiyin haz'ą́ągi beedí chodao'íinii sinil áádóó nááda'iiłniihii áádóó dáádílkał yaa ádahalyáanii índa sin yee dahataałii nidaháaztą́ . Nihí éí nihiDiyin God bikin ts'ídá doo yóó'adadidiit'áał da .
