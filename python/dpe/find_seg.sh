@@ -28,4 +28,3 @@ python3 ./find_seg.py $DATA \
         --beam $BEAM \
         --max-len-b 100 \
         --gen-subset $subset > $TGTOUTPUT
-

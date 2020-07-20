@@ -20,12 +20,13 @@ def sentencepiece_segment(text: str, model_file_name: str) -> str:
 
 def main():
     language = sys.argv[1]
-    training_file_name = "data/" + language + ".txt"
+    training_file_name = sys.argv[2]
     model_dir = 'bpe_models'
     if not os.path.exists(model_dir):
         os.makedirs(model_dir)
     model_prefix = model_dir + '/' + language
     model_type = 'bpe'
+    # vocab_size = 8000
     vocab_size = 50
     user_defined_symbols = []
     sentencepiece_train(training_file_name=training_file_name,
