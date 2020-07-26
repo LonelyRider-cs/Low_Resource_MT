@@ -4,6 +4,10 @@ import time
 from bs4 import BeautifulSoup
 import re
 import os
+from datetime import date
+
+print(date.today().isoformat())
+print()
 
 for i in range(1,2525):
     url = "https://www.bible.com/bible/" + str(i)

@@ -3,6 +3,10 @@ import sys
 import getopt
 import lookup
 import pipeline_bible_com_web_scraper
+import wikipedia_dump_grabber
+import wikiDump_convert
+import subprocess
+import shutil
 
 def main(argv):
     BIBLE_LIST = []
@@ -62,15 +66,24 @@ def main(argv):
     print(TOKENIZERS)
     print(TOKEN_CHOICE)
 
+
+
+
     if TOKEN_CHOICE == 0:
         for b in BIBLE_LIST:
             pipeline_bible_com_web_scraper.driver(b[0], b[1], [None])
+            if WIKI_DUMP:
+                wiki_start(b[0])
     if TOKEN_CHOICE == 1:
         for b in BIBLE_LIST:
             pipeline_bible_com_web_scraper.driver(b[0], b[1], [b[2]])
+            if WIKI_DUMP:
+                wiki_start(b[0])
     if TOKEN_CHOICE == 2:
         for b in BIBLE_LIST:
             pipeline_bible_com_web_scraper.driver(b[0], b[1], [None, b[2]])
+            if WIKI_DUMP:
+                wiki_start(b[0])
 
 
 
@@ -78,7 +91,36 @@ def main(argv):
 
 
 
+def wiki_start(lang_search):
+    tag = lookup.wiki_lang_lookup(lang_search)
+    print('final Wiki lookup: ' + str(tag))
+    url = 'https://dumps.wikimedia.org/' + str(tag) + 'wiki/latest/' + str(tag) + 'wiki-latest-pages-meta-current.xml.bz2'
+    print('url: ' + str(url))
+    bz2_file_save = '../../all_wikipedia_dumps/' + str(tag) + '_latest.xml.bz2'
 
+    try:
+        wikipedia_dump_grabber.dump_downloader(url, tag)
+    except Exception as e:
+        print("No suitable wikipedia dump found")
+        #raise e
+
+    try:
+        wiki_extract_cmd = 'python wikipedia_dump_extractor.py -o ../../all_wikipedia_dumps/text --json ' + bz2_file_save
+        subprocess.call(wiki_extract_cmd, shell=True)
+    except Exception as e:
+        print("Could not extract wiki dump files")
+        #raise e
+
+    try:
+        wiki_convert_cmd = 'python wikiDump_convert.py ' + bz2_file_save
+        subprocess.call(wiki_convert_cmd, shell=True)
+    except Exception as e:
+        print("Could not convert extracted wike dump files")
+        #raise e
+
+    location = os.getcwd() # get present working directory location here
+
+    shutil.rmtree(location+"/../../all_wikipedia_dumps/text")
 
 
 
