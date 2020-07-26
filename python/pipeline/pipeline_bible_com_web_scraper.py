@@ -40,7 +40,10 @@ def page_scraper(url, book, book_number, chapter_number, lang_code, TOKENIZER):
 
 
     #get all the tags that contain a verse
-    all_tags = soup.findAll(['span', 'div'], class_=re.compile("verse v[0-9]+|s1"))
+    #verse v[0-9]+  -> grabs all classes containg verses
+    #s1             -> class used for headings
+    #s              -> class used for headings
+    all_tags = soup.findAll(['span', 'div'], class_=re.compile("verse v[0-9]+|s1|^s$"))
     #print(all_tags)
     psuedo_file = []
     verse_count = 1
@@ -48,10 +51,119 @@ def page_scraper(url, book, book_number, chapter_number, lang_code, TOKENIZER):
     current_working_verse = ""
     tokened_working_verse = ""
     tokened_heading = ""
+    current_verse_class = ['verse', 'v1']
     #loop through all the verses
     for tag in all_tags:
 
-        if tag['class'][0] == 's1':
+        #ensure our current tag is not a heading
+        if  tag['class'][0] != 's' and tag['class'][0] != 's1':
+            #when changing from single verse line to multi verse line we want to write the single verse to our file
+            if current_verse_class[1] != tag['class'][1] and len(current_verse_class) == 2:
+                #print("current verse class len = 2")
+                #print(current_verse_class)
+                #print(current_working_verse)
+                for token in TOKENIZER:
+                    if token == None:
+                        tokened_working_verse = pipeline_tokenizer.basic_tokenizer(current_working_verse, token)
+                        if len(str(verse_count)) == 1:
+                            non_tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
+                            #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_working_verse)
+                            #print(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_working_verse)
+                        if len(str(verse_count)) == 2:
+                            non_tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":0" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
+                            #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_working_verse)
+                            #print(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_working_verse)
+                        if len(str(verse_count)) == 3:
+                            non_tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
+                            #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":" + str(heading_count) + ":1\t " + tokened_working_verse)
+                            #print(str(book_number) + ":" + str(chapter_number) + ":" + str(heading_count) + ":1\t" + tokened_working_verse)
+                    elif token != None:
+                        tokened_working_verse = pipeline_tokenizer.basic_tokenizer(current_working_verse, str(token))
+                        if len(str(verse_count)) == 1:
+                            tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
+                            #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_working_verse)
+                            #print(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_working_verse)
+                        if len(str(verse_count)) == 2:
+                            tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":0" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
+                            #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_working_verse)
+                            #print(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_working_verse)
+                        if len(str(verse_count)) == 3:
+                            tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
+                            #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":" + str(heading_count) + ":1\t " + tokened_working_verse)
+                            #print(str(book_number) + ":" + str(chapter_number) + ":" + str(heading_count) + ":1\t" + tokened_working_verse)
+                #updating count and clearing string
+                verse_count = temp_verse + 1
+                current_working_verse = ""
+                tokened_working_verse = ""
+                current_verse_class = tag['class']
+
+            #when changing from multi verse line to single verse line we want to write multe verse line to our file
+            if current_verse_class[1] != tag['class'][1].split(',')[0] and len(current_verse_class) > 2:
+                #print("current verse class len > 2")
+                #print(current_verse_class)
+                #print(current_working_verse)
+                multiverse_line = [current_verse_class[1][1:], current_verse_class[-1][1:]]
+                for token in TOKENIZER:
+                    if token == None:
+                        tokened_working_verse = pipeline_tokenizer.basic_tokenizer(current_working_verse, token)
+                        if len(multiverse_line[0]) == 1 and len(multiverse_line[1]) == 1:
+                            non_tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":00" + str(current_verse_class[1][1:]) + "-00" + str(current_verse_class[-1][1:])  + ":0\t" + tokened_working_verse + "\n")
+                            #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_working_verse)
+                            #print(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_working_verse)
+                        if len(multiverse_line[0]) == 1 and len(multiverse_line[1]) == 2:
+                            non_tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":00" + str(current_verse_class[1][1:]) + "-0" + str(current_verse_class[-1][1:])  + ":0\t" + tokened_working_verse + "\n")
+                            #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_working_verse)
+                            #print(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_working_verse)
+                        if len(multiverse_line[0]) == 1 and len(multiverse_line[1]) == 3:
+                            non_tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":00" + str(current_verse_class[1][1:]) + "-" + str(current_verse_class[-1][1:])  + ":0\t" + tokened_working_verse + "\n")
+                            #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_working_verse)
+                            #print(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_working_verse)
+                        if len(multiverse_line[0]) == 2 and len(multiverse_line[1]) == 2:
+                            non_tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":0" + str(current_verse_class[1][1:]) + "-0" + str(current_verse_class[-1][1:]) + ":0\t" + tokened_working_verse + "\n")
+                            #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_working_verse)
+                            #print(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_working_verse)
+                        if len(multiverse_line[0]) == 2 and len(multiverse_line[1]) == 3:
+                            non_tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":0" + str(current_verse_class[1][1:]) + "-" + str(current_verse_class[-1][1:]) + ":0\t" + tokened_working_verse + "\n")
+                            #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_working_verse)
+                            #print(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_working_verse)
+                        if len(multiverse_line[0]) == 3 and len(multiverse_line[1]) == 3:
+                            non_tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":" + str(current_verse_class[1][1:]) + "-" + str(current_verse_class[-1][1:]) + ":0\t" + tokened_working_verse + "\n")
+                            #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_working_verse)
+                            #print(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_working_verse)
+                    elif token != None:
+                        tokened_working_verse = pipeline_tokenizer.basic_tokenizer(current_working_verse, str(token))
+                        if len(multiverse_line[0]) == 1 and len(multiverse_line[1]) == 1:
+                            tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":00" + str(current_verse_class[1][1:]) + "-00" + str(current_verse_class[-1][1:])  + ":0\t" + tokened_working_verse + "\n")
+                            #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_working_verse)
+                            #print(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_working_verse)
+                        if len(multiverse_line[0]) == 1 and len(multiverse_line[1]) == 2:
+                            tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":00" + str(current_verse_class[1][1:]) + "-0" + str(current_verse_class[-1][1:])  + ":0\t" + tokened_working_verse + "\n")
+                            #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_working_verse)
+                            #print(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_working_verse)
+                        if len(multiverse_line[0]) == 1 and len(multiverse_line[1]) == 3:
+                            tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":00" + str(current_verse_class[1][1:]) + "-" + str(current_verse_class[-1][1:])  + ":0\t" + tokened_working_verse + "\n")
+                            #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_working_verse)
+                            #print(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_working_verse)
+                        if len(multiverse_line[0]) == 2 and len(multiverse_line[1]) == 2:
+                            tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":0" + str(current_verse_class[1][1:]) + "-0" + str(current_verse_class[-1][1:]) + ":0\t" + tokened_working_verse + "\n")
+                            #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_working_verse)
+                            #print(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_working_verse)
+                        if len(multiverse_line[0]) == 2 and len(multiverse_line[1]) == 3:
+                            tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":0" + str(current_verse_class[1][1:]) + "-" + str(current_verse_class[-1][1:]) + ":0\t" + tokened_working_verse + "\n")
+                            #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_working_verse)
+                            #print(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_working_verse)
+                        if len(multiverse_line[0]) == 3 and len(multiverse_line[1]) == 3:
+                            tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":" + str(current_verse_class[1][1:]) + "-" + str(current_verse_class[-1][1:]) + ":0\t" + tokened_working_verse + "\n")
+                            #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_working_verse)
+                            #print(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_working_verse)
+                #updating count and clearing string
+                verse_count = int(multiverse_line[1]) + 1
+                current_working_verse = ""
+                tokened_working_verse = ""
+                current_verse_class = tag['class']
+
+        #check if class is for heading
+        if tag['class'][0] == 's1' or tag['class'][0] == 's':
             for child in tag.children:
                 if child['class'][0] == 'heading':
                     for token in TOKENIZER:
@@ -88,64 +200,172 @@ def page_scraper(url, book, book_number, chapter_number, lang_code, TOKENIZER):
 
         #this check is not neeeded currently, if we add labels/titles this will be useful then
         if tag['class'][0] == 'verse':
-            temp_verse = int(tag['class'][1][1:])
+            
+            #if true this means the line most likely contains single verse, HTML inconsistencies needed to be checked here
+            if len(tag['class']) == 2:
+                try:
+                    temp_verse = int(tag['class'][1][1:])
+                except Exception as e:
+                    if current_verse_class == ['verse', 'v'+ str(tag['class'][1][1:].split(',')[0]), 'v'+ str(tag['class'][1][1:].split(',')[-1])]:
+                        continue
+                    current_verse_class = ['verse', 'v'+ str(tag['class'][1][1:].split(',')[0]), 'v'+ str(tag['class'][1][1:].split(',')[-1])]
+                    #print('HERE IS WHERE THE ERROR HAS BEEN OCCURING')
+                    #print(current_verse_class)
+                    for child in tag.children:
 
+                        if child['class'] == ['content']:
+                            #print(child['class'])
+                            #print('APPENDED: ' + child.text)
+                            current_working_verse += child.text
+                        if child['class'] != ['content'] and child['class'] != ['label'] and child['class'] != ['heading']:
+                            #print(child)
+                            for gchild in child:
+                                #print(gchild)
+                                if gchild['class'] == ['content']:
+                                    #print('APPENDED: ' + gchild.text)
+                                    current_working_verse += gchild.text
+                    continue
 
+                #if our verse changes we know to then append the current verses, then update the verse count and reset the current verse string to blank
+                #this also writes to the specified text file
+                if current_verse_class != tag['class']:
+                    for token in TOKENIZER:
+                        if token == None:
+                            tokened_working_verse = pipeline_tokenizer.basic_tokenizer(current_working_verse, token)
+                            if len(str(verse_count)) == 1:
+                                non_tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
+                                #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_working_verse)
+                                #print(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_working_verse)
+                            if len(str(verse_count)) == 2:
+                                non_tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":0" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
+                                #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_working_verse)
+                                #print(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_working_verse)
+                            if len(str(verse_count)) == 3:
+                                non_tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
+                                #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":" + str(heading_count) + ":1\t " + tokened_working_verse)
+                                #print(str(book_number) + ":" + str(chapter_number) + ":" + str(heading_count) + ":1\t" + tokened_working_verse)
+                        elif token != None:
+                            tokened_working_verse = pipeline_tokenizer.basic_tokenizer(current_working_verse, str(token))
+                            if len(str(verse_count)) == 1:
+                                tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
+                                #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_working_verse)
+                                #print(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_working_verse)
+                            if len(str(verse_count)) == 2:
+                                tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":0" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
+                                #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_working_verse)
+                                #print(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_working_verse)
+                            if len(str(verse_count)) == 3:
+                                tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
+                                #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":" + str(heading_count) + ":1\t " + tokened_working_verse)
+                                #print(str(book_number) + ":" + str(chapter_number) + ":" + str(heading_count) + ":1\t" + tokened_working_verse)
+                    #updating count and clearing string
+                    verse_count = temp_verse
+                    current_working_verse = ""
+                    tokened_working_verse = ""
+                    current_verse_class = tag['class']
 
-            #if our verse changes we know to then append the current verses, then update the verse count and reset the current verse string to blank
-            #this also writes to the specified text file
-            if verse_count != temp_verse:
-                for token in TOKENIZER:
-                    if token == None:
-                        tokened_working_verse = pipeline_tokenizer.basic_tokenizer(current_working_verse, token)
-                        if len(str(verse_count)) == 1:
-                            non_tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
-                            #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_heading)
-                            #print(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_heading)
-                        if len(str(verse_count)) == 2:
-                            non_tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":0" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
-                            #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_heading)
-                            #print(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_heading)
-                        if len(str(verse_count)) == 3:
-                            non_tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
-                            #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":" + str(heading_count) + ":1\t " + tokened_heading)
-                            #print(str(book_number) + ":" + str(chapter_number) + ":" + str(heading_count) + ":1\t" + tokened_heading)
-                    elif token != None:
-                        tokened_working_verse = pipeline_tokenizer.basic_tokenizer(current_working_verse, str(token))
-                        if len(str(verse_count)) == 1:
-                            tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":00" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
-                            #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_heading)
-                            #print(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_heading)
-                        if len(str(verse_count)) == 2:
-                            tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":0" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
-                            #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_heading)
-                            #print(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_heading)
-                        if len(str(verse_count)) == 3:
-                            tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":" + str(verse_count) + ":0\t" + tokened_working_verse + "\n")
-                            #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":" + str(heading_count) + ":1\t " + tokened_heading)
-                            #print(str(book_number) + ":" + str(chapter_number) + ":" + str(heading_count) + ":1\t" + tokened_heading)
-                #updating count and clearing string
-                verse_count = temp_verse
-                current_working_verse = ""
-                tokened_working_verse = ""
+                #loop through all the tags children to get to the content of the verse
+                #for some reason most of the verses are within a class called content,
+                #however there appears that when writing is in red the class is called wj
+                #and then within that is the class called content. See the online HTML if confusing
+                for child in tag.children:
 
-            #loop through all the tags children to get to the content of the verse
-            #for some reason most of the verses are within a class called content,
-            #however there appears that when writing is in red the class is called wj
-            #and then within that is the class called content. See the online HTML if confusing
-            for child in tag.children:
+                    if child['class'] == ['content']:
+                        #print(child['class'])
+                        #print('APPENDED: ' + child.text)
+                        current_working_verse += child.text
+                    if child['class'] != ['content'] and child['class'] != ['label'] and child['class'] != ['heading']:
+                        #print(child)
+                        for gchild in child:
+                            #print(gchild)
+                            if gchild['class'] == ['content']:
+                                #print('APPENDED: ' + gchild.text)
+                                current_working_verse += gchild.text
 
-                if child['class'] == ['content']:
-                    #print(child['class'])
-                    #print('APPENDED: ' + child.text)
-                    current_working_verse += child.text
-                if child['class'] != ['content'] and child['class'] != ['label'] and child['class'] != ['heading']:
-                    #print(child)
-                    for gchild in child:
-                        #print(gchild)
-                        if gchild['class'] == ['content']:
-                            #print('APPENDED: ' + gchild.text)
-                            current_working_verse += gchild.text
+            #if multiple verses are found on a single line
+            if len(tag['class']) > 2:
+                temp_verse = int(tag['class'][1][1:])
+                multiverse_line = [str(tag['class'][1][1:]), str(tag['class'][-1][1:])]
+
+                #if our verse changes we know to then append the current verses, then update the verse count and reset the current verse string to blank
+                #this also writes to the specified text file
+                if current_verse_class != tag['class']:
+                    for token in TOKENIZER:
+                        if token == None:
+                            tokened_working_verse = pipeline_tokenizer.basic_tokenizer(current_working_verse, token)
+                            if len(multiverse_line[0]) == 1 and len(multiverse_line[1]) == 1:
+                                non_tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":00" + str(multiverse_line[0]) + "-00" + str(multiverse_line[1])  + ":0\t" + tokened_working_verse + "\n")
+                                #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_working_verse)
+                                #print(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_working_verse)
+                            if len(multiverse_line[0]) == 1 and len(multiverse_line[1]) == 2:
+                                non_tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":00" + str(multiverse_line[0]) + "-0" + str(multiverse_line[1])  + ":0\t" + tokened_working_verse + "\n")
+                                #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_working_verse)
+                                #print(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_working_verse)
+                            if len(multiverse_line[0]) == 1 and len(multiverse_line[1]) == 3:
+                                non_tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":00" + str(multiverse_line[0]) + "-" + str(multiverse_line[1])  + ":0\t" + tokened_working_verse + "\n")
+                                #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_working_verse)
+                                #print(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_working_verse)
+                            if len(multiverse_line[0]) == 2 and len(multiverse_line[1]) == 2:
+                                non_tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":0" + str(multiverse_line[0]) + "-0" + str(multiverse_line[1]) + ":0\t" + tokened_working_verse + "\n")
+                                #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_working_verse)
+                                #print(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_working_verse)
+                            if len(multiverse_line[0]) == 2 and len(multiverse_line[1]) == 3:
+                                non_tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":0" + str(multiverse_line[0]) + "-" + str(multiverse_line[1]) + ":0\t" + tokened_working_verse + "\n")
+                                #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_working_verse)
+                                #print(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_working_verse)
+                            if len(multiverse_line[0]) == 3 and len(multiverse_line[1]) == 3:
+                                non_tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":" + str(multiverse_line[0]) + "-" + str(multiverse_line[1]) + ":0\t" + tokened_working_verse + "\n")
+                                #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_working_verse)
+                                #print(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_working_verse)
+                        elif token != None:
+                            tokened_working_verse = pipeline_tokenizer.basic_tokenizer(current_working_verse, str(token))
+                            if len(multiverse_line[0]) == 1 and len(multiverse_line[1]) == 1:
+                                tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":00" + str(multiverse_line[0]) + "-00" + str(multiverse_line[1])  + ":0\t" + tokened_working_verse + "\n")
+                                #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_working_verse)
+                                #print(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_working_verse)
+                            if len(multiverse_line[0]) == 1 and len(multiverse_line[1]) == 2:
+                                tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":00" + str(multiverse_line[0]) + "-0" + str(multiverse_line[1])  + ":0\t" + tokened_working_verse + "\n")
+                                #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_working_verse)
+                                #print(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_working_verse)
+                            if len(multiverse_line[0]) == 1 and len(multiverse_line[1]) == 3:
+                                tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":00" + str(multiverse_line[0]) + "-" + str(multiverse_line[1])  + ":0\t" + tokened_working_verse + "\n")
+                                #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_working_verse)
+                                #print(str(book_number) + ":" + str(chapter_number) + ":00" + str(heading_count) + ":1\t" + tokened_working_verse)
+                            if len(multiverse_line[0]) == 2 and len(multiverse_line[1]) == 2:
+                                tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":0" + str(multiverse_line[0]) + "-0" + str(multiverse_line[1]) + ":0\t" + tokened_working_verse + "\n")
+                                #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_working_verse)
+                                #print(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_working_verse)
+                            if len(multiverse_line[0]) == 2 and len(multiverse_line[1]) == 3:
+                                tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":0" + str(multiverse_line[0]) + "-" + str(multiverse_line[1]) + ":0\t" + tokened_working_verse + "\n")
+                                #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_working_verse)
+                                #print(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_working_verse)
+                            if len(multiverse_line[0]) == 3 and len(multiverse_line[1]) == 3:
+                                tokenized_file.write(str(book_number) + ":" + str(chapter_number) + ":" + str(multiverse_line[0]) + "-" + str(multiverse_line[1]) + ":0\t" + tokened_working_verse + "\n")
+                                #psuedo_file.append(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_working_verse)
+                                #print(str(book_number) + ":" + str(chapter_number) + ":0" + str(heading_count) + ":1\t" + tokened_working_verse)
+                    #updating count and clearing string
+                    verse_count = int(multiverse_line[1]) + 1
+                    current_working_verse = ""
+                    tokened_working_verse = ""
+                    current_verse_class = tag['class']
+
+                #loop through all the tags children to get to the content of the verse
+                #for some reason most of the verses are within a class called content,
+                #however there appears that when writing is in red the class is called wj
+                #and then within that is the class called content. See the online HTML if confusing
+                for child in tag.children:
+
+                    if child['class'] == ['content']:
+                        #print(child['class'])
+                        #print('APPENDED: ' + child.text)
+                        current_working_verse += child.text
+                    if child['class'] != ['content'] and child['class'] != ['label'] and child['class'] != ['heading']:
+                        #print(child)
+                        for gchild in child:
+                            #print(gchild)
+                            if gchild['class'] == ['content']:
+                                #print('APPENDED: ' + gchild.text)
+                                current_working_verse += gchild.text
 
     #tokenize that last line
     for token in TOKENIZER:

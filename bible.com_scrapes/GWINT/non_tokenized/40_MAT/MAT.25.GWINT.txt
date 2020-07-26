@@ -1,0 +1,49 @@
+40:25:001:1	Nich'it Ch'ihłoaatin (10) Nąįį Eenjit Geech'ǫąąhtan
+40:25:001:0	“Izhit ji', Zheekat Gweegwinii'ee, jii jyaa t'igweheechy'aa t'oonchy'aa. Ch'ihłan nich'it (10) nąįį khwaiidaak'a' kwaii tee gwigwįłjik ts'ą' zhit juu gooheendal goo'aii, ts'ą' gahaajil.  
+40:25:002:0	5 nąįį gwagoonzhii, ts'ą' ch'izhii 5 nąįį chan googwizhi' kwaa. 
+40:25:003:0	Nich'it googwizhi' kwaa nąįį khwaiidaak'a' eenjit gah khwaii neegahaazhik kwaa. 
+40:25:004:0	Gaa nich'it googwizhi' nąįį khwaii gwizhit neegeheenjaa geenjit ch'ityah choh goonjik dahaa neegahaazhik. 
+40:25:005:0	Zhit juu veegwarahahchyaa goo'aii, ąįį eenjit nagogwal'in, akhai' niighyuk nigiiyuul'in, ts'ą' geełchųų. 
+40:25:006:0	“Khan hee tǫhtł'an gwats'ą' gwaadhal gwiizhit khashraatr'iintrat gwigwiitth'ak, ‘Aanaii, dzaa juu veegwarahahchyaa nąįį vats'a' hohjyaa,’ gwinyąą gwigwiitth'ak. 
+40:25:007:0	Gwiizhit nich'it (10) nąįį khakigaazhii ts'ą' dagakhwaii daak'a' shrineegiinlik. 
+40:25:008:0	Ąįįtł'ęę zhit nich'it vigwizhi' kwaa nąįį zhit nich'it vigwizhi' gwanlii nąįį jyaa dagaanyąą, ‘Diikhwaii daak'a' kwaii nikyaa, nakhwakhwaii lat diinantł'ohjyaa.’ 
+40:25:009:0	Zhit vigwizhi' gwanlii nąįį jyaa googahnyąą, ‘Łyaa nakwaa, datthak diineenjit khwaiidaak'a' gadhan kwaa t'oonchy'aa, ch'arookwat zheh gwats'ą' hohjyaa ts'ą' kwaii daak'a' ohkwat.’ 
+40:25:010:0	Ąįįts'ą' t'ee nich'it vigwizhi' kwaa nąįį khwaiidaak'a' goohookwat geenjit ch'ookwat zheh gwats'ą' gahaajil, gihiljii gwiizhit zhit juu veegwarahahchyaa zhat k'idik dąį', zhit nich'it 5 zhat dilk'ii nąįį giiyaach'ihee'aa geenjit giiyaanihdeiinjil, ąįįtł'ęę gindeiinvyaa an ineegahjik. 
+40:25:011:0	“Ąįįtł'ęę nich'it vigwizhi' kwaa 5 nąįį zhat k'ineegiidal ts'ą' gazhral, ‘K'eegwaadhat, K'eegwaadhat! Nihdeediiniinlii,’ giiyahnyąą. 
+40:25:012:0	Gaa goodii ginkhe', ‘Łi'haa nakhwaashandaii kwaa t'oonchy'aa!’” goovahnyąą. 
+40:25:002:1	Dinjii Eenjit Gwitr'it T'agwah'in Tik Nąįį Agwandak Ąhtsii Haa Geech'ǫąąhtan.
+40:25:013:0	Ąįįts'ą' t'ee Jesus ndaanaahjik ts'ą' t'inyąą, “Nijin ji' t'igwehee'yaa gaakhwandaii kwaa jyąhts'ą' geh'an adak'ǫǫntii ts'ą' gwak'ǫǫhtii.” 
+40:25:014:0	“Izhit zhat ji' Zheekat Gweegwinii'ee jii k'it jyaa digweheechy'aa. Ch'ihłan dinjii ch'ihłak khaihtak gwa'an k'eeheedik geenjit dizheh gihłeehaazhii, ditsyaa nąįį aanaii ahnyąą ts'ą' jii jidii shats'an kwaii datthak k'ǫǫhtii goovahnyąą. 
+40:25:015:0	Gooteegwagwaanchy'aa ts'ą' deegihee'yaa gagadhan ąįį goots'an gwiłtsąįį: ch'ihłak gold laraa ghoo 5,000 yats'an iłtsąįį, ch'izhii chan 2,000 yats'an iłtsąįį, ts'ą' ch'izhii chan 1,000 yats'an iltsąįį. Ąįįtł'ęę khaihtak gwa'an k'eeheedik geenjit gihłeehaazhii. 
+40:25:016:0	Vitsyaa, 5,000 laraa ghoo antł'eiinlii ąįį gwagwahkhan gwandaa yaa laraa neehahtsyaa geenjit niyinlii ts'ą' chan 5,000 laraa yaa niłtsąįį. 
+40:25:017:0	Ąįį gwik'it vitsyaa juu 2,000 laraa ghoo antł'eiinlii chan 2,000 laraa yaa niłtsąįį. 
+40:25:018:0	Gaa vitsyaa juu 1,000 laraa ghoo ts'an iłtsąįį ąįį oo'at gwa'an nanzhit k'eedeegwaadhat valaraa gwit'eh inlii. 
+40:25:019:0	“Ąįį k'eedeegwaadhat niighyuk hiljii tł'ęę ditsyaa eek'inidik ts'ą' laraa goovantł'eiinlii dahtsii giłtsąįį li' geenjit goovahkat. 
+40:25:020:0	Vitsyaa juu 5,000 laraa ghoo antł'eiinlii chy'aa nideiinzhii ts'ą' gah 5,000 chan yantł'eeneiinlii. ‘K'eedeegwaadhat, Laraa ghoo 5,000 shantł'eiinlii chy'aa gwah'in! Dzaa chan gah 5,000 doltsąįį.’ yahnyąą. 
+40:25:021:0	‘Łyaa gwinzii t'inizhit, shitsyaa oots'it kwaa haa gwinzii sheenjit gwitr'it t'agwah'in inlii laraa tsal gwinzii k'eenohti' geh'an laraa gwandaa t'ąąnchy'aa k'eehahtyaa nats'an hałtsyaa, nihdeiinkhaii ts'ą' shaa shroonchy'aa gwahtsii.’ k'eedeegwaadhat yahnyąą. 
+40:25:022:0	Tł'ęę vitsyaa juu 2,000 laraa ghoo antł'eiinlii chan nihdeiinzhii ts'ą' t'iiyahnyąą, ‘Shik'eedeegwaadhat, dzaa gwah'in! Laraa ghoo 2,000 shantł'eiinlii chy'aa ch'izhii 2,000 chan gah vaa dooltsąįį.’ 
+40:25:023:0	‘Łyaa gwinzii t'inizhit, shitsyaa oots'it kwaa haa gwinzii sheenjit gwitr'it t'agwah'in inlii, laraa tsal gwinzii k'eenohti' geh'an laraa gwandaa t'ąąnchy'aa k'eehahtyaa nats'an hałtsyaa. Nihdeiinkhaii ts'ą' shaa shroonchy'aa gwahtsii,’ k'eedeegwaadhat yahnyąą. 
+40:25:024:0	“Tł'ęę vitsyaa 1,000 laraa ghoo antł'eiinlii nihdeiinzhii ts'ą' t'inyąą. ‘Shik'eedeegwaadhat dinjii vagwantrii inlii naashandaii, nijin gwanzhįh gwit'eh inlii kwaa gwa'an gaa gwanzhįh khaihłan niinlii. 
+40:25:025:0	Naljat, geh'an oo'an hoiizhii ts'ą' nalaraa nan t'eh iilii. Gwah'in! Dzaa na-laraa.’ 
+40:25:026:0	Yats'ą' k'eedeegwaadhat yahnyąą, ‘Shitsyaa iizųų ts'ą' tr'agoodiinjik inlii! Nijin gwanzhįh li' gwit'eh iilii kwaa gaa gwanzhįh nałshii ts'ą' gwanzhįh li' khałtł'ak kwaa gwa'an gwanzhįh khaihłan nihłii. Ąįį gaanaandaii hee? 
+40:25:027:0	Ąįį ji' t'ee, shalaraa oo'at laraa zheh niinlii ji' gwandaa nilii ts'ą' neekhohdal. 
+40:25:028:0	Zhit laraa vits'į' nǫhjii ts'ą' zhit juu 10,000 laraa ghoo di'įį vantł'eeyuhłii. 
+40:25:029:0	Dinjii juu jidii datthak k'eegwiichy'aa gwii'įį, ąįį gwandaa vats'an neeheelyaa, ts'ą' yit'eehaahchy'aa geenjit gwandaa hee'yaa, gaa juu k'eegwiichy'aa nitsya' zhrįh gwii'įį, datthak vits'į' neerooheendal. 
+40:25:003:1	Jesus, Ch'aroahkat Drin Deegwehee'yaa Geeginkhii
+40:25:030:0	Ąįįts'ą' jii shitsyaa giilį', oo'at tǫǫ k'ii'an hee t'ee hohkhii, izhit t'ee gwintł'oo heetree ts'ą' dagho' nihts'ą' łǫǫn'al haa neeyik'ii k'it t'ihee'yaa.’” 
+40:25:031:0	“Nijin Gwidinji', K'eegwaadhat Choo nilii Dich'eegwąhndit zhit gwats'an needyaa ji' dizheekat gwich'in nąįį datthak oodaa dahaa heelyaa, ts'ą' k'eedeegwaadhat ts'ą' vakat daraadii chil'ee ąįį kat diheedyaa t'inchy'aa. 
+40:25:032:0	Gwiizhit nihky'aa nankat gwich'in nąįį datthak khaihłan nigiheedaa ts'ą' giiyęhdaa niheedaa. Nihtee tr'agavaheelyaa ts'ą' divii k'ąąhtii k'it, divii ts'ą' goats haa nihtee tr'ilii ąįį gwik'it t'iheenjyaa. 
+40:25:033:0	Dinjii Vit'eegwijyąhchy'aa k'eegwahthat nąįį dishriits'ąįį niheelyaa ts'ą' ch'izhii nąįį datł'ohts'ąįį niheelyaa. 
+40:25:034:0	“Ąįįtł'ęę zhit juu K'eedeegwaadhat choh chil'ee nilii ąįį zhit juu vishriits'ąįį dilk'ii nąįį jyaa dahaanjyaa, ‘Aanaii, nakhwan juu Shiti' nakhwahił'ee nąįį, dzaa Gwigwiniin'ee gwizhit nihdǫhjyaa, jii nan goodlit dąį' gwats'an nakhweenjit tr'iilęįį goo'aii t'oonchy'aa. 
+40:25:035:0	Shizhit gwiłts'ik dąį' shach'oh'al, chųų dooihłii dąį' chųų shintł'ookąįį, aakin ihłii dąį' chan nakhwazheh nihdeeshohchik. 
+40:25:036:0	Shagwach'aa kwaa dąį' chan gwach'aa shinoolii, dhałts'ik dąį' chan shak'oohti', ts'ą' zhee gwaazhrąįį dhiidii dąį' chan, shineenakhwadal.’ 
+40:25:037:0	“Ts'ą' tee dinjii nąįį juu Vit'eegwijyąhchy'aa k'eegwahthat nąįį jii jyaa digiheenjyaa, ‘K'eegwaadhat nijin dąį' nizhit gwiłts'ik naaraah'ya' ts'ą' nach'arah'al? Akwat nijin dąį' chųų doiinlii gwizhit chųų nantł'eerinkaii? 
+40:25:038:0	Nijin dąį' aakin inlii naraah'ya' ts'ą' diizheh nihdeenaraahchįį, akwat nijin dąį' nagwach'aa kwaa ts'ą' gwach'aa nineeriinlii? 
+40:25:039:0	Nijin dąį' dhąhts'ik naraah'ya' ts'ą' nik'eeraahti'? Ts'ą' chan nijin dąį' zheegwaazhrąįį dhindii gwizhit nineenidik?’ 
+40:25:040:0	Ts'ą' zhit K'eedeegwaadhat choo jyaa diheenjyaa t'inchy'aa, ‘Łyaa nakhwaagwahaldak, zhit juu shatąįį adaa nąįį tee ch'ihłee gwiintsii veegoo'aii kwaa jyaa dinlik ąįįt'ee shįį t'ishinlik t'oonchy'aa.’ 
+40:25:041:0	“Ąįįtł'ęę zhit juu vatł'ohts'ąįį dilk'ii nąįį jyaa dahaanjyaa, ‘Shihłeekhwajyaa, Vit'eegwijyąhchy'aa nakhwats'į' t'inchy'aa t'oonchy'aa! Nijin Ch'anky'aa Tr'aanduu ts'ą' vizheekat gwich'in nąįį kǫ' nikyaa kwaa gooveenjit goo'aii ąįį zhit gwats'ą' hohjyaa. 
+40:25:042:0	Shizhit gwiłts'ik dąį' gaa shach'oh'al kwaa, chųų dooihłii dąį' gaa chųų shantł'ookaii kwaa. 
+40:25:043:0	Aakin ihłii dąį' gaa nakhwazheh gwizhit nihdeeshohchįį kwaa, shagwach'aa kwaa dąį' gaa gwach'aa shantł'oolii kwaa, dhałts'ik ts'ą' zheegwaazhrąįį dhidii dąį' shak'oohti' gaa kwaa.’ 
+40:25:044:0	Ąįįtł'ęę jii jyaa digiiyahaanjyaa, ‘K'eegwaadhat nijin dąį' nizhit gwiłts'ik, ts'ą' chųų doiinlii, ts'ą' aakin inlii, ts'ą' nagwach'aa kwaa ts'ą' dhąhts'ik ts'ą' zheegwaazhrąįį dhindii dąį' naraah'ya' kwaa ts'ą' nits'igwiinyą' kwaa?’ giiyahaanjyaa. 
+40:25:045:0	Ts'ą' t'ee K'eedeegwaadhat Choo ąįį jyaa dagavahaanjyaa, ‘Jii łyaa nakhwaagwaldak t'ihnyąą, nijin jii ch'ihłee łyaa gwintsal gwizhrįh veegoo'aii ąįį vits'iinyą' kwaa, dąį' shįį shits'iinyą' kwaa t'oonchy'aa.’ 
+40:25:046:0	Ts'ą' t'ee jii nąįį t'ee khaiinjich'iriighit ndaanąą'ąį' kwaa nihdinakhwaraheelyaa t'oonchy'aa. Gaa juu Vit'eegwijyąhchy'aa k'eegwahthat nilii nąįį gwandaii ndaanąą'ąį' kwaa, nihdeegiheedaa t'oonchy'aa.”

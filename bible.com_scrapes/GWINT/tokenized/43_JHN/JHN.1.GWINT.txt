@@ -1,0 +1,54 @@
+43:1:001:1	Jii Gwandak Ginjik T'ee Jesus Oaazhii
+43:1:001:0	Tr'ookit dąį' gwats'an , Ginjik ch'adąį' hee gwandaii , Vit'eegwijyąhchy'aa haa nilii ts'ą' Vit'eegwijyąhchy'aa nilii .
+43:1:002:0	Tr'ookit dąį' gwats'an Ginjik , Vit'eegwijyąhchy'aa haa nilii .
+43:1:003:0	Ginjik k'iighai' Vit'eegwijyąhchy'aa jidii datthak iłtsąįį , ch'ihłak gaa veentak tr'iłtsąįį kwaa .
+43:1:004:0	Jidii gwandaii dhidlit kwaii datthak vagwandaii ts'an t'igwiizhik , ąįį vagwandaii t'ee juu nąįį datthak eenjit ch'ahdrii nilii .
+43:1:005:0	Ąįį vagwandaii t'ee dinjii nąįį eenjit ch'ahdrii nilii , tǫǫ chan duuyeh yąąhkyaa .
+43:1:006:0	Vit'eegwijyąhchy'aa ąįį dinjii John oaazhii jii nankat gwats'ą' hił'e' ,
+43:1:007:0	ąįį dinjii nąįį ts'ą' ąįį Aadrii eegwahaandak eenjit . Juu nąįį datthak jii gaageheendaii ts'ą' gwik'iinjigeheeghit eenjit Ch'aadrii eegavaagwaandak .
+43:1:008:0	Adan ąįį Aadrii t'arahnyąą kwaa ; Aadrii eegwahaandak eenjit gwizhrįh ginkhe' t'arahnyąą .
+43:1:009:0	Ąįį Aadrii t'ee łyaa łi'didlii t'arahnyąą , dząą nankat gwats'ą' haazhii ts'ą' juu nąįį datthak ach'ahdrii .
+43:1:010:0	Ąįį Ginjik vik'iighai' Vit'eegwijyąhchy'aa nan iłtsąįį , gaa dząą nankat dhidii dąį' dinjii nąįį giiyaandaii kwaa k'it t'iginchy'aa .
+43:1:011:0	Danahkat gwats'ą' haazhii gaa zhat dinjii nąįį giitr'ii'ee .
+43:1:012:0	Goolat nąįį zhrįh eechįį t'ii'in ts'ą' giik'iinjiighit ; Vit'eegwijyąhchy'aa vigii giheelyaa eenjit t'aih goots'an iłtsąįį .
+43:1:013:0	Jii dinjii nąįį łyaa giik'iinjiighit , ts'ą' izhit geh'an chan gooneegahoodlit , dagahan akwat digiti' ts'an nakwaa gaa Vit'eegwijyąhchy'aa ts'an gooneegahoodlit ts'ą' Gooti' nilii .
+43:1:014:0	Ginjik ąįį dinjii dhidlit ts'ą' diitee gwinch'į' , vich'eegwahdrii gwarąąh'ya' , ąįįt'ee ch'eet'igwiniindhan ąįįts'ą' łi'didlii haa vizhit deedąą'ąį' nilii . Adan zhrįh Gwiti' , Vidinji' nilii geh'an ts'ą' jii ch'eegwahdrii shroodiinyąą vats'an dhidlit .
+43:1:015:0	John chųų gwats'an ąhtsii yeeginkhe' . Jyaa yahnyąą , “ Jii dinjii eegiihkhii t'ihnyąą , nijin jii jyaa nakhwaiinyą' dąį' , ‘Shatąįį k'eeheedik gaa shandaa hil'ee shigweheelyaa gwats'ą' dąį' gwats'an gwandaii geh'an . ’ ”
+43:1:016:0	Vich'eet'igwiniidhan haa gweedhaa datthak diitee googwąąnchy'aa diits'ą' nizįį .
+43:1:017:0	Vit'eegwijyąhchy'aa yeenii Moses k'iighai' diineenjit Law intł'eiin'ąįį gaa Jesus Christ ch'eet'igwiniindhan chan ts'ą' łi'didlii haa diitł'eiin'ąįį .
+43:1:002:1	John Chųų Gwats'an Ąhtsii Vagwandak .
+43:1:018:0	Dinjii ch'ihłak gaa Vit'eegwijyąhchy'aa dandee haa nah'in kwaa gaa Vidinji' Jesus Christ zhrįh yaa nilii ts'ą' yeediinaagwildak .
+43:1:019:0	Jews khaihkwaii nąįį , digigiinkhii chan ts'ą' Levite nąįį haa John ts'ą' googihił'e' , jii giiyųąhkat eenjit “ Juu inlii ? ”
+43:1:020:0	Zhazhat John nagwąąh'įį kwaa ts'ą' gwinzii gavaagwildak , “ Christ t'ihchy'aa kwaa . ”
+43:1:021:0	“ Juu inlii gǫ' , Elijah inlii ? ” giiyahnyąą . “ Nakwaa , ąįį t'ihchy'aa kwaa . ” John nyąą . “ Vit'eegwijyąhchy'aa Eenjit Ginkhii inlii ? ” giiyahnyąą “ Nakwaa , ” gavahnyąą .
+43:1:022:0	“ Juu inlii diinaa gwandak , juu naroohaahkat eenjit diihił'e' nąįį gavaa gwarahaandak eenjit . Juu inlii ? ” giiyahnyąą .
+43:1:023:0	John jyaa gavahnyąą , “ Jidii ihłii nakhwaa gwahaldak : ‘Shįį t'ee oo'at nangwinjir gwa'an ihshral ts'ą' jyaa diinyą'Diik'eegwaadhat tąįį gwinjik veenjit k'igwąą'ee nagoh'ąįį ! ’ ” ( Jii t'ee Isaiah , Vit'eegwijyąhchy'aa Eenjit Ginkhii yadaantł'oo )
+43:1:024-025:0	Pharisee nąįį juu gihił'e' nąįį John goahkat , “ Christ inlii kwaa akwat Elijah chan inlii kwaa , akwat Vit'eegwijyąhchy'aa Eenjit Ginkhii inlii kwaa . Gwiizhit jaghaii chųų gwats'an ąhtsii ? ”
+43:1:026:0	John jyaa gavahnyąą “ Chųų gwats'an ałtsii ; gaa nakhwatee dinjii vaakhwandaii kwaa nadhat t'oonchy'aa .
+43:1:027:0	Shatąįį k'eeheedik , gaa vakwaiitryaa dineehałchaa eenjit gaa hool'ee kwaa . ”
+43:1:003:1	Vit'eegwijyąhchy'aa Vidivii Gii tsal
+43:1:028:0	Jii t'igwiizhik t'ee Bethany kwaiik'it gwizhit t'igwiizhik Jordan han gwinjik ndųhts'ąįį , nijin John chųų gwats'an ąhtsii izhit .
+43:1:029:0	Gęhdaa drin John ąįį Jesus yats'ą' ahaa niił'in ts'ą' jyaa nyąą , “ Jii t'ee Vit'eegwijyąhchy'aa Vidivii Gii tsal t'inchy'aa . Jii nankat gwatr'agwaanduu oo'an gwihilii t'inchy'aa !
+43:1:030:0	Jii dinjii eegiihkhii t'ihnyąą , nijin jii nakhwaagwaldak dąį' , ‘Dinjii shatąįį k'eeheedik gaa shandaa hil'ee , shigweheelyaa gwats'ą' dąį' gwats'an gwandaii geh'an . ’
+43:1:031:0	Shįį gaa juu t'inchy'aa vaashandaii kwaa , gaa Israel gwich'in nąįį yaaheendaii eenjit vats'an chųų dhałtsąįį . ”
+43:1:032:0	Jii t'ee John jyaa diinyą' : “ Dove chiitsal daagąįį zheekat gwats'an yakat needaanąįį gwik'it Ch'anky'aa Shroodiinyąą yakat needaanąįį ts'ą' yaa nilii .
+43:1:033:0	Tth'aii nihk'it vaashandaii kwaa , gaa Vit'eegwijyąhchy'aa chųų gwats'an hałtsyaa eenjit shihił'e' ąįį jyaa shaiinyą' , ‘Ch'anky'aa Shroodiinyąą dinjii kat needahąądhal ; ąįįts'ą' ąįį dinjii t'ee Ch'anky'aa Shroodiinyąą haa chųų gwats'an hahtsyaa . ’
+43:1:004:1	Jesus Tr'ookit Vitsyaa Nąįį .
+43:1:034:0	Jii gwał'ya' t'ihnyąą , ” John gavahnyąą , “ Jii dinjii łi'haa Vit'eegwijyąhchy'aa Vidinji' t'inchy'aa . ”
+43:1:035:0	Gęhdaa drin chan hee zhat John , ditsyaa neekwaii haa zhat nigiilzhii ,
+43:1:036:0	Nijin Jesus gehgoo ahaa nah'in dąį' , “ Jii t'ee Vit'eegwijyąhchy'aa Vidivii Giitsal t'inchy'aa ! ” John goovahnyąą .
+43:1:037:0	Ąįį vitsyaa neekwaii jyaa nyąą giiyiitth'ak ts'ą' Jesus haa gahaa'oo .
+43:1:038:0	Jesus neediil'ee ts'ą' giitąįį adaa gwąąh'in ts'ą' gavaahkat , “ Jidii keegǫh'in t'akhwa'in ? ” “ Geech'ǫąąhtan , nijin gwinch'įį ? ” giiyahnyąą .
+43:1:039:0	“ Aanaii , gahǫǫh'yaa , ” gavahnyąą . Ąįįts'ą' t'ee giiyaahaa'oo ts'ą' nijin gwich'įį googwąąh'ya' ts'ą' giiyaaniihaa ( khaa gwilii geh'an ) .
+43:1:040:0	Andrew , John deiinyą' gwiitth'ak ąįįtł'ęę Jesus haa haazhii . ( Simon Peter voondee nilii . )
+43:1:041:0	Andrew łyaa khan doondee Simon kantii ts'ą' yagwąh'ąįį Googwahkhan jyaa yahnyąą , “ Messiah vagwarąh'ąįį ! ” ( Greek ginjik t'ee Christ t'agahnyąą . )
+43:1:042:0	Ąįįts'ą' t'ee Simon ąįį Jesus ts'ą' hiłchįį . Jesus yąąh'in ts'ą' jyaa yahnyąą , “ Simon , nan John vidinji' , noozhri' Cephas oohaazhyaa . ” ( Peter gwinyąą t'igwinyąą , “ kii ” chan ginyąą t'igwinyąą ) .
+43:1:043:0	Gęhdaa drin Jesus Galilee nahkat gwats'ą' heekhaa nigwiin'ąįį . Philip agwąh'ąįį ts'ą' jyaa yahnyąą , “ Shaa hinkhaii ! ”
+43:1:044:0	Philip t'ee Bethsaida kwaiik'it gwats'an ahaa , nijin Andrew chan ts'ą' Peter haa gwigwich'įį .
+43:1:045:0	Philip ąįį Nathaniel agwąh'ąįį ts'ą' jyaa yahnyąą , “ Moses va-law dęhtły'aa kat yeeginkhe' akwat Vit'eegwijyąhchy'aa Eenjit Ginkhii nąįį dęhtły'aa kat jyąhts'ą' gwadagaantł'oo . Jesus t'inchy'aa , Nazareth gwats'an Joseph ąįį vigii nilii . ”
+43:1:046:0	“ Nazareth nijin ji' gweheezyaa li' ? ” Nathaniel nyąą “ Aanaii ts'ą' gwąąh'in , ” Philip yahnyąą .
+43:1:047:0	Nijin Jesus ąįį Nathaniel yats'ą' ahaa gwąąh'in dąį' , jyaa yahnyąą , “ Jii t'ee łyaa Israel gwich'in nilii , dinjii łi'didlii nilii ! ”
+43:1:048:0	Nathaniel yuahkat , “ Nats'ąą shaanandaii ? ” Jesus jyaa yahnyąą , “ Philip nagwahah'aa gwats'ą' dąį' ts'iivii vakat Figs nahshii t'eh dhindii naał'ya' ! ”
+43:1:049:0	“ Geech'ǫąąhtan , Vit'eegwijyąhchy'aa Vidinji' t'iinchy'aa łee Israel gwi-King t'iinchy'aa łee ! ” Nathaniel yahnyąą .
+43:1:050:0	Jesus jyaa yahnyąą , “ Ts'iivii vakat Figs nahshii t'eh dhindii naał'ya' naiinyą' geh'an gwizhrįh gwik'iinjinghit ? Jii kwaii andaa ts'ą' gwihil'ee t'igwii'in gwahąąh'yaa t'oonchy'aa ! ”
+43:1:051:0	Ąįįts'ą' jyaa gavahnyąą , “ Jii t'ee łi'didlii haa nakhwaa gwahaldak : zheekat nihky'aa t'igweheenjyaa gahǫǫh'yaa ts'ą' Vit'eegwijyąhchy'aa zheekat gwich'in nąįį k'iidak , k'iidąą haa Gwidinji' ts'ą' nigiheedaa ! ”

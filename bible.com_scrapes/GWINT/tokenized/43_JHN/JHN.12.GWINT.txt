@@ -1,0 +1,56 @@
+43:12:001:1	Mary , Jesus , Gwanzhįh Gwinzii Vagwaatsan Chų' Yakat T'inlik
+43:12:001:0	Passover gwats'ą' drin nihk'iitik gwiizhit Jesus , Bethany kwaiik'it gwats'ą' haazhii , izhit Jesus Lazarus niindhat dąį' ineegwahdaii ąįį zhat gwich'įį .
+43:12:002:0	Izhit giiyeenjit vikeech'iłchy'aa , ts'ą' Martha yeenach'aahtsit , izhit zhat Lazarus vakat ch'ara'aa ts'ą' yaa dhidii .
+43:12:003:0	Ąįįts'ą' Mary ąįį gwanzhįh gwinzii vagwaatsan chų' oonjik ts'ą' Jesus vakwai' kat t'inlik ąįįtł'ęę dikiighai' haa yach'ahjii ąįį yihił'ee geh'an t'iiyah'in . Ąįį vichų' zheh gwizhit datthak neech'iinthaii .
+43:12:004:0	Jesus vitsyaa ch'ihłak , Judas Iscariot oaazhii ąįįt'ee gwintł'eeyahahchyaa ąįį jyaa nyąą ,
+43:12:005:0	“ Jaghaii jii gwanzhįh chų' $300 . Denarius vit'ii hohłii kwaa ts'ą' neeshraahchy'aa nąįį antł'ohłii kwaa ? ”
+43:12:006:0	Neeshraahchy'aa nąįį eenjit niinjich'adhat kwaa gaa ch'an'įį nilii t'inyąą . Laraa dhah neeha'ak ts'ą' yats'an ch'an'įį t'inyąą .
+43:12:007:0	Gaa Jesus jyaa nyąą , “ Mary vihłeehiindii ! Shireheetsii drin ji' eenjit yit'eehaahchy'aa t'iiyah'in vaanigwiin'ąįį kwaa !
+43:12:002:1	Lazarus Tr'ookhwaa Giindhan
+43:12:008:0	Gweedhaa datthak neeshraahchy'aa nąįį gweheelyaa , gaa shįį ąįį khit geenjit nakhwaa hihdyaa kwaa . ”
+43:12:009:0	Jews lęįį nąįį Jesus Bethany dhidii gwinyąą gwigwiitth'ak ts'ą' zhat gwats'ą' gahaajil . Jesus eenjit gwizhrįh kwaa gaa Lazarus chan , ąįįt'ee Jesus yineegwahdaii reh .
+43:12:010:0	Ąįįts'ą' giinkhih kįh dilk'ii nąįį Lazarus chan gahaahkhwaa eenjit gwigwiłtsąįį .
+43:12:003:1	Jesus , Jerusalem Nihdeehahkhaii
+43:12:011:0	Deezhik veh'an Jews kįh dilk'ii nąįį akhagoonyąą ts'ą' dinjii lęįį nąįį teehaajil geh'an Jesus k'injigiighit .
+43:12:012:0	Ąįįtł'ęę gęhdaa drin dinjii lęįį nąįį Jesus Jerusalem gwats'ą' ahaa gwinyąą gwigwiitth'ak eenjit zhat Passover giilk'ii .
+43:12:013:0	Ąįįts'ą' t'ee ts'iivii Palm ąįį vachan kwaii goonjik ts'ą' giidivee haajil , gazhral ts'ą' jyaa ginyąą “ Hosanna ! Juu K'eegwaadhat voozhri' zhit ahaa ąįį Vit'eegwijyąhchy'aa vaa oolį' ! Israel gwi-King Vit'eegwijyąhchy'aa vaa oolį' ! ”
+43:12:014:0	Jesus łąįį choh tsal ( Donkey ) agwąh'ąįį kat daandii , Dęhtły'aa Choh zhit jyaa deegwiinyą' gwik'it :
+43:12:015:0	“ Zion kwaiik'it gwachoo gwich'in nąįį , noojat shrǫ' ! Et'ee nakhwa-King nakhwats'ą' ahaa , łąįį choh tsal ( Donkey ) kat doodii . ”
+43:12:016:0	Vitsyaa nąįį deegwinyąą t'igwinyąą gaagiindaii kwaa . Gaa nijin Jesus neegwiindaii dąį' Vit'eegwijyąhchy'aa vich'eegwąhndit yintł'eiin'ąįį Dęhtły'aa Choh kat jyaa deegwinyąą , ąįįts'ą' giiyeenjit jyaa diizhik gineegaanjik .
+43:12:017:0	Lazarus tth'ank'it gwizhit gwats'an Jesus yineegwahdaii dąį' juu andah t'iizhik nąįį deezhik geegoogwaandak .
+43:12:018:0	Ąįį geenjit t'ee giits'ą' haajil gwitr'it geegwaroolii kwaa t'iizhik giiyeegwiitth'ak .
+43:12:004:1	Greek Gwich'in Nąįį Jesus Tr'ǫǫh'ya' Giiyuunyąą
+43:12:019:0	Ąįįts'ą' t'ee Pharisee nąįį jyaa nihłagaanyąą , “ Gooh'in , łyaa gaayiich'arahtsii kwaa ! Gooh'in , jii nahkat datthak giitąįį hijyaa ! ”
+43:12:020:0	Juu Jerusalem gwizhit Passover gwats'ą' haajil ts'ą' khadigigeheejyaa eenjit nąįį tee gwa'an Greek nąįį dilk'ii .
+43:12:021:0	Philip ts'ą' ( Bethsaida kwaiik'it Galilee nahkat gwats'an ahaa ) nigiinjil ts'ą' jyaa giiyahnyąą , “ Jesus tr'ǫǫh'ya' tr'oonyaa . ”
+43:12:022:0	Philip ąįį Andrew ts'ą' haazhii , ts'ą' nihłaa Jesus ts'ą' gahaa'oo ts'ą' Jesus haa googwaandak .
+43:12:023:0	Jesus jyaa goovahnyąą , “ Et'ee juk Gwidinji' vich'eegwąhndit vintł'eerehee'aa .
+43:12:024:0	Łi'didlii haa nakhwaagwahaldak ! Tł'ooli' tsal naadhak ts'ą' nan zhyaadhak ąįįtł'ęę an ilik gwik'it neet'eehaldhak ts'ą' nihihthaa , an dhidlit ji' , tł'ooli' lęįį vats'an haahshii .
+43:12:025:0	Juu dagwandaii zhrįh hił'ee ji' , an heelyaa . Juu dagwandaii hił'ee kwaa ji' khit geenjit gwandaii hee'yaa .
+43:12:005:1	Jesus Tr'ahaahkhwaa Geeginkhii
+43:12:026:0	Juu sheenjit gwitr'it t'agoh'ya' niindhan ji' shatąįį heekhaa gwizhrįh , shitsyaa heelyaa ts'ą' nijin dhidii shaa heedyaa eenjit . Shiti' , juu shaa t'inchy'aa hił'ee t'inchy'aa . ”
+43:12:027:0	“ Et'ee łyaa shidrii zhit tr'igwidii dha'aii gaa reh deehihjyaa gǫ' ? ‘Shiti' , jii kwaii shats'ą' t'agǫǫ'ya' shrǫ' ! ’ Gaa ąįį geenjit dząą gwats'ą' hoiizhii , khaiinjich'ashahadhat gwahaał'yaa eenjit .
+43:12:028:0	Shiti' , Noozhri' hil'ee ąhtsii ! ” Ąįįtł'ęę zheekat gwats'an khagiriinkhee , “ Hil'ee dhałtsąįį ts'ą' chan jyaa dineehihłyaa . ”
+43:12:029:0	Ąįį zhat dilk'ii nąįį zheekat gwats'an girinkhii gwigwiitth'ak ts'ą' jyaa ginyąą , “ Nagoahtan lee t'igwinyąą ? Ch'izhii nąįį chan zheekat gwich'in yats'ą' ginkhii t'inyąą ! ”
+43:12:030:0	Gaa Jesus jyaa gavahnyąą , “ Jii girinkhii goohtth'ak sheenjit t'igwinyąą kwaa gaa nakhwan ąįį nakhweenjit t'igwinyąą .
+43:12:031:0	Et'ee juk jii nankat Ch'aroohahkat Drin nigwiindhat Ch'anky'aa Tr'aanduu kįh dhidii ąįį charahahchyaa gwik'it t'ishi'in shi'in . It'ee neerahoojyaa .
+43:12:032:0	Nijin nankat gwats'an deeshiriłchįį ts'ą' sharoołkhwąįį ji' juu nąįį tthak shats'ą' giheedaa . ”
+43:12:033:0	( Nats'ąą khaiinjich'iheedhaa ts'ą' niheedhaa ąįį geegwaandak t'inyąą . )
+43:12:034:0	Zhat dilk'ii nąįį jyaa ginyąą : “ Dęhtły'aa Choh zhit Christ khit geenjit gweheendaii gwinyąą . Nats'ąą Gwidinji' ndak deerahahchyaa deenyąą t'iinyąą ? Gwidinji' ąįį juu t'arahnyąą ? ”
+43:12:035:0	Jesus jyaa gavahnyąą “ Tth'aii gwintsal gwizhrįh nakhwaa ch'ahałdrii t'oonchy'aa . Tǫǫ gweheelyaa gwehkįį deekhwa'yaa goo'aii gwik'it t'akhwa'in . Nakhwaa tǫǫ nagwahaadhal gwits'į' . Juu tǫǫ gwizhit dinjii nilii t'ee nijuk ahaa gaaheendaii kwaa geh'an
+43:12:006:1	Jews Nąįį Gwik'injigiighit Kwaa
+43:12:036:0	Tth'aii drin gwanlii dąį' vat'oohchy'aa . Khit naa ch'ahaadrii eenjit . ” Jesus jyaa diinyą' ąįįtł'ęę t'oołii neehoozhii ts'ą' goh'it idiildii .
+43:12:037:0	Gwitr'it geegwaroolii kwaa lęįį gavandah t'iizhik googaa giik'iinjiighit kwaa .
+43:12:038:0	Isaiah , Vit'eegwijyąhchy'aa Eenjit Ginkhii nilii ąįį jii kwaii łi'didlii heelyaa nyąą : “ K'eegwaadhat , juu yik'injiheeghit ? Juu yat'aii nah'ya' ? ”
+43:12:039:0	Khyų' giik'iinjiighit geh'an Isaiah jii jyaa diinyą' :
+43:12:040:0	“ Vit'eegwijyąhchy'aa goovaagweech'in kwaa gwiłtsąįį , niinjich'agadhat kwaa gooviłtsąįį , goovaagweheechy'aa kwaa eenjit , googwandaii ninjich'iheedhat kwaa , Duuyeh goots'ą' tr'ihihdal eenjit shats'ą' gihijyaa . ”
+43:12:041:0	Isaiah , Jesus vich'eegwąhndit gwąąh'ya' geh'an jyąhts'ą' yeeginkhii t'inyąą .
+43:12:042:0	Zhit dąį' Israel kįh dilk'ii lęįį nąįį giik'iinjiindhat gaadlit gaa Pharisee nąįį anagogwaah'įį , Israel nąįį tr'igiinkhii zheh chagoorahahchyaa , kwaa gwits'į' .
+43:12:043:0	Dinjii deenyąą ąįį gwik'it geedaa ts'ą' Vit'eegwijyąhchy'aa deenyąą ąįį gwik'it geedaa kwaa .
+43:12:044:0	Jesus gwint'aii khaginkhee ts'ą' jyaa nyąą , “ Juu shik'injiighit t'ee shįį zhrįh shik'injiighit kwaa gaa juu shihił'e' chan k'injiighit t'oonchy'aa .
+43:12:045:0	Juu shąąh'in t'ee juu shihił'e' chan nah'in t'oonchy'aa .
+43:12:046:0	Jii nankat gava aadrii ihłii ts'ą' gwats'ą' hoiizhii , ąįįts'ą' juu shik'injiighit ji' duuyeh tǫǫ dhidii .
+43:12:047:0	Juu shiginjik diitth'ak gaa gwik'eegwahthat kwaa ji' , duuyeh an ałtsii eenjit gwantł'ałchįį . Dinjii an hałtsyaa eenjit nankat gwats'ą' hoiizhii kwaa , gaa dinjii neehałshii eenjit gwizhrįh .
+43:12:048:0	Juu shaa t'inchy'aa kwaa ts'ą' shiginjik diitth'ak kwaa ąįįt'ee an yahahtsyaa veenjit dhidii . Khaiinkǫǫ Drin ndaanąą'ąį' ji' deihnyą' t'ee an yahahtsyaa !
+43:12:049:0	Aahą' , jii deihnyą' ąįį shįį zhrįh shats'an t'igwinyąą kwaa gaa Gwiti' shihił'e' ąįį deiinyąą shahnyąą gwik'it giihkhii t'ihnyąą .
+43:12:050:0	Viginjik k'iighai' t'ee khit gwireheendaii . Deihnyą' datthak t'ee Gwiti' deiinyąą shahnyąą gwik'it giihkhii t'ihnyąą . ”
